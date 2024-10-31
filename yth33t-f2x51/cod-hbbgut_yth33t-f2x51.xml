@@ -57,12 +57,12 @@
     </front>
     <body>
       <div xml:id="yth33t-f2x51">
-        <head>Prooemium</head>
-        <p>
+        <head xml:id="yth33t-f2x51-Hd1e108">Prooemium</head>
+        <p xml:id="yth33t-f2x51-d1e110">
           <pb ed="#K" n="1-r"/>
           <lb ed="#K"/>PROOEMIVM
         </p>
-        <p>
+        <p xml:id="yth33t-f2x51-d1e117">
           <lb ed="#K"/>Communis equidem methodus est in scholis ordiri Theologia a primo om<lb ed="#K" break="no"/>nium 
           rerum exordio Deo scilicet
         </p>
