@@ -72,7 +72,7 @@
           rupta ac invia montis progrediantur, sed eam parte eligant, quae
           declivior ac gressibus facilior aditum ad summa faciat.
         </p>
-        <p>
+        <p xml:id="yth33t-f2x51-d1e117">
           <lb ed="#K"/>Idem nobis quoque tentare placuit, atque arduum ac celsissimum Theo<lb ed="#K" break="no"/>logia
           logia olympum, a declivoiori ac faciliori parte aggredi visum est.
           Annuus itaque nobis labor erit, pia ac speculativa Incarnati
@@ -96,7 +96,7 @@
           et adorationi nostrae Verbum Incarnatum. Porro antequam ad rem
           descendamus, liceat brevissime attingere Prologomena Theologiae.
         </p>
-        <p>
+        <p xml:id="yth33t-f2x51-d1e117">
           <lb ed="#K"/>1mo.<UNDERLINE>Theologia significat considerationem praecipue discussiovam de
           Deo: Fitque vel ex solis principiis, sive evidenter sive probabiliter no<lb ed="#K" break="no"/>tis,
           sicque Methaphysica potest dici Theologia pure naturalis: vel
@@ -104,6 +104,7 @@
           revelata, altera naturaliter nota. Utraque posterior considera<lb ed="#K" break="no"/>tio
           est proprie Theologia.
        </p>
+       <p xml:id="yth33t-f2x51-d1e117">
           <lb ed="#K"/>2do.<UNDERLINE> Theologiae obiectum adaequatum attributionis est solus Deus.
           Quia sulus Deus ita consideratur in Theologia ut ad illius melio<lb ed="#K"/>rem
           cognitionem habendam referantur omnia quae inibi tractantur. 
@@ -120,7 +121,7 @@
           viatorum quae deducit veritates ex principiis obscure revelatis 
           a Deo, eundem Deum pro obiecto attributionis habere debet.
        </p>
-       <p>
+       <p xml:id="yth33t-f2x51-d1e117">
           <lb ed="#K"/>3tio<UNDERLINE>. Theologia ex natura sua in rigore non est scientia. Quia ne
           habet evidentiam requisitam ad scientiam, Conclusio enim Theologica infertur saltem
           ex una praemissa obscura, quia obscure revelata, idque per se ne per accidens, cui enim
@@ -131,16 +132,59 @@
           deducta ex praemissis certis et infallibilibus, est scientia vere, atqui hoc com<lb ed="#K"/>petit
           Theologiae. Ergo etc.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x51-d1e117">
           <lb ed="#K"/>4to<UNDERLINE>.Theologia stricte sumpta est virtus intellectualis. Si enim habitui<pb ed="#K" n="???" type="page"/>
           fidei infusae ne obest quominus sit strictissime virtus intellectus obscu<pb ed="#K" n="1" type="page"/>ritas 
           actuum fidei: etiam Theologiae ne oberit eadem obscuritas aliquorum
           suorum actuum, pro praemissis positorum.
       </p>
-      <p>
-          <lb ed="#K"/>5to<UNDERLINE>. Theologia est vere sapientia licet ne in rigore Aristotelico. 
-            
-          
+      <p xml:id="yth33t-f2x51-d1e117">
+          <lb ed="#K"/>5to<UNDERLINE>. Theologia est vere sapientia licet ne in rigore Aristotelico.
+          Ratio 1mi<UNDERLINE>. ex requisitis sapientiae: 1mo<UNDERLINE> enim versatur circa omnia, nec ulla
+          scientiarum tam late fusa est per tot tamque diversas materias. 2do<UNDERLINE> versatur
+          circa res difficillimas et a sensibus remotas circa Deum, Angelos, superna<lb ed="#K"/>turalitatem
+          etc. 3tio<UNDERLINE> est certissima, procedit enim per principia universalissima 
+          et verssima, quorum unum est summa veritas Dei revelantis, alterum ali<lb ed="#K"/>qua
+          veritas metaphysica. 4to<UNDERLINE> omnibus aliis scientiis longe antecellit,
+          tum dignitate obiecti, tum dignitate principiorum, tum certitudine plurium
+          conclusionum praecipue deductarum ex praemissa utraque revelata. Ratio<UNDERLINE>
+          2di<UNDERLINE> est carentia evidentiae.
+        </p>
+        <p xml:id="yth33t-f2x51-d1e117">
+          <lb ed="#K"/>6to<UNDERLINE>. Theologia intrinsece quo ad suos actus est partim practica, par<lb ed="#K"/>tim
+          speculativa. Ratio 1mi<UNDERLINE>: quia multae sunt in Theologia conclusiones
+          intrinsece practicae, ut sunt de actibus humanis, virtutibus, sacramentis, etc.
+          nam hae conclusiones repraesentant rem operabilem a cognoscente, et quidem
+          modo operabili, ut patebit reflectenti se. Ratio 2di<UNDERLINE>: quia plurimae con<lb ed="#K"/>clusiones
+          in Theologia sunt intrinsece speculativae, ut de Deo, Christo, Angelis, etc.
+        </p>
+        <p xml:id="yth33t-f2x51-d1e117">
+          <lb ed="#K"/>Dices<UNDERLINE>. Etiam illae sunt intrinsece practicae, quia ex illis potest sequi amor
+          repraesentata ab eadem cognitione simul cum modo quo fieri debet.
+          De necessitate non disputo, patet enim quam necessaria sit Theologia in Eccle<lb ed="#K"/>sia
+          Dei, ad explicanda mysteria Dei, ad propugnandam et propagandam fidem Divi<lb ed="#K"/>nam,
+          ad extirpandas haereses, ad soluenda maxima in fide Enigmata, ad administran<lb ed="#K"/>da
+          rite sacramenta etc. His itaque brevissime praemissis, optima se quetur conclu<lb ed="#K"/>sio
+          si totum opus Theologicum dedicaverimus Aeterno totius universitatis Autho<lb ed="#K"/>ri,
+          Rectori, Iudici, Deo Trino et Uni, Potenti, Sapienti, Bonoque, Iustitiae et Provi<lb ed="#K"/>dentiae
+          a Abysso, mistericordiae Parenti Ter optimo Maximo, qui caelum gloria, mare
+          potentia, terram sapientia, omnia bonitate imo se ipso implet, ad quem enim alium
+          potiori titulo actus Theologia referri debent, nisi ad Deum suum attributio<lb ed="#K"/>nis 
+          obiectum, ad quod via naturali quaecunque humanis distillantur ingeniis,
+          omnia iure haereditario tanquam media ad suum finem velut motio ad suum
+          colimant terminum. Et certi si e Pelago cuncta flumina oeculis qui<lb ed="#K"/>busdam
+          meatibus orta, iterum in Pelagum unde suum duxerunt pricipium
+          revertuntur, ut iterum fluant; merito sane donorum ac gratiarum atque scien<lb ed="#K"/>tiarum<pb ed="#K" n="???" type="page"/>
+          flumina ad Deum fontem suum vivum refluere atque referri omni tempore
+          debent, ut amplius irriguis Divinae gratiae scaturiant fontibus, et abundantis
+          in alueum totius Ecclesiae refluant. Credimus Ter optime Deus solemne Tibi 
+          esse, triumphali quatuor Animalium vehi quadriga, ut diserte sacratesta<lb ed="#K"/>tur
+          pagina: En igitur quadrigam hanc, quatuor scilicet annorum laborem
+          Theologicum Tuae Divinae Gloriae conservandae, augendae, promovendae, Te ipso Au<lb ed="#K"/>thore
+          impendendum. Tua de Tuis Tibi offerimus. Plura vero de Te in Te, imo
+          haec omnia quae cogitabimus, scribemus, dicemus, disputabimus, ad Visionem Tui
+          Beatam, ut ad lidium lapidem nobis explorare permittes, tum demum Theolo<lb ed="#K"/>gis 
+          feliciter consumatis, dum in Lumine Increato videbimus lumen.
         </p>
       </div>
     </body>
