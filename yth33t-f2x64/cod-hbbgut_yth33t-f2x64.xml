@@ -52,15 +52,43 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        <pb ed="#K" n="???-r"/>
+        <pb ed="#K" n="2-v"/>
       </div>
     </front>
     <body>
       <div xml:id="yth33t-f2x64">
-      <head>Sectio 1</head>
+      <head>Sectio 1: An naturali ratione possit cognosci possibilitas Incarnationis?</head> 
       <p>
-        <lb ed="#K"/>
-        
+        <lb ed="#K"/>Praenoto. Incarnatio nihil aliud signifcat quam Unionem physicam Verbi Aesterni cum
+        <lb ed="#K"/>natura humana, ita ut ex hac illo una fiat persona quatenus nimirum natu<lb ed="#K" break="no"/>ra
+        utraque tam Divina quam humana subsistit unica et sola personalitate Verbi
+        <lb ed="#K"/>Divini: quod mysterium quamvis a quibusdam vocetur Humanatio, a quibusdam
+        <lb ed="#K"/>Incorporatio communis tamen a sanctis Patribus et Theologis dicitur Incarnatio,
+        <lb ed="#K"/>tum ut sic explicatur clarius incomprehensibilis Dei miserentis dignatio,
+        <lb ed="#K"/>qui tam vilem et corruptioni obnoxiam partem, tam arete sibi sociare voluit tum
+        <lb ed="#K"/>ut profiteantur apertius contra Manicheos Christum ne phantasticum, sed verum
+        <lb ed="#K"/>et simile corpus carni nostrae assumpsisse. Caeterum haec vox Incarnatio secun<lb ed="#K" break="no"/>dum
+        adaequatam significationem suam, plus significat quam sonat: dicit enim unio<lb ed="#K" break="no"/>nem
+        ne cum sola carne humana, sed cum tota humanitate, quae propter corpus, impor<lb ed="#K" break="no"/>tat
+        etiam animam illi unitam, hic enim modus loquendi frequens est in scriptura
+        <lb ed="#K"/>ut ponatur pars prima toto, ut cum <note type="marginal-note" place="margin-left" hand="???">Gene 6.</note><ref><title>Geneseos 6</title></ref>dicitur: <quote source=???>omnis caro corruperat viam
+        <lb ed="#K"/>suam</quote>. Et <note type="marginal-note" place="margin-left" hand="???">Lucae 3</note><ref><title>Lucae 3</title></ref>. <quote source=???>Videbit omnis caro salutare Dei, hoc est ombis homo</quote>.
+        <lb ed="#K"/>Controvertitur itaque hic a Theologis an et quomodo ab aliquo intellectu crea<lb ed="#K" break="no"/>to<pb ed="#K" n="3"/>
+        vi luminis naturalis cognosci possit vel potuerit possibilem esse talem unionem
+        <lb ed="#K"/>inter Deum et hominem, qualem de facto credimus intercesisse.
+      </p>
+      <p>
+        <lb ed="#K"/>Dicendum<hi rend="underline">1mo</hi>. Seclusa omni revelatione Divina nullus intellectus
+        <lb ed="#K"/>sive humanus, sive Angelicus potuit evidenter vel etiam probabiliter cognoscere
+        <lb ed="#K"/>Incarnatnoem Dei esse possibilem antequam fieret. Ita communiter Theologi.
+      <p>
+        <lb ed="#K"/>Probatur <hi rend="underline">1mo</hi> ex sacra scriptura et Patribus <ref><title>ad Ephesios 3</title></ref> dicit Apostolus<note type="marginal-note" place="margin-right" hand="???">Ephes. 3. v. 8.</note>
+        <lb ed="#K"/>mysterium hoc in investigabilies esse divinitas Christi, et sacramentum absconditum a secu<lb ed="#K" break="no"/>lo.
+        Concilium Ephesinum Canone 13. vocat Unionem ineffabilem et indeprehensibilem.<note type="marginal-note" place="margin-right" hand="???">Concilium Ephe.</note><ref><name>Sanctus
+        </name></ref>Ambrosius</name></ref> <ref><title>in caput 2dum ad Corinthios<-- !this is actually Ambrosiaster --></ref></title>: <quote source="???">ne humana ratione possibile, sed spiritus effica<lb ed="#K" break="no"/>cia
+        credible asserit hoc arcanum</quote>. Idem sentiunt aliis Patres sancti passim.
+      </p>
+        <lb ed="#K"/>Probatur <hi rend="underline">2do</hi> ratione:
       </p>
       </div>
     </body>
