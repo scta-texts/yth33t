@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 1</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 1</title>
+          <date when="2024-11-07">November 7, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-11-07" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="2-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="yth33t-f2x64">
+      <head>Sectio 1</head> 
+      <head type="question-title">An naturali ratione posset cognosci possibilitas Incarnationis?</head> 
+      <p>
+        <lb ed="#K" n="11"/>DISPUTATIO 1
+        <lb ed="#K" n="12"/>De Cognoscibilitate Existentia et 
+        <lb ed="#K" n="13"/>Convententia Incarnationis
+        <lb ed="#K" n="14"/>Sectio 1 
+        <lb ed="#K" n="15"/>An naturali ratione posset cognosci possibilitas Incarnationis?
+      </p>
+      <p>
+        <lb ed="#K" n="16"/>Praenoto. Incarnatio nihil aliud signifcat quam Unionem physicam Verbi Aesterni cum
+        <lb ed="#K" n="17"/>natura humana, ita ut ex hac illo una fiat persona quatenus nimirum natu<lb ed="#K" break="no" n="18"/>ra
+        utraque tam Divina quam humana subsistit unica et sola personalitate Verbi
+        <lb ed="#K" n="19"/>Divini: quod mysterium quamvis a quibusdam vocetur Humanatio, a quibusdam
+        <lb ed="#K" n="20"/>Incorporatio communis tamen a sanctis Patribus et Theologis dicitur Incarnatio,
+        <lb ed="#K" n="21"/>tum ut sic explicatur clarius incomprehensibilis Dei miserentis dignatio,
+        <lb ed="#K" n="22"/>qui tam vilem et corruptioni obnoxiam partem, tam arete sibi sociare voluit tum
+        <lb ed="#K" n="23"/>ut profiteantur apertius contra Manicheos Christum ne phantasticum, sed verum
+        <lb ed="#K" n="24"/>et simile corpus carni nostrae assumpsisse. Caeterum haec vox Incarnatio secun<lb ed="#K" break="no" n="25"/>dum
+        adaequatam significationem suam, plus significat quam sonat: dicit enim unio<lb ed="#K" break="no" n="26"/>nem
+        ne cum sola carne humana, sed cum tota humanitate, quae propter corpus, impor<lb ed="#K" break="no" n="27"/>tat
+        etiam animam illi unitam, hic enim modus loquendi frequens est in scriptura
+        <lb ed="#K" n="28"/>ut ponatur pars prima toto, ut cum 
+        <note type="marginal-note" place="margin-left" hand="???">Gene 6.</note>
+        <ref><title>Geneseos 6</title></ref>dicitur: <quote source="???">omnis caro corruperat viam
+        <lb ed="#K" n="29"/>suam</quote>. Et 
+        <note type="marginal-note" place="margin-left" hand="???">Lucae 3</note>
+        <ref><title>Lucae 3</title></ref>. <quote source="???">Videbit omnis caro salutare Dei, hoc est ombis homo</quote>.
+        <lb ed="#K" n="30"/>Controvertitur itaque hic a Theologis an et quomodo ab aliquo intellectu crea<pb ed="#K" n="3"/><lb ed="#K" break="no" n="1"/>to
+        vi luminis naturalis cognosci possit vel potuerit possibilem esse talem unionem
+        <lb ed="#K" n="2"/>inter Deum et hominem, qualem de facto credimus intercesisse.
+      </p>
+      <p>
+        <lb ed="#K" n="3"/>Dicendum<hi rend="underline">1mo</hi>. Seclusa omni revelatione Divina nullus intellectus
+        <lb ed="#K" n="4"/>sive humanus, sive Angelicus potuit evidenter vel etiam probabiliter cognoscere
+        <lb ed="#K" n="5"/>Incarnationem Dei esse possibilem antequam fieret. Ita communiter Theologi.
+      </p>
+      <p>
+        <lb ed="#K" n="6"/>Probatur <hi rend="underline">1mo</hi> ex sacra scriptura et Patribus <ref><title>ad Ephesios 3</title></ref> dicit Apostolus 
+        <note type="marginal-note" place="margin-right" hand="???">Ephes. 3. v. 8.</note>
+        <lb ed="#K" n="7"/>mysterium hoc in investigabilies esse divinitas Christi, et sacramentum absconditum a secu<lb ed="#K" break="no" n="8"/>lo.
+        <ref>Concilium Ephesinum Canone 13</ref>. vocat Unionem ineffabilem et indeprehensibilem.
+        <note type="marginal-note" place="margin-right" hand="???">Concilium Ephe.</note><ref> 
+        <name>Sanctus Ambrosius</name></ref> <ref><title>in caput 2dum ad Corinthios <!-- this is actually Ambrosiaster's Commentarius in Epistulam ad Corinthios secundam --></title></ref>: <quote source="???">ne humana ratione possibile, sed spiritus effica<lb ed="#K" break="no" n="9"/>cia
+        credible asserit hoc arcanum</quote>. Idem sentiunt aliis Patres sancti passim.
+      </p>
+      <p>
+        <lb ed="#K" n="10"/>Probatur <hi rend="underline">2do</hi> ratione: Quia circa possibilitatem huius mysterii concipiendam per
+        <lb ed="#K" n="11"/>actum affirmativum determinati judicii, in contrarium occurrunt tantae difficultates
+        <lb ed="#K" n="12"/>naturales, quae suadent potius impossibilem esse Incarnationem, quam possibilem <unclear>pserim</unclear>
+        <lb ed="#K" n="13"/>intellectui prudenti et pravae voluntatis imperio ne vitiato. Porro difficultates
+        <lb ed="#K" n="14"/>creato intellectui nulla revelatione instructo insuperabiles sunt istae: <hi rend="underline">1ma</hi> quia
+        <lb ed="#K" n="15"/>omnia quae cognoscuntur unibilia physice in rerum natura, videntur ex unione
+        <lb ed="#K" n="16"/>mutuo perfici et intrinsece mutari: adeoque et Deus per Incarnationem mutari et per<lb ed="#K" break="no" n="17"/>fici
+        deberet intrinsece. <hi rend="underline">2da.</hi> quia inter unibilia debet esse aliqua proportio, iam
+        <lb ed="#K" n="18"/>vero finiti ad Infinitum nulla est. <hi rend="underline">3tia:</hi> quia quae physice uniuntur sunt entia incom<lb ed="#K" break="no" n="19"/>pleta,
+        iam vero Deus in omni genere perfectionis essentialiter esst completissimus
+        <lb ed="#K" n="20"/>se ipso. <hi rend="underline">4ta</hi> Quamvis Angelus adverteret subsistentiam Divinam esse Infinitam
+        <lb ed="#K" n="21"/>ne tamen haberet sufficiens fundamentum inferendi eam extendi posse ad termina<lb ed="#K" break="no" n="22"/>ndam
+        physice naturam etiam creatam, videret enim infinitam illius vim terminandi, ex<lb ed="#K" break="no" n="23"/>pleri
+        terminatione naturae Divinae Infinitae. Haec et similia absteruisset 
+        <lb ed="#K" n="24"/>quemcunque intellectum creatum a ferendo iudicio definitivo etiam probabili pro
+        <lb ed="#K" n="25"/>possibilitate Incarnationis. Concedo quidem Angelum aliquem de Incarnationis
+        <lb ed="#K" n="26"/>possibilitate dubitare, atque ut ait <ref><name>Lugo</name></ref> suspicari potuisse, nego tamen potuisse ferre
+        <lb ed="#K" n="27"/>iudicium definitivum etiam probabile pro illa: haec enim diversa sunt; nimirum dubita<lb ed="#K" break="no" n="28"/>mus<note type="marginal-note" place="margin-right" hand="???">aliud Dubitare</note>
+        <lb ed="#K" n="29"/>tunc quando neutri contradictionis parti adhaeremus, sed suspendimus assen<lb ed="#K" break="no" n="30"/>sum<note type="marginal-note" place="margin-right" hand="???">aliud suspicare</note>
+        <lb ed="#K" n="31"/>propter aequalitatem rationum. Suspicamur tunc, quando in unam partem meli<lb ed="#K" break="no" n="32"/>nat
+        quidem intellectus, sed ne perfecto assensu nec directe, quia tunc solum iudi<lb ed="#K" break="no" n="33"/>camus
+        ad esse rationem aliquam, ex formari possit ulterius iudicium ali<lb ed="#K" break="no" n="34"/>quod
+        de ea parte contradictionis, verba gratia possibilitatem esse Incarnationem, interim
+        <lb ed="#K" n="35"/>tamen veremur ad huc tale determinatum iudicium formare. Definitivum 
+<pb ed="#K" n="3-v"/><lb ed="#K" n="1"/>
+        autem seu determinatum iudicium quamvis probabile tunc formamus, quando
+        <lb ed="#K" n="2"/>directe et decisive quamvis cum formidine aliqua sive actuali sive virtua<lb ed="#K" break="no" n="3"/>li
+        asserimus rem ita se habere, verba gratia possibilis est Incarnatio. Qui actus pro<lb ed="#K" break="no" n="4"/>prie
+        dicitur opinio, ad quem ex levi ratione se ne resoluit intellectus prudens.
+      </p>
+      <p>
+        <lb ed="#K" n="5"/><hi rend="underline">Probatur 3tio</hi> conclusio. Probabilissimus est posse omnipotentiam Dei ali<lb ed="#K" break="no" n="6"/>quod
+        opus edere, naturali lumine ne deprehensibile, sicut summi arti<lb ed="#K" break="no" n="7"/>fices
+        edunt opera quaedam, quae simplices et imperiti cogitarent nun<lb ed="#K" break="no" n="8"/>quam 
+        esse possibilia, imo crederunt impossibilia. Si autem aliquod pos<lb ed="#K" break="no" n="9"/>sibile
+        est tale opus, quidni illud sit Incarnatnio quam sancti Patres
+        <lb ed="#K" n="10"/>vocant maximum operum Divinorum. Confirmabitur conclusio ex dice<lb ed="#K" break="no" n="11"/>dis 
+        sectione senquenti.
+      </p>
+      <p>
+        <lb ed="#K" n="12"/>Obiicitur <hi rend="underline">1mo.</hi> Angelus scit Deum posse quid quid ne implicat contra<lb ed="#K" break="no" n="13"/>dictionem.
+        <lb ed="#K" n="14"/>Atqui ne implicat Deum incarnari, nam in istis terminis nulla est
+        <lb ed="#K" n="15"/>contradictio, neque per aliud medium haec contradictio demonstarari potest.
+        <lb ed="#K" n="16"/>Ergo naturaliter potest inferre possibilitatem Incarnationis. Respondeo.
+        <lb ed="#K" n="17"/>Concedo maiorem, nego minorem, eius probationem distinguo: interminisis<lb ed="#K" break="no" n="18"/>tis
+        nulla est contradictio re ipsa, nec potest vera et propria demonstra<lb ed="#K" break="no" n="19"/>tione
+        aliunde contradictio ostendi Concedo minorem. Nulla est contradictio
+        <lb ed="#K" n="20"/>etiam apparens, nec potest aliunde aliqua saltem quo ad apparentiam
+        <lb ed="#K" n="21"/>ostendi nego. Apparet enim Deum ex physica substantiali intrinseca
+        <lb ed="#K" n="22"/>union et perfici et ne perfici, mutari intrinsece et ne mutari.
+      </p>
+      <p>
+        <lb ed="#K" n="23"/>Vrgetur. Angelus novit quod Deus plura potest facere quam
+        <lb ed="#K" n="24"/>nos concipere, Ergo licet videret implicantias sibi aliquas occuren<lb ed="#K" break="no" n="25"/>tes,
+        adhuc posset pro possibilitate iudicium ferre. Respondeo. nego Consequentiam,
+        <lb ed="#K" n="26"/>quia Angelus etiam hoc novit quod multa sint quae revera implican<lb ed="#K" break="no" n="27"/>tiam
+        involuunt, licet creato intellectui possibilia videantur. Ad sum<lb ed="#K" break="no" n="28"/>mum
+        ergo ex illo et aliis principiis suspiciari et dubitare posset.
+      </p>
+      <p>
+        <lb ed="#K" n="29"/>Obiicitur. <hi rend="underline">2do.</hi> Angelus naturaliter comprehendit naturam verba gratia
+        <lb ed="#K" n="30"/>humanam, Ergo naturaliter clare cognoscit omnia illi identificata praedica<lb ed="#K" break="no" n="31"/>ta, 
+        Ergo etiam assumptibilitatem eius a Verbo, seu potentiam eius obedientialem
+        <lb ed="#K" n="32"/>passivam, qua capax est terminari subsistentia Divina. Respondeo. Distinguo Antecedens
+        <lb ed="#K" n="33"/>naturaliter comprehendit naturam humanam comprehensione omnino prefec<lb ed="#K" break="no" n="34"/>ta
+        et adaequatissima nego. comprehensione adaequata solum quo ad certum 
+       <pb ed="#K" n="4"/>
+       <lb ed="#K" n="1"/>
+        statum seu ordinem transeat. Consequens etiam distinguo, naturaliter cognos<lb ed="#K" break="no" n="2"/>cit
+        omnia illi identificata praedicata quae concernunt naturales eius vires
+        <lb ed="#K" n="3"/>seu statum naturae purae transeat, etiam illa quae respectum dicunt ad
+        <lb ed="#K" n="4"/>ordinem supernaturalem et potentiam obedientialem nego. Incarnatio enim
+        <lb ed="#K" n="5"/>est supernaturalis quo ad substantiam, et quidem inter supernaturalia
+        <lb ed="#K" n="6"/>omnipotentiae opera, maximum et admirabilissimum. Unde cognita na<lb ed="#K" break="no" n="7"/>tura
+        humana, potentia obedientalis passiva ei identificata, quam
+        <lb ed="#K" n="8"/>habet ad subsistendum Divinae, tantum cognoscitur identice et inconfuso.
+      </p>
+      <p>
+        <lb ed="#K" n="9"/>Vrgetur. Multa supernaturalia cognoscuntur a creaturis natu<lb ed="#K" break="no" n="10"/>raliter
+        verba gratia: Angelus naturaliter potest cognoscere resurrectionem mortuo<lb ed="#K" break="no" n="11"/>rum
+        esse possibilem. Similiter separationem accidentis a substantia. Ergo
+        <lb ed="#K" n="12"/>supernaturalitas ne obstat naturali cognitioni Incarnationis quo ad
+        possibilitatem. Respondeo. misso antecedente de supernaturalibus quo ad modum
+        <lb ed="#K" n="13"/>tantum, nego consequentiam. Non enim conclusio nostra ducitur ex sola et
+        <lb ed="#K" n="14"/>taliquali supernaturalitate Incarnationis, sed ex supernaturalitate
+        <lb ed="#K" n="15"/>eius quo ad substantiam, et insuper ex summis et extraordinariis diffi<lb ed="#K" break="no" n="16"/>cultatibus
+        in ea occurentibus. Multo enim altius est hoc mysterium
+        <lb ed="#K" n="17"/>quam in antecedente, adducta, nam in hoc Deus non solum superat res
+        <lb ed="#K" n="18"/>omnino distinctas, sed etiam modum prorsus intrinsecum, et quidem ita ut <unclear>eis</unclear>
+        <lb ed="#K" n="19"/>defectum suppleat, non solum efficienter, sed per intrinsecam et prorsus mi<lb ed="#K" break="no" n="20"/>rabilem
+        unionem. Quod attinet ad instantias allatas in antece<lb ed="#K" break="no" n="21"/>dente
+        argumenti. Respondeo. Resurrectionem mortuorum esse solum superna<lb ed="#K" break="no" n="22"/>turalem
+        quo ad modum, cum in ea nihil de novo sit producendum quod 
+        <lb ed="#K" n="23"/>ne contineatur in virtute naturalium causarum. De accidentibus expraes<lb ed="#K" break="no" n="24"/>se
+        ait <ref><name>Suarez</name></ref>, vix suaderi posse naturali ratione, quod Deus influendo
+        <lb ed="#K" n="25"/>solum per modum causae efficientis supplere possit dependentiam acci<lb ed="#K" break="no" n="26"/>dentis
+        a subiecto quae ad genus causae materialis pertinet. Sed
+        <lb ed="#K" n="27"/>dato etiam hoc, quae paritas cum mirabilissimo mysterio Incarnationis?
+      </p>
+      <p>
+        <lb ed="#K" n="28"/>Obiicitur. <hi rend="underline">3tio.</hi> Angelus naturaliter soluere potest evidenter
+        quascunque occurentes rationes quae probent implicantiam unionis Hy<lb ed="#K" break="no" n="29"/>postaticae.
+        Ergo si non evidentiam, saltem probabilitatem sufficientem habe<lb ed="#K" break="no" n="30"/>re
+        potest de eius possibilitate: tali enim modo probari solet aliarum 
+        <lb ed="#K" n="31"/>rerum possibilitas, quod scilicet manifeste soluentur argumenta
+      <pb ed="#K" n="4-v"/><lb ed="#K" n="1"/>
+        implicantiam arguentia. Respondeo. distinguo antecedens potest soluere evidenter et positive
+        <lb ed="#K" n="2"/>id est apponendo evidentem positivam aliquam rationem ex rebus naturalibus peti<lb ed="#K" break="no" n="3"/>ta
+        nego. Nullum enim tale principium vel medium invenitur in rerum creatarum 
+        <lb ed="#K" n="4"/>naturis. Potest Angelus naturaliter soluere evidenter negative tantum,
+        <lb ed="#K" n="5"/>id est rationes oppositas occurentes simpliciter negando, vel fallaciam argu<lb ed="#K" break="no" n="6"/>mentorum
+        ostendendo, transeat Antecedens et nego Consequentiam. Nam
+        <lb ed="#K" n="7"/>solutio negativa tantum argumentorum vel sponte hic et nunc occuren<lb ed="#K" break="no" n="8"/>tium 
+        vel ab alio propositorum, quamvis sufficere potest ad dubitandum
+        <lb ed="#K" n="9"/>vel suspicandum, non tamen ad proprie opinandum de tanto mysterio: cum enim
+        <lb ed="#K" n="10"/>intellectus creatus ex ipsa sui limitatione <unclear>sunt</unclear> multa se latere, et
+        <lb ed="#K" n="11"/>circa multa superesse contradictiones quae ei non occurrunt, adeoque non
+        <lb ed="#K" n="12"/>eo ipso aliquid possibile esset quod non appareat impossibile: ad huc 
+        <lb ed="#K" n="13"/>vereretur efficaciter iudicium decisivum ferre.
+      </p>
+      <p>
+        <lb ed="#K" n="14"/>Vrgetur. Indubiis indicandum est <unclear>infauorem</unclear> omnipotentiae Divinae; Ergo ne
+        <lb ed="#K" n="15"/>depravatus intellectus Angelicus staret <unclear>p possibilitte</unclear>. Respondeo. Distinguo Antecedens indican<lb ed="#K" break="no" n="16"/>dum
+        est <unclear>infauorem</unclear> omnipotentiae indicio saltem imperfecto et suspicativo, idque quando
+        <lb ed="#K" n="17"/>par est utrinque ratio concedo, iudicandum est semper indicio opinativo, vel definitivo
+        <lb ed="#K" n="18"/>atque decisivo, idque dum potior in oppositum advertitur ratio nego. Sic non indicamus
+        <lb ed="#K" n="19"/>oculo corpores posse videre Deum, aut dabilem esse creaturam, cui connaturalis
+        <lb ed="#K" n="20"/>sit intuitiva visio Dei. Ex responsione ad hanc instantiam proce<lb ed="#K" break="no" n="21"/>dentem
+        collige universaliter modum illum argumentandi. Non apparet im<lb ed="#K" break="no" n="22"/>plicantia,
+        Ergo res est possibilis. Nisi fulciatur aliis positivis rationibus ne tam
+        <lb ed="#K" n="23"/>vere probabile et decisivum iudicium generare, quam suspicionem et dubium de<lb ed="#K" break="no" n="24"/>berentque
+        huius modi actus magis conveniente modo loquendi exprimi per
+        <lb ed="#K" n="25"/>verbum <hi rend="underline">videtur</hi>verba gratia: ne apparet implicantia in haec - re Ergo haec res videtur possi<lb ed="#K" break="no" n="26"/>bilis.
+      </p>
+      <p>
+        <lb ed="#K" n="27"/>Obiicitur 4. Contradictioriae sunt hae propositiones: Ratio naturalis non
+        <lb ed="#K" n="28"/>prout demonstrare Incarnationem esse possibilem. Et haec: ratio naturalis ne prout demon<lb ed="#K" break="no" n="29"/>strare
+        Incarnationem esse impossibilem. Ergo alterutra necessario erit falsa,
+        <lb ed="#K" n="30"/>cum tamen ex <unclear>n'ra</unclear> doctrina videatur utraque vera. Respondeo nego antecedens datur enim medium
+        <lb ed="#K" n="31"/>inter ne posse demonstrare possibilitatem et ne posse demonstrare Impossibilitatem
+        <lb ed="#K" n="32"/>Incarnationis, scilicet posse suspicari et dubitare depossibilitate, ut et im<lb ed="#K" break="no" n="33"/>possibilitate
+        eius. Istae propositiones essent contradictionae; ratio naturalis 
+        <lb ed="#K" n="34"/>posset demonstrare possibilitatem. Respondeo naturalis ne posset demonstrare impossibi<lb ed="#K" break="no" n="35"/>litatem 
+        Incarnationis.
+      </p>
+      <p>
+        <lb ed="#K" n="36"/>Obiicitur 5. Incarnatio verbi est evidenter credibilis, sicut de om<lb ed="#K" break="no" n="37"/>nibus
+        mysteriis fidei doceri solet in tractatu de fide. Ergo etiam est evidenter
+      <pb ed="#K" n="5"/>
+      <lb ed="#K" n="1"/>
+        possibilis. Consequentia probatur ex opposito consequentis ad oppositum ante<lb ed="#K" break="no" n="2"/>cedentis
+        sic: quod est evidenter impossibile, est evidenter incredibile. Ergo
+        <lb ed="#K" n="3"/>per oppositum, quod est evidenter credible est evidenter possibile. Respondeo distin<lb ed="#K" break="no" n="4"/>guo
+        antecedens: Incarnatio verbi est evidenter credibilis supposita revelatione,
+        <lb ed="#K" n="5"/>concedo, hac seclusa mego. Similiter distinguo consequens: Ergo Incarnatio
+        est evidenter possibilis supposita revelatione Concedo, hac seclusa nego.
+      </p>
+      <p>
+        <lb ed="#K" n="6"/>Dicendum 2do. Etiam data de facto Incarnatione nullus Angelus po<lb ed="#K" break="no" n="7"/>tuit
+        naturali <unclear>disenssu</unclear> vel evidenter vel probabiliter cognoscere sive ipsa
+        <lb ed="#K" n="8"/>exhibitionem, sive possibilitatem huius mysterii seclusa omni tam, immediata
+        <lb ed="#K" n="9"/>quam mediata revelatione. Ita <ref><name>Perez</name></ref> contra <ref><name>Scotum</name></ref>, qui docet ab Angelo
+        <lb ed="#K" n="10"/>tunc evidenter cognosci potuisse naturaliter. 
+      </p>
+      <p>
+        <lb ed="#K" n="11"/><hi rend="underline">Probatur.</hi> Quia nex in se nec in alio etiam tunc cognosci potuit possibili<lb ed="#K" break="no" n="12"/>tas 
+        Incarnationis. Non in se per species proprias, quia supernaturalium
+        <lb ed="#K" n="13"/>quo ad substantiam ne <unclear>daretur</unclear> naturaliter species proprie. Non etiam abstracti<lb ed="#K" break="no" n="14"/>ve 
+        et in alio, verba gratia in effectu aliquo, effectus enim miraculosi quos faciebat
+        <lb ed="#K" n="15"/>Christus, poterant vel immediate a solo Deo, vel Angelorum mysterio fieri sicut
+        <lb ed="#K" n="16"/>de facto ab Apostolis et aliis sanctis tanta imo maiora facta sunt, ut
+        <lb ed="#K" n="17"/>produxit Christus <ref><title>Ioannis 14</title></ref> maiora his facient.
+      </p>
+      <p>
+        <lb ed="#K" n="18"/>Adverendum tamen quod miracula a Christo facta simul sumpta cum Divina eius
+        <lb ed="#K" n="19"/>revelatione, qua se testabatur esse filium Dei, sufficientissimum argumentum fuerint
+        <lb ed="#K" n="20"/>ad certo cognoscendam ne tantum possibilitatem sed etiam existentiam actualem Incar<lb ed="#K" break="no" n="21"/>nationis
+        ut declarabitur <ref><title>sectione 5</title></ref>. Sed conclusio potens abstrahit ab omni
+        <lb ed="#K" n="22"/>revelatione: ac proinde omnes adhuc mansissent difficultates praecedente conclu<lb ed="#K" break="no" n="23"/>sione 
+        praepositae.
+      </p>
+      <p>
+        <lb ed="#K" n="24"/>Obiicitur 1mo Angelos seculsa omni revelatione potuit evidenter sci<lb ed="#K" break="no" n="25"/>re
+        humanitatem Christi carere propria subsistentia creata quidni enim videret priva<lb ed="#K" break="no" n="26"/>tione
+        illius entitatis naturalis? Ergo potuit inferre eam terminari subsis<lb ed="#K" break="no" n="27"/>entia
+        Divina. Consequentia probatur quia non potuit inferre eam terminari 
+        <lb ed="#K" n="28"/>aliena subsistentia creata, qua et hanc naturaliter vidisset. Ergo etc. Respondeo con<lb ed="#K" break="no" n="29"/>cedo
+        Antecedens, nego Consequentiam, probationis etiam concedo Antecedens et nego Consequentiam.
+        <lb ed="#K" n="30"/>Et dico quod Angelus tunc potius existimasset humanitatem illam existere sine
+        <lb ed="#K" n="31"/>sine modis sibi connaturalibus, vel certe cogitasset humanitatem
+        <lb ed="#K" n="32"/>illam modo aliquo specialissimo sibi abscondito et vires naturales ex<lb ed="#K" break="no" n="33"/>cedente 
+        terminari.
+      </p>
+      <p>
+        <lb ed="#K" n="34"/>Obiicitur 2do. Daemones de facto cognoverunt naturaliter exis<lb ed="#K" break="no" n="35"/>tentiam
+        Incarnationis secundum illud <ref><title>Lucae 4</title></ref>: Scio quod sis sanctus Dei. Et in<lb ed="#K" break="no" n="36"/>fra:
+        Exibant autem daemonia a multis clamantia quia tamen es filius Dei
+        <lb ed="#K" n="37"/>et increpans ne sinebat ea loqui, quia sciebant eum esse Christum. Ergo etc.
+        <lb ed="#K" n="38"/>Ad hanc obiectionem respondebitur <ref><title>sectione 3</title></ref> nun vero sit. 
+      </p>
+      </div>
+    </body>
+  </text>
+</TEI>
