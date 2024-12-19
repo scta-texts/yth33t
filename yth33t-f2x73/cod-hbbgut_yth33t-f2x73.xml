@@ -60,6 +60,7 @@
       <head>Sectio 2</head> 
       <head type="question-title">An naturali ratione posset cognosci possibilitas Incarnationis?</head> 
       <p xml:id="yth33t-f2x73-d1e118">
+        <pb ed="#K" n="5-v"/>
         <lb ed="#K" n="1"/>SECTIO II
         <lb ed="#K"/>Possibilitas Incarnationis Declaratur et Soluuntur
         <lb ed="#K"/>Argumenta contra eam militantia
@@ -77,7 +78,7 @@
         <lb ed="#K"/>nos. Ratio 1mi. Quia iam revera Verbum Caro factum est. Ratio 2di. Quia
         <lb ed="#K"/>omnia argumenta implicantiam <add place="above-line">probantia</add> solui a nobis possunt saltem negative ut
         <lb ed="#K"/>mox patebit. Et certe falsa omnino esse necesse est quaecunque contra veri<lb ed="#K" break="no"/>tatem
-        Divinitus revelata militant, quantumcunque roboris et eviden<lb ed="#K" break="no" n=""/>tiae 
+        Divinitus revelata militant, quantumcunque roboris et eviden<lb ed="#K" break="no"/>tiae 
         habere videantur. Porro implicantiarum quae obiici solent aliae
         <lb ed="#K"/>se tenent ex parte Dei, aliae ex parte naturae humanae, aliae ex parte to<lb ed="#K" break="no"/>tius
         quod ex Unione Hypostatica resultat. Ut omnia distincte expediantur. 
@@ -104,7 +105,7 @@
         <lb ed="#K"/>cum isto unit. Tum quia sequeretur Verbum et esse intrinsece indivi<lb ed="#K" break="no"/>sum
         ab humanitate et ne esse. Ad solutionem huius praecipuae difficulta<lb ed="#K" break="no"/>tis 
         multa sed pauca utilia congesserunt Authores, dum alter alterius,
-      <pb ed="#W" n="6-r"/>
+        <pb ed="#K" n="6-r"/>
         <lb ed="K" n="1"/>solutionem ad libitum suum nec satis fideliter explicatam ex plodit. 
       </p>
       <p>
@@ -145,7 +146,7 @@
       </p>
       <p>
         <lb ed="#K"/>Collige 1mo. Latius patere ly: aliter se habere, quam proprie mutari.
-      <pb ed="#K" n="6-v"/>
+        <pb ed="#K" n="6-v"/>
         <lb ed="#K"/>Omne enim quod proprie mutatur aliter se habet nunc quam ante: non autem omne
         <lb ed="#K"/>quod aliter se habet nunc quam ante proprie mutatur. Patet hoc etiam ex mu<lb ed="#K" break="no"/>tationibus
         relativorum quorundam quae improprie tantum sint mutationes; nam ea
@@ -185,7 +186,7 @@
         <lb ed="#K"/>tanto enim res perfectior est, quanto vicinior et similior primo et summo bono.
         <lb ed="#K"/>Ipsum vero primum et summum et omne bonum in se et ex se nec regulam nec men<lb ed="#K" break="no"/>sura
         habere potest maioris minorisque perfectionis, adeoque nec dici potest
-      <pb ed="#K" n="7-r"/>
+        <pb ed="#K" n="7-r"/>
         <lb ed="#K"/>iam magis iam minus perfectum. Proinde si aliquid nonum illi accedat
         <lb ed="#K"/>tantum erunt plura bona, non vero illud fiet melius. Et hinc est quod alibi
         <lb ed="#K"/>traditur: Deum simul sumptum cum creaturis omnibus non esse quid melius
@@ -231,7 +232,7 @@
         <lb ed="#K"/>minorem: Deus et natura humana terminata propria sua subsistentia, sint duo en<lb ed="#K" break="no"/>tia
         completa concedo. Natura humana non terminata propria sua subsistentia
         <lb ed="K"/>creata nego. Similiter distinguo Consequens et nego Consequentiam.
-      <pb ed="#K" n="7-v"/>
+        <pb ed="#K" n="7-v"/>
         <lb ed="K"/>Quidni enim ex uno ente completo infinita virtutis et alio <unclear>incompleto</unclear>
         <lb ed="K"/>possit fieri unum per se? Addit <ref><name>Arriaga</name> subsectione 3 numero 31</ref>
         <lb ed="K"/>quod forte possibiles sit etiam naturalis completa substantia quae cum
@@ -273,8 +274,8 @@
         <lb ed="#K"/>infinitam nulla est proportio in ratione entis Concedo. In ratione <unclear>terminatior</unclear>
         <lb ed="#K"/>et terminabilis nego. Quae distinctio etiam maior servit.
       </p>
-    <pb ed="#K" n="8-r"/>
       <p>
+        <pb ed="#K" n="8-r"/>
         <lb ed="#K"/>Obiicitur 4to. Subsistentia verbi infinita totam virtutem suam termi<lb ed="#K" break="no"/>nativam
         intendit terminandae naturae Divinae. Ergo non potest terminare etiam
         <lb ed="#K"/>naturam humanam, non enim se potest extendere ultra suum terminum adaequatum. Firmatur:
@@ -315,7 +316,7 @@
         <lb ed="#K"/>quod est Christus. Ergo est quid incompletum. Respondeo concedo illatum et distinguo
         <lb ed="#K"/>Consequens: est quid incompletum in ratione talis totius quale est suppositum seu
         <lb ed="#K"/>tota persona Concedo, non enim sola personalitas sive creata sive increata est 
-    <pb ed="#K" n="8-v"/>
+        <pb ed="#K" n="8-v"/>
         <lb ed="#K"/>totum suppositum, sed sumpta simul cum natura. Ergo personalitas Divina est
         <lb ed="#K"/>quid incompletum in se seu in entitate et substantia sua nego. Non enim
         <lb ed="#K"/>de ratione omnis partis cuiuscunque totius est esse quid incompletum in se, sed
@@ -361,7 +362,7 @@
         <lb ed="#K"/>et viassim. Item prunus producit pyra et converso: sic in Christo duae naturae
         <lb ed="#K"/>manent cum suis proprietatibus conveniuntque in eadem subsistentia et datur in<lb ed="#K" break="no"/>ter
         illas mirabilis Idiomatum communicatio. Secundum exemplum radit Divus
-      <pb ed="#K" n="9-r"/>
+        <pb ed="#K" n="9-r"/>
         <lb ed="#K"/>Basilius homilia de humana Christi generatione a ferro ignito et carbone vivo 
         <lb ed="#K"/>ductum, totum enim ferrum est ignitum et ignis quidam ferrens diciturque ferrum urere splen<lb ed="#K" break="no"/>dere
         etc. Tertium Exemplum adducit Sanctus Athanasius in Symbolo ex
