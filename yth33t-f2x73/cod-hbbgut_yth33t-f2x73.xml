@@ -57,15 +57,15 @@
     </front>
     <body>
       <div xml:id="yth33t-f2x73">
-      <head>Sectio 2</head> 
-      <head type="question-title">An naturali ratione posset cognosci possibilitas Incarnationis?</head> 
+      <head xml:id="yth33t-f2x73-Hd1e108">Sectio 2</head> 
+      <head xml:id="yth33t-f2x73-Hd1e110" type="question-title">An naturali ratione posset cognosci possibilitas Incarnationis?</head> 
       <p xml:id="yth33t-f2x73-d1e118">
         <pb ed="#K" n="5-v"/>
         <lb ed="#K" n="1"/>SECTIO II
         <lb ed="#K" n="2"/>Possibilitas Incarnationis Declaratur et Soluuntur
         <lb ed="#K" n="3"/>Argumenta contra eam militantia
       </p>
-      <p>
+      <p xml:id="yth33t-f2x73-d1e124">
         <lb ed="#K" n="4"/>&gt;Praenoto. Difficultates contra possibilitatem Incarnationis occurrentes
         <lb ed="#K" n="5"/>quamvis creato intellectui divina revelatione ne instructo sint omni<lb ed="#K" break="no" n="6"/>no
         insuperabiles positive, ne tamen sit insuperabiles negative ut supra dictum,
@@ -73,7 +73,7 @@
         <lb ed="#K" n="8"/>opposita argumenta, eorumque vitia scrutanda animosiores et oculatiores
         <lb ed="#K" n="9"/>fecerunt. Unde.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x73-d1e140">
         <lb ed="#K" n="10"/>Dicendum 1mo. Incarnatio possibilis est non solum in se sed etiam quo ad
         <lb ed="#K" n="11"/>nos. Ratio 1mi. Quia iam revera Verbum Caro factum est. Ratio 2di. Quia
         <lb ed="#K" n="12"/>omnia argumenta implicantiam <add place="above-line">probantia</add> solui a nobis possunt saltem negative ut
@@ -83,7 +83,7 @@
         <lb ed="#K" n="16"/>se tenent ex parte Dei, aliae ex parte naturae humanae, aliae ex parte to<lb ed="#K" break="no" n="17"/>tius
         quod ex Unione Hypostatica resultat. Ut omnia distincte expediantur. 
       </p>
-      <p>
+      <p xml:id="yth33t-f2x73-d1e164">
         <lb ed="#K" n="18"/>Obiicitur 1mo. Implicat Deum intrinsece mutari. Sed per Incarnatio<lb ed="#K" break="no" n="19"/>ne 
         mutaretur intrinsece. Ergo impossibile est Deum incarnari. maior
         <lb ed="#K" n="20"/>est certa, mutatio enim intrinsica dicit imperfectionem intrinsecam, minor
@@ -108,7 +108,7 @@
         <pb ed="#K" n="6-r"/>
         <lb ed="K" n="1"/>solutionem ad libitum suum nec satis fideliter explicatam ex plodit. 
       </p>
-      <p>
+      <p xml:id="yth33t-f2x73-d1e220">
         <lb ed="#K" n="2"/>Respondeo. Concedo maiore nego minorem probationis maiorem distinguo: muta<lb ed="#K" break="no" n="3"/>ri
         intrinsece proprie et in rigore solum est aliter se habere intrinsece nunc quam prius
         <lb ed="#K" n="4"/>nego. Mutari intrinsece improprie et lato quod quodammodo solum est aliter se habere intrin<lb ed="#K" break="no" n="5"/>sece 
@@ -144,7 +144,7 @@
         <lb ed="#K" n="34"/>natura humana, ac proinde de illa dici nequit quod ratione unionis inter
         <lb ed="#K" n="35"/>cedentis mutetur intrinsece. Ex his.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x73-d1e296">
         <lb ed="#K" n="36"/>Collige 1mo. Latius patere ly: aliter se habere, quam proprie mutari.
         <pb ed="#K" n="6-v"/>
         <lb ed="#K" n="1"/>Omne enim quod proprie mutatur aliter se habet nunc quam ante: non autem omne
@@ -161,17 +161,17 @@
         <lb ed="#K" n="12"/>Theologi quidam dicunt, Verbum per Incarnationem non mutari intrinsece, sed so<lb ed="#K" break="no" n="13"/>lum
         quodam modo innovari, seu acquisivisse novum modum quendam se habendi.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x73-d1e331">
         <lb ed="#K" n="14"/>Collige 2do responsionem ad confirmationem, cuius neganda est Consequentia:
         <lb ed="#K" n="15"/>nam ex unione intrinseca praecise ut tali solum sequitur quod res unita intrinsece
         <lb ed="#K" n="16"/>nunc aliter se habet quam ante; ad mutationem autem intrinsecam essentia<lb ed="#K" break="no" n="17"/>liter
         plus requiritur, nimirum ut res unita novum aliquod commodum vel in
         <lb ed="#K" n="18"/>commodum, seu perfectionem vel imperfectionem, quo ad esse vel operari suum
-        <lb ed="#K" n="19"/>acquisiverit per eam unionem. Ut docet <ref><name>Martinon</name> Hespasa a quaestione 2o.
+        <lb ed="#K" n="19"/>acquisiverit per eam unionem. Ut docet <ref xml:id="yth33t-f2x73-Rd1e346"><name xml:id="yth33t-f2x73-Nd1e347">Martinon</name> Hespasa a quaestione 2o.
         <lb ed="#K" n="20"/>ad suum. <unclear>Amicus Sex</unclear>: 1ma.</ref> Quod utique de Verbo Divino non posset dici, ut pote
         <lb ed="#K" n="21"/>per se sufficientissimo non tamtum sibi ipsi sed toti creaturarum universitati.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x73-d1e357">
         <lb ed="#K" n="22"/>Vrgetur. Humanitas est bonum quoddam et perfectio. Ergo si intrinse<lb ed="#K" break="no" n="23"/>ce
         uniatur verbo, accedet illi intrinseca perfectio, Ergo et mutatio propria.
         Respondeo distinguo Consequens. Accedet verbo intrinseca perfectio perfec<lb ed="#K" break="no" n="24"/>tiva
@@ -192,7 +192,7 @@
         <lb ed="#K" n="3"/>traditur: Deum simul sumptum cum creaturis omnibus non esse quid melius
         <lb ed="#K" n="4"/>quam sine illis.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x73-d1e399">
         <lb ed="#K" n="5"/>Vrgetur. Verbum unitum humanitati potest exertere operationes teandricas 
         <lb ed="#K" n="6"/>quas non unitum non potent. Ergo perficitur per unionem hypostaticam quo ad operari, Ergo mu<lb ed="#K" break="no" n="7"/>tatur
         proprie. Respondeo 1mo argumentum multum nimis probat, nam inde sequitur quod virtus
@@ -207,7 +207,7 @@
         <lb ed="#K" n="16"/>actu, quod alias sic ne dignificasset: nec est verbo necessarius nexus unionis
         <lb ed="#K" n="17"/>ut aliquid perfectionis accipiat ab humanitate, sed ut tribuat de plenitudine sua.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x73-d1e431">
         <lb ed="#K" n="18"/>Vrgetur. Ergo per unionem hypostaticam saltem completur et perficitur verbum
         <lb ed="#K" n="19"/>quo ad virtutem dignificandi, nam sine illa ne posset <unclear>praestare</unclear> ut essent tanti valo<lb ed="#K" break="no" n="20"/>ris
         et Divinae. Respondeo. nego illatum, unio enim ne confert Verbo aliquid quo tan<lb ed="#K" break="no" n="21"/>quam
@@ -216,7 +216,7 @@
         suam perfectionem humanitati: humanitas vero quasi passive recipiendi ni<lb ed="#K" break="no" n="24"/>mirum 
         ne conferens perfectionem.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x73-d1e451">
         <lb ed="#K" n="25"/>Vrgetur. Verbum est subiectum huius denominationis: Esse unitum hypos<lb ed="#K" break="no" n="26"/>tatice.
         Nam supra verbum cadit eadem denominatio, Ergo Verbum afficitur
         <lb ed="#K" n="27"/>ab unione ut subiectum, Ergo proprie mutatur. Respondeo distinguo Antecedens, est subiectum
@@ -225,7 +225,7 @@
         Dialecticum est Deus. Quis vero dixerit omnipotentiam in eo recipi ut 
         <lb ed="#K" n="31"/>in subiecto.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x73-d1e469">
         <lb ed="#K" n="32"/>Obiicitur 2do. Ex duobus entibus in actu seu completis ne potest fieri
         <lb ed="#K" n="33"/>unum per se. Unde illud principium in Philosophia: quid quid advenit enti
         <lb ed="#K" n="34"/>completo est accidens. Atque Deus et natura humana sint duo entia completa, Ergo
@@ -234,7 +234,7 @@
         <lb ed="K" n="37"/>creata nego. Similiter distinguo Consequens et nego Consequentiam.
         <pb ed="#K" n="7-v"/>
         <lb ed="K" n="1"/>Quidni enim ex uno ente completo infinita virtutis et alio <unclear>incompleto</unclear>
-        <lb ed="K" n="2"/>possit fieri unum per se? Addit <ref><name>Arriaga</name> subsectione 3 numero 31</ref>
+        <lb ed="K" n="2"/>possit fieri unum per se? Addit <ref xml:id="yth33t-f2x73-Rd1e492"><name xml:id="yth33t-f2x73-Nd1e493">Arriaga</name> subsectione 3 numero 31</ref>
         <lb ed="K" n="3"/>quod forte possibiles sit etiam naturalis completa substantia quae cum
         <lb ed="K" n="4"/>altera completa creata efficere possit unam tertiam per se, ad cum modum quo in
         <lb ed="K" n="5"/>entibus homogeneis una pars verba gratia aquae licet dum est separata sit completa
@@ -253,7 +253,7 @@
         et naturam Verbi Divinam, vi cuius illa <unclear>prout</unclear> immediate uniri, quam
         <lb ed="#K" n="19"/>vis taliter ne uniatur, ista quod fide nititur. 
       </p>
-      <p>
+      <p xml:id="yth33t-f2x73-d1e545">
         <lb ed="#K" n="20"/>Obiicitur 3tio Inter extrema unibilia ut componant ens per se
         <lb ed="#K" n="21"/>debet esse aliqua proportio. Atqui haec non est inter humanitatem finitam
         <lb ed="#K" n="22"/>et hypostasim Verbi infinitam Ergo etc. Respondeo distinguo maiorem, debet esse
@@ -274,7 +274,7 @@
         <lb ed="#K" n="37"/>infinitam nulla est proportio in ratione entis Concedo. In ratione <unclear>terminatior</unclear>
         <lb ed="#K" n="38"/>et terminabilis nego. Quae distinctio etiam maior servit.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x73-d1e595">
         <pb ed="#K" n="8-r"/>
         <lb ed="#K" n="1"/>Obiicitur 4to. Subsistentia verbi infinita totam virtutem suam termi<lb ed="#K" break="no" n="2"/>nativam
         intendit terminandae naturae Divinae. Ergo non potest terminare etiam
@@ -297,7 +297,7 @@
         <lb ed="#K" n="19"/>sit terminare sufficienter naturam infinitam potest, nec quidquam apparet
         <lb ed="#K" n="20"/>quod obstet, quominus propterea terminet et creatam, sicut intellectus Di<lb ed="#K" break="no" n="21"/>vinus attingit etiam creaturas.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x73-d1e650">
         <lb ed="#K" n="22"/>Obiicitur 5to. Deus non potest supplere vices subsistentiae creatae, Ergo
         <lb ed="#K" n="23"/>nec Incarnari. Probatur Antecedens. Implicat subsistentiam Divinam hic formam
         <lb ed="#K" n="24"/>seu rationem causae formalis, quia de ratione formae est esse quid incompletum
@@ -311,7 +311,7 @@
         physici, sed solum suppositi, habetque suum speciale munus essentialiter distinc<lb ed="#K" break="no" n="33"/>tum
         a formis physicis.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x73-d1e682">
         <lb ed="#K" n="34"/>Vrgetur. Ergo et personalitas Divina Verbi est pars huius suppositi
         <lb ed="#K" n="35"/>quod est Christus. Ergo est quid incompletum. Respondeo concedo illatum et distinguo
         <lb ed="#K" n="36"/>Consequens: est quid incompletum in ratione talis totius quale est suppositum seu
@@ -322,7 +322,7 @@
         <lb ed="#K" n="3"/>de ratione omnis partis cuiuscunque totius est esse quid incompletum in se, sed
         <lb ed="#K" n="4"/>sufficit si alterura sit talis.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x73-d1e704">
         <lb ed="#K" n="5"/>Obiicitur 6to. Deus ne potest supplere existentiam naturae creatae, Ergo nec
         <lb ed="#K" n="6"/>subsistentiam, haec enim est idem cum illa realiter, nam existentia substantiae est
         <lb ed="#K" n="7"/>existentia per se, adeoque est subsistenia, Ergo Deus Incarnari non potest. Respondeo. Concedo
@@ -338,7 +338,7 @@
         <lb ed="#K" n="17"/>unionem substantialem, ad faciendum unum ens per se, saltem alterum extrememum debet
         <lb ed="#K" n="18"/>esse substantialiter incompletum.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x73-d1e739">
         <lb ed="#K" n="19"/>Obiicitur 7mo. Natura Divina non potest uniri naturae creatae, Ergo nec
         <lb ed="#K" n="20"/>personalitas Divina naturae creatae. Respondeo. nego Consequentiam. quia natura
         <lb ed="#K" n="21"/>creata verba gratia humana non potest compleri in ratione naturae, est enim indivisibiliter
@@ -347,12 +347,12 @@
         <lb ed="#K" n="24"/>realiter distinctum, poterit in esse talis constitui per subsistentiam Divina
         <lb ed="#K" n="25"/>aequivalentem creaturae.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x73-d1e757">
         <lb ed="#K" n="26"/>Obiicitur 8uo. Deus non potest supplere figuram, ubicationem, et motum per se ipsum, Ergo
         <lb ed="#K" n="27"/>nec modum subsistentiae. Respondeo. nego Consequentiam quia in Deo non est formaliter figura,
         <lb ed="#K" n="28"/>ubicatio vel morus localis, est autem <unclear>formaliter</unclear> subsistentia.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x73-d1e768">
         <lb ed="#K" n="29"/>Dicendum 2do. Habita revelatione Incarnationis, potest illus possibilitas
         <lb ed="#K" n="30"/>utcunque ratione naturali suaderi et declarari. Ratio quia non pauca reperitur 
         <lb ed="#K" n="31"/>in naturalibus exempla, in quibus aliquomodo videre licet mysterium hoc
