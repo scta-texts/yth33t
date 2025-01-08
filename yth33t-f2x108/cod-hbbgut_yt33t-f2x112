@@ -18,7 +18,7 @@
       <editionStmt>
         <edition n="0.0.0-dev">
           <title>Sectio 1</title>
-          <date when="2025-1-02">January 2, 2025</date>
+          <date when="2025-1-07">January 7, 2025</date>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -43,7 +43,7 @@
     </encodingDesc>
     <revisionDesc status="draft">
       <listChange>
-        <change when="2025-1-02" status="draft" n="0.0.0">
+        <change when="2025-1-07" status="draft" n="0.0.0">
           <p>Created file for the first time.</p>
         </change>
       </listChange>
@@ -60,11 +60,107 @@
       <head xml:id="yth33t-f2x112">Sectio 1</head> 
       <head xml:id="yth33t-f2x112" type="question-title"></head> 
       <p xml:id="yth33t-f2x64-d1e113">
-        <lb ed="#K" n="11"/>DISPUTATIO 1
-        <lb ed="#K" n="12"/>De Cognoscibilitate Existentia et 
-        <lb ed="#K" n="13"/>Convententia Incarnationis
-        <lb ed="#K" n="14"/>Sectio 1 
-        <lb ed="#K" n="15"/>An naturali ratione posset cognosci possibilitas Incarnationis?
+        <lb ed="#K" n="4"/>DISPUTATIO II
+        <lb ed="#K"/>De Necessitate Incarnationis
+        <lb ed="#K"/>Controvertitur hic 1mo an simplicter et absolute fuit Incarnatio necessa<lb ed="#K"/>ria
+        Deo sive physice sive moraliter, absque ulla antecedente suppositione libera,
+        <lb ed="#K"/>id est: tum propter excellentiam tanti operis tum propter perfectissimum agendi modum
+        <lb ed="#K"/>in Deo, et manifestationem perfectionum ipsius. 2do. An fuerit necessaria
+        <lb ed="#K"/>ex suppositione orbis condendi vel conditi; vel ex suppositione voluntatis Divi<lb ed="#K"/>nae
+        de reparando genere humano, vel denique ex suppositione quod condignam 
+        <lb ed="#K"/>satisfactione propeciato mortali exigere voluerit Deus.
       </p>
-      <p xml:id="yth33t-f2x64-d1e126">
-        <lb ed="#K" n="16"/>Praenoto. Incarnatio nihil aliud signifcat quam Unionem physicam Verbi Aesterni cum
+      <p>
+        <lb ed="#K"/>SECTIO I
+        <lb ed="#K"/>An in Deo Fuerit Necessitas absolute ad
+        <lb ed="#K"/>Incarnationem?
+      </p>
+      <p>
+        <lb ed="#K"/>Praenoto. Triplex communiter assignari solet necessitas: metaphysica
+        <lb ed="#K"/>physica et moralis. Metaphysica est vi cuius nec per absolutam omnipotentiam
+        <lb ed="#K"/>res fieri vel aliter se habere <unclear>p't</unclear> sic metaphysice necesse est hominem esse animal
+        <lb ed="#K"/>rationale. Estque haec necessitas essentialis. Physica est quae fundatur in naturali
+        <lb ed="#K"/>virtute rei, ita ut vi ipsius ne possit ne praedire in actum, nisi Divinitus impediatur.
+        <lb ed="#K"/>Sic physicam <unclear>licet</unclear> necessitatem sol ad producendam lucem, ignis calorem, etc. Moralis ne<lb ed="#K"/>cessitas
+        est infallibilitas secuturi effectus, licet nulla sit physica et neces<lb ed="#K"/>saria connexio causae cum effectu. Fundatur haec infallibilitas potissimum
+        <lb ed="#K"/>in vehementissima propensione agentis liberi adponendum talem effectum vel
+        <lb ed="#K"/>in summa difficultate ponendi oppositum. Unde fit ut nunquam vel vix ali<lb ed="#K"/>quando
+        sequatur oppositum. Hoc praenotato. 
+      </p>
+      <p>
+        <lb ed="#K"/>Dicendum 1mo. Null afuit necessitas absoluta in Deo et omnem 
+        <lb ed="#K"/>suppositionem liberam antecedens sive physica sive metaphysica ad Incarnationem.
+        <lb ed="#K"/>Est communis Theologorum.
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur 1mo Authoritate scripturae, quia iuxta <ref>Apostolum ad Epheseos 1.</ref> Deus
+        <lb ed="#K"/>ad extra <unclear>oia</unclear> secundum consilium voluntatis suae. Item <ref>Psal 134 Dicitur quod omnia
+        <lb ed="#K"/>quaecunque voluit fecit.</ref> Probatur 2do rationibus: 1ma Si fuisset physi<lb ed="#K"/>ce
+        vel metaphysice necessitatus Deus ad Incarnationem, debuisset incarnari
+        <pb ed="#K" n="13-v"/>
+        <lb ed="#K"/>vel ab aeterno: vel saltem ab initio conducti mundi sicut quam primum existit
+        <lb ed="#K"/>substantia solis praedicitur lux, et quam primam existit animal rationale existit nisi <unclear>bile.</unclear>
+        <lb ed="#K"/>2da Ratio. Deus nec esset moraliter laudabilis propter Incarnationem factam 
+        <lb ed="#K"/>nec ulla illi deberentur gratiae, sicut non debentur igni cale facienti.
+      </p>
+      <p>
+        <lb ed="#K"/>Dicendum 2do. In Deo nulla erat absoluta et antecedens omnem suppo<lb ed="#K"/>sitionem 
+        liberam necessitas etiam moralis ad Incarnationem. Ita communiter Theologi,
+        <lb ed="#K"/>contra <ref>Didacum <!-- Didache?-->, Ruis, Granadum <!-- Diego Granado? -->, Raymundum,</ref> etc.
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur 1mo. Ad nullum bonum ad extra producendum potest esse in Deo Summa
+        <lb ed="#K"/>inclinatio cum tanta difficultate renitendi, ut raro aut nunquam sequatur
+        <lb ed="#K"/>oppositum illi propensioni. Atqui Incarnatio seu unio hypostatica et humanitas
+        <lb ed="#K"/>Christi: est bonum ad extra producendum. Ergo non potest ad illam tanta esse propensio. Ergo
+        <lb ed="#K"/>nec necessitas moralis absoluta. Probatur maior. Cui tam parum confert ad
+        <lb ed="#K"/>commodum et voluptatem seu beatitudinem suam intrinsecam bonum aliquod ad extra produ<lb ed="#K"/>cendum,
+        quam carentia ipsius, in eo nequit esse ad tale bonum tanta et bene ordi<lb ed="#K"/>nata
+        propensio, ut vix aut ne vix ab illa desistere possit. Atqui Deo tam
+        <lb ed="#K"/><unclear>parum</unclear> confert bonum ad extra producendum, Ergo, etc. Maior patet a pari: quis 
+        <lb ed="#K"/>enim homo prudens sciens sua nil interesse scribere potius quam discurrere, rapietur
+        <lb ed="#K"/>necessitate morali ad lectionem potius quam discursam eligendum. Minor etiam constat
+        <lb ed="#K"/>ex scriptura et perfectione Dei, qua sibi ipsi sufficientissimus est ad summam
+        <lb ed="#K"/>beatitudinem: alias sine Incarnatione ne fuisset perfecte Beatus, et vere exi<lb ed="#K"/>geret
+        creaturas ad <unclear>saciandum</unclear> naturalem appetitum gloriae extrinseca.
+        <lb ed="#K"/>Probatur 2do. Si Deus absolute moraliter esset necessitatus ad Incarna<lb ed="#K"/>tionem
+        vel ad aliud quodvis optimum creatum, esset etiam physice imo necessitatus
+        <lb ed="#K"/>ad illud. Sed hoc ab adversariis non conceditur, Ergo neque illud. Probatur sequela.
+        <lb ed="#K"/>Ideo Deus dicitur moraliter necessitari ad Incarnationem vel aliud optimum quia
+        <lb ed="#K"/>indecens est et contra infinitam inclinationem perfectissime operantis facere id quod
+        <lb ed="#K"/>minus bonum est. Atque Deus non habet physicam potentiam ad faciendum id quod est
+        <lb ed="#K"/>indecens. Ergo si esset moraliter absolute necessitatus ad aliquid, esset etiam physi<lb ed="#K"/>ce
+        imo metaphysice. Firmatur, quia ex morali illa necessitate operan<lb ed="#K"/>di
+        optimum inferunt adversariis, quod si Deus ne operaretur semper optimum desi<lb ed="#K"/>neret
+        esse Deus. Unde infero: Ergo eandem habet Deus connexionem cum
+        <lb ed="#K"/>operatione tali, quam licet cum existentia propria. Atqui cum hac licet connexionem
+        <lb ed="#K"/>metaphysicam. Ergo cum illa. Ergo sicut metaphysice necessitatur ad existendum
+        <pb ed="#K" n="14-r"/>
+        <lb ed="#K"/>ita et ad operandum quod est optimum. Probatur 3tio. 
+        <lb ed="#K"/>Si Deus fuisset necessitatus ad Incarnationem Verbi fuisset necessitatus eodem
+        <lb ed="#K"/>modo ad Incarnationem omnium trium personarum, et ad assumptionem perfectionis
+        <lb ed="#K"/>alicuius naturae quam sit humana, ideo enim solum necessitatus dicitur ad Incarna<lb ed="#K"/>tionem
+        Verbi quia haec melior est quam carentia eius. Atqui etiam Incarnatio
+        <lb ed="#K"/>reliquarum personarum Divinarum, melior est quam carentia eiusdem, imo etiam quam
+        <lb ed="#K"/>ipsa sola Incarnatio Verbi. Deinde assumptio plurium et perfectionum natu<lb ed="#K"/>rarum
+        rationalium, melior est quam assumptio unius, vel negatio assumptionis. Ergo
+        <lb ed="#K"/>ad omnia illa necessitari debuisset Deus.
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur 4to. Libertatem Dei infinitam nil potest subiere absolute seu in amo<lb ed="#K"/>rem
+        sui cum absoluta aliqua necessitate <unclear>pertiahere</unclear> nisi bonum infinitum. Atqui
+        <lb ed="#K"/>tale ne invenitur in unione hypostatica secundum id quod dicit extrinsecum, seu non iden<lb ed="#K"/>tificatum
+        Deo. Ergo, etc. Maior probatur: ita si licet indifferentia libertatis infinitae ad
+        <lb ed="#K"/>virtutem motivam finitam, sicut omnipotentia ad difficultatem finitam cuiusvis ope<lb ed="#K"/>ris
+        possibilis. Sicut ergo haec potest superare omnem difficultatem ita illa obni<lb ed="#K"/>ti
+        contra vim omnem creatam movendi, adeoque perfectam ad oppositum retinere facultatem.
+      </p>
+      <p>
+        <lb ed="#K"/>Obiicitur 1mo. Deus habet summam et infinitam propensionem ad Incarna<lb ed="#K"/>tionem.
+        Ergo necessitatem, si non summam saltem moralem. Probatur antecedens: Incarnatio est summa Di<lb ed="#K"/>vinae 
+        bonitatis communicatio. Atqui summum et infinitum bonum quale est Deus summam et infi<lb ed="#K"/>nitam
+        licet propensionem in summam sui communicationem. Ergo propendet infinite et summe.
+        <lb ed="#K"/>Respondeo, distinguo Antecedens.
+      </p>
+
+      
