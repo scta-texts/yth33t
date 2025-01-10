@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 4</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 3</title>
+          <date when="2024-12-23">December 23, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-12-23" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="11-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="yth33t-f2x92">
+      <head>Sectio 4</head> 
+      <head type="question-title">De Existentia Incarnationis</head> 
+      <p xml:id="yth33t-f2x92-d1e118">
+        <lb ed="#K" n="31"/>SECTIO IV
+        <lb ed="#K" n="32"/>De Convenietia Incarnationis
+      </p>
+      <p>
+        <lb ed="#K" n="33"/>Praenoto: Convenientia alicuius respectu alterius, alia est negativa alia 
+        <pb ed="#K" n="11-v"/>
+        <lb ed="#K" n="1"/>positiva. Conveniens negative dicitur quidquid non est inconveniens seu dedecens, 
+        <lb ed="#K" n="2"/>vel malum aliquod involens. Positive conveniens est, quidquid est vel connatu<lb ed="#K" break="no" n="3"/>rale,
+        vel consentaneum alteri, vel aliquod notabile bonum, seu utilitatem
+        <lb ed="#K" n="4"/>aut delectationem appetitus delectativam, vel laudabilitatem specialem adferens.
+        <lb ed="#K" n="5"/>Rursus quod est conveniens, est conveniens vel per se, seu propter se, id est, est propter
+        <lb ed="#K" n="6"/>propriam bonitatem et excellentiam suam amabile, vel verte est conveniens in ordi<lb ed="#K" break="no" n="7"/>ne
+        ad finem extrinsecum, qui appetitur obtinendum. Videndum ium quo nam 
+        <lb ed="#K" n="8"/>ex praedictis modo Incarnatio sit conveniens, et quidem triplici termino, scili<lb ed="#K" break="no" n="9"/>cet
+        ipsi Deo, naturae humanae, et toti Universo. 
+      </p>
+      <p>
+        <lb ed="#K" n="10"/>Dicendum 1mo. Incarnatio per se est conveniens Deo, idque ne nega<lb ed="#K" break="no" n="11"/>tive 
+        tantum sed positive: Ita communiter Theologi. 
+      </p>
+      <p>
+      <lb ed="#K" n="12"/>Probatur. Quia Incarnatio in se est opus quoddam honestissimum et admi<lb ed="#K" break="no" n="13"/>rabile
+      est maxime consentaneum Divinae summaeque bonitati, quae cum ex se
+      <lb ed="#K" n="14"/>sit communicativa sui, tali modo maxime communicatur ad extra. Est de<lb ed="#K" break="no" n="15"/>nique
+      opus, quod Deum summe reddit amabilem laudabilemque, Ergo, etc. Firmatur
+      <lb ed="#K" n="16"/>Congruebat hoc opus Deo, quem decebat sapientiam suam ostendere, po<lb ed="#K" break="no" n="17"/>tentiam
+      et bonitatem. Quid autem potentius est quam coniungere extrema
+      <lb ed="#K" n="18"/>summa distantia? Magna enim potentia fuit in coniunctione disparium elemen<lb ed="#K" break="no" n="19"/>torum,
+      maiorum in coniunctione illorum ad Spiritum Increatum. Quid vero sa<lb ed="#K" n="20"/>
+      pientius quam quod ad complementum totius universi fieret coniunctio primi et
+      <lb ed="#K" n="21"/>in operibus 6 dierum, fuit ultima omnium creaturarum? Quid benignius
+      <lb ed="#K" n="22"/>et melius quam quod Creator rerum communicare se voluit reubus creatis, quae
+      <lb ed="#K" n="23"/>benignitas magna fuit in coniunctione sui cum omnibus rebus per praesentiam, 
+      <lb ed="#K" n="24"/>maior quia communicavit se bonis per gratiam maxima quia communicavit se
+      <lb ed="#K" n="25"/>Christo homini per unitatem Personae.
+    </p>
+    <p>
+      <lb ed="#K" n="26"/>Obiicitur 1mo. Incarnatio dimovet Deum a statu quem habuit ad aeter<lb ed="#K" break="no" n="27"/>no,
+      Ergo est illa inconveniens. Respondeo. Concedo Antecedens nego Consequentiam: sequeretur 
+      <lb ed="#K" n="28"/>enim inde etiam creationem esse inconvenientem Deo, quia ab aeterno non fuit creans. 
+      <lb ed="#K" n="29"/>Probationem Consequentiae distinguo: Status ille est optimus Deo quia ab
+      <lb ed="#K" n="30"/>ampliabilis tamen extrinsece Concedo, non ampliabilis etiam extrinsice nego.
+      <lb ed="#K" n="31"/>Et dico quod discoveniens Deo illud solus est quod vel intrinsecam eius argueret
+      <lb ed="#K" n="32"/>imperfectionem, vel faceret illum moraliter vituperabilem quorum neutram
+      <lb ed="#K" n="33"/>sed potius oppositum praestat Incarnatio.
+    </p>
+    <p>
+      <lb ed="#K" n="34"/>Obiicitur 2do. Nimis disparata non bene uniuntur, ut caput hu<lb ed="#K" break="no" n="35"/>manum
+      corpori equino. Ergo nec Deus naturae humanae. Respondeo. Distinguo Antecedens nimis
+      <lb ed="#K" n="36"/>disparata quorum unum est summe perfectivum, alterum maxime perfectibile,
+      <pb ed="#K" n="12-r"/>non bene uniuntur Nego. Utique magis disparata sunt anima rationalis et materia
+      <lb ed="#K" n="1"/>quam caput humanum et corpus equinum, et tamen bene uniuntur. Nimis disparata ea
+      <lb ed="#K" n="2"/>rentia illa proportione perfectivi et perfectibilis. Transeat Antecedens, nego Consequentiam.
+    </p>
+    <p>
+      <lb ed="#K" n="3"/>Vrgetur. Sanctitas cum peccato non posset uniri. Ergo nec Deus cum creatura
+      <lb ed="#K" n="4"/>tam perversa ut est homo. Respondeo Concedo Antecedens nego Consequentiam. Natura enim hu<lb ed="#K" break="no" n="5"/>mana
+      peccatum non est, sed per se valde bona et dirigibilis adoptinum.
+    </p>
+    <p>
+      <lb ed="#K" n="6"/>Vrgetur Saltem ex suppositione peccati commissi pessima est natura humana,
+      <lb ed="#K" n="7"/>et non amabiilis a Deo. Ergo saltem in conveniens est assumpti a Deo naturam
+      <lb ed="#K" n="8"/>peccatricem. Firmatur: Repugnat eum diligi a Deo, qui est maxime
+      <lb ed="#K" n="9"/>odio dignus: natura autem peccatrix est maxime odio digna, ergo repugnat eam
+      <lb ed="#K" n="10"/>diligi a Deo per assumptionem eius et unitatem personae. Respondeo. distinguo Antecedens:
+      <lb ed="#K" n="11"/>pessima est natura humana et non amabilis a Deo amore amicitiae Concedo, nec amore
+      <lb ed="#K" n="12"/>benevolentiae nego. Disparitatis Ratio est, quia amor amicitiae supponit
+      <lb ed="#K" n="13"/>dignitatem in obiecto, amor autem benevolentiae facit amore dignum, et praece<lb ed="#K" break="no" n="14"/>dit 
+      ex singulari bonitate amantis. Confirmatio similiter distinguenda. 
+      <lb ed="#K" n="15"/>Adde quod humanitas illa in individuo quae hypostatice unita est verbo, nulli
+      <lb ed="#K" n="16"/>etiam originali peccato obnoxia fuit.
+    </p>
+    <p>
+      <lb ed="#K" n="17"/>Vrgetur. Inconveniens est tribui alicui aliquod bonum familiae nequissi<lb ed="#K" break="no" n="18"/>mae,
+      quomagis tribui ne posset optimae. Atqui hoc fit per Incarnationem. Ergo, etc.
+      <lb ed="#K" n="19"/>Respondeo distinguo maiorem, inconveniens est tribui aliquod bonum simpliciter perfecti<lb ed="#K" break="no" n="20"/>vum
+      transeat, medianale simul quale est incarnatio nego. Similiter distincta
+      <lb ed="#K" n="21"/>minore nego Consequentiam.
+    </p>
+    <p>
+      <lb ed="#K" n="22"/>Obiicitur 4to. Per Incarnationem Deus redditur contemptibilis,
+      <lb ed="#K" n="23"/>mortalis patibilis etc, Ergo, etc. Respondeo nego primam partem Antecedentis, quod des<lb ed="#K" break="no" n="24"/>pectus
+      fuerit ut novissimus virorum, ne fuit meritum sese exinanientis,
+      <lb ed="#K" n="25"/>sed malicia hominis despicientis. Ad secundam et tertiam partem Respondeo. Deus per
+      <lb ed="#K" n="26"/>Incarnationem non est formaliter et in se seu quo ad substantiam suam Divinam
+      <lb ed="#K" n="27"/>factus patibilis et mortalis, sed tantum denominative, quatenus deno<lb ed="#K" break="no" n="28"/>minationes 
+      sunt suppositorum.
+    </p>
+    <p>
+      <lb ed="#K" n="29"/>Dicendum 2do. Incarnatio est positive conveniens naturae humanae tam
+      <lb ed="#K" n="30"/>huius in individuo quae assumpta, quam totius in specie. Ratio quia venerunt
+      <lb ed="#K" n="31"/>illi omnia bona pariter cum Incarnatione, nam sic factum est, ut homo sit Deus, unde
+      <lb ed="#K" n="32"/>consequitur. Primo ut homo sit superior Angelis. Secundo ut sit caput totius universi.
+      <lb ed="#K" n="33"/>Tertio ut sit capax infiniti meriti. Quarto ut sit fons salutis et bonorum omnium spiri<lb ed="#K" break="no" n="34"/>tualium 
+      quae praerogativae quamvis proprie conveniant soli Christo, redundant tamen mo<lb ed="#K" break="no" n="35"/>raliter
+      in totum genus humanum, <unclear>ob</unclear> sanguinitatem intercedentem cum illo. Unde <ref>2do
+      <lb ed="#K" n="36"/>a Cor: 2do, dixit Apostolus Deum praedestinasse hoc mysterium in gloriam nostram<!-- this is a paraphrase of 1 Cor. 2:7 --></ref>
+      <lb ed="#K" n="37"/>scilicet secundario. Dices natura humana assumpta a Ver<lb ed="#K" break="no" n="38"/>bo
+      passa est violentiam propter negatam sibi subsistentiam connaturalem
+      <pb ed="#K" n="12-v"/>
+      <lb ed="#K" n="1"/>Ergo unio hypostatica ne fuit illi conveniens. Respondeo utique illi non fit vio<lb ed="#K" break="no" n="2"/>lentia
+      cui adimitur solidus, et datur aureus nummus: proinde nec natura
+      <lb ed="#K" n="3"/>humanae facta est violentia, quae indefectu subsistentiae connaturalis subsistit
+      <lb ed="#K" n="4"/>per hypostasim Verbi infinitam.
+    </p>
+    <p>
+      <lb ed="#K" n="5"/>Dicendum 3tio. Incarnatio fuit positive conveniens etiam respectu
+      <lb ed="#K" n="6"/>totius universi. Probatur quia per illam factum est primo ut universum hoc
+      <lb ed="#K" n="7"/>trino nobilissimarum rerum ordine perfectum sit nempe ordine naturae, gratiae,
+      <lb ed="#K" n="8"/>et Unionis hypostatice. Secundo ut sicut in substantiis creatis est una na<lb ed="#K" break="no" n="9"/>tura
+      in una persona, in Increata vero substantia est una natura in pluribus
+      <lb ed="#K" n="10"/>personis, ita plures naturae essent in una persona. Tertio per Incarna<lb ed="#K" break="no" n="11"/>tionem
+      et Christum <quote source="http://scta.info/resource/eph1_10@5-15">instaurata sint omnia quae in caelis et quae in terra</quote>, ut ait 
+      <lb ed="#K" n="12"/><ref><name>Apostolus</name> ad Ephesios 1mo</ref>. quia nimirum introductus est ordinatus creatu<lb ed="#K" break="no" n="13"/>rarum
+      usus, et directio ad altissimum finem scilicet gloriam Dei, quem consec<lb ed="#K" break="no" n="14"/>tari 
+      Christus docuit verbo ex exemplo.
+    </p>
+    <p>
+      <lb ed="#K" n="15"/>Obiicitur 1mo. Ratione unionis hypostaticae deciderunt Angeli a praee<lb ed="#K" break="no" n="16"/>minentia 
+      connaturali supra hominem. Ergo respectu Angelorum incarna<lb ed="#K" break="no" n="17"/>tio
+      non fuit conveniens. Respondeo nego Antecedens, non enim deciderunt a praeeminentia
+      <lb ed="#K" n="18"/>supra humanem purum: supra humanem vero divine subsistentem nunquam habuerunt
+      <lb ed="#K" n="19"/>praeeminentiam.
+    </p>
+    <p>
+      <lb ed="#K" n="20"/>Obiicitur 2do. Occasione Incarnationis multae creaturae irratio<lb ed="#K" break="no" n="21"/>nales
+      passae sint violentiam, Christus enim et Apostoli miracula patrando, multa
+      <lb ed="#K" n="22"/>fecerunt contra naturalem earum inclinationem. Ergo non fuit illis et toti
+      <lb ed="#K" n="23"/>universo conveniens Incarnatio. Respondeo. Distinguo Consequens, Ergo
+      <lb ed="#K" n="24"/>Incarnatio non fuit conveniens illis convenientia intrinseca dicit bo<lb ed="#K" break="no" n="25"/>num
+      <unclear>aliquid</unclear> accomodatum intrinsece creaturarum inclinationi. Et tale
+      <lb ed="#K" n="26"/>bonum non advenit per incarnationem creaturis illis quarum naturae vel na<lb ed="#K" break="no" n="27"/>turales
+      proprietates sint immutatae. Convenientia extrinseca est deputatio et usus
+      <lb ed="#K" n="28"/>illarum ad finem <unclear>p'tantissimum</unclear>, qui usus est verum bonum extrinsecum creaturarum irratio<lb ed="#K" break="no" n="29"/>nalium,
+      acquirunt enim dignitatem quandam et aestimationem extrinsecam, quod ad tam
+      <lb ed="#K" n="30"/>nobilem altumque finem ut instrumenta apta <unclear>desero aut</unclear> prout contigit quando a
+      <lb ed="#K" n="31"/>Christo domino etiam contra naturalem suam inclinationem immutatae, adhibitae <unclear>sint</unclear>
+      <lb ed="#K" n="32"/>in testimonium dignitatis suae. Nec de est in ipsa earum natura funda<lb ed="#K" break="no" n="33"/>mentum
+      extrinsece huius convenientiae: quando quidem ex essentia sua capacitatem
+      <lb ed="#K" n="34"/>habent ut possint ad tales fines ordinari etiam <unclear>2tia</unclear> inclinationem suam naturalem.
+      <pb ed="#K" n="13-r"/>
+      <lb ed="#K" n="1"/>Porro cum bonum extrinsecum dignius et nobilius sit <unclear>praeponderetque</unclear> quo ad exis<lb ed="#K" break="no" n="2"/>tiationem
+      prudentem inclinationi naturali, mento dicitur Incarnatio conveniens 
+      <lb ed="#K" n="3"/>toti universo et illis ipsis creaturis.
+    </p>
+    </div>
+    </body>
+  </text>
+</TEI>
