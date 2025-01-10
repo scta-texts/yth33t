@@ -59,10 +59,16 @@
       <div xml:id="yth33t-f2x106">
         <head>Praeambulum</head>
         <p>
-          <lb ed="#K" n="4"/>Disputatio 2
-          <!-- intro section goes here -->
-        </p>
-        
+          <lb ed="#K" n="4"/>DISPUTATIO II
+          <lb ed="#K"/>De Necessitate Incarnationis
+          <lb ed="#K"/>Controvertitur hic 1mo an simplicter et absolute fuit Incarnatio necessa<lb ed="#K"/>ria
+          Deo sive physice sive moraliter, absque ulla antecedente suppositione libera,
+          <lb ed="#K"/>id est: tum propter excellentiam tanti operis tum propter perfectissimum agendi modum
+          <lb ed="#K"/>in Deo, et manifestationem perfectionum ipsius. 2do. An fuerit necessaria
+          <lb ed="#K"/>ex suppositione orbis condendi vel conditi; vel ex suppositione voluntatis Divi<lb ed="#K"/>nae
+          de reparando genere humano, vel denique ex suppositione quod condignam 
+          <lb ed="#K"/>satisfactione propeciato mortali exigere voluerit Deus.
+      </p>
       </div>
     </body>
   </text>
