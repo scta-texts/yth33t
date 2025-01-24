@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 2</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 2</title>
+          <date when="2025-01-17">January 17, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-01-17" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="16-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="yth33t-f2x117">
+      <head xml:id="yth33t-f2x117-Hd1e110">Sectio 2</head> 
+      <head xml:id="yth33t-f2x117-Hd1e111" type="question-title">An ex suppositione mundi conditi vel voluntatis reparandi hominem lapsum et reducendi ad finem suum supernaturalem necessitatus sit Deus ad incarnationem?</head> 
+      <p xml:id="yth33t-f2x117-d1e118">
+        <lb ed="#K" n="24"/>SECTIO II
+        <lb ed="#K"/>An ex suppositione mundi conditi vel voluntatis reparandi hominem lapsum et reducendi ad finem suum supernaturalem necessitatus sit Deus ad incarnationem?
+      </p>
+      <p xml:id="yth33t-f2x117-d1e120">
+        <lb ed="#K"/>Primi membri triplex potest esse sensus. Primus: an ex suppositione voluntatis Divinae
+        <lb ed="#K"/>efficacis de producendo hoc mundo cum omnibus suis partibus quibus nunc constat necessa<lb ed="#K" break="no"/>ria
+        fuerit Incarnatio? Cuius quaestionis facilis est resolutio affirmativa, quia de facto 
+        <lb ed="#K"/>huius universi pars praecipua seu caput est Christus. Secundus: an ex suppositione volun<lb ed="#K"/>
+        tatis Divinae, qua subiecto mensura de facto assignata, voluit propagari gloriam suam extrin<lb ed="#K" break="no"/>sicam 
+        per hunc mundum, fuerit necessaria Incarnatio? Et huius facilis est resolutio
+        <pb ed="#K" n="17-r"/>
+        <lb ed="#K"/>affirmativa. Quia non dato Christo, ne fuisset Deus glorificatus operibus teandri<lb ed="#K" break="no"/>cis.
+        Deus autem non moraliter sed metaphysice necessitatur ad ponenda media
+        <lb ed="#K"/>necessaria in ordine ad optinendum finem efficaciter intentum, alioqui imprudenter
+        <lb ed="#K"/>procederet quod repugnat Deo. Tertius sensus esse potest an ex suppositione volun<lb ed="#K" break="no"/>tatis
+        Divinae efficacis de existentia mundi, <unclear>put</unclear> complectitur 4 elementa, animalia
+        <lb ed="#K"/>rationalia et irrationalia, Caelos et Angelos, necessario Deus voluerit Incarna<lb ed="#K" break="no"/>tionem,
+        ita ut moraliter ne potuerit esse voluntas de aliis obiectis, nisi coniuncta
+        <lb ed="#K"/>cum hoc mysterio? Ad hoc dubium respondendo.
+      </p>
+      <p>
+        <lb ed="#K"/>Dicendum primo. Ex suppositione voluntatis de mundo condendo non
+        <lb ed="#K"/>fuit Deus necessitatus ad Incarnationem. Est communis. Probatur. 
+        <lb ed="#K"/>Quia inter Verbum Incarnatum et reliquas partes universi nec est ulla connexio
+        <lb ed="#K"/>essentialis, nec Incarnatio ad statum connaturalem mundi huius et partium illius
+        <lb ed="#K"/>est pertinens, cum sit bonum quo ad substantiam supernaturale, naturae rerum
+        <lb ed="#K"/>indebitum, ordinemque naturalem transcendens. Ergo, etc.
+      </p>
+      <p>
+        <lb ed="#K"/>Dicendum secundo. Quamvis convenientissimum fuerit, ut Deus per Incar<lb ed="#K" break="no"/>nationem
+        repararet lapsum humanem, non tamen id omnino necessarium fuit etiam ex suppositione
+        <lb ed="#K"/>voluntatis de illo reparando, et ad finem suum supernaturalem reducendo. Est com<lb ed="#K" break="no"/>munis
+        Theologorum. Probatur authoritate <ref><name>S. Augustini</name> qui Libr. 13
+        <lb ed="#K"/>de Trinitate cap 10</ref> dicit <quote source="http://scta.info/resource/adt-l13-d1e1457@61-86">Verum etiam ostendamus non alium modum possibilem in Deo
+        <lb ed="#K"/>defuisse, cuius potestati omnia aequaliter subiacent, sed sanandae miseriae nostrae
+        <lb ed="#K"/>convenientiorem alium modum ne fuisse.</quote> Probatur ratione prima pars conclusionis
+        <lb ed="#K"/>ducta a congruentiis, quarum summa est, quod per talem reparationis modum, homo
+        <lb ed="#K"/>optime <unclear>praemoveatur</unclear> ad bonum et finem suum supernaturalem, et avocatur a malo, atque
+        <lb ed="#K"/>bonitas caeteraque attributa Dei, luculentius sic manifestantur. Ex quo sequitur
+        <lb ed="#K"/>quod quamvis Incarnatio ne fuerit simpliciter necessaria ad redemptionem generis hu<lb ed="#K" break="no"/>mani,
+        sicut cibus necessarius est ad sustentandam vitam fuit tamen necessaria, sicut equus
+        <lb ed="#K"/>necessarius est ad iter commodius peragendum, hoc est, ad melius et convenientius re<lb ed="#K" break="no"/>parandum 
+        hominem.
+      </p>
+      <p>
+        Secunda pars conclusionis probatur authoritate <ref><name>SS. PP. Leonis Gregorii</name> et alio<lb ed="#K" break="no"/>rum
+        apud <name>Suarez</name></ref>, est quibus <ref><name>S. Augustinus</name> Lib. De agone Christi cap 11</ref>: <quote>sunt (inquit)
+        <lb ed="#K"/>stulti qui dicunt non poterat aliter sapientia Dei liberare humanem, nisi susciperet humanem.</quote>
+        <lb ed="#K"/>Probatur secundo ratione: si enim ob aliquam causam posset necessaria esse Incarnatio
+        <pb ed="#K" n="17-r"/>
+        <lb ed="#K"/>ad reparationem nostram esset maxime ob hanc, ut ex perfecta iusticia satis
+        <lb ed="#K"/>fieret Deo <unclear>pro peccato</unclear>. Sed hoc non fuit simpliciter necessarium nam ut inquit
+        <lb ed="#K"/><ref><name>S. Cyprianus</name> Sermone de passione Christi</ref> et sine hoc holocausto poterat
+        <lb ed="#K"/>Deus tantum condonasse peccatum, est enim Dominus iuris sui contra peccato
+        <lb ed="#K"/>rem <unclear>acquisit:</unclear> vel etiam potuit minorem aliquam satisfactionem exigere et
+        <lb ed="#K"/>acceptare, reliquum autem liberaliter condonare. Haec planiora
+        <lb ed="#K"/>sunt, difficultas iam instat gravior in suppositione condigne satisfactionis.
+      </p>
+    </div>
+    </body>
+  </text>
+</TEI>
