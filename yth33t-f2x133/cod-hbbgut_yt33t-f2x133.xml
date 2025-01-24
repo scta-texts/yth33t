@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 1</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 1</title>
+          <date when="2025-01-24">January 24, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-01-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="17-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="yth33t-f2x133">
+      <head xml:id="yth33t-f2x133-Hd1e108">Sectio 1</head> 
+      <head xml:id="yth33t-f2x133-Hd1e110" type="question-title">An purus homo potuerit esse sufficiens ad redimendos alios homines ex iustitia?</head> 
+      <p xml:id="yth33t-f2x133-d1e113">
+        <lb ed="#K"/>An purus homo potuerit esse sufficiens ad 
+        <lb ed="#K"/>redimendos alios homines ex Iustitia?
+      </p>
+      <p>
+        <lb ed="#K"/>Certum est 1mo. Defacto et de lege ordinaria nullum propter Christum posse aliis mereri de
+        <lb ed="#K"/>condigno remissionem peccati mortalis, sive propriis sive alieni. Ut definiunt Concilia,
+        <lb ed="#K"/>et declaratur idem amplius in materia de merito et gratia.
+      </p>
+      <p>
+        <lb ed="#K"/>Certum est 2do. Nullam puram creaturam carentem gratia Dei, posse condigne satisfa<lb ed="#K"/>cere
+        Deo per ullo peccato mortali. Ut patebit ex infra dicendis. 
+        PAGEBREAK
+        <lb ed="#K"/>Quaestio ergo procedit de potentia Dei absoluta et homine supernaturalibus
+        <lb ed="#K"/>gratiis instructo.
+      </p>
+      <p>
+        <lb ed="#K"/><ref>Thomistae</ref> affirmativam tenent, ut <ref><name>Scotus</name></ref> <ref>Libro 3 De natura et gratia cap 6
+        <lb ed="#K"/>Et in quartum distinc. 1 quaes. 5 articulo 4 et alibi</ref>. Quod nimirum purus homo
+        <lb ed="#K"/>in gratia constitutus, de potentia absoluta pro aliorum peccatis potuisset satis<lb ed="#K"/>facere
+        ex iustitia non tamen cum tota perfectione iustitiae. 
+      </p>
+      <p>
+        <lb ed="#K"/>Scotus etiam manifeste affirmativam tenet in tertium distinc: 20 quaes 1
+        <lb ed="#K"/>numero 9. ut ait: <quote>sicut Christus homo innocens non debitor satisfecit,
+        <lb ed="#K"/>sic si placuisset Deo, potuit unus bonus Angelus satisfecisse, offerendo ali<lb ed="#K"/>quod
+        placitum Deo pro nobis, quod ipse acceptasset pro omnibus peccatis, quia
+        <lb ed="#K"/>tantum valet omne creatum oblatum, pro quanto Deus acceptat illud et non plus. </quote>
+      
+      </p>
+        
+      </div>
+    </body>
+  </text>
+</TEI>
