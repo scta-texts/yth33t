@@ -69,40 +69,40 @@
         <lb ed="#K"/>et declaratur idem amplius in materia de merito et gratia.
       </p>
       <p>
-        <lb ed="#K"/>Certum est 2do. Nullam puram creaturam carentem gratia Dei, posse condigne satisfa<lb ed="#K"/>cere
+        <lb ed="#K"/>Certum est 2do. Nullam puram creaturam carentem gratia Dei, posse condigne satisfa<lb ed="#K" break="no"/>cere
         Deo per ullo peccato mortali. Ut patebit ex infra dicendis. 
-        PAGEBREAK
+        <pb ed="#K" n="18-r"/>
         <lb ed="#K"/>Quaestio ergo procedit de potentia Dei absoluta et homine supernaturalibus
         <lb ed="#K"/>gratiis instructo.
       </p>
       <p>
         <lb ed="#K"/><ref>Thomistae</ref> affirmativam tenent, ut <ref><name>Sotus</name></ref> <ref>Libro 3 De natura et gratia cap 6
         <lb ed="#K"/>Et in quartum distinc. 1 quaes. 5 articulo 4 et alibi</ref>. Quod nimirum purus homo
-        <lb ed="#K"/>in gratia constitutus, de potentia absoluta pro aliorum peccatis potuisset satis<lb ed="#K"/>facere
+        <lb ed="#K"/>in gratia constitutus, de potentia absoluta pro aliorum peccatis potuisset satis<lb ed="#K" break="no"/>facere
         ex iustitia non tamen cum tota perfectione iustitiae. 
       </p>
       <p>
         <lb ed="#K"/>Scotus etiam manifeste affirmativam tenet in tertium distinc: 20 quaes 1
         <lb ed="#K"/>numero 9. ut ait: <quote>sicut Christus homo innocens non debitor satisfecit,
-        <lb ed="#K"/>sic si placuisset Deo, potuit unus bonus Angelus satisfecisse, offerendo ali<lb ed="#K"/>quod
+        <lb ed="#K"/>sic si placuisset Deo, potuit unus bonus Angelus satisfecisse, offerendo ali<lb ed="#K" break="no"/>quod
         placitum Deo pro nobis, quod ipse acceptasset pro omnibus peccatis, quia
         <lb ed="#K"/>tantum valet omne creatum oblatum, pro quanto Deus acceptat illud et non plus.
         <lb ed="#K"/>Praeterea unus purus homo potuisset satisfacere pro omnibus, si fuisset et conceptus
         <lb ed="#K"/>sine peccato, et Deus dedisset illi gratiam summam quam potuisset recipere, sicut
         <lb ed="#K"/>dedit Christo, sine meritus praecedentibus ex liberalitate sua; talis enim potius
-        <lb ed="#K"/><unclear>set</unclear> mereri deletionem peccati, sicut et beatitudinem.</quote> Ita <ref><name>Scotus</name></ref>. Si ultra
+        <lb ed="#K"/><unclear>sit</unclear> mereri deletionem peccati, sicut et beatitudinem.</quote> Ita <ref><name>Scotus</name></ref>. Si ultra
         <!-- This is in fact Scotus, Lectura III, d. 20, q. 1, nn. 32-33 (Quaracchi XXI, p. 50)-->
         <lb ed="#K"/>queratur: an talis satisfactio fuisset condigna et perfecta? affirmat contra
         <lb ed="#K"/><ref><name>S. Anselmum</name></ref> asserens, quod fuit condigna ad aequalitatem iustitiae. Ratio
         <lb ed="#K"/>eius, quia tantum bonum redderetur Deo per actus supererogatorios, et alios
-        <lb ed="#K"/>indebitos tali homini, quantum est ablatum per peccata, <unclear>ut/at</unclear> diserte probat <ref>in quartum
+        <lb ed="#K"/>indebitos tali homini, quantum est ablatum per peccata, <unclear>ut</unclear> diserte probat <ref>in quartum
         <lb ed="#K"/>distinc. 15, quaes. 1, num: 6 et 7.</ref> Non tamen assent talem satisfactionem esse per
         <lb ed="#K"/><unclear>fcitam</unclear> in rigore iustitiae: Docet enim alibi nec Christum <unclear>sic</unclear> satisfacere potuisse
         <lb ed="#K"/>pro peccatis nostris. Verum haec 2da assertio difficilis ut patebit ex paulo post dicendis. 
       </p>
       <p>
         <lb ed="#K"/>Negativam tuentur plerique Recentiores negando potuisse etiam de potentia
-        <lb ed="#K"/>absoluta condignam a puro homine quantumvis Sancto <unclear>pstari</unclear> satisfactionem pro
+        <lb ed="#K"/>absoluta condignam a puro homine quantumvis Sancto <unclear>praestari</unclear> satisfactionem pro
         <lb ed="#K"/>peccato mortali sive proprio sive alieno.
       </p>
       <p>
@@ -112,23 +112,96 @@
       <p>
         <lb ed="#K"/>Dicendum 1mo. De potentia absoluta potuit fieri ut homno purus
         <lb ed="#K"/>innocens et sanctus satisfaceret de iustitia et aliquomodo de condigno pro
-        <lb ed="#K"/>peccatis aliorum et totius generis humani. Ita <ref><name>Suarez</name> Disp. 4, sectione 7<!-- https://books.google.com/books?id=AvFEAAAAcAAJ&printsec=frontcover&hl=en#v=onepage&q&f=false p. 69ff --></ref>, ci<lb ed="#K"/>tans
+        <lb ed="#K"/>peccatis aliorum et totius generis humani. Ita <ref><name>Suarez</name> Disp. 4, sectione 7<!-- https://books.google.com/books?id=AvFEAAAAcAAJ&printsec=frontcover&hl=en#v=onepage&q&f=false p. 69ff --></ref>, ci<lb ed="#K" break="no"/>tans
         <unclear>per</unclear> se Thomistas, <ref><name>Caietanum</name></ref> et <ref><name>Sotum</name></ref>, etc contra <ref><name>Martinum Perez</name>disp. 5, sect. 5.</ref>
       </p>
       <p>
         <lb ed="#K"/>Probatur 1mo quia potuisset Deus puro homo tantam dare gratiam quantam
         <lb ed="#K"/>dedit animae Christi Domini, et cum eo pacisci, ut se suasque omnes actiones
-        PAGE BREAK
+        <pb ed="#K" n="18-v"/>
         <lb ed="#K"/>ad bonum aliorum <unclear>humanum</unclear> referret, illisque meretur remissionem peccatorum: se
-        <lb ed="#K"/>vero illis propter ipsum benefacturum et remissurum peccata intuitu operum su<lb ed="#K"/>pernaturalium
-        <lb ed="#K"/>ab ipso in eum finem <unclear>positorum</unclear>. In tali enim pacto nil incon<lb ed="#K"/>veniens
-        apparet. Posito autem tali pacto, opera illius humanis erunt sufficien<lb ed="#K"/>tia
-        ad merendum et satisfaciendum pro aliis ex aliqua iustitia: tum quia habe<lb ed="#K"/>bunt 
-        de se aliquam proportionem, licet non ad aequalitatem cum tali effectu prop<lb ed="#K"/>ter 
+        <lb ed="#K"/>vero illis propter ipsum benefacturum et remissurum peccata intuitu operum su<lb ed="#K" break="no"/>pernaturalium
+        <lb ed="#K"/>ab ipso in eum finem <unclear>positorum</unclear>. In tali enim pacto nil incon<lb ed="#K" break="no"/>veniens
+        apparet. Posito autem tali pacto, opera illius humanis erunt sufficien<lb ed="#K" break="no"/>tia
+        ad merendum et satisfaciendum pro aliis ex aliqua iustitia: tum quia habe<lb ed="#K" break="no"/>bunt 
+        de se aliquam proportionem, licet non ad aequalitatem cum tali effectu prop<lb ed="#K" break="no"/>ter 
         dignitatem gratiae et charitatis. Tumquia intercedens illa praemissio
         <lb ed="#K"/>de <unclear>praestanda</unclear> remissione, praecedere poterit non ex simplici fidelitate, sed ex quadam
         <lb ed="#K"/>iustitia, in quantum praemitteretur tantum merces quaedam quamvis copiosa et super
-        <lb ed="#K"/>abundans. Probatur 2do a pari:
+        <lb ed="#K"/>abundans. Probatur 2do a pari: Defacto ordinatione Divina
+        <lb ed="#K"/>factum est, ut omnium posterorum voluntates in unius Adami voluntate inclu<lb ed="#K" break="no"/>darentur
+        tanquam in capite, ita ut illo peccante, peccaverint omnes in 
+        <lb ed="#K"/>illo culpamque contraherent. Ergo pari ratione potuisset Deus in ordine
+        <lb ed="#K"/>gratiae, facere et omnium voluntates in uno tanquam capite ponere, ita,
+        <lb ed="#K"/>ut illo merente et satisfaciente, omnes in illo censerentur mereri et sa<lb ed="#K" break="no"/>tisfacere.
+        Quidni enim Deus potest facere, ut unus purus homo nobis prodesset 
+        <lb ed="#K"/>si vellet, sicut facere potuit, ut unus nobis noceret si vellet.
+      </p>
+      <p>
+        <lb ed="#K"/>Obiicit. <ref><name>Perez</name></ref><ref>disp. 5, sect 5.</ref> Opera quae ex se non habent con<lb ed="#K" break="no"/>dignitatem
+        et aequalitatem moralem cum offensa remittenda, non possunt fieri con<lb ed="#K" break="no"/>digna 
+        et aequalia ratione <unclear>praemissionis</unclear> et pacti Divini. Atqui opera purae
+        <lb ed="#K"/>creaturae ex se <unclear>non habent</unclear> condignitatem et aequalitatem cum offensa remittenda.
+        <lb ed="#K"/>Ergo per promissionem illam et pactum Divinum, <unclear>non possunt</unclear> fieri condigna et aequalia
+        <lb ed="#K"/>offensae. Ergo per illa <unclear>non potest</unclear> fieri satis condigne. Respondeo. Concedo totum
+        <lb ed="#K"/>argumentum. Consequens secundum distinguo: per illa non potest fieri satis condigne
+        <lb ed="#K"/>condignitte perfecta et ex iustitia perfecta, Concedo. Cogdignitte ali<lb ed="#K" break="no"/>qua 
+        et ex iustitia quadam minus rigorosa, nego. Utque in conclusione 
+        <lb ed="#K"/>expresse positum: aliquomodo de condigno: qui sunt termini limittantes.
+      </p>
+      <p>
+        <lb ed="#K"/>Vrget <ref><name>Perez</name></ref> <ref>numero 2do.</ref> Eo ipso quod apponitur haec
+        <lb ed="#K"/>limitatio aliquomodo de condigno, tollitur aequalitas satisfactionis et con<lb ed="#K" break="no"/>sequenter
+        tollitur omnino condignitas, ut ad summum maneat quaedam convenientia
+        <lb ed="#K"/>et congruitas qualis est in actu contritionis supernaturalis respectu
+        <lb ed="#K"/>prima gratiae habitualis optimendae. Ergo pura creatura nullo modo
+        <lb ed="#K"/>de condigno satisfacere posset pro culpa aliena. Firmatur instantia:
+        <pb ed="#K" n="19-r"/>
+        <lb ed="#K"/>quia etiam actus contritionis in peccatore habet annexam Dei <unclear>praemissionem</unclear> de collatio
+        <lb ed="#K"/>ne gratiae, et tamen solum dicitur congrua esse dispositio ad ipsam. Ergo et operaquae
+        <lb ed="#K"/>cunque supernaturalia purae creaturae. Respondeo. nego Antecedens. Quod enim est aliquomodo
+        <lb ed="#K"/>condignum plus est quam mere congruum et conveniens. Disparitas cum adducta
+        <lb ed="#K"/>contritione satis lata est, haec enim elicitur a peccatore, et cum solo auxilio
+        <lb ed="#K"/>supernaturali actuali, illius autem creaturae opera procederent a supposito gra<lb ed="#K" break="no"/>tiosissimo,
+        <lb ed="#K"/><unclear>de griificarenturque</unclear> tum a sanctificante gratia copiosissima, tum 
+        <lb ed="#K"/>a dignitate seu excellentia capitis quam a Deo haberet persona illa:
+        <lb ed="#K"/>quemadmodum dignitas Regia non parum confert ad moralem valorem operis.
+        <lb ed="#K"/>Est ergo titulus non unus ob quem potius opera illius creaturae quam contri<lb ed="#K" break="no"/>tio
+        peccatoris dici posset aliquomodo condigna respectu remissionis pecca<lb ed="#K" break="no"/>torum
+        et non mere congrua. Ad Confirmationem Respondeo: contritioni
+        <lb ed="#K"/>esse annexam simplicem tantum licet infallibilem <unclear>praemissionem</unclear> de remissione
+        <lb ed="#K"/>peccati: operibus vero supernaturalibus illius creaturae, posset esse
+        <lb ed="#K"/>annexa praevisa pro/praemissio iustitialis (suppono enim ex materia de iustitia Deum
+        <lb ed="#K"/>se posse obligare creaturae, non tantum ex fidelitate, sed etiam iustitia) qua
+        <lb ed="#K"/>scilicet responderet illis remissio peccatorum alienorum tanquam merces
+        <lb ed="#K"/>licet super affluens et superabundans, qualiter operibus nostris bonis 
+        <lb ed="#K"/>respondet aeterna beatitudo. Ut plurimorum est sententia.
+      </p>
+      <p>
+        <lb ed="#K"/>Dicendum 2do. Qualiscunque satisfactio puri hominis, vel alterius
+        <lb ed="#K"/>creaturae, pro peccatis alienis non potest esse aequalis offensae Divinae adeoque non esset ex
+        <lb ed="#K"/>perfecta iustitia, nec posset in valore conferri cum satisfactione Christi. Ita
+        <lb ed="#K"/>communiter Theologi. 1ma pars conclusionis et communis est inter
+        <lb ed="#K"/>Theologos excepto <ref><name>Scoto</name></ref> cum suis, et patebit <ref>sectione sequenti</ref>, et nititur autho<lb ed="#K" break="no"/>ritate
+        tot Sanctorum, Patrum, et Theologorum qui absolute negant operibus
+        <lb ed="#K"/>qualibuscunque purae creaturae sufficientiam et condignitatem in ordine ad
+        <lb ed="#K"/>tollendam offensam moralem, et Deum placandum. Sic <ref><name>S. Leo</name></ref> <ref>Sermone 4 et 10 de Nativitate:</ref>
+        <lb ed="#K"/>Si non esset Deus non afferet remedium. Et <ref><name>S. Hilarius</name></ref> <ref>libro 9
+        <lb ed="#K"/>de Trinitate:<quote> nullatenus humana ad auferendum peccatum mundi
+        <lb ed="#K"/>sufficiens et idonea fieret nisi unione Verbi Dei.</quote></ref>. <!-- this seems to be Fulgentius, not Hilary --> <ref><name>S. Ambrosius</name></ref> in <ref>caput
+        <lb ed="#K"/>9 ad hebreos:<quote> tantum fuit peccatum nostrum, ut saluari ne possemus aliquando,
+        <lb ed="#K"/>nisi unigenitus Dei filius mereretur pro nobis.</quote></ref> <ref><name>D. Augustinus</name></ref> <ref>in En<lb ed="#K" break="no"/>chiridio
+        cap: 10: <quote>neque per ipsum liberaremur mediatorem hominem Christum
+        <pb ed="#K" n="19-v"/>
+        <lb ed="#K"/>nisi esset Deus</quote> </ref>. Ergo, etc. 2da pars <unclear>o'choris</unclear> communis est et sequitur
+        <lb ed="#K"/>ex prima perfecta enim iustitia esse non potest, ubi aequalitas perfecta in<lb ed="#K" break="no"/>duci 
+        non posset. Si ergo nulla pura creatura per <unclear>quam eumque</unclear> potentiam
+        <lb ed="#K"/>possit praestare aequalem satisfactionem offensae Divinae, ut prima pars con<lb ed="#K" break="no"/>clusionis 
+        asserit, patet talem satisfactionem non esse perfectam iustitiam.
+      </p>
+      <p>
+        <lb ed="#K"/>Postrema pars conclusionis patet, quia valor meritorum Christi,
+        <lb ed="#K"/>immensum augetur ex unione hypostatica ut infra declarabitur. 
       </p>
       </div>
     </body>
