@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 2</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 2</title>
+          <date when="2025-02-01">February 1, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-02-01" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="19-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="yth33t-f2x142">
+      <head xml:id="yth33t-f2x142-Hd1e110">Sectio 2</head> 
+      <head xml:id="yth33t-f2x142-Hd1e111" type="question-title">Vtrum homo purus posset ad aequalitatem satisfacere pro culpa mortali propria ita ut ex vera iustitia obtineat remissionem eius?</head> 
+      <p xml:id="yth33t-f2x142-d1e118">
+        <lb ed="#K" n="8"/>SECTIO II
+        <lb ed="#K"/>Vtrum homo purus posset ad aequalitatem satis<lb ed="#K"/>facere 
+        <lb ed="#K"/>pro culpa mortali propria ita ut ex vera 
+        <lb ed="#K"/>iustitia obtineat remissionem eius?
+      </p>
+      <p>
+        <lb ed="#K"/>Praenoto. Tunc ex vera iustitia obtinetur remissio alicuius culpae
+        <lb ed="#K"/>commissae, dum in ordine ad placandam personam offensam, tale ac tantum
+        <lb ed="#K"/>ponitur opus, ut ne possit amplius manere rationabiliter offensus
+        <lb ed="#K"/>aversus a reo, quamvis forte vi talis operis non tenetur reum positive
+        <lb ed="#K"/>recipere in gratiam et amicitiam, verba gratia conferendo peccatori gratiam habitua<lb ed="#K"/>lem,
+        et ius ad gloriam aeternam. Quodsi vero <unclear>praestito</unclear> sibi tali opere,
+        <lb ed="#K"/>ad huc offensus velit continuare aversionem, irrationabiliter aget,
+        <lb ed="#K"/>et nilominus offensa tolletur, nec reus obnoxius manebit amplius.
+        <lb ed="#K"/>Quaeritur ergo utrum tale opus possit peccator aliquis <unclear>praestare</unclear> pro culpa
+        <lb ed="#K"/>sua mortali. In varia Authores abiere.
+      </p>
+      <>
+        <lb ed="#K"/>Thomistae negativam defendunt sententiam secuti suum ante
+        <lb ed="#K"/>signaum Divam Thomam, qui hoc loco quaest: 1 articulo 2, ad 2dum
+        <lb ed="#K"/>aperto negat, dum auct. <unclear>diendum</unclear> quod aliqua satisfactio potest dici du<lb ed="#K"/>pliciter
+        sufficiens, uno modo perficite, quia est condigna per quanda adae<lb ed="#K"/>quationem
+        ad recompensationem culpae commissae; et sic humanis puri satis<lb ed="#K"/>factio
+        sufficiens esse non potuit pro peccato: Tumquia tota natura hu<lb ed="#K"/>mana
+        per peccatum erat corrupta contra Deum commissum quandam infinita<lb ed="#K"/>tem 
+        habet ex infinitate Divinae magestatis tanto enim offensa est
+        <lb ed="#K"/>gravior, quanto maior est ille, inquam delinquitur. Unde 
+        <pb ed="#K" n="20-r"/>
+        <lb ed="#K"/>oportuit ad condigna satisfactionem, ut actus satisfacientis haberet
+        <lb ed="#K"/>efficaciam infinitam, utpote Dei et hominis existens. Alio modo potest
+        <lb ed="#K"/>dici satisfactio humanis esse sufficiens imperfecte, scilicet 2dum acceptionem
+        <lb ed="#K"/>eius qui est ea contentus, quamvis ne sit condigna. Et hoc modo satisfac<lb ed="#K"/>tio
+        puri humanis est sufficiens. Idem docet in tertium distinctione 20
+        <lb ed="#K"/>quaes. 1 arti: 2do. et in quartum distinc. 14 quaest: 1. Ubi loquens de
+        <lb ed="#K"/>penitentia infusa, dicit non posse per illam Deo reddi aequivalens <unclear>pos<lb ed="#K"/>sensa,</unclear>
+        sicut nec potest religio seu gratitudo pro beneficio.
+      </p>
+      <p?>
+        <lb ed="#K"/>Scotistae affirmativam sententiam tuentur secuti suum ante signarum
+        <lb ed="#K"/>scotum qui in quarum distinc: 15 quaes: 1 numero 7. Sic loquitur: quantum
+        <lb ed="#K"/>ad istum articulum potest dici, quod Deus de potentia absoluta posset dedis<lb ed="#K"/>se
+        peccatori post attritionem, tanquam post dispositionem congruam et meri<lb ed="#K"/>tam
+        de congruo gratiam, per quam motus eius fieret contritio, et sic per satis<lb ed="#K"/>factionem
+        delevisse peccatum, quia per illum actum redderet Deo aequivalens illi
+        <lb ed="#K"/>bono, quod abstulit peccatum. Aliam quoque statim subdit rationem, quia
+        <lb ed="#K"/>talis actus posset alias esse indebitus Deo, scilicet supererogationis
+        <lb ed="#K"/>et non <unclear>praecepti</unclear>, posset enim Deus per absolutam potentiam humanem solum obligare
+        <lb ed="#K"/>ad Decalogum. Ergo tunc homo aliqua opera supererogationis exer<lb ed="#K"/>cere
+        posset, atque pro peccatis suis offerre, et tunc inquit saluaretur
+        <lb ed="#K"/>tota ratio satisfactionis. Similiter distinctione <unclear>20/40</unclear> intentum, asserit
+        <lb ed="#K"/>per actum charitatis perfecte poni aequalitatem peccato.
+      </p>
+      <p>
+        <lb ed="#K"/>Retentiores excepta schola scoti licet passim neget puram crea<lb ed="#K"/>turam
+        condigne et ad aequalitatem satisfacere posse pro peccato mortali
+        <lb ed="#K"/>proprio, multi tamen parum efficaces adferunt rationes assertionis suae,
+        <lb ed="#K"/>quas hic expendere breviter non oberit.
+      </p>
+      <p>
+        <lb ed="#K"/>1ma. Ratio est Durandi in quartum distinc. 4 quaes: 1: quia ita
+        <lb ed="#K"/>se habet satisfactio sicut gratiarum actio. Sed Deo non possumus satis pro be<lb ed="#K"/>neficiis
+        gratiis agere ergo nec pro peccatis satisfacere. Contra
+        <lb ed="#K"/>est quia inde sequitur quod nec parentibus aut praeceptoribus pro nota<lb ed="#K"/>bili
+        offensa possemus satisfacere, cum iuxta <unclear>Articulum</unclear> etiam illis ne possi<lb ed="#K"/>mus
+        esse satis grati.
+      </p>
+        <lb ed="#K"/>2da est Medinae quia quidquid faciat pura creatura, debetur
+        <lb ed="#K"/>Deo aelio titulo, possetque iuste alio titulo ab illa exigi.
+        <pb ed="#K" n="20-v"/>
+      <p>
+        <lb ed="#K"/>Contra est quia inde sequitur nec Christi satisfactionem esse pefectum et
+        <lb ed="#K"/>omnino ad aequalitatem, cum etiam ipsius opera Deus exigere alio
+        <lb ed="#K"/>titulo potuit.
+      </p>
+    </div>
+    </body>
+  </text>
+</TEI>
