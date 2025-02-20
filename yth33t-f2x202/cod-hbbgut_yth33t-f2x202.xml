@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 3</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 3</title>
+          <date when="2025-02-19">January 17, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-02-19" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="63-r"/>
+      </div>
+    </front>
+    <body>
+      <div>
+      <head>Sectio 3</head> 
+      <head>An Christus venisset si Adam ne peccavisset?</head> 
+      <p>
+        <lb ed="#K" n="4"/>SECTIO III
+        <lb ed="#K"/>An Christus venisset si Adam ne peccavisset?
+      </p>
+      <p>
+        <lb ed="#K"/>Dicendum est. Etiamsi Adam ne peccasset Christus vi praesentis decreti
+        <lb ed="#K"/>venisset. Ita Schola Scotistica et caeteri apud <ref><name>Suarez</name> sec. 5: <name>Hurtadus,</name><name>Matinon,</name><name>Perez,</name> <lb ed="#K"/>
+        <name>Esparta</name> et caeteri</ref>.
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur <ref>ex dictis sectione praecedente, quia nimirum voluntas Incarnationis
+        <lb ed="#K"/>fuit anterior permissione et praevisione peccati absolute futuri, habebatque motivum
+        <lb ed="#K"/>per se sufficientissimum independenter a peccato. Ergo vi talis voluntatis venis<lb ed="#K"/>set
+        Christus etiamsi Adam non peccasset.</ref> Antecedens probatum est ibidem sufficienter tum ex
+        <lb ed="#K"/>sacra scriptura tum ex Patribus ex rationibus. Consequentia probatur: quia
+        <lb ed="#K"/>quando aperta ratio et authoritas non urget, iudicandum est motivum voluntatis
+        <lb ed="#K"/>quo defacto movebatur voluntas, quod de se sufficientissimum erat, fuisse adae<lb ed="#K"/>quatum,
+        adeoque efficaciter voluntatem movisse: loquendum enim est <unclear>consentare e</unclear>ad rerum
+        <lb ed="#K"/>naturas et causarum naturalem virtutem, quoties contrarium aperta ratio non evincit.
+      </p>
+      <p>
+        <lb ed="#K"/>Obiicitur primo. <ref>Himnus <!-- sic: hymnus --> Romanae Ecclesiae: O certe necessarium Adae
+        <lb ed="#K"/>peccatum quod Christi morte deletum est. O felix culpa quae talem ac tantum meruit
+        <lb ed="#K"/>habere Redemptorem.</ref> Item <ref>ad Beatissimam: peccatores non abhorres, sine quibus
+        <lb ed="#K"/>nunquam fores tanto digna filio.</ref> Ergo Christus ne venisset non dato peccato.
+        <lb ed="#K"/>Respondeo <unclear>tamen</unclear> pro nobis ad musicam hoc argumentum <ref><name>Arriaga</name> Disp: 14 Sectione <unclear>4</unclear>quod
+        <lb ed="#K"/><unclear>praecedat</unclear> de Christo ut passibili et moriente: Christum autem non dato peccato
+        <lb ed="#K"/>venisset impassibilis.</ref> Ergo necessarium solum fuit peccatum ut Christus in
+        <lb ed="#K"/>illius remedium pateretur et moreretur, non autem ut absolute veniret: Aliis di<lb ed="#K"/>cunt
+        quod Adamo non peccante Christus ne venisset natus ex femina, venisset
+        <lb ed="#K"/>tamen creatus a Deo.
+      </p>
+      <p>
+        <lb ed="#K"/>Obiicitur secundo. Si Christus venisset Adamo non peccante, vel venisset
+        <lb ed="#K"/>in carne passibili vel impassibili: 
+      </p>
+
+        <pb ed="#K" n="17-r"/>
+      <p>
+      </p>
+    </div>
+    </body>
+  </text>
+</TEI>
