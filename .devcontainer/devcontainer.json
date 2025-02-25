@@ -21,7 +21,8 @@
         "cSpell.language": "en,la",
         "cSpell.enableFiletypes": [
           "xml"
-        ]
+        ], 
+	"cSpell.maxNumberOfProblems": 1000
       }
     }
   }
