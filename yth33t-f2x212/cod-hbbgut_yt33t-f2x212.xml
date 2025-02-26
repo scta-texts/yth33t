@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 4</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 4</title>
+          <date when="2025-02-25">February 25, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-02-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="64-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="yth33t-f2x212">
+      <head>Sectio 4</head> 
+      <head xml:id="yth33t-f2x212-Hd1e110" type="question-title">An Christus decretus fuerit prius aut principalius propter peccatum Originale quam propter actualia?</head> 
+      <p>
+        <lb ed="#K"/>SECTIO IV
+        <lb ed="#K"/>An Christus decretus fuerit prius aut principalius
+        <lb ed="#K"/>propter peccatum Originale quam propter actualia?
+      </p>
+      <p>
+        <lb ed="#K"/>Certum ex fide Christum decretum esse et venisse ut nos redimeret ab
+        <lb ed="#K"/>omni peccato, id est tam originali quam actuali sive mortali sive veniali,
+        <lb ed="#K"/>secundum illud <ref>prima Ioannis primo</ref>.
+      </p>
+      </div>
+    </body>
+  </text>
+</TEI>
