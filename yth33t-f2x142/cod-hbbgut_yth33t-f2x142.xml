@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 2</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 2</title>
+          <date when="2025-02-01">February 1, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-02-01" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="19-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="yth33t-f2x142">
+      <head xml:id="yth33t-f2x142-Hd1e110">Sectio 2</head> 
+      <head xml:id="yth33t-f2x142-Hd1e111" type="question-title">Vtrum homo purus posset ad aequalitatem satisfacere pro culpa mortali propria ita ut ex vera iustitia obtineat remissionem eius?</head> 
+      <p xml:id="yth33t-f2x142-d1e118">
+        <lb ed="#K" n="8"/>SECTIO II
+        <lb ed="#K"/>Vtrum homo purus posset ad aequalitatem satis<lb ed="#K" break="no"/>facere 
+        <lb ed="#K"/>pro culpa mortali propria ita ut ex vera 
+        <lb ed="#K"/>iustitia obtineat remissionem eius?
+      </p>
+      <p>
+        <lb ed="#K"/>Praenoto. Tunc ex vera iustitia obtinetur remissio alicuius culpae
+        <lb ed="#K"/>commissae, dum in ordine ad placandam personam offensam, tale ac tantum
+        <lb ed="#K"/>ponitur opus, ut ne possit amplius manere rationabiliter offensus
+        <lb ed="#K"/>aversus a reo, quamvis forte vi talis operis non tenetur reum positive
+        <lb ed="#K"/>recipere in gratiam et amicitiam, verba gratia conferendo peccatori gratiam habitua<lb ed="#K" break="no"/>lem,
+        et ius ad gloriam aeternam. Quodsi vero <unclear>praestito</unclear> sibi tali opere,
+        <lb ed="#K"/>ad huc offensus velit continuare aversionem, irrationabiliter aget,
+        <lb ed="#K"/>et nilominus offensa tolletur, nec reus obnoxius manebit amplius.
+        <lb ed="#K"/>Quaeritur ergo utrum tale opus possit peccator aliquis <unclear>praestare</unclear> pro culpa
+        <lb ed="#K"/>sua mortali. In varia Authores abiere.
+      </p>
+      <p>
+        <lb ed="#K"/>Thomistae negativam defendunt sententiam secuti suum ante
+        <lb ed="#K"/>signaum Divam Thomam, qui hoc loco quaest: 1 articulo 2, ad 2dum
+        <lb ed="#K"/>aperto negat, dum auct. <unclear>diendum</unclear> quod aliqua satisfactio potest dici du<lb ed="#K" break="no"/>pliciter
+        sufficiens, uno modo perficite, quia est condigna per quanda adae<lb ed="#K" break="no"/>quationem
+        ad recompensationem culpae commissae; et sic humanis puri satis<lb ed="#K" break="no"/>factio
+        sufficiens esse non potuit pro peccato: Tumquia tota natura hu<lb ed="#K" break="no"/>mana
+        per peccatum erat corrupta contra Deum commissum quandam infinita<lb ed="#K" break="no"/>tem 
+        habet ex infinitate Divinae magestatis tanto enim offensa est
+        <lb ed="#K"/>gravior, quanto maior est ille, inquam delinquitur. Unde 
+        <pb ed="#K" n="20-r"/>
+        <lb ed="#K"/>oportuit ad condigna satisfactionem, ut actus satisfacientis haberet
+        <lb ed="#K"/>efficaciam infinitam, utpote Dei et hominis existens. Alio modo potest
+        <lb ed="#K"/>dici satisfactio humanis esse sufficiens imperfecte, scilicet 2dum acceptionem
+        <lb ed="#K"/>eius qui est ea contentus, quamvis ne sit condigna. Et hoc modo satisfac<lb ed="#K" break="no"/>tio
+        puri humanis est sufficiens. Idem docet in tertium distinctione 20
+        <lb ed="#K"/>quaes. 1 arti: 2do. et in quartum distinc. 14 quaest: 1. Ubi loquens de
+        <lb ed="#K"/>penitentia infusa, dicit non posse per illam Deo reddi aequivalens <unclear>pos<lb ed="#K" break="no"/>sensa,</unclear>
+        sicut nec potest religio seu gratitudo pro beneficio.
+      </p>
+      <p>
+        <lb ed="#K"/>Scotistae affirmativam sententiam tuentur secuti suum ante signarum
+        <lb ed="#K"/>scotum qui in quarum distinc: 15 quaes: 1 numero 7. Sic loquitur: quantum
+        <lb ed="#K"/>ad istum articulum potest dici, quod Deus de potentia absoluta posset dedis<lb ed="#K" break="no"/>se
+        peccatori post attritionem, tanquam post dispositionem congruam et meri<lb ed="#K" break="no"/>tam
+        de congruo gratiam, per quam motus eius fieret contritio, et sic per satis<lb ed="#K" break="no"/>factionem
+        delevisse peccatum, quia per illum actum redderet Deo aequivalens illi
+        <lb ed="#K"/>bono, quod abstulit peccatum. Aliam quoque statim subdit rationem, quia
+        <lb ed="#K"/>talis actus posset alias esse indebitus Deo, scilicet supererogationis
+        <lb ed="#K"/>et non <unclear>praecepti</unclear>, posset enim Deus per absolutam potentiam humanem solum obligare
+        <lb ed="#K"/>ad Decalogum. Ergo tunc homo aliqua opera supererogationis exer<lb ed="#K" break="no"/>cere
+        posset, atque pro peccatis suis offerre, et tunc inquit saluaretur
+        <lb ed="#K"/>tota ratio satisfactionis. Similiter distinctione <unclear>20/40</unclear> intentum, asserit
+        <lb ed="#K"/>per actum charitatis perfecte poni aequalitatem peccato.
+      </p>
+      <p>
+        <lb ed="#K"/>Retentiores excepta schola scoti licet passim neget puram crea<lb ed="#K" break="no"/>turam
+        condigne et ad aequalitatem satisfacere posse pro peccato mortali
+        <lb ed="#K"/>proprio, multi tamen parum efficaces adferunt rationes assertionis suae,
+        <lb ed="#K"/>quas hic expendere breviter non oberit.
+      </p>
+      <p>
+        <lb ed="#K"/>1ma. Ratio est Durandi in quartum distinc. 4 quaes: 1: quia ita
+        <lb ed="#K"/>se habet satisfactio sicut gratiarum actio. Sed Deo non possumus satis pro be<lb ed="#K" break="no"/>neficiis
+        gratiis agere ergo nec pro peccatis satisfacere. Contra
+        <lb ed="#K"/>est quia inde sequitur quod nec parentibus aut praeceptoribus pro nota<lb ed="#K" break="no"/>bili
+        offensa possemus satisfacere, cum iuxta <unclear>Articulum</unclear> etiam illis ne possi<lb ed="#K" break="no"/>mus
+        esse satis grati.
+      </p>
+      <p>
+        <lb ed="#K"/>2da est Medinae quia quidquid faciat pura creatura, debetur
+        <lb ed="#K"/>Deo aelio titulo, possetque iuste alio titulo ab illa exigi.
+        <pb ed="#K" n="20-v"/>
+      </p>
+      <p>
+        <lb ed="#K"/>Contra est quia inde sequitur nec Christi satisfactionem esse pefectum et
+        <lb ed="#K"/>omnino ad aequalitatem, cum etiam ipsius opera Deus exigere alio
+        <lb ed="#K"/>titulo potuit.
+      </p>
+      <p>
+        <lb ed="#K"/>3tia. Ratio est <ref><name>Vasquiis</name>Disputatione 4 cap: 5. numero 6.</ref> quia
+        <lb ed="#K"/>quantum cunque faciat creatura non potest pro toto debito satisfacere, pecca<lb ed="#K" break="no"/>tor
+        enim per suum peccatum, meritus est negationem omnis auxiliis congrui
+        <lb ed="#K"/>quod debitum necesse est liberaliter a Deo tolli, alias non nisi naturales
+        <lb ed="#K"/>et in proportionatissimos eliceret actus peccator. Quodsi contritionem
+        <lb ed="#K"/>et charitatem habere possemus ex propriis viribus absque ullo auxilio gra<lb ed="#K" break="no"/>tiae
+        Dei, tunc inquit <ref>Vasques, numero 53</ref>. nostra satisfactio perfecta
+        <lb ed="#K"/>esset: nunc autem minus sufficiens est, quamvis natura sua abstergat
+        <lb ed="#K"/>et deleat omnem maculam peccati et offensam, quia nimirum fit cum
+        <lb ed="#K"/>auxilio Dei partem debiti condonantis. Contra hanc rationem
+        <lb ed="#K"/>opponitur quod talis <unclear>condanatio</unclear> quae solum est panae cuiusdam pro peccato debitae, non videatur
+        <lb ed="#K"/>obstare satisfactioni perfectae pro culpa. I quae tota est ad tollendum per se maculam et
+        <lb ed="#K"/>offensam simul. 2do. sicut carentiam auxiliis, ita carentiam redemptoris merebatur
+        <lb ed="#K"/>peccatum, et tamen per gratis datum nobis redemptorem nihil derogatum est condigni<lb ed="#K" break="no"/>tali
+        et perfectioni satisfactionis Christi pro peccatis nostris.
+      </p>
+      <p>
+        <lb ed="#K"/>4ta Ratio est Lugonis hic Disputatione 5 sectione 4: quia nulla pura crea<lb ed="#K" break="no"/>tura
+        tantum ponere potest, ut offensus Deus non possit amplius rationaliter manere aversus 
+        <lb ed="#K"/>et offensus, quidquid enim agat vel pariatur creatura in eum finem, adhuc Deus amplius
+        <lb ed="#K"/>rationabiliter irasci potest peccatori, eo quod in ipso peccato mortali sit exi<lb ed="#K" break="no"/>gentia
+        quaedam ut ne placetur Deus, atque sic per perseverantiam offensionis abste<lb ed="#K" break="no"/>rreantur 
+        humanes appeccatis. Contra opponitur quod absque tali exigentia
+        <lb ed="#K"/>suffientem habet vim peccatum ad absterrendos humanes tum enormitate sua tum
+        <lb ed="#K"/>aeternitate suppliciis quod meretur. Deinde eandem ob causam peccatum de<lb ed="#K" break="no"/>beret
+        etiam exigere, ut nec per misericordiam Dei, nec per satisfactionem Christi
+        <lb ed="#K"/>pro illo satis fieri possit, sic enim maior adhuc imputaretur terror homi<lb ed="#K" break="no"/>nibus.
+        Plura opponit <unclear>plixe</unclear> <ref><name>Arriaga</name> Disp: 4 sectione 3</ref>.
+      </p>
+      <p>
+        <lb ed="#K"/>5ta est <ref><name>Ripaldae</name> in Disputationibus de supernaturali:<quote>quia
+        <lb ed="#K"/>creatura per peccatum constituitur novo titulo serva Dei, ratione cu<lb ed="#K" break="no"/>ius
+        servitutis, Deus <unclear>aequorit</unclear> ius novum ad omnia obsequia possibi<lb ed="#K" break="no"/>lia
+        purae creaturae etiam aeterna, ita ut possit ea exigere titulo pec<lb ed="#K" break="no"/>cati.
+        Si autem pura creatura posset condigne satisfacere pro peccato,
+        <pb ed="#K" n="21-r"/>
+        <lb ed="#K"/>eo ipso posset se liberare ab ista servitute quod est inconveniens.</quote></ref>
+      </p>
+      <p>
+        <lb ed="#K"/>Contra est. Cur maius Deus acquirat ius titulo peccati in omnia obse<lb ed="#K" break="no"/>quia
+        creaturae, quam aequisivit titulo creationis et causae purae? Et tamen
+        <lb ed="#K"/>hoc iure non obstante Christus condigne satisfecit pro nobis, et nos con<lb ed="#K" break="no"/>digne
+        meremur gloriam aeternam.
+      </p>
+      <p>
+        <lb ed="#K"/>Sexta est <ref><name>Cardinalis Palavicini</name> numero <unclear>79</unclear></ref> et <ref><name>Haunoldi</name> tractatu
+        <lb ed="#K"/>primo Controversia secunda cap: 1 paragr: 4: Ut aliquis satisfaciat ad aequa<lb ed="#K" break="no"/>litatem
+        <lb ed="#K"/>pro debito ex gravi debito debet solum facere supra id ad quod
+        <lb ed="#K"/>tenebatur ante delictum, quantum infra suum debitum fecit delinguendo.
+        <lb ed="#K"/>Verba gratia: Si quis alteri alapam impiet, debet tantum honoris illi exhibere
+        <lb ed="#K"/>supra, id ad quod alias tenebatur, quantum infra suum debitum tractavit
+        <lb ed="#K"/>offensum. Atqui nemo peccator potest Deum tantum honorare supra id ad quod
+        <lb ed="#K"/>tenebatur ante delictum, quantum despexit post ponendo eius authoritatem
+        <lb ed="#K"/>et amicitiam bono finito. Ergo, etc.</ref> <!-- https://www.google.com/books/edition/Theologiae_speculatiuae_scholasticis_pra/ewjbzEaceSQC?hl=en&gbpv=1&dq=Theologiae%20speculatiuae%20scholasticis%20praelectionibus%20et%20exercitiis%20accomodatae&pg=PA455&printsec=frontcover --> Haec ratio satis bona est; Contra
+        <lb ed="#K"/>tamen opponitur: Quod defacto pauca Deus determinate ex imposita obli<lb ed="#K" break="no"/>gatione
+        exigat ab humane, et supra id quod taliter exigit, potest homo pluri<lb ed="#K" break="no"/>mos
+        et praestantissimos elicere actus supernaturales supererogatonos
+        <lb ed="#K"/>honoris et amoris, alioqui videtur aliquando adaequaturus omne debitum
+        <lb ed="#K"/>pro offensa si nil aliud obstet.
+      </p>
+      <p>
+        <lb ed="#K"/>Septima est <ref><name>Espartae</name>hic quaestione 9.</ref> Quod peccatum mortale sit tantum
+        <lb ed="#K"/>malum, ut excludat ab humane gratiam habitualem et gloriam ac habitus vir<lb ed="#K" break="no"/>tutum
+        supernaturalium, non tantum existentes in humane peccante, sed secundum omnes
+        <lb ed="#K"/>absolute gradus possibiles adeoque infinitos. Atqui nulla opera bona
+        <lb ed="#K"/>creaturae purae inducere possunt infinitos gradus gratiae et gloriae in ani<lb ed="#K" break="no"/>mam.
+        Ergo inter illa et peccatum non potest dari aequalitas. Hanc ratio<lb ed="#K" break="no"/>nem
+        dat etiam <ref><name>Perez</name></ref>. Contra est 1mo. ex hac vi impeditiva bonorum
+        <lb ed="#K"/>infinitorum videtur peccati malicia esse infinita simpliciter, quod non vult Espar<lb ed="#K" break="no"/>sa
+        2do Omnia peccata mortalia essent aequalia omnia enim excludunt 
+        <lb ed="#K"/>illa bona. 3tio non posset condigne satis fieri etiam pro veniali, quia etiam
+        <lb ed="#K"/>hoc impedit bonum infinitum, scilicet unionem hypostaticam. Plura opponit <add place="right">Palavicinius</add>
+      </p>
+      <p>
+        <lb ed="#K"/>8ua est <ref><name>Lessii</name> Libro 13 de perfectionibus Divinis capite 46 et 47.</ref>
+        <lb ed="#K"/><ref><name>Valentiae</name></ref>, <ref><name>Hurtadi</name></ref>, <ref><name>Martinonis</name></ref>, <ref><name>Geniti</name></ref>, etc. quod peccatum mortale in ratione
+        <lb ed="#K"/>offensae sit moraliter infinitum simpliciter, quia ut docet <ref><name>Aristoteles</name>
+        <lb ed="#K"/>5to Ethicorum cap: 5.</ref> et manifestum est ab inductione, offensa crescit ex digni<lb ed="#K" break="no"/>tate
+        offensi, et ex vilitate offendentis. Ergo cum inter dignitatem Dei
+        <pb ed="#K" n="21-v"/>
+        <lb ed="#K"/>offensi et vilitatem creaturae offendentis sit infinita distantia necesse
+        <lb ed="#K"/>esse peccatum saltem mortale esse infinitum simpliciter in ratione offensae.
+      </p>
+      <p>
+        <lb ed="#K"/>Contra tamen opponitur 1mo: quia illud est malum simpliciter infinitum inratio<lb ed="#K" break="no"/>ne
+        mali, quo non potest excogitari aliud maius in ratione mali, sicut illud
+        <lb ed="#K"/>est bonum simpliciter infinitum, quo non potest excogitari vel esse maius bonum
+        <lb ed="#K"/>quale est Deus. Atqui inter peccata mortalia unum est maius alio, inge<lb ed="#K" break="no"/>nere
+        mali et offensae. Contra 2do. quia dignitas Dei offensi non auget gra<lb ed="#K" break="no"/>vitatem
+        peccati, nisi quatenus existit intentionaliter in mente et affectu
+        <lb ed="#K"/>seu voluntate peccantis, seu inquantum apparet <unclear>offendentum</unclear>, et inquantum
+        <lb ed="#K"/>hic se opponit illi per actum voluntatis. Atqui cognitio qua peccator 
+        <lb ed="#K"/>cognoscit Deum esse bonum infinitum, est valde imperfecta et limitata: cona<lb ed="#K" break="no"/>tus
+        etiam voluntatis quo se opponit illi dignitati et legibus eius, est
+        <lb ed="#K"/>satis imperfectus. Ergo non potest infinitudo Dei transfundere in actum pecca<lb ed="#K" break="no"/>ti
+        infinitatem simpliciter in ratione maliciae vel offensae. Hanc ratio<lb ed="#K" break="no"/>nem
+        declarat <ref><name>Suarez</name>, hic disp. 4 sectione 7.</ref> Contra est tertio. Etiam
+        <lb ed="#K"/>peccatum veniale deberet dici infinitum simpliciter. Contra est quarto, si
+        <lb ed="#K"/>per possibile vel impossibile gratia infinita daretur creaturae purae, saltem
+        <lb ed="#K"/>tunc posset ad aequalitatem satisfacere, essent enim actus illius infiniti
+        <lb ed="#K"/>valoris. Haec et plura videri possunt apud <ref><name>Arriagam</name></ref>, <ref><name>Lugonem</name></ref>, <ref><name>Palavicinum</name></ref>
+        <lb ed="#K"/><ref><name>Perez</name></ref> et caeteros.
+      </p>
+      <p>
+        <lb ed="#K"/>PARAGRAPHVS I
+        <lb ed="#K"/>Sententia et Ratio <ref><name>Soarii</name></ref> Defenditur 
+      </p>
+      <p>
+        <lb ed="#K"/>Dicendum 1mo. Non potest ulla pura creatura ad aequalitatem satisface<lb ed="#K" break="no"/>re
+        pro culpa mortali propria, ita ut ex vera iustitia obtineat remissionem
+        <lb ed="#K"/>eius. Ita <ref><name>Suarius</name></ref>.
+      </p>
+      <p>
+        <lb ed="#K"/>Rationem fundamentalem dat hanc <ref>disp. 4. sectione 7, et sequentibus</ref>:
+        <lb ed="#K"/>Quia ut ad aequalitatem satisfiat pro offensa seu iniuria personali, debet
+        <lb ed="#K"/>in persona satisfaciente, tantum esse dignitatis, quantum est in persona laesa.
+        <lb ed="#K"/>Atqui pura creatura quibuscunque gratiis supernaturalibus dignificetur, nun<lb ed="#K" break="no"/>quam
+        pertingere potest ad tantam dignitatem, ac est in Deo offenso. Ergo nullo
+        <lb ed="#K"/>modo potest satisfacere ad aequalitatem pro culpa mortali. Minor est manifesta,
+        <lb ed="#K"/>quamvis enim sit gratia ordinis cuiusdam Divini et participatio naturae Divinae
+        <pb ed="#K" n="22-r"/>
+        <lb ed="#K"/>tamen tota eius dignitas tam physice quam moraliter est limitata; et
+        <lb ed="#K"/>quamvis multiplicaretur in infinitum, adhuc infinita esset distantia a digni<lb ed="#K" break="no"/>tate 
+        Dei offensi. Maior in qua vis est probatur: quia sicut iniuria perso<lb ed="#K" break="no"/>nalis
+        crescit ex dignitate persone offensae, ita satisfactio decrescit, ex vilitate per
+        <lb ed="#K"/>sonae satisfacientis, ut patet inductione, et ex communissimo sensu hominum, ex quo ma<lb ed="#K" break="no"/>navit 
+        vulgare illud: honor est in honorante, iniuria autem in persona iniuriata.
+        <lb ed="#K"/>Id est tanta est iniuria personalis, quantam est persona iniuriata, et tantus est honor
+        <lb ed="#K"/>qui alicui exhibetur, quanta est persona honorans. Si enim plebeius aliquis viro
+        <lb ed="#K"/>Principi colasum infligat, et mox se ad plantas eius abiiciat pro nihilo hoc
+        <lb ed="#K"/>reputatus: si vir nobilis idem praestet in ordine ad veniam obtinendam, pluris
+        <lb ed="#K"/>aestimatur: Si <ref><name>Palatinus</name></ref> quispiam, ad huc pluris. Proportionatur itaque 
+        <lb ed="#K"/>satisfactionis valor dignitati personae satisfacientis, et vilescit cum vilitate
+        <lb ed="#K"/>eiusdem. Cum ergo pura creatura non interveniente unione hypostatico, 
+        <lb ed="#K"/>nullo modo possit eo atolli, ut ne infinite distet a Deo, satisfactio eius
+        <lb ed="#K"/>aequalis esse non potest, consequenter non debetur ei remissio culpae mortalis
+        <lb ed="#K"/>ex vera iustitia. Rationi huic acquiescunt <ref>Arriaga</ref>, <ref>Perez</ref>, <ref>Dero<lb ed="#K" break="no"/>des</ref>,
+        <ref><unclear>Moraiosci</unclear></ref>, <ref>Haunoldus</ref>, et optime confirmatur obiectionum solutione.
+      </p>
+      <p>
+        <lb ed="#K"/>Inferes hic 1mo: non tantum pro propria sed etiam aliena offensa
+        <lb ed="#K"/>gravi non posse satis fieri ad aequalitatem a quacunque pura creatura utro<lb ed="#K" break="no"/>bique 
+        enim satisfaciens <unclear>infinitae</unclear>> distat a dignitate Dei offensi.
+      </p>
+      <p>
+        <lb ed="#K"/>Inferes 2do. Per nullum actum contritionis vel charitatis, sive is
+        <lb ed="#K"/>procedat a pura creatura solis auxiliis supernaturalibus, sive etiam
+        <lb ed="#K"/>gratia sanctificante elevata, adaequari posse iunuria personalem, quae Deo
+        <lb ed="#K"/>irrogatur per quodvis peccatum mortale, eo quod infinita eius bonitas
+        <lb ed="#K"/>dignitas, et excellentia et non solum authoritas praecipientis oppositum <unclear>postpo<lb ed="#K" break="no"/>natur</unclear>
+        libere vilissimo bono creato. Dixi non posse adaequari iuniuriam
+        <lb ed="#K"/>personalem; materialis enim seu potius realis iniuria, quae consistit in eo, quod per pecca<lb ed="#K" break="no"/>minosum 
+        <lb ed="#K"/>actum subtractus sit Deo actus honestus qui eliciendus erat circa propositum 
+        <lb ed="#K"/>obiectam, et ad quem Deus ius habebat: haec inquam realis iniuria bene compen<lb ed="#K" break="no"/>sari
+        <lb ed="#K"/>potest per supernaturalem aliquem et intentsum actum charitatis, qui morali bonitate
+        <lb ed="#K"/>sua aequivaleat aut nobilior sit illo actu quem peccans elicere debuit fugiendo
+        <lb ed="#K"/>peccatum, atqui hoc libenter concedimus <ref><name>Scoto</name></ref>. Proinde diligenter semper distin<lb ed="#K" break="no"/>guenda
+        <lb ed="#K"/>duplex quaedam iniuria (sive ea sit rigorosa, sive latius sumpta, parum refert
+        <lb ed="#K"/>ad solutionem huius difficultatis.) quae in omni peccato mortali invenitur scilicet
+        <pb ed="#K" n="22-v"/>
+        <lb ed="#K"/>realis et personalis, eo quod omne tale peccatum sit aversio a Deo postposi<lb ed="#K" break="no"/>tio
+        voluntaria Dei et convensio ad creaturam, <unclear>probatioque</unclear> creaturae.
+      </p>
+      <p>
+        <lb ed="#K"/>Inferes tertio. Ex suppositione Divinae voluntatis de <unclear>praestanda</unclear> condigna et ad
+        <lb ed="#K"/>aequalitatem iustitialem satisfactione pro peccato mortali; omnino necessariam fuisse
+        <lb ed="#K"/>unionem hypostaticam non tamen Incarnationem, aut assumptionem naturae rationalis cor<lb ed="#K" break="no"/>poreae. 
+        Ratio primi quia aliter fieri non potuit sufficiens proportio inter perso<lb ed="#K" break="no"/>nam
+        offensam et personam satisfacientem, nisi haec esset Deus. Ratio secunda. quia 
+        <lb ed="#K"/>etiam si Deus assumpisset naturam Angelicam, atque sic pro peccatis generis homini satis<lb ed="#K" break="no"/>facere
+        voluisset, sufficiens esset proportio inter satisfacientem et offensum,
+        <lb ed="#K"/>consequenter opera satisfactoria omnino digna fuissent remissione peccati.
+      </p>
+      <p>
+        <lb ed="#K"/>Dicendum secundo Non potest purus homo etiam ut est membrum Christi satis<lb ed="#K" break="no"/>facere,
+        <lb ed="#K"/>ad aequalitatem et ex perfecta iustitia pro peccato mortali. Ita <ref><name>Suarez</name> 
+        <lb ed="#K"/>disputatione: 4, sectione 10</ref> contra <name>Caietanum,</name> <name>Sotum</name>, <name>etc.</name>
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur. quia haec dignitas quae est esse membrum <unclear>Christi</unclear>, non plus quo
+        <lb ed="#K"/>ad rem superaddit homini puro, quam quod ipsius opera bona fundentur in
+        <lb ed="#K"/>mentis et satisfactione Christi, id est quod ex meritis Christi accipiat homo
+        <lb ed="#K"/>non tantum gratiam habitudinem, sed etiam actualem ad bene agendum, et quod ope<lb ed="#K" break="no"/>ra
+        ipsius propter Christi iustitiam ex Divina promissione acceptentur, ac de<lb ed="#K" break="no"/>nique 
+        quod defectus valoris ac condignitatis qui est in meritis hominis
+        <lb ed="#K"/>Christiani, suppleatur et compensetur satisfactione ac meritis Christi.
+        <lb ed="#K"/>Atqui haec omnia non tribuunt eam intrinsecam dignitatem et valorem operibus
+        <lb ed="#K"/>huius Christiani, ut omn ino moraliter secundum se aequivaleant gravi offensae
+        <lb ed="#K"/>Divinae. Ergo non potest purus homo, etiam ut est membrum Christi satisfacere
+        <lb ed="#K"/>ex perfecta iustitia et ad aequalitatem pro peccato mortali sive proprio sive alieno.
+        <lb ed="#K"/>Minor in qua vis probatur. Datis illis omnibus auxiliis per Christum adhuc
+        <lb ed="#K"/>homo satisfaciens infinite distat a Deo offenso. Ergo opera illius non possunt 
+        <lb ed="#K"/>omnino aequivalere offensae Divinae, iuxta procedentem conclusionem. Firmatur
+        <lb ed="#K"/>quia Christus non ita nobis applicat merita sua, ut tam perfecto modo satis<lb ed="#K" break="no"/>faciamus 
+        pro peccatis nostris, sicut ipse, sed inferiore quodam, non enim elevat
+        <lb ed="#K"/>nos per unionem quandam hypostaticam secum, sed solum per moralem, tanquam
+        <lb ed="#K"/>membrum cum capite, et per gratias supernaturales. Ergo, etc.
+      </p>
+      <p>
+        <lb ed="#K"/>Tantum igitur proprie loquendo, ut advertit <ref><name>Suarez,</name></ref> recte dici potest, nos
+        <lb ed="#K"/>iustificari, nobisque remitti peccatum ex perfecta iustitia scilicet Christi, non
+        <lb ed="#K"/>vero nos ipsos satisfacere ex perfecta iustitia, vel vigore iustitiae.
+        <pb ed="#K" n="23-r"/>
+        <lb ed="#K"/>Sicut <ref><name>S: Augustinus</name> explicuit in Enchiridio capite 41</ref> illud <ref>secundae ad Corin. 5</ref>
+        <lb ed="#K"/>Eum qui non noverat peccatum pro nobis peccatum fecit ut afficiamur iustitia 
+        <lb ed="#K"/>Dei in ipse. Iustitia inquit Augustinus non nostra sed Dei, nec in nobis
+        <lb ed="#K"/>sed in ipso. Proinde illae locutiones quibus subinde actiones membro<lb ed="#K" break="no"/>rum
+        tribuuntur capiti, vel sunt impropriae vel metaphoricae ut cum <ref>Psal: 21</ref>
+        <lb ed="#K"/>in persona Christi dicitur: longe a salute mea verba delictorum. Utique
+        <lb ed="#K"/>Christus non habuit proprie sua delicta sed aliena sibi imposita, vel assumpta
+        <lb ed="#K"/>ad satisfactionem.
+      </p>
+      <p>
+        <lb ed="#K"/>Dicendum tertio. Potest homo purus per opera supernaturalia verba gratia: contri<lb ed="#K" break="no"/>tionis
+        et charitatis, pro culpa propria mortali satisfacere, ex iustitia quadam
+        <lb ed="#K"/>imperfecta. Ita <ref><name>Suarez</name></ref> et <ref>caeteri</ref>.
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur. Qui non potest pefecte satisfacere debito suo, si compenset eo 
+        <lb ed="#K"/>modo quo potest, et quo exigit et contensus est creditor, satisfacit ex iustitia
+        <lb ed="#K"/>quadam saltem imperfecta. Atqui ita se potest gerere peccator erga Deum, imo
+        <lb ed="#K"/>ita se gerit dum conteritur. Ergo, etc. minor probatur primo non potest satisfacere
+        <lb ed="#K"/>homo purus perfecte ad aequalitatem pro offensa ut probatur. Secundo dum conte<lb ed="#K" break="no"/>ritur
+        facit id quod potest cum auxilio Divino sibi concesso, avertitur a crea<lb ed="#K" break="no"/>turis,
+        <lb ed="#K"/>et converitur ad Deum, dolet et amat, adeoque actu honesto
+        <lb ed="#K"/>quo debebat fugisse peccatum, reddit aequalitatem actis vel meliorem.
+        <lb ed="#K"/>Tertio. Actum talem exigit Deus a peccatore, ut <ref>Ezechielis 18</ref>. Si impius
+        <lb ed="#K"/>egerit paenitentiam et fecerit iustitiam, vita vinet. Et plurimus in locis
+        <lb ed="#K"/>idem sonat sacra scriptura. Ergo, etc. Praeterea si Deus tales <unclear>actus/actibus</unclear>
+        <lb ed="#K"/>appeccatore exigeret solum ut talem qualem conditionem seu dispositionem
+        <lb ed="#K"/>in ordine ad iustificationem, sufficeret exigere ab illo consensum in ami<lb ed="#K" break="no"/>citiam
+        Divinam et <unclear>propositum</unclear> non peccandi pro caetero. Iam vero non ita fit, sed
+        <lb ed="#K"/>exigitur amor et dolor super omnia: Ergo signum est haec <unclear>peti</unclear> in
+        <lb ed="#K"/>recompensationem et acceptari quando fiunt. Adde quod haec compensandi
+        <lb ed="#K"/>obligatio ne sit mere positiva seu ex lege solum et praecepto actuali Divino, sed oriatur
+        <lb ed="#K"/>ex natura ipsius actus graviter peccaminosi, qui est contemptus quidam et post positio
+        <lb ed="#K"/>impudentissima Dei, non solum ut legislatoris, sed ut summae maiestatis et excellentiae
+        <lb ed="#K"/>proinde nil de est actui perfecte paenitentis ad rationem satisfactionis ex iustitia qua<lb ed="#K" break="no"/>dam
+        imperfecta. Dices. Remissio peccati gratis datur. Ergo non datur
+        <lb ed="#K"/>propter satisfactionem ex ulla etiam imperfecta iustitia. Respondeo Concedo Antecedens. nego
+        <lb ed="#K"/>Consequentiam, quia satisfactio imperfecta non potest efficaciter per se inducere
+        <lb ed="#K"/>strictam obligationem seu verum debitum remittendi culpam, sicut sausa quae solum
+        <pb ed="#K" n="23-v"/>
+        <lb ed="#K"/>est inadaequata ex se, non potest efficaciter praestare effectum. Ergo vi illius
+        <lb ed="#K"/>praecisae potest. Deus non condonare culpam. Quod ergo de facto per merita Christi sup<lb ed="#K" break="no"/>pleat
+        defectum illius satisfactionis remittatque peccatum, id gratiae et misericor<lb ed="#K" break="no"/>diae 
+        est, adeoque remissio actualis simpliciter gratis fit. Non tamen ita gratis
+        <lb ed="#K"/>fit ut homo ne debeat praestare quidquam de suo. Sed de his in prima parte
+        <lb ed="#K"/>de paenitentia uberius. 
+      </p>
+      <p>
+        <lb ed="#K"/>PARAGRAPHVS II
+        <lb ed="#K"/>Soluuntur Obiectiones contra primam Conclusionem.
+      </p>
+      <p>
+        <lb ed="#K"/>Obiiciunt <ref>Scotistae</ref>: Per actum contritionis et charitatis supernatu<lb ed="#K" break="no"/>ralis
+        compensatur adaequalitatem quidquid est sublatum boni, vel irrogatum mali per culpam
+        <lb ed="#K"/>mortalem. Ergo ad aequalitatem et ex iustitia satisfacere potest pura creatura per culpa
+        <lb ed="#K"/>sua mortale. Antecedens probatur inductione damnorum ex peccato emergentium: nam
+        <lb ed="#K"/>primo peccatum avertit a bono incommutabili ad commutabile. Secundo privat subiec<lb ed="#K" break="no"/>tum
+        gratia et amititia Dei et coniunctione cum fine supernaturali. Tertio red<lb ed="#K" break="no"/>dit
+        dignum odio Divino. Quarto inducit reatum poenae aeternae. Quinto ladit ho<lb ed="#K" break="no"/>norem
+        Dei. Atqui haec omnia resarcit perfecte contritio supernatura<lb ed="#K" break="no"/>lis
+        et actus charitatis. Ergo, etc. Probatur minorem resarcit primum qua contritio
+        <lb ed="#K"/>supernaturalis est conversio creaturae ad Deum et finem supernaturalem: et
+        <lb ed="#K"/>quidem perfectius convertit quam peccatum averterat, quia hoc averterat
+        <lb ed="#K"/>solum virtualiter et interpretative: contritio convertit <unclear>forlr</unclear> et expresse
+        <lb ed="#K"/>detestando peccatum propter Deum summe dilectum. Resarcit secundum restituendo
+        <lb ed="#K"/>amititiam actualem cum Deo. Resarcit tertium reddendo subiectum dignum amore
+        <lb ed="#K"/>Dei. Resarcit quartum, quia delet maculam tollitque reatum paenae aeternae. Rescar<lb ed="#K" break="no"/>cit
+        quinto quia est perfectissimum obsequium quod creatura potest praestare Deo. Ergo, etc.
+        <lb ed="#K"/>Respondeo nego Antecedens ad probationis Antecedens respondeo, quid quid sit sit de compensatione
+        <lb ed="#K"/>aliorum de qua in materia de paenitentia ex professo agitur: nego quintum mem<lb ed="#K" break="no"/>brum,
+        non enim potest contritionis vel charitatis actus perfecte compensare contem<lb ed="#K" break="no"/>ptum
+        et offensam Deo illatam per peccatum grave. 
+      </p>
+      <p>
+        <lb ed="#K"/>Vrgetur. Illa est condigna satisfactio qua tantum ponitur quantum
+        <lb ed="#K"/>sufficit ad placandum Deum offensum, sed per contritionem et charitatem tantum
+        <lb ed="#K"/>ponitur, nam contritio quae Deum <unclear>profert</unclear> omnibus creaturis tantum placet Deo,
+        <lb ed="#K"/>quantum illi displicuit peccatum quo <unclear>protulit</unclear>> creaturam Deo. Ergo, etc. Respondeo Concedo
+        <lb ed="#K"/>maiorem, nego minorem, et probationem eius, plus enim est Deum a vilissima creatura
+        <lb ed="#K"/>grativer offendi, quam ab eadem amari, et creaturis omnibus <unclear>proferri</unclear>; non multum
+        <lb ed="#K"/>aestimant Principes quod a plebeio aliquo amentur et proferantur omnibus sub<lb ed="#K" break="no"/>ditis
+        suis, plurimum autem offenduntur et offensam plurimi faciunt, si a subdito 
+        <lb ed="#K"/>aliquo graviter despiciantur seu postponantur. 
+        <pb ed="#K" n="24-r"/>
+      </p>
+      <p>
+        <lb ed="#K"/>Vrgetur. Deus tantum amat carentiam peccati quantum odit exis<lb ed="#K" break="no"/>tentiam 
+        eius, sed posito praecepto verba gratia de actu charitatis eliciendo peccatum forma<lb ed="#K" break="no"/>liter
+        vitatur per elicitum actum charitatis. Ergo Deus tantum amat actum chari<lb ed="#K" break="no"/>tatis
+        quantum odit peccatum. Respondeo nego maiorem, signum manifestum inaequalitatis
+        <lb ed="#K"/>est quod sola carentia peccati non sit suffiens fundamentum ut Deus nobis
+        <lb ed="#K"/>aliquid bona <unclear>praestet</unclear>. Iam vero pro existentia peccati infinitis suppliciis nos
+        <lb ed="#K"/>subiecere potest et subiecit. Ergo haec maius est malum in genere moris quam
+        <lb ed="#K"/>illa bonum. Ergo magis Deus existentiam peccati odit, quam amat caren<lb ed="#K" break="no"/>tiam 
+        eius. Et nos ipsi defacto magis movemur quando actu iniuriamur,
+        <lb ed="#K"/>quam nobis complacemus in absentia iniuriae.
+      </p>
+      <p>
+        <lb ed="#K"/>Vrgetur Tantum placet lux quantum displicent tenebrae, tantum
+        <lb ed="#K"/>placet bona valetudo, quantu displicet aegritudo. Ergo tantum placet Deo
+        <lb ed="#K"/>actus perfectae contritionis et charitatis, quantum displicet aversio. Respondeo misso
+        <lb ed="#K"/>antecedente nego Consequentiam, disparitas est quia tenebrae totam suam
+        <lb ed="#K"/>aestimabilitatem habent ab oppositione cum eo bono utili quo per illas
+        <lb ed="#K"/>privamur, adeoque per se non magis displicent, quam placet illud bonum utile.
+        <lb ed="#K"/>Similiter et bona valetudo respectu aegritudinis. Iam vero preccatum
+        <lb ed="#K"/>non tantum aestimabile est ex eo quod Deo subtrahat actum charitatis, qui
+        <lb ed="#K"/>a peccante eliciendus erat, vel aliam gloriam extrinsecam; nec ex eo solum
+        <lb ed="#K"/>quod plurimis maximisque bonis nos spoliet: sed potissimum ex volunta<lb ed="#K" break="no"/>rio 
+        gravissimo contemptu ac postpositione actuali Dei, ratione cuius 
+        <lb ed="#K"/>in genere moris longe odibilius est peccatum, quam ratione damni quod in<lb ed="#K" break="no"/>fert
+        Deo vel nobis.
+      </p>
+      <p>
+        <lb ed="#K"/>Obiicitur secundo. Peccatum nullam iniuriam rigorosam infert Deo, sed
+        <lb ed="#K"/>inobedientiam dicit, non enim laedit nonum Dei infama vel vita, nec quidquam
+        <lb ed="#K"/>aufert ab ipso quod resarciri deberet per restitutionem, quia Deus
+        <lb ed="#K"/>ex creaturis nec crescit nec descrescit. Ergo peccatum in ratione offensae
+        <lb ed="#K"/>non crescit ex laesa persona Dei: Tunc erim tantum aggravat persona
+        <lb ed="#K"/>offensa peccatum, dum laeditur ipsa eius dignitas ut si percutiatur vel
+        <lb ed="#K"/>interficietur vel derogetur eius famae, alias dignitas personae extra
+        <lb ed="#K"/>nec est malitia peccat; nec viciat actum et posset condigne pro illo
+        <lb ed="#K"/>satisfieri a pura creatura. Respondeo transeat Antecedens, quia potest simpliciter
+        <lb ed="#K"/>negari loquendo universaliter de peccatis mortalibus. Consequentiam
+        <pb ed="#K" n="24-v"/>
+        <lb ed="#K"/>nego ad probationem Respondeo. recte dictum est quod tunc aggravat persona offensa
+        <lb ed="#K"/>peccatum dum laeditur eius dignitas. Sed inductio exemplum non est sufficiens
+        <lb ed="#K"/>facta, non enim tantum laeditur personae dignitas si percutiatur, interficiatur, 
+        <lb ed="#K"/>vel fama eius derogetur: sed etiam si inurbaniter tractetur, si in pu<lb ed="#K" break="no"/>blico
+        consensu aliis lonoge inferioribus postponatur, si negligatur dum
+        <lb ed="#K"/>ad maiora officia et venerationem indigni et viles <unclear>promoventur</unclear>. Quae
+        <lb ed="#K"/>omnia deteriore modo irrogantur Deo per actum peccaminosum.
+      </p>
+      <p>
+        <lb ed="#K"/>Vrgetur. Dum quis peccat contra legem Principum Politicorum non
+        <lb ed="#K"/>eo ispo gravem contemptum facere et per transgressionem legis committere vi<lb ed="#K" break="no"/>detur
+        gravem offensam in personam Principis. Ergo nec peccatum quodvis grave
+        <lb ed="#K"/>commissum in Deum importat talem contemptum et offensam. Respondeo misso Antecedente
+        <lb ed="#K"/>nego Consequentiam. Disparitas est quia Principes politici non ferunt leges
+        <lb ed="#K"/>et praecepta principaliter propter se sed propter bonum subditorum nec tam curant
+        <lb ed="#K"/>per legum observationem honorem et amorem suum, seu ut actu ipsi praeferantur
+        <lb ed="#K"/>cuius bono inferiori, quam integritatem et utilitatem <unclear>Respondeo:</unclear> Iam vero Deus
+        <lb ed="#K"/>quidquid praecipit, principaliter propter se, et ultimate hoc intendit ut ametur
+        <lb ed="#K"/>pro omnibus, praeferaturque actu omni bono creato, non tantum per iudicum intel<lb ed="#K" break="no"/>ectus, 
+        sed etiam per affectum voluntatis. Hinc est quod secundum scripturam 
+        <lb ed="#K"/>et Patres omnia praecepta Divina dicuntur fundari in charitate, et qui cha<lb ed="#K" break="no"/>ritatem
+        non habet, nihil est, licet non praecepta solum, sed etiam consilia Christi
+        <lb ed="#K"/>impleat. Per peccatum magis amatur et eligitur potius bonum creatum
+        <lb ed="#K"/>quam Increatum, quod utique fieri non potest sine gravi contempta et offensa Dei.
+        <lb ed="#K"/>Dixi misso antecedente: quia etiam in policitis magis aestimari solet
+        <lb ed="#K"/>transgressio legis ab ipso summo Principe latae, quam aministrorum aliquo.
+      </p>
+      <p>
+        <lb ed="#K"/>Obiicitur tertio. Contritio est forma se ipsa santificans et expellens
+        <lb ed="#K"/>peccatum. Ergo per illam satisfit condigne pro peccato etiam mortali. Antecedens probatur. con<lb ed="#K" break="no"/>tritio
+        se ipsa constituit amicum Dei, atqui amititia Dei non stat cum inimitia peccati
+        <lb ed="#K"/>Ergo, etc. Maior probatur: Contritio se ipsa est amor quidam benevolentiae cui respondet
+        <lb ed="#K"/>aemulus amor Dei. Ergo in homine contrito ex utioque hoc amaore conflatur
+        <lb ed="#K"/>amititia ad aequata. Ergo contritio se ipsa constituit amicum. Respondeo nego
+        <lb ed="#K"/>Antecedens. probationis maiorem distinguo: Constitunt imperfecte et inchoative Concedo,
+        <lb ed="#K"/>complete et perfecte. nego. Similiter distinguo minorem. Amititia inchoata et
+        <lb ed="#K"/>imperfecta non stat cum inimititia peccati nego, completa et perfecta
+        <lb ed="#K"/>concedo minorem, et nego Consequentiam, ad probationem minoris. Respondeo distinguen<lb ed="#K" break="no"/>do
+        respondet aemulus amor vi solius exigentiae conditionis nego
+        <pb ed="#K" n="25-r"/>
+        <lb ed="#K"/>vi liberalis Dei promissionis qua dignatur nos gratis iusti<lb ed="#K" break="no"/>ficare
+        concedo. Contritio solum est dypositio ad gratiam sanctificantem
+        <lb ed="#K"/>et condonationem peccati, potestque ad summum dici mereri eam de congruo.
+      </p>
+      <p>
+        <lb ed="#K"/>Vrgetur. Homo contritus non perseverat in aversione habituali hoc
+        <lb ed="#K"/>enim nihil aliud est quam ita se <unclear>humane</unclear>, ut inditio prudentum censeatur in eodem
+        <lb ed="#K"/>effectu persistere, quod utique de vere contrito dici non potest. Ergo contritio
+        <lb ed="#K"/>se ipso tollit peccatum. Respondeo distinguo Antecedens: contritus non perseverat in aver<lb ed="#K" break="no"/>sione 
+        habituali philosophica quae nimirum consistit in morali permanentia eius<lb ed="#K" break="no"/>dem
+        affectus mali erga Deum, Concedo. non perseverat in aversione Theologica
+        <lb ed="#K"/>loquendo de contritione sumpta secundum se, nego. haec enim aversio propter actum pecca<lb ed="#K" break="no"/>minosum
+        praeteritum, dicit negationem condignae satisfactionis vel liberalis
+        <lb ed="#K"/>condonationis adeo factae, quae negationes tolli non possunt solo actu
+        <lb ed="#K"/>contritionis ut pote a persona vili <unclear>procedente</unclear> adeoque valde impportionato. 
+      </p>
+      <p>
+        <lb ed="#K"/>Obiicitur quarto. Deus dat de facto maius praemium per actu supernatu<lb ed="#K" break="no"/>rali
+        bono, quam sit paena quam infligit pro peccato mortali, ut communiter
+        <lb ed="#K"/>docetur. Ergo signum est quod magis sibi complaceat in actu bono, quam displicen<lb ed="#K" break="no"/>tiam
+        habeat in peccato. Ergo per actum supernaturalem bonum a pura creatura
+        <lb ed="#K"/>elicitur poterit ad aequalitatem satisfieri pro peccato. Respondeo primo. Ex hoc argumento 
+        <lb ed="#K"/>sequitur quod de facto homo levissimo actu supernaturali condigne satisfaciat pro in<lb ed="#K" break="no"/>numeris
+        et gravissimis peccatis. Respondeo secundo nego Consequentiam. Quod enim
+        <lb ed="#K"/>Deus det maius <unclear>praemirum</unclear> pro merito humanis iusti, quam poenam pro peccato, id non
+        <lb ed="#K"/>praevenit ex maiore aestimatione meriti supra peccatum, sed quod proprium Dei
+        <lb ed="#K"/>sit misereri semper et parcere et misericordiae recordari etiam cum ira<lb ed="#K" break="no"/>tus
+        fuerit, amat enim devincire sibi creaturas, potius aureis suae chari<lb ed="#K" break="no"/>tatis 
+        <lb ed="#K"/><unclear>fumieulis</unclear>, quam iudentibus inferni. 
+      </p>
+      <p>
+        <lb ed="#K"/>Obiicitur quinto. Qui reddit totum quod abstulit satisfacit ad aequa<lb ed="#K" break="no"/>litatem,
+        sed homo per actum contritionis et charitatis, reddit totum quod Deo
+        <lb ed="#K"/>abstulit. Ergo, etc. Respondeo distinguo maiorem, satisfacit ad aequalitatem si propter 
+        <lb ed="#K"/><unclear>damuum</unclear> reale non intervenit etiam iunria personalis, Concedo, secus nego.
+        <lb ed="#K"/>Applica minori eandem distinctionem.
+      </p>
+      <p>
+        <lb ed="#K"/>Vrgetur. Qui ad nil amplius tenetur, satisfacit condigne tam
+        <lb ed="#K"/>praedamno quam offensa, sed homo faciens satis pro peccato quantum potest, ad nil
+        <lb ed="#K"/>amplius tenetur, cum ultra posse nemo obligetur. Ergo, etc. Respondeo distinguo
+        <lb ed="#K"/>qui ad nil amplius tenetur ratione impotentiae suae satisfacit condigne nego.
+        <lb ed="#K"/>ratione aequalitatis a se inductae et iuris extincti Concedo. Eandem distinctio 
+        <lb ed="#K"/>minori applicanda. Respondeo secundo qui ad nil amplius agendum tenetur satis
+        <pb ed="#K" n="25-v"/>
+        <lb ed="#K"/>facit condigne si nec teneatur ad faciendum in super concedo si adhuc teneatur
+        <lb ed="#K"/>ad faciendum nego. Respondeo tertio <ref><name>Arriaga</name></ref>, qui ad nil amplius tenetur tam
+        <lb ed="#K"/>absolute quam conditionatae<add place="below-line">conditionate</add> satis facit condigne Concedo, qui ad nil tenetur absolu<lb ed="#K" break="no"/>te,
+        tenetur tamen ad quid, idem eum poterit aut si posset, satisfacit condigne nego.
+      </p>
+      <p>
+        <lb ed="#K"/>PARAGRAPHVS III
+        <lb ed="#K"/>Soluuntur Obiicitiones contra Rationem
+        <lb ed="#K"/>eiusdem Conclusionis Fieri Solita
+      </p>
+      <p>
+        <lb ed="#K"/>Praenoto: Ratio fundamentalis minorae conclusionis: quare pura creatu<lb ed="#K" break="no"/>ra
+        non potest satisfacere ad aequalitatem pro peccato mortali? quia scilicet debet
+        <lb ed="#K"/>esse aequalis dignitas offensi et satisfacientis, alias satisfactio erit inaequa<lb ed="#K" break="no"/>lis
+        et impportionata offensae. Contra quam rationem. 
+      </p>
+      <p>
+        <lb ed="#K"/>Obiicitur primo. Hic sequitur quod nullus plebeius per quaecunquae
+        <lb ed="#K"/>opera possit satisfacere ad aequalitatem pro gravi offensa Principis, etiam
+        <lb ed="#K"/>si innumera opera heroica praestaret, et vitam ipsam principis cum praesentissi<lb ed="#K" break="no"/>mo
+        suae vitae periculo servareat. Atqui hoc est contra commune sensum.
+        <lb ed="#K"/>Ergo data ratio non probat insufficientiam purae creaturae ad satisfaciendum
+        <lb ed="#K"/>Deo pro peccato mortali. Respondeo nego Consequentiam, nam quando cunque non 
+        <lb ed="#K"/>est distantia simpliciter infinita interpersonam offensam et offendentem
+        <lb ed="#K"/>potest condigni satisfieri si non <unclear>per unum</unclear>, saltem per multiplicata in eum finem in
+        <lb ed="#K"/>signia opera: per haec enim ipsa dignificatur et evehitur operans, si
+        <lb ed="#K"/>non politice et quo ad potestatem gubernativam, certe moraliter seu quo ad
+        <lb ed="#K"/>prudentum aestimationem aequalitatem sufficientem sortiatur cum persona offensa
+        <lb ed="#K"/>alias eminentiore: Cum etiam apud Ethnicos decantatum sit, quod no<lb ed="#K" break="no"/>bilitas
+        sola est atqui unica virtus. Cuius intuitu <unclear>parem</unclear> sibi reputa<lb ed="#K" break="no"/>vit
+        Sanctum Ioannem Evangelistam Angelus <ref>Apoc. 19<!-- Rev. 19:10 --></ref> et <ref>22</ref><!-- 22:9 --> renuitque 
+        <lb ed="#K"/>humilem cultum a <unclear>procidente</unclear> in terram: conservus tuus sum. Hinc est quod
+        <lb ed="#K"/>dum videmus alicuius valde insigne facinus, etiam si plebeius sit appel<lb ed="#K" break="no"/>lamus 
+        heroem, et magnis parem, simulque inclinamur in reverentiam
+        <lb ed="#K"/>eius atque venerationem, cui deinde pedissequa accedit <unclear>praemotio</unclear> ad offi<lb ed="#K" break="no"/>cia
+        honorata, a quibus ille non fit dignior sed illustrior. Dum ergo
+        <lb ed="#K"/>asseritur quod satisfacientis cum offenso debeat esse aequalis dignitas
+        <lb ed="#K"/>sensus non est quod omnino debeat esse in simili officio honorato
+        <lb ed="#K"/>constitutus, aut par alteri quo ad naturam seu perfectiones natu<lb ed="#K" break="no"/>rales:
+        sed quod iudicio prudentum tanti debeat aestimari, quanti
+        <lb ed="#K"/>offensus, sive interim fundamentum huius aestimationis sit in ipsa natura
+        <pb ed="#K" n="26-r"/>sive in dignitate politica, sive in actibus virtutum sive aliis dotibus.
+        <lb ed="#K"/>Unde ulterius apparet, quod cum nulla creatura etiam infinitas gratiis
+        <lb ed="#K"/>instructa tanti aestimari mereatur quanti Deus, sed infinities <!-- sic --> abeo <!-- adeo? --> su<lb ed="#K" break="no"/>peretur
+        semper, non posse actus illius habere condignitatem satisfacien<lb ed="#K" break="no"/>di
+        Deo ad aequalitatem pro offensa gravi. Econtra cum fieri possit
+        <lb ed="#K"/>ut unta creatura in genere moris tanti aestimatur quanti quaecunque alte<lb ed="#K" break="no"/>ra,
+        satisfacere etiam poterit condigne pro offensa eius gravi. Dixi
+        <lb ed="#K"/>in genere moris, non enim obstat quod forte in genere physico, seu secundum
+        <lb ed="#K"/>naturam aequipari non possint ut homo cum Angelo.
+      </p>
+      <p>
+        <lb ed="#K"/>Obiicitur secundo. Per illam rationem conclusionis illatam non potest saluari im<lb ed="#K" break="no"/>potentia
+        purae creaturae in ordine ad satisfactiendum pro gravi offensa Dei, nisi simul
+        <lb ed="#K"/>admittitur peccatum mortale esse infinitum simpliciter in ratione offensae. Ergo secundum se ratio
+        <lb ed="#K"/>illa non est sufficiens. Probatur Antecedens quia si peccatum in ratione offensae solum est infi<lb ed="#K" break="no"/>nitum
+        secundum quid, adhuc sequitur pro illo satisfieri posse ad aequalitatem a pura creatura,
+        <lb ed="#K"/>quia res finita licet sit superioris ordinis, potest adaequari mortaliter saltem
+        <lb ed="#K"/>per multiplicationem vel intensionem rei quae est inferioris ordinis, sicut quo ad va<lb ed="#K" break="no"/>lorem
+        mortalem compensatur <unclear>aarum</unclear> per argentam vel etiam aes multiplicatum. Respondeo nego
+        <lb ed="#K"/>Antecedens probationis nego sequelam, huius probationem distinguo: aliqua res finita potest aequa<lb ed="#K" break="no"/>ri
+        per aliam inferioris ordinis Concedo. Omnis nego. Nam non tantum in natura<lb ed="#K" break="no"/>libus
+        multae species inferioris gradus non aequivalent uni superiori, sed etiam in 
+        <lb ed="#K"/>moralibus. Sic peccata venialia, licet multiplicentur, non aequivalent uni
+        <lb ed="#K"/>mortali. Visio beatifica non compensatur per visiones obiectorum creatorum et spe<lb ed="#K" break="no"/>cie
+        infinitorum. In iuria etiam facta in vita vel fama, dicitur communiter a Theo<lb ed="#K" break="no"/>logis
+        in compensabilis per peccunias.
+      </p>
+      <p>
+        <lb ed="#K"/>Vrgetur Non est ratio quare peccatum mortale constituitur potius
+        <lb ed="#K"/>in classe earum rerum superioris ordinis quae compensari non possunt per multipli<lb ed="#K" break="no"/>cationem 
+        inferiorum, quam in classe earum quae possint. Respondeo rationem esse in ipsa
+        <lb ed="#K"/>enormitate peccati mortalis, quod malorum <unclear>odium</unclear> quae sunt aut esse vel cogitari
+        <lb ed="#K"/>possunt est maximum ex genere suo ob rationem gravis offensae Divinae.
+        <lb ed="#K"/>Unde si quid est aut cogitari potest in-compensabile per alia inferioris ordinis
+        <lb ed="#K"/>tale debet esse potissimo iure peccatum. Deinde, si valde difficilis est com<lb ed="#K" break="no"/>pensatio
+        pro iniuria personali a vili persona Principibus terrenis facta: in<lb ed="#K" break="no"/>finicies
+        magis adeoque absolute incompensabilis sit opertet offenda Dei gravis
+        <lb ed="#K"/>etiam si forte in se finita sit.
+      </p>
+      <p>
+        <lb ed="#K"/>Obiicitur tertio. Ad satisfactionem aequalem sufficit aequalitas satis<lb ed="#K" break="no"/>factionis
+        <pb ed="#K" n="26-v"/>
+        cum offensa seu iniuria illata, etiam si non sit aequalitas inter
+        <lb ed="#K"/>personam satisfacientem et offensam. Ergo data ratio non subsistit. Respondeo nego
+        <lb ed="#K"/>Antecedens nam ut supra dictum, et communis est hominum sensus, satisfactio vilescit
+        <lb ed="#K"/>a vilitate personae, ac proinde aequalis esse nullo modo potest nisi satisfaciens fiat
+        <lb ed="#K"/>aequalis offenso.
+      </p>
+      <p>
+        <lb ed="#K"/>Vrgetur. Hinc sequitur quod nec pro peccato veniali possit a pura
+        <lb ed="#K"/>quantumvis sancta creatura <unclear>praestare</unclear> satisfactio ad aequalitatem, quod est contra com<lb ed="#K" break="no"/>mune
+        sensus Theologorum: nam et isto offenditur Deus, et offendens non
+        <lb ed="#K"/>potest fieri Deo aequalis in ordine ad satisfactionem. Respondeo cum <ref><name>Suarez</name></ref> et <ref>aliis</ref>
+        <lb ed="#K"/>negando sequelam, rationem negationis dat <ref><name>Suarez</name> dispu: 4 sec: 11</ref> quia 
+        <lb ed="#K"/>peccatum veniale non <unclear>cum</unclear> proprie offensa et iniuria Dei, non enim proprie est contra Deum
+        <lb ed="#K"/>ut ultimum finem cum non avertat ab illi, sed retardat, neque dissoluit amiti<lb ed="#K" break="no"/>tiam
+        Dei, nec minuit per se ullum gradum gratiae sanctificantis. Unde
+        <lb ed="#K"/>mirum non est quod <unclear>p levi</unclear> offensione possit a persona amica per <!-- sic -->>
+        <lb ed="#K"/>gradus charitatis supernaturalis, qui sit totalis conversio et adhaesio ad
+        <lb ed="#K"/>Deum, condigna praestari satisfactio. Et quis neget plebiium posse satis<lb ed="#K" break="no"/>facere
+        condigne pro in urbanitate aliqua quam principi exhibiut, etiamsi ad
+        <lb ed="#K"/>dignitatem maiorem non <unclear>eveluntur</unclear> ut aequalis fiat Principi? Cum ergo faci<lb ed="#K" break="no"/>lius
+        praeporcionentur actus satisfactori, personarum etiam vilium culpae <unclear>leoi<lb ed="#K" break="no"/>guam</unclear>
+        gravi offensae, recurrere non oportet ad dignitatem satisfacientis
+        <lb ed="#K"/>ut ab ea dignificentur.
+      </p>
+      <p>
+        <lb ed="#K"/>Vrget. <ref><name>Derodes</name> hic disputatione 1 sec: 3, para: 5.</ref> Pec<lb ed="#K" break="no"/>cato
+        veniali <unclear>contilia</unclear> tribuunt veram offensam non quo homo a Deo tanquam
+        <lb ed="#K"/>fine sed qua vere a vertatur a Deo ut legislatore, et eum rationabili<lb ed="#K" break="no"/>ter
+        iratum, saltem leviter relinquat. Firmatur a pari quia pecca<lb ed="#K" break="no"/>tum
+        mortale ideo gravem continet iniuriam et offensam Dei quia est <unclear>stra</unclear> Dei vo<lb ed="#K" break="no"/>luntatem
+        et violat aliquam eius legem. Sed hoc praestat etiam peccatum
+        <lb ed="#K"/>veniale, ergo est vera Dei offensa. Respondeo <ref><name>Suarez</name></ref> quod peccatum veniale
+        <lb ed="#K"/>sit verum peccatum, quod sit oppositum voluntati et alicui legi Divinae, offendatque
+        <lb ed="#K"/>defacto Deum etiamsi leviter tantum et meretur penam proportionatam saltem tempo<lb ed="#K" break="no"/>ralem.
+        An autem propter haec debeat dici proprie et in rigore offensa et in<lb ed="#K" break="no"/>iuria
+        Dei quaestio erit de nomine, cuius decisio pendet a declaratione,
+        <lb ed="#K"/>quid proprie significet ly offensa? ad quod Respondeo offensam proprie dicere
+        <lb ed="#K"/>contemptum alterius dissolutionem amititiae. Patet id etiam ex communi sensu
+        <pb ed="#K" n="27-r"/>  
+        <lb ed="#K"/>quando enim advertinus nos egisse, quod alteri verba gratia superiori desplicet,
+        <lb ed="#K"/>si tamen nobis consciis simus quod nil notabile contra honorem et dignitatem
+        <lb ed="#K"/>illius personae admiserimus, adeoque plumamus de contrinuatione boni affectus
+        <lb ed="#K"/>vel amititiae: Censemus defacto personam talem vere a nobis offensam non esse,
+        <lb ed="#K"/>sed solum simpliciter voluntati ipsius satisfactum non esse, et displicentiam
+        <lb ed="#K"/>causatam licet sine aversione. Unde ad argumentum Respondeo directe: ex hoc
+        <lb ed="#K"/>solo quod homo per peccatum veniale aliquomodo avertatur a Deo ut legislatore, non
+        <lb ed="#K"/>potest inferri, quod in peccato veniali sit propria ratio offensae Dei, ut patet expro<lb ed="#K" break="no"/>xime
+        dictis. Ad Confirmationem Respondeo causalem maioris adaequatam non esse, ideo
+        <lb ed="#K"/>enim principaliter peccatum mortale dicit proprie offensam Dei quia per illud sciens
+        <lb ed="#K"/>volens opponit se creatura voluntati vel legi Divinae, cum contemptu
+        <lb ed="#K"/>quodam dissolutive amititiae inter Deum et hominem: hoc autem non fit per veni<lb ed="#K" break="no"/>ale
+        peccatum. Hinc ut vides peccata venialia habent se ut inurba<lb ed="#K" break="no"/>nitates
+        quaedam et levitates quibus offendi aliquomodo solent Principes, mor<lb ed="#K" break="no"/>talia
+        vero habent se ut crimina laesae maiestatis: proiende per absolutam 
+        <lb ed="#K"/>Dei potentiam potest satisfieri pro quocunque peccato veniali ad aequalitatem a pura
+        <lb ed="#K"/>creatura, secus pro mortali. Dixi per absolutam potentiam, nam
+        <lb ed="#K"/>secundum praesentia Dei decreta, ut scriptura et concilia testantur, non fit re<lb ed="#K" break="no"/>missio
+        ullius peccati, nisi ex mentis Christi, et valor operum nostrorum super<lb ed="#K" break="no"/>naturalium
+        totus impenditur alteri designato praemio, scilicet augmento gra<lb ed="#K"/>
+        tiae et gloriae aeternae.
+      </p>
+    </div>
+    </body>
+  </text>
+</TEI>
