@@ -52,7 +52,8 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        <pb ed="#K" n="68-r"/> <!-- line 26-->
+        <pb ed="#K" n="68-r"/>
+        <lb ed="#K" n="26"/>
       </div>
     </front>
     <body>
