@@ -56,20 +56,20 @@
       </div>
     </front>
     <body>
-      <div>
-      <head>Sectio 3</head> 
-      <head>An Christus venisset si Adam ne peccavisset?</head> 
-      <p>
+      <div xml:id="yth33t-f2x202">
+      <head xml:id="yth33t-f2x202-Hd1e108">Sectio 3</head> 
+      <head xml:id="yth33t-f2x202-Hd1e110">An Christus venisset si Adam ne peccavisset?</head> 
+      <p xml:id="yth33t-f2x202-d1e112">
         <lb ed="#K" n="4"/>SECTIO III
         <lb ed="#K" n="5"/>An Christus venisset si Adam ne peccavisset?
       </p>
-      <p>
+      <p xml:id="yth33t-f2x202-d1e119">
         <lb ed="#K" n="6"/>Dicendum est. Etiamsi Adam ne peccasset Christus vi praesentis decreti
-        <lb ed="#K" n="7"/>venisset. Ita Schola Scotistica et caeteri apud <ref><name>Suarez</name> sec. 5</ref>: <ref><name>Hurtadus</name></ref>,<ref><name>Matinon</name></ref>,<ref><name>Perez</name></ref> <lb ed="#K" n="8"/>
-        <ref><name>Esparta</name></ref> et caeteri.
+        <lb ed="#K" n="7"/>venisset. Ita Schola Scotistica et caeteri apud <ref xml:id="yth33t-f2x202-Rd1e125"><name xml:id="yth33t-f2x202-Nd1e126">Suarez</name> sec. 5</ref>: <ref xml:id="yth33t-f2x202-Rd1e129"><name xml:id="yth33t-f2x202-Nd1e130">Hurtadus</name></ref>,<ref xml:id="yth33t-f2x202-Rd1e132"><name xml:id="yth33t-f2x202-Nd1e133">Matinon</name></ref>,<ref xml:id="yth33t-f2x202-Rd1e136"><name xml:id="yth33t-f2x202-Nd1e137">Perez</name></ref> <lb ed="#K" n="8"/>
+        <ref xml:id="yth33t-f2x202-Rd1e141"><name xml:id="yth33t-f2x202-Nd1e142">Esparta</name></ref> et caeteri.
       </p>
-      <p>
-        <lb ed="#K" n="9"/>Probatur <ref>ex dictis sectione praecedente, quia nimirum voluntas Incarnationis
+      <p xml:id="yth33t-f2x202-d1e145">
+        <lb ed="#K" n="9"/>Probatur <ref xml:id="yth33t-f2x202-Rd1e149">ex dictis sectione praecedente, quia nimirum voluntas Incarnationis
         <lb ed="#K" n="10"/>fuit anterior permissione et praevisione peccati absolute futuri, habebatque motivum
         <lb ed="#K" n="11"/>per se sufficientissimum independenter a peccato. Ergo vi talis voluntatis venis<lb ed="#K" break="no" n="12"/>set
         Christus etiamsi Adam non peccasset.</ref> Antecedens probatum est ibidem sufficienter tum ex
@@ -79,19 +79,19 @@
         adeoque efficaciter voluntatem movisse: loquendum enim est <unclear>consentare e</unclear>ad rerum
         <lb ed="#K" n="17"/>naturas et causarum naturalem virtutem, quoties contrarium aperta ratio non evincit.
       </p>
-      <p>
-        <lb ed="#K" n="18"/>Obiicitur primo. <ref>Himnus <!-- sic: hymnus --> Romanae Ecclesiae: O certe necessarium Adae
+      <p xml:id="yth33t-f2x202-d1e173">
+        <lb ed="#K" n="18"/>Obiicitur primo. <ref xml:id="yth33t-f2x202-Rd1e177">Himnus <!-- sic: hymnus --> Romanae Ecclesiae: O certe necessarium Adae
         <lb ed="#K" n="19"/>peccatum quod Christi morte deletum est. O felix culpa quae talem ac tantum meruit
-        <lb ed="#K" n="20"/>habere Redemptorem.</ref> Item <ref>ad Beatissimam: peccatores non abhorres, sine quibus
+        <lb ed="#K" n="20"/>habere Redemptorem.</ref> Item <ref xml:id="yth33t-f2x202-Rd1e186">ad Beatissimam: peccatores non abhorres, sine quibus
         <lb ed="#K" n="21"/>nunquam fores tanto digna filio.</ref> Ergo Christus ne venisset non dato peccato.
-        <lb ed="#K" n="22"/>Respondeo <unclear>tamen</unclear> pro nobis ad musicam hoc argumentum <ref><name>Arriaga</name> Disp: 14 Sectione <unclear>4</unclear></ref> <!-- chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://books.googleusercontent.com/books/content?req=AKW5QaczbyUfGif3pa0Wg9ZV5lLkh70EfgKoTBNQ9G9BU93pVCGQPNBMYYGvm56jRiYxe_Q3C8MuM0C1VnnWMPfIva8zktxqa9i37T2upSjlm_vBj9RaiuNVFy-8r8hXJanSbpEEIsRn-i3hQqLVwoAOL5UXFza_86ERfjPVnfruBauQuFrmoB-wRg2QHirSouNJ7TZm7vcDK7HhnFPfvZdXWaD7E8clR2iirg307eGdk3hl_B7O_lzqVbIcA6beaHL-JHb8U6ilm4pDaK9mgp1jIwak96lXyA --> quod
+        <lb ed="#K" n="22"/>Respondeo <unclear>tamen</unclear> pro nobis ad musicam hoc argumentum <ref xml:id="yth33t-f2x202-Rd1e196"><name xml:id="yth33t-f2x202-Nd1e197">Arriaga</name> Disp: 14 Sectione <unclear>4</unclear></ref> <!-- chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://books.googleusercontent.com/books/content?req=AKW5QaczbyUfGif3pa0Wg9ZV5lLkh70EfgKoTBNQ9G9BU93pVCGQPNBMYYGvm56jRiYxe_Q3C8MuM0C1VnnWMPfIva8zktxqa9i37T2upSjlm_vBj9RaiuNVFy-8r8hXJanSbpEEIsRn-i3hQqLVwoAOL5UXFza_86ERfjPVnfruBauQuFrmoB-wRg2QHirSouNJ7TZm7vcDK7HhnFPfvZdXWaD7E8clR2iirg307eGdk3hl_B7O_lzqVbIcA6beaHL-JHb8U6ilm4pDaK9mgp1jIwak96lXyA --> quod
         <lb ed="#K" n="23"/><unclear>praecedat</unclear> de Christo ut passibili et moriente: Christum autem non dato peccato
         <lb ed="#K" n="24"/>venisset impassibilis.<!-- maybe, follow-up --> Ergo necessarium solum fuit peccatum ut Christus in
         <lb ed="#K" n="25"/>illius remedium pateretur et moreretur, non autem ut absolute veniret. Aliis di<lb ed="#K" break="no" n="26"/>cunt
         quod Adamo non peccante Christus ne venisset natus ex femina, venisset
         <lb ed="#K" n="27"/>tamen creatus a Deo.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x202-d1e218">
         <lb ed="#K" n="28"/>Obiicitur secundo. Si Christus venisset Adamo non peccante, vel venisset
         <lb ed="#K" n="29"/>in carne passibili vel impassibili. Neutum dici potest. Ergo etc minor probatur,
         <lb ed="#K" n="30"/>in primus non venisset in carne passibili, quia secluso remedio peccati, impas<lb ed="#K" break="no" n="31"/>sibilitas
@@ -124,7 +124,7 @@
         <lb ed="#K" n="24"/>veniret. non fuit autem sic efficax quasi vi illius decreti iam potuisset
         <lb ed="#K" n="25"/>a parte rei poni Incarnatio.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x202-d1e294">
         <lb ed="#K" n="26"/>Obiicitur tertio. Si Christus erat venturus in statu innocentiae homi<lb ed="#K" break="no" n="27"/>num,
         quali carne erat venturus gloriosa an non gloriosa qualem habuit Adamo
         <lb ed="#K" n="28"/>Si gloriosa quomodo posset nasci et crescere; Si non gloriosa cur gloria illi
@@ -145,7 +145,7 @@
         <lb ed="#K" n="9"/>diu moriri in summa hominum veneratione et amore, <unclear>cum</unclear> inconveniens non
         <lb ed="#K" n="10"/>fuerit per tota annos inter eosdem morari in summo despectu et persecutione. 
       </p>
-      <p>
+      <p xml:id="yth33t-f2x202-d1e346">
         <lb ed="#K" n="11"/>Obiicitur quarto. Christus primo decreto fuit decretus ut Redemptor.
         <lb ed="#K" n="12"/>Ergo vi talis decreti ne venisset non data hominum captivate per peccatum.
         <lb ed="#K" n="13"/>Respondeo nego Antecedens quia si Deus antequam decerneret permissionem peccati vi<lb ed="#K" break="no" n="14"/>deretque
@@ -169,7 +169,7 @@
         <lb ed="#K" n="31"/>ne <unclear>reimperatae</unclear> sed primo acquirendae. Potest quoque dici tunc praedestinatus
         <lb ed="#K" n="32"/>redemptor non quidem reduplicative sed specificative et quasi materialiter in 
         <lb ed="#K" n="33"/>quantum tunc decreta est existentia personae per se sufficientissimae, ad re<lb ed="#K" break="no" n="34"/>demptionem
-        quorumvis peccatorum, si opus foret, sicut indicavit <ref><name>S. Cyrillus</name> supra
+        quorumvis peccatorum, si opus foret, sicut indicavit <ref xml:id="yth33t-f2x202-Rd1e402"><name xml:id="yth33t-f2x202-Nd1e403">S. Cyrillus</name> supra
         <lb ed="#K" n="35"/>citatus</ref>. 
       </p>
     </div>
