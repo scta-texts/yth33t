@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 1</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 1</title>
+          <date when="2025-04-03">April 3, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="70-r"/>
+        <lb ed="#K" n="31"/>
+      </div>
+    </front>
+    <body>
+      <div>
+      <head>Sectio I</head> 
+      <head type="question-title">Quae nam potuerit esse vel fuit causa physica incarnationis?</head>
+      <p>
+        <lb ed="#K"/>SECTIO V
+        <pb ed="#K" n="70-v"/>
+        <lb ed="#K"/>Quae nam potuerit esse vel fuit causa phy<lb ed="#K"/>sica incarnationis?
+      </p>
+      <p>
+        <lb ed="#K"/>Dicendum primo. Tota Sanctissima Trinitas est causa principalis physica
+        <lb ed="#K"/>et efficiens Incarnationis seu Unionis Hypostaticae. Est communis.
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur. Quia iuxta axioma Theologicum, omnes operationes ad extra communes
+        <lb ed="#K"/>sit toti sanctissima Trinitati, cuius ut una est voluntas ita operatio. Atqui produc<lb ed="#K"/>tio
+        unionis hypostaticae est operatio ad extra, cum ne terminetur ad aliquid id entifi<lb ed="#K"/>factum
+        Deo. Ergo, etc.
+      </p>
+      <p>
+        <lb ed="#K"/>Dicendum secundo. Solus Deus fuit et esse potuit causa principalis physica
+        <lb ed="#K"/>Unionis hypostaticae.
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur. Quia haec unio terminatur ad personam Divinam, nulla autem creatura
+        <lb ed="#K"/>potest habere virtutem intrinsecam et connaturalem ut faciat Deum subsistere in
+        <lb ed="#K"/>aliena natura vel naturam alienam in Deo, hoc enim esset subiectum habere 
+        <lb ed="#K"/>Deum virtuti suae naturali, independenter a libera eius determinatione.
+        <lb ed="#K"/>Firmatur 1: ex illo <ref>Lucae 1 <!-- 1:35 --><quote>Spiritus Sanctus superveniet in te, et virtus altissi<lb ed="#K"/>mi
+        obumbrabit tibi.</quote></ref>. Tum ex <ref> Mattei 1<!-- 1:20 --><quote>Quod enim in ea natum ex ex spiri<lb ed="#K"/>
+        tu Sancto est</quote></ref>. Ubi solus Deus assignatur causa scilicet principalis tam admi<lb ed="#K"/>rabilis
+        operis.
+      </p>
+      <p>
+        <lb ed="#K"/>Dicendum tertio. Probabilius est quod pura creatura per absolutam 
+        <lb ed="#K"/>Dei potentiam potuerit esse causa instrumentalis physicae efficiens unionem
+        <lb ed="#K"/>hypostaticam. Ita <ref><name>Suarez</name></ref>.
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur. Tum quia nulla potest assignari implicantia. Tum quia constat subs<lb ed="#K"/>tantiam
+        creatam non solum habere potentiam obedientialem passivam, sed etiam activam,
+        <lb ed="#K"/>cuius efficacia ut loquitur <ref><name>Suarez</name></ref>, non mensuratur ex naturali perfectione crea<lb ed="#K"/>turae,
+        sed ex infinita virtute omnipotentiae Divinae, supposita non repugnantia
+        <lb ed="#K"/>ex parte actionis vel effectus.
+      </p>
+      <p>
+        <lb ed="#K"/>Obiicitur primo. Ut creaturae possit attribui virtus causandi instrumen<lb ed="#K"/>taliter
+        per potentiam obedientialem Unionem hypostaticam, debet habere virtutem
+        <lb ed="#K"/>inchoatam ad illam. Atqui nullum est huius inchoatae virtutis fundamentum. Ergo, etc.
+        <lb ed="#K"/>Respondeo concedo maiorem, nego minorem. fundamentum sufficiens ex parte creaturae
+        <lb ed="#K"/>est ad de facto viuentia possint in ordine naturali producere unionem substan<lb ed="#K"/>tialem,
+        non solum integralem sed etiam essentialem inter materiam et formam,
+        <lb ed="#K"/>ut patet ex nutritione. Quidni ergo absoluta Divina virtute elevari
+        <lb ed="#K"/>possit creatura etiam ad producendam unionem supernaturalem per modum instrumenti
+        <pb ed="#K" n="71-r"/>
+        <lb ed="#K"/>sicut de facto in pronabili multorum sententia ad transsubstantionem
+        <lb ed="#K"/>Eucharisticam elevantur Verba Consecrationis.
+      </p>
+      <p>
+        <lb ed="#K"/>Obiicitur secundo. Nulla pura creatura potest habere virtutem supra personam
+        <lb ed="#K"/>Divinam ut dictum in probatione conclusionis praecedentis. Ergo nec potest instrumen<lb ed="#K"/>taliter
+        physice concurrere ad unionem hypostaticam. Respondeo nego Consequentiam,
+        <lb ed="#K"/>quia influxus solum instrumentalis non dicit virtutem naturalem super per<lb ed="#K"/>sonam
+        Divinam. Unde.
+      </p>
+      <p>
+        <lb ed="#K"/>Adverte differentiam inter causam principalem et instrumentalem.
+      </p>
+      </div>
+    </body>
+  </text>
+</TEI>
