@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 1</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 1</title>
+          <date when="2025-04-04">April 4, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-02-01" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="49-v"/>
+        <lb ed="#K" n="3"/>
+      </div>
+    </front>
+    <body>
+      <div>
+      <head>Sectio 1</head> 
+      <head type="question-title">De ordine divinarum cognitionum et decretorum inter se.</head> 
+      <p>
+        <lb ed="#K" n="8"/>SECTIO I
+        <lb ed="#K"/>De Ordine Divinarum Cognitionum et 
+        <lb ed="#K"/>Decretorum inter se.
+      </p>
+      <p>
+        <lb ed="#K"/>Doctrine haec non solum plenti materiae, sed etiam plurimis aliis gravissimisque diffi<lb ed="#K"/>cultatibus,
+        ut de Praedestinatione, de Gratia etc enodandis non solum per utilis sed etiam
+        <lb ed="#K"/>necessaria est, quam <ref><name>Suarius</name> hic <title>Dispu: 5</title></ref> aliique recentiores late pertractant.
+        <lb ed="#K"/>Controvertitur autem primo: An et quomodo possit inter actus Divinae volunta<lb ed="#K"/>tis
+        et intellectus inveniri ordo quidam secundum prius et posterius, ita ut hic actus
+        <lb ed="#K"/>dicatur esse prior altero? iam vero unum ne potuisse esse priorem altero suadetur ex
+        <lb ed="#K"/>ipse Deus. Secundo. An bene distinguantur inter actus voluntatis Divinae 
+        <lb ed="#K"/>alia decreta intentionis alia executionis.
+      </p>
+      <p>
+        <lb ed="#K"/>Dicendum primo. Datur inter actus intellectus et voluntatis Divinae
+        <lb ed="#K"/>ordo prioris et posterioris, non aliter tantum quam per rationem nostram.
+        <lb ed="#K"/>Quo ad primam partem est conclusio communis. Quo ad secundam contra quasdam
+        <lb ed="#K"/>Recentores qui distinctionem virtualem quae maior appellari solet, et a plu<lb ed="#K"/>ribus 
+        dicitur inter essentiam et personalitates Divinas inter edere, statuunt.
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur prima pars. Quamvis Deus unica et simplicissimo actu qui
+        <lb ed="#K"/>est ipsa eius substantia, omnia intelligat et velit: est tamen is actus propter
+        <lb ed="#K"/>infinitam perfectionem suam virtualiter multiplex eo, quod aequivaleat pluribus
+        <lb ed="#K"/>actibus creaturarum, realiter inter se distinctis. Ergo habet intellectus
+        <lb ed="#K"/>noster fundamentum in illo actu, propter quod illum ipsum pluribus inadaequa<lb ed="#K"/>tis
+        conceptibus <unclear>repraesentet</unclear>, atqui sic in plures formaliter distinguat per 
+        <lb ed="#K"/>ordinem ad varia connotata extrinseca. Consequenter sicut in creatis
+        <lb ed="#K"/>subordinantur sibi actus ut unus detur propter aliud datum unus supponat
+        <lb ed="#K"/>alium, ita in Deo ratione aequivalentiae, concipi possunt huiusmodi sibi
+        <lb ed="#K"/>subordinati actus, quorum unus aliquomodo pendeat ab alio. Porro hic
+        <lb ed="#K"/>modus noster concipiendi unicum illum actum Divinum, cum sit illi omnino extrin<lb ed="#K"/>secus,
+        nullam in ipso Deo vel actu eius arguit imperfectionem, sed solum
+        <lb ed="#K"/>ex parte nostra.
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur secundo. Quia nulla maior distinctio inter actus scientiae et vo<lb ed="#K"/>luntatis
+        Divinae, <unclear>prout</unclear> terminantur ad obiecta extrinsece, est necessaria
+        <lb ed="#K"/>sive ad hanc de Incarnatione, sive ad alias difficultates salvandas
+        <pb ed="#K" n="50-r"/>
+        <lb ed="#K"/>nec aliunde sufficiens illius habetur fundamentum.
+      </p>
+    </div>
+    </body>
+  </text>
+</TEI>
