@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 2</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 2</title>
+          <date when="2025-04-17">April 17, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-17" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="53-v"/>
+      </div>
+    </front>
+    <body>
+      <div>
+      <head>Sectio 2</head> 
+      <head type="question-title">Vtrum voluntas incarnationis antecesserit in Deo praevisionem peccati originalis vel subsequuta fuerit?</head> 
+      <p>
+        <lb ed="#K" n="1"/>SECTIO II
+        <lb ed="#K"/>Vtrum Voluntas Incarnationis antecesserit in 
+        <lb ed="#K"/>Deo praevisionem peccati originalis vel subsequuta fuerit?
+      </p>
+      <p>
+        <lb ed="#K"/>Quaestio haec eadem est cum illa. An Incarnationis opus per se primo inten<lb ed="#K"/>tum
+        fuerit a Deo in primo signo quo voluit ad extra se communicare, an
+        <lb ed="#K"/>vero solum fuerit ordinatum occasione sumpta ex praeviso lapsu naturae
+        <lb ed="#K"/>humanae? Item coincidit cum illa: an Christus fuerit praeordinatus et
+        <lb ed="#K"/>praeelectus ante omnem creaturam? et an fuerit primus omnium praedesti<lb ed="#K"/>natorum
+        hominum et Angelorum? Ac denique: an praedestinatio Christi
+        <lb ed="#K"/>fuerit ante vel post praevisum peccatum originale? In hac re in varia
+        <lb ed="#K"/>abiere Authores.
+      </p>
+      <p>
+        <lb ed="#K"/><ref>Thomistae</ref> secuti suum Antesignanum <ref><name>D. Thomam</name></ref> docent quod Deus prius
+        <lb ed="#K"/>vident originale futurum peccatum, actum primum Incarnationem
+        <lb ed="#K"/>decreverit scilicet in remedium eius. Rationem <unclear>dante</unclear> fundamen<lb ed="#K"/>talem
+        hanc: quod prima ratio et causa quae movit Deum ut vellet
+        <lb ed="#K"/>Verbum fieri hominem, fuerit remedium lapsae naturae humanae. Ergo volun<lb ed="#K"/>tas
+        de facienda Incarnatione, supponit scientiam de lapsu hominis.
+        <lb ed="#K"/>Antecedens fundatur potissimum ex patribus quibus semper ratio incar<lb ed="#K"/>nationis
+        sumitur ex hominum redemptione. Ut <ref><title>Mathei 16</title></ref> et <ref><title>Lucae 19</title>.
+        <lb ed="#K"/><quote>Venit filius humanis querere et salvum facere quod perigerat</quote><!-- actually "venit enim Filius hominis quaerere et salvum facere quod perierat" from Luke 19:10--></ref>. Et prima
+        <lb ed="#K"/><ref><title>ad Timoth 1<!-- 1:15 --></title> <quote>venit Iesus peccatores saluos facere</quote></ref>. Et <ref><title>ad Galatos
+        <lb ed="#K"/>quarto<!-- 4:4-5 --></title>: <quote>misit Deus filium suum factum ex muliere sub lege, ut eos qui
+        <lb ed="#K"/>sub lege erant redimeret</quote></ref>. Idem in <ref>veteri testamento</ref> variis figu<lb ed="#K"/>ris
+        praesignatum est ut in Moyse misso ad liberandum populum dira ser<lb ed="#K"/>tatem.
+        In Elia et Eliseo ad suscitandos mortuos etc. Idem incul<lb ed="#K"/>catum
+        <lb ed="#K"/>in <ref><title>Symbolo Niceno</title>: <quote>qui propter nos humanes et propter nostram salutem
+        <lb ed="#K"/>descendit de caelis</quote></ref> etc. Cum ergo semper ratio Incarnationis
+        <lb ed="#K"/>in Scriptura nobis tradatur ex redemptione nostra, et nulla alia detur:
+        <lb ed="#K"/>necesse est hanc primam esse causam Incarnationis volita a Deo, nec potest nisi 
+        <lb ed="#K"/>arbitrariae alia confingi. In eiusdem sententiae confirmationem
+
+        <lb ed="#K"/>adducuntur <ref>SS. Patrum</ref> testimonia: <ref><name>S. Athanasius</name> <title>Sermone 3 contra Arianos</title></ref>
+        <lb ed="#K"/>postquam latissime postposuisset illud <ref><title>proverbiorum 8<!-- 8:22 --></title>: <quote>Dominus creavit me</quote></ref>
+        concludit necessitatem indigentiamque nostram anteriorem esse quam Christi
+        <lb ed="#K"/>nativitatem quod amplius declarant subdit: qua sublata (scilicet ne<lb ed="#K"/>cessitate)
+        carnem ne induisset. <ref><name>Gregorius Nadzianzenus</name> <title>oratione
+        36 et 4 Theologiae</title>: <quote>humanitatis susceptae inquit causa nostra est, quid enim
+        aliud causa esse potuisset?</quote></ref> <ref><name>Irineus</name> <title>adversus haereseos libro 1 cap 14</title>
+        <lb ed="#K"/><quote>si ne debuerit caro saluari, verbum nequaquam Dei caro factum esset,
+        <lb ed="#K"/>et si non deberet sanguis iustorum inquiri, nequaquam sanguinem habuisset
+        <lb ed="#K"/>Dominus</quote></ref>. <ref><name>S: Leo Papa</name> <title>Sermone 3 de pentecoste</title>: <quote>si homo in naturae suae
+        <lb ed="#K"/>perfectione et honore in quo creatus est permansisset creator
+        <lb ed="#K"/>hominum creatura ne fieret, neque aeternus temporalitatem subiret 
+        <lb ed="#K"/>neque formam servi in similitudinem carnis sumeret</quote></ref>. <ref><name>S: Augustinus</name>
+        <title>in psalmum 36</title>: <quote>si tu homo ne desereres Deum, ne fieret propter te homo
+        <lb ed="#K"/>Deus</quote></ref>. Et <ref><title>sermone 9 de verbis Apostoli</title>: <quote>nulla fuit causa veniendi
+        <lb ed="#K"/>Christo Divino nisi peccatores saluos facere</quote></ref>. <ref><name>S: Ambrosius</name> <title>Libro
+        <lb ed="#K"/>de Incarnatione Divini capite 6</title>: <quote>quae erat causa Incarnationis? nisi
+        <lb ed="#K"/>ut caro quae peccaverat redimeretur</quote> etc</ref>. Haec et similia loco satis
+        <lb ed="#K"/>aperte <unclear>praecedunt</unclear>> de Incarnatione quo ad substantiam, et non solum quo ad ali<lb ed="#K"/>quam
+        eius circumstantiam ut verba gratia fieret in carne passibili.
+      </p>
+      <p>
+        <lb ed="#K"/><ref>Scotistae</ref> sequuntur suum Antesignarum <ref><name>Scotus</name> qui in <title>tertium Disp <unclear>11</unclear> sectione 7
+        <lb ed="#K"/>quaes: 3</title></ref> et <ref>distinc: 19</ref> docet Christum Divinum fuisse praedestinatum seu electum
+        <lb ed="#K"/>ante praescientiam peccati originalis, atque adeo voluntatem Incarnationis
+        <lb ed="#K"/>priorem fuisse voluntate de committendo peccato Adae. Asserit enim Deum
+        <lb ed="#K"/>ne voluisse primo Incarnationem ob remedium peccati, sed propter se ipsam quia 
+        <lb ed="#K"/>per se est aptissimum opus ad communicandum et manifestandam bonitatem
+        <lb ed="#K"/>Divinam.
+      </p>
+      <p>
+        <lb ed="#K"/><ref>Alii</ref> docent quodsi voluntas Incarnationis comparetur cum voluntate per
+        <lb ed="#K"/>mittendi peccatum originale neutra sit prior altera, ne enim ita sit inter se connexae 
+        <lb ed="#K"/>voluntates istae, ut una supponat alterum vel supponatur ab ipsa, neutra
+        <lb ed="#K"/><unclear>enim</unclear> est per se causa alterius. Proinde per primam voluntatem qua Deus voluit
+        <lb ed="#K"/>condere universum perfectum, intelligendus est simul voluisse et Incarnationem
+        <lb ed="#K"/>et peccati permissionem. Si vero voluntas Incarnationis comparetur cum
+        <lb ed="#K"/>scientia visionis de absoluto peccato futuro, sic prior est haec scientia ut patet
+
+        <lb ed="#K"/>posterior tamen est quam scientia simplicis intelligentiae vel conditionatum qua 
+        <lb ed="#K"/>praevidit Deus, quod homo peccaturus esset si cum talibus auxiliis poneretur in
+        <lb ed="#K"/>talibus circumstantiis et tentationibus.
+      </p>
+      <p>
+        <lb ed="#K"/><ref>Alii</ref> docent quod mysterium quidem Unionis Hypostaticae fuit decretum in pri<lb ed="#K"/>mo
+        statim signo quo Deus voluit ad extra se communicare, non tamen mysterium 
+        <lb ed="#K"/>Incarnationis, id est unio Verbi cum natura humana. Tantum ergo in illo
+        <lb ed="#K"/>signo decretum fuit ut Deus assumeret intellectualem naturam aliquam
+        <lb ed="#K"/>abstrahendo ab hac vel illa persona Divinae, et a natura tam humana
+        <lb ed="#K"/>quam Angelica. Unde unio hypostatica secundum se, est prior quam Incarnatio
+        <lb ed="#K"/>et independens ab illa et per se sufficiens ad completam Dei communica<lb ed="#K"/>tionem
+        quae in primo signo intenta est. Incarnatio autem posterior decreto
+        <lb ed="#K"/>est ex occasione peccati futuri et praevisi a Deo.
+      </p>
+      <p>
+        <lb ed="#K"/>PARAGRAPHVS I
+        <lb ed="#K"/>Sententia Propria
+      </p>
+    </div>
+    </body>
+  </text>
+</TEI>
