@@ -56,62 +56,62 @@
       </div>
     </front>
     <body>
-      <div>
-      <head>Sectio 1</head> 
-      <head type="question-title">De ordine divinarum cognitionum et decretorum inter se.</head> 
-      <p>
+      <div xml:id="yth33t-f2x184">
+      <head xml:id="yth33t-f2x184-Hd1e108">Sectio 1</head> 
+      <head xml:id="yth33t-f2x184-Hd1e110" type="question-title">De ordine divinarum cognitionum et decretorum inter se.</head> 
+      <p xml:id="yth33t-f2x184-d1e113">
         <lb ed="#K" n="3"/>SECTIO I
-        <lb ed="#K" n="10"/>De Ordine Divinarum Cognitionum et 
-        <lb ed="#K" n="11"/>Decretorum inter se.
+        <lb ed="#K" n="4"/>De Ordine Divinarum Cognitionum et 
+        <lb ed="#K" n="5"/>Decretorum inter se.
       </p>
-      <p>
-        <lb ed="#K" n="12"/>Doctrina haec non solum plenti materiae, sed etiam plurimis aliis gravissimisque diffi<lb ed="#K" break="no" n="13"/>cultatibus,
+      <p xml:id="yth33t-f2x184-d1e122">
+        <lb ed="#K" n="6"/>Doctrina haec non solum plenti materiae, sed etiam plurimis aliis gravissimisque diffi<lb ed="#K" break="no" n="7"/>cultatibus,
         ut de Praedestinatione, de Gratia etc enodandis non solum per utilis sed etiam
-        <lb ed="#K" n="14"/>necessaria est, quam <ref><name>Suarius</name> hic <title>Dispu: 5</title></ref> aliique recentiores late pertractant.
-        <lb ed="#K" n="15"/>Controvertitur autem primo: An et quomodo possit inter actus Divinae volunta<lb ed="#K" break="no" n="16"/>tis
+        <lb ed="#K" n="8"/>necessaria est, quam <ref xml:id="yth33t-f2x184-Rd1e130"><name xml:id="yth33t-f2x184-Nd1e131">Suarius</name> hic <title>Dispu: 5</title></ref> aliique recentiores late pertractant.
+        <lb ed="#K" n="9"/>Controvertitur autem primo: An et quomodo possit inter actus Divinae volunta<lb ed="#K" break="no" n="10"/>tis
         et intellectus inveniri ordo quidam secundum prius et posterius, ita ut hic actus
-        <lb ed="#K" n="17"/>dicatur esse prior altero? iam vero unum ne potuisse esse priorem altero suadetur ex
-        <lb ed="#K" n="18"/>ipse Deus. Secundo. An bene distinguantur inter actus voluntatis Divinae 
-        <lb ed="#K" n="19"/>alia decreta intentionis alia executionis.
+        <lb ed="#K" n="11"/>dicatur esse prior altero? iam vero unum ne potuisse esse priorem altero suadetur ex
+        <lb ed="#K" n="12"/>ipse Deus. Secundo. An bene distinguantur inter actus voluntatis Divinae 
+        <lb ed="#K" n="13"/>alia decreta intentionis alia executionis.
       </p>
-      <p>
-        <lb ed="#K" n="20"/>Dicendum primo. Datur inter actus intellectus et voluntatis Divinae
-        <lb ed="#K" n="21"/>ordo prioris et posterioris, non aliter tantum quam per rationem nostram.
-        <lb ed="#K" n="22"/>Quo ad primam partem est conclusio communis. Quo ad secundam contra quasdam
-        <lb ed="#K" n="23"/>Recentores qui distinctionem virtualem quae maior appellari solet, et a plu<lb ed="#K" break="no" n="24"/>ribus 
+      <p xml:id="yth33t-f2x184-d1e147">
+        <lb ed="#K" n="14"/>Dicendum primo. Datur inter actus intellectus et voluntatis Divinae
+        <lb ed="#K" n="15"/>ordo prioris et posterioris, non aliter tantum quam per rationem nostram.
+        <lb ed="#K" n="16"/>Quo ad primam partem est conclusio communis. Quo ad secundam contra quasdam
+        <lb ed="#K" n="17"/>Recentores qui distinctionem virtualem quae maior appellari solet, et a plu<lb ed="#K" break="no" n="18"/>ribus 
         dicitur inter essentiam et personalitates Divinas inter edere, statuunt.
       </p>
-      <p>
-        <lb ed="#K" n="25"/>Probatur prima pars. Quamvis Deus unica et simplicissimo actu qui
-        <lb ed="#K" n="26"/>est ipsa eius substantia, omnia intelligat et velit: est tamen is actus propter
-        <lb ed="#K" n="27"/>infinitam perfectionem suam virtualiter multiplex eo, quod aequivaleat pluribus
-        <lb ed="#K" n="28"/>actibus creaturarum, realiter inter se distinctis. Ergo habet intellectus
-        <lb ed="#K" n="29"/>noster fundamentum in illo actu, propter quod illum ipsum pluribus inadaequa<lb ed="#K" break="no" n="30"/>tis
+      <p xml:id="yth33t-f2x184-d1e161">
+        <lb ed="#K" n="19"/>Probatur prima pars. Quamvis Deus unica et simplicissimo actu qui
+        <lb ed="#K" n="20"/>est ipsa eius substantia, omnia intelligat et velit: est tamen is actus propter
+        <lb ed="#K" n="21"/>infinitam perfectionem suam virtualiter multiplex eo, quod aequivaleat pluribus
+        <lb ed="#K" n="22"/>actibus creaturarum, realiter inter se distinctis. Ergo habet intellectus
+        <lb ed="#K" n="23"/>noster fundamentum in illo actu, propter quod illum ipsum pluribus inadaequa<lb ed="#K" break="no" n="24"/>tis
         conceptibus <unclear>repraesentet</unclear>, atqui sic in plures formaliter distinguat per 
-        <lb ed="#K" n="31"/>ordinem ad varia connotata extrinseca. Consequenter sicut in creatis
-        <lb ed="#K" n="32"/>subordinantur sibi actus ut unus detur propter aliud datum unus supponat
-        <lb ed="#K" n="33"/>alium, ita in Deo ratione aequivalentiae, concipi possunt huiusmodi sibi
-        <lb ed="#K" n="34"/>subordinati actus, quorum unus aliquomodo pendeat ab alio. Porro hic
-        <lb ed="#K" n="35"/>modus noster concipiendi unicum illum actum Divinum, cum sit illi omnino extrin<lb ed="#K" break="no" n="36"/>secus,
+        <lb ed="#K" n="25"/>ordinem ad varia connotata extrinseca. Consequenter sicut in creatis
+        <lb ed="#K" n="26"/>subordinantur sibi actus ut unus detur propter aliud datum unus supponat
+        <lb ed="#K" n="27"/>alium, ita in Deo ratione aequivalentiae, concipi possunt huiusmodi sibi
+        <lb ed="#K" n="28"/>subordinati actus, quorum unus aliquomodo pendeat ab alio. Porro hic
+        <lb ed="#K" n="29"/>modus noster concipiendi unicum illum actum Divinum, cum sit illi omnino extrin<lb ed="#K" break="no" n="30"/>secus,
         nullam in ipso Deo vel actu eius arguit imperfectionem, sed solum
-        <lb ed="#K" n="37"/>ex parte nostra.
+        <lb ed="#K" n="31"/>ex parte nostra.
       </p>
-      <p>
-        <lb ed="#K" n="38"/>Probatur secundo. Quia nulla maior distinctio inter actus scientiae et vo<lb ed="#K" break="no" n="39"/>luntatis
+      <p xml:id="yth33t-f2x184-d1e194">
+        <lb ed="#K" n="32"/>Probatur secundo. Quia nulla maior distinctio inter actus scientiae et vo<lb ed="#K" break="no" n="33"/>luntatis
         Divinae, <unclear>prout</unclear> terminantur ad obiecta extrinsece, est necessaria
-        <lb ed="#K" n="40"/>sive ad hanc de Incarnatione, sive ad alias difficultates salvandas
+        <lb ed="#K" n="34"/>sive ad hanc de Incarnatione, sive ad alias difficultates salvandas
         <pb ed="#K" n="50-r"/>
         <lb ed="#K" n="1"/>nec aliunde sufficiens illius habetur fundamentum.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x184-d1e210">
         <lb ed="#K" n="2"/>Sed hinc oritur alia quaestio unde nam et quomodo hic ordo seu
         <lb ed="#K" n="3"/>signa rationis priora et posteriora desumenda sit in scientia et volun<lb ed="#K" break="no" n="4"/>tate
         Divina, id est: quis nam dicendus est actus prior et quis posterior in
         <lb ed="#K" n="5"/>Deo? Imo quomodo ipsa res quae obiciuntur intellectui et voluntati
         <lb ed="#K" n="6"/>Divinae, ordinandae sint, ut dicatur in hanc prius quam in illam ferri actu.
       </p>
-      <p>
-        <lb ed="#K" n="7"/><ref><name>Caietanus</name></ref> apud <ref><name>Suarium</name></ref> coluit id desumi ex natura et ordine ipsarum
+      <p xml:id="yth33t-f2x184-d1e223">
+        <lb ed="#K" n="7"/><ref xml:id="yth33t-f2x184-Rd1e226"><name xml:id="yth33t-f2x184-Nd1e227">Caietanus</name></ref> apud <ref xml:id="yth33t-f2x184-Rd1e229"><name xml:id="yth33t-f2x184-Nd1e230">Suarium</name></ref> coluit id desumi ex natura et ordine ipsarum
         <lb ed="#K" n="8"/>rerum quae intellectui et voluntati Divinae <unclear>obiciuntur</unclear>; statuit autem
         <lb ed="#K" n="9"/>tres earum ordines, scilicet naturae, gratiae, et unionis hypostaticae.
         <lb ed="#K" n="10"/>Primum ordinem dicit supponi secundo ut fundamentum eius, et similiter secundum tertio.
@@ -119,7 +119,7 @@
         <lb ed="#K" n="12"/>etiam peccata omnia, <unclear>praevideria</unclear> Deo prius quam videantur vel praedestinan<lb ed="#K" break="no" n="13"/>tur
         ea, quae pertinent ad ordinem gratiae aut unionis hypostaticae. 
       </p>
-      <p>
+      <p xml:id="yth33t-f2x184-d1e250">
         <lb ed="#K" n="14"/>Sed contra est quia quamvis ordo naturae quo ad substantiam suam habeat
         <lb ed="#K" n="15"/>se per modum subiecti seu fundamenti ad <unclear>videnem</unclear> gratiae, non pauca tamen sit
         <lb ed="#K" n="16"/>ad hunc pertinentia quae praevideri debent ante alia spectantia ad ordi<lb ed="#K" break="no" n="17"/>nem
@@ -131,10 +131,10 @@
         sed potius e contra: licet enim gloria pertineat ad ordinem secundum, et unio
         <lb ed="#K" n="23"/>ad tertium, tamen gloriae data est illi animae propter unionem et habet se ut pro<lb ed="#K" break="no" n="24"/>prietas 
         <lb ed="#K" n="25"/>consequens ipsam; proinde universaliter et sine restrictione
-        <lb ed="#K" n="26"/>non subsistit doctrina illa <ref><name>Caietani</name></ref>.
+        <lb ed="#K" n="26"/>non subsistit doctrina illa <ref xml:id="yth33t-f2x184-Rd1e282"><name xml:id="yth33t-f2x184-Nd1e283">Caietani</name></ref>.
       </p>
-      <p>
-        <lb ed="#K" n="27"/><ref><name>Scotus</name> in <title>tertium distin: 7 quaes: 3</title></ref> et <ref><title>distinc: <unclear>19</unclear></title></ref>. Distinguit haec signa
+      <p xml:id="yth33t-f2x184-d1e286">
+        <lb ed="#K" n="27"/><ref xml:id="yth33t-f2x184-Rd1e289"><name xml:id="yth33t-f2x184-Nd1e290">Scotus</name> in <title>tertium distin: 7 quaes: 3</title></ref> et <ref xml:id="yth33t-f2x184-Rd1e294"><title>distinc: <unclear>19</unclear></title></ref>. Distinguit haec signa
         <lb ed="#K" n="28"/>prioritas et posterioritatis ex maiore similitudine vel propinquitate ef<lb ed="#K" break="no" n="29"/>fectum
         Dei cum ipso Deo, utens illo principio: Ordinate volens prius
         <lb ed="#K" n="30"/>vult id quod est proprinquius fini, quam ea quae magis distant. Deus autem
@@ -142,8 +142,8 @@
         est prius esse in voluntate Dei, quod ipsi Deo est propinquius. Quae
         <lb ed="#K" n="33"/>doctrina an et quomodo subsistat, patebit ex paulo post dicendis.
       </p>
-      <p>
-        <lb ed="#K" n="34"/><ref><name>Suarius</name> <title>Disp: 5 Secti 1</title> et aliis capitibus</ref>, rectius desumit prioritatem
+      <p xml:id="yth33t-f2x184-d1e314">
+        <lb ed="#K" n="34"/><ref xml:id="yth33t-f2x184-Rd1e317"><name xml:id="yth33t-f2x184-Nd1e318">Suarius</name> <title>Disp: 5 Secti 1</title> et aliis capitibus</ref>, rectius desumit prioritatem
         <lb ed="#K" n="35"/>et posterioritatem actuum Divinorum. Et primo quidem prioritatem quam habent actus
         <lb ed="#K" n="36"/>intellectus Divini, respectu actuum voluntatis, desumit ex naturali connexione
         <pb ed="#K" n="50-v"/>
@@ -159,7 +159,7 @@
         omnipotentia ad earum productionem, sequitur actus decretorios Divinae
         <lb ed="#K" n="11"/>absolute futurum est extra causas.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x184-d1e354">
         <lb ed="#K" n="12"/>Potest tamen contingere ut ipsa scientia visionis in Deo sit prior actu de<lb ed="#K" break="no" n="13"/>cretorio 
         voluntatis Divinae: quod quidem non contingit respective ad eandem 
         <lb ed="#K" n="14"/>rem seu effectum, semper enim intelligitur aliquid prius a Deo volitum quam existens
@@ -171,7 +171,7 @@
         <lb ed="#K" n="20"/>debet illi prius repraesentari per scientiam visionis existentia vel futuritio
         <lb ed="#K" n="21"/>futuritionem rei huius.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x184-d1e383">
         <lb ed="#K" n="22"/>Secundo. Potest inter ipsosmet actus scientiae sicut et inter ipsosmet actus volunta<lb ed="#K" break="no" n="23"/>tis
         Divinae, dari prioritas et posterioritas. Desumenda utem haec est in actibus scien<lb ed="#K" break="no" n="24"/>tiae
         tam simplicis intelligentiae quiam visionis (prout scilicet haec res futuras attin<lb ed="#K" break="no" n="25"/>git
@@ -184,7 +184,7 @@
         <lb ed="#K" n="31"/>cognoscere in decretis suis liberis tunc actus talis scientiae sequuntur 
         <lb ed="#K" n="32"/>ipsorum decretorum ordinem.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x184-d1e409">
         <lb ed="#K" n="33"/>Dicendum secundo. Inter actus liberos voluntatis Divinae, non potest prioritas
         <pb ed="#K" n="51-r"/>
         <lb ed="#K" n="1"/>et posterioritas absolute loquendo desumi ex solis rebus ipsis prout habent
@@ -194,7 +194,7 @@
         <lb ed="#K" n="5"/>alteram quamvis una non exigebat alteram, et connaturaliter esse poterat
         <lb ed="#K" n="6"/>sine illa ut est in operibus miraculosis.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x184-d1e431">
         <lb ed="#K" n="7"/>Dicendum tertio. Ordo prioritas et posterioritatis inter actus Divinos 
         <lb ed="#K" n="8"/>desumendus est ex modo seu ordine, tenendi in effectus. Ratio. Si enim
         <lb ed="#K" n="9"/>Deus velit ut unum sit propter aliud, seu unum intendat ut finem, aliud vero eligat
@@ -205,7 +205,7 @@
         <lb ed="#K" n="14"/>illa posterior quae ut medium. Simpliciter ex ipsis mediis, si plura sint et per se
         <lb ed="#K" n="15"/>subordinata sibi, illud intelligitur esse prius volitum, quod est propinquius fini,
         <lb ed="#K" n="16"/>nam respectu remotionis medii habet se hoc ut finis quidam. Et in hoc sensu verum 
-        <lb ed="#K" n="17"/>est principium illud quo utitur <ref><name>Scotus</name></ref> in hac materia: Quod scilicet <unclear>ordinate</unclear>
+        <lb ed="#K" n="17"/>est principium illud quo utitur <ref xml:id="yth33t-f2x184-Rd1e457"><name xml:id="yth33t-f2x184-Nd1e458">Scotus</name></ref> in hac materia: Quod scilicet <unclear>ordinate</unclear>
         <lb ed="#K" n="18"/>volens prius vult id quod est fini propinquius, id est immediatius inferens finem.
         <lb ed="#K" n="19"/>Non autem subsistit universaliter in hoc sensu, quasi illud debeat esse prius
         <lb ed="#K" n="20"/>volitam a Deo, quod est perfectius et similius fini, seu Deo, vel etiam quod videtur
@@ -216,7 +216,7 @@
         <lb ed="#K" n="25"/>operatur ad extra. Ergo tunc non tenebitur ad simpliciter eligendum id quod est
         <lb ed="#K" n="26"/>perfectius et similius fini, multo minus ad illud eligendum prius.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x184-d1e482">
         <lb ed="#K" n="27"/>Adverte autem quod quando hic dicitur quod intentio finis sit prior elec<lb ed="#K" break="no" n="28"/>tione
         mediorum, non eo ipso asseritur intentionem finis esse priorem omni praescien<lb ed="#K" break="no" n="29"/>tia
         mediorum. Certum enim est quod omnis intentio finis supponat aliquam scien<lb ed="#K" break="no" n="30"/>tiam 
@@ -236,7 +236,7 @@
         <lb ed="#K" n="10"/>finem, quando iam absoluta et definita voluntate <unclear>constitutus</unclear> est finis,
         <lb ed="#K" n="11"/>conicit enim se in periculum non obtinendi finem. Unde etiam homo qui cordatus
         <lb ed="#K" n="12"/>est in volendo, prius quam definita voluntate statuat aliquem finem consequi,
-        <lb ed="#K" n="13"/>cogitat de mediis ad eum conducentibus iuxta illud <ref>Lucae 14</ref>. Quis ex
+        <lb ed="#K" n="13"/>cogitat de mediis ad eum conducentibus iuxta illud <ref xml:id="yth33t-f2x184-Rd1e534">Lucae 14</ref>. Quis ex
         <lb ed="#K" n="14"/>vobis volens turrim aedificare, non prius sedens computat sumptus qui neces<lb ed="#K" break="no" n="15"/>sarii
         sit etc ut ergo Divinae voluntati integra maneat sua infallibili<lb ed="#K" break="no" n="16"/>tas
         et in impedibilis efficacia, necesse est, ut dirigatur oculo providen<lb ed="#K" break="no" n="17"/>tiae
@@ -266,9 +266,9 @@
         <lb ed="#K" n="6"/>debet insuper videri antecedens praemissio de acceptandis his mentis ad
         <lb ed="#K" n="7"/>tale praemium dandum. Tertio Scriptura passim indicat in Deo voluntates
         <lb ed="#K" n="8"/>efficaces quae omnino supponunt praevisam a Deo existentiam aliarum rerum,
-        <lb ed="#K" n="9"/>et ex praescientia illarum Deum esse motum ad aliquid volendum, ut <ref>exodi secundo</ref>
-        <lb ed="#K" n="10"/><quote>Et audivit gemitum eorum, et respexit Dominus filios Israel</quote>. Et <ref>capite 3</ref> 
-        <lb ed="#K" n="11"/><quote>vidi afflictionem populi mei in Aegypto, et clamorem audivi, et sciens dolorem
+        <lb ed="#K" n="9"/>et ex praescientia illarum Deum esse motum ad aliquid volendum, ut <ref xml:id="yth33t-f2x184-Rd1e605">exodi secundo</ref>
+        <lb ed="#K" n="10"/><quote xml:id="yth33t-f2x184-Qd1e608">Et audivit gemitum eorum, et respexit Dominus filios Israel</quote>. Et <ref xml:id="yth33t-f2x184-Rd1e611">capite 3</ref> 
+        <lb ed="#K" n="11"/><quote xml:id="yth33t-f2x184-Qd1e614">vidi afflictionem populi mei in Aegypto, et clamorem audivi, et sciens dolorem
         <lb ed="#K" n="12"/>eius descendi ut liberem</quote>. Ergo <unclear>h</unclear> tantum inter obiecta Divinorum actuum
         <lb ed="#K" n="13"/>est prioritas et posterioritas, sed etiam inter ipsos met intelligi debet nec
         <lb ed="#K" n="14"/>solum concipiendus est Deus voluisse rem unam propter aliam ex quandam obiectiva
@@ -276,13 +276,13 @@
         <lb ed="#K" n="16"/>unum quia voluit aliud: adeoque datur quidam ordo quasi causalitatis
         <lb ed="#K" n="17"/>subter illos actus.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x184-d1e634">
         <lb ed="#K" n="18"/>Dicendum quarto. Recte statuitur inter decreta Divina ordo intentio<lb ed="#K" break="no" n="19"/>nis
         ratione distinctus ab ordine executionis, seu efficax intentio finis
         <lb ed="#K" n="20"/>distinguitur etiam in Deo formaliter a voluntate efficaciter exequente 
-        <lb ed="#K" n="21"/>finem. Ita <ref><name>Suarius</name> loco citato</ref>.
+        <lb ed="#K" n="21"/>finem. Ita <ref xml:id="yth33t-f2x184-Rd1e644"><name xml:id="yth33t-f2x184-Nd1e645">Suarius</name> loco citato</ref>.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x184-d1e649">
         <lb ed="#K" n="22"/>Probatur primo. Quia operari ex <unclear>praeposito</unclear> et ex cognitione constituti
         <lb ed="#K" n="23"/>finis est perfectio simpliciter. Ergo quamvis Deus unico simplicissimo 
         <lb ed="#K" n="24"/><unclear>actu</unclear> efficaciter intendat finem, et eligat media ad eius executionem, quod
@@ -305,10 +305,10 @@
         prior se ipsa, quatenus est voluntas et amor. Atque sic Deus 
         <lb ed="#K" n="8"/>prius secundum rationem vult hunc hominem peccatorem iustificare, et conse<lb ed="#K" break="no" n="9"/>quenter
         vult ut habeat contritionem, ob quam intentionem ulterius vult
-        <lb ed="#K" n="10"/>illi <unclear>probere</unclear> vocationem, quam scit suturam efficaciter, et quae proptera ab <ref><name>Augus<lb ed="#K" break="no" n="11"/>tino</name></ref>
+        <lb ed="#K" n="10"/>illi <unclear>probere</unclear> vocationem, quam scit suturam efficaciter, et quae proptera ab <ref xml:id="yth33t-f2x184-Rd1e706"><name xml:id="yth33t-f2x184-Nd1e707">Augus<lb ed="#K" break="no" n="11"/>tino</name></ref>
         saepe vocatur vocatio secundum <unclear>praepositum</unclear> gratiae Dei.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x184-d1e715">
         <lb ed="#K" n="12"/>Obiicitur primo. Quo perfectior est substantia intellectiva eo simpli<lb ed="#K" break="no" n="13"/>cior 
         illi convenit modus intelligendi et volendi ut scilicet uno actu
         <lb ed="#K" n="14"/>plura obiecta attingat et <unclear>ex harinat</unclear> disponatque simul de omnibus 
@@ -326,7 +326,7 @@
         <lb ed="#K" n="26"/>hic modus tollat omnem causam meritoriam et dementoriam respectu Dei
         <lb ed="#K" n="27"/>quam scriptura et Patres agnoscunt, ut paulo ante dictum.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x184-d1e757">
         <lb ed="#K" n="28"/>Obiicitur secundo. Voluntas Dei absoluta est efficax eorum quae vult.
         <lb ed="#K" n="29"/>Ergo si Deus habet intentionem efficacem alicuius finis, eadem <unclear>metioclun<lb ed="#K" break="no" n="30"/>tas</unclear>
         est efficax illius finis. Ergo est executiva eiusdem. Ergo non distin<lb ed="#K" break="no" n="31"/>guuntur
@@ -340,7 +340,7 @@
         continet ea virtute, nec sufficienter et immediate applicat omni
         <lb ed="#K" n="5"/>potentiam ad executionem finis intenti.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x184-d1e793">
         <lb ed="#K" n="6"/>Obiicitur tertio. In voluntate Divina non distinguitur etiam ratione
         <lb ed="#K" n="7"/>electio mediorum ab usu. Ergo nec respectu finis distinguitur intentio a
         <lb ed="#K" n="8"/>voluntate executiva. Consequentia videtur bona, Antecedens probatur, quia Deus
@@ -349,7 +349,7 @@
         <lb ed="#K" n="11"/>efficacium intelligitur sufficienter determinata seu applicata omni potentia
         <lb ed="#K" n="12"/>non autem si sola supponatur intentio finis ut praeciso intentio est licet efficax.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x184-d1e811">
         <lb ed="#K" n="13"/>Obiicitur quarto. Tunc solum prudenter potest quis elicere intentionem
         <lb ed="#K" n="14"/>efficacem finis praescindendo adhuc a mediis determinatis, dum necdum ha<lb ed="#K" break="no" n="15"/>bet
         praesentem omnem scientiam et idoneam ad eligendum hoc medium pro illo.
@@ -370,7 +370,7 @@
         in re. Unde si quae videatur imperfectio, non se tenet ex parte
         <lb ed="#K" n="31"/>Dei, sed solum ex parte cognitionis nostrae. Ex dictis.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x184-d1e856">
         <lb ed="#K" n="32"/>Collige differentiam inter decreta intentionis et executionis, quo
         <lb ed="#K" n="33"/>nimirum illa feruntur in obiectum eligendo seu intendendo illud ut fi<lb ed="#K" break="no" n="34"/>nem
         quendam, ista autem ferantur in obiectum suum sub ratione medii
