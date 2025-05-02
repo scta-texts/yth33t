@@ -65,11 +65,11 @@
         <lb ed="#K" n="3"/>Deo praevisionem peccati originalis vel subsequuta fuerit?
       </p>
       <p>
-        <lb ed="#K" n="4"/>Quaestio haec eadem est cum illa. An Incarnationis opus per se primo inten<lb ed="#K" break="no"/>tum
+        <lb ed="#K" n="4"/>Quaestio haec eadem est cum illa. An Incarnationis opus per se primo inten<lb ed="#K" break="no" n="5"/>tum
         fuerit a Deo in primo signo quo voluit ad extra se communicare, an
         <lb ed="#K" n="6"/>vero solum fuerit ordinatum occasione sumpta ex praeviso lapsu naturae
         <lb ed="#K" n="7"/>humanae? Item coincidit cum illa: an Christus fuerit praeordinatus et
-        <lb ed="#K" n="8"/>praeelectus ante omnem creaturam? et an fuerit primus omnium praedesti<lb ed="#K" break="no"/>natorum
+        <lb ed="#K" n="8"/>praeelectus ante omnem creaturam? et an fuerit primus omnium praedesti<lb ed="#K" break="no" n="9"/>natorum
         hominum et Angelorum? Ac denique: an praedestinatio Christi
         <lb ed="#K" n="10"/>fuerit ante vel post praevisum peccatum originale? In hac re in varia
         <lb ed="#K" n="11"/>abiere Authores.
@@ -77,18 +77,18 @@
       <p>
         <lb ed="#K" n="12"/><ref>Thomistae</ref> secuti suum Antesignanum <ref><name>D. Thomam</name></ref> docent quod Deus prius
         <lb ed="#K" n="13"/>vident originale futurum peccatum, actum primum Incarnationem
-        <lb ed="#K" n="14"/>decreverit scilicet in remedium eius. Rationem <unclear>dante</unclear> fundamen<lb ed="#K" break="no"/>talem
+        <lb ed="#K" n="14"/>decreverit scilicet in remedium eius. Rationem <unclear>dante</unclear> fundamen<lb ed="#K" break="no" n="15"/>talem
         hanc: quod prima ratio et causa quae movit Deum ut vellet
-        <lb ed="#K" n="16"/>Verbum fieri hominem, fuerit remedium lapsae naturae humanae. Ergo volun<lb ed="#K" break="no"/>tas
+        <lb ed="#K" n="16"/>Verbum fieri hominem, fuerit remedium lapsae naturae humanae. Ergo volun<lb ed="#K" break="no" n="17"/>tas
         de facienda Incarnatione, supponit scientiam de lapsu hominis.
-        <lb ed="#K" n="18"/>Antecedens fundatur potissimum ex patribus quibus semper ratio incar<lb ed="#K" break="no"/>nationis
+        <lb ed="#K" n="18"/>Antecedens fundatur potissimum ex patribus quibus semper ratio incar<lb ed="#K" break="no" n="19"/>nationis
         sumitur ex hominum redemptione. Ut <ref><title>Mathei 16</title></ref> et <ref xml:id="yth33t-f2x193-Rxxjqq1" corresp="#yth33t-f2x193-Qsn2811"><title>Lucae 19</title></ref>.
         <lb ed="#K" n="20"/><quote xml:id="yth33t-f2x193-Qsn2811" source="http://scta.info/resource/lc19_10@1-10">Venit filius humanis querere et salvum facere quod perigerat</quote>. Et prima
         <lb ed="#K" n="21"/><ref><title>ad Timoth 1<!-- 1:15 --></title></ref> <quote>venit Iesus peccatores saluos facere</quote>. Et <ref><title>ad Galatos
         <lb ed="#K" n="22"/>quarto<!-- 4:4-5 --></title></ref>: <quote>misit Deus filium suum factum ex muliere sub lege, ut eos qui
-        <lb ed="#K" n="23"/>sub lege erant redimeret</quote>. Idem in <ref>veteri testamento</ref> variis figu<lb ed="#K" break="no"/>ris
-        praesignatum est ut in Moyse misso ad liberandum populum dira ser<lb ed="#K" break="no"/>tatem.
-        In Elia et Eliseo ad suscitandos mortuos et cetera. Idem incul<lb ed="#K" break="no"/>catum
+        <lb ed="#K" n="23"/>sub lege erant redimeret</quote>. Idem in <ref>veteri testamento</ref> variis figu<lb ed="#K" break="no" n="24"/>ris
+        praesignatum est ut in Moyse misso ad liberandum populum dira ser<lb ed="#K" break="no" n="25"/>tatem.
+        In Elia et Eliseo ad suscitandos mortuos et cetera. Idem incul<lb ed="#K" break="no" n="26"/>catum
         <lb ed="#K" n="27"/>in <ref><title>Symbolo Niceno</title></ref>: <quote>qui propter nos humanes et propter nostram salutem
         <lb ed="#K" n="28"/>descendit de caelis</quote> et cetera. Cum ergo semper ratio Incarnationis
         <lb ed="#K" n="29"/>in Scriptura nobis tradatur ex redemptione nostra, et nulla alia detur:
@@ -98,7 +98,7 @@
         <lb ed="#K" n="1"/>adducuntur <ref>SS. Patrum</ref> testimonia: <ref><name>S. Athanasius</name> <title>Sermone 3 contra Arianos</title></ref>
         <lb ed="#K" n="2"/>postquam latissime postposuisset illud <ref><title>proverbiorum 8<!-- 8:22 --></title></ref>: <quote>Dominus creavit me</quote>
         concludit necessitatem indigentiamque nostram anteriorem esse quam Christi
-        <lb ed="#K" n="3"/>nativitatem quod amplius declarant subdit: qua sublata (scilicet ne<lb ed="#K" break="no"/>cessitate)
+        <lb ed="#K" n="3"/>nativitatem quod amplius declarant subdit: qua sublata (scilicet ne<lb ed="#K" break="no" n="4"/>cessitate)
         carnem ne induisset. <ref><name>Gregorius Nadzianzenus</name> <title>oratione
         36 et 4 Theologiae</title></ref>: <quote>humanitatis susceptae inquit causa nostra est, quid enim
         aliud causa esse potuisset?</quote> <ref><name>Irineus</name> <title>adversus haereseos libro 1 cap 14</title></ref>
@@ -113,7 +113,7 @@
         <lb ed="#K" n="12"/>Christo Divino nisi peccatores saluos facere</quote>. <ref><name>S: Ambrosius</name> <title>Libro
         <lb ed="#K" n="13"/>de Incarnatione Divini capite 6</title></ref>: <quote>quae erat causa Incarnationis? nisi
         <lb ed="#K" n="14"/>ut caro quae peccaverat redimeretur</quote> et cetera. Haec et similia loco satis
-        <lb ed="#K" n="15"/>aperte <unclear>praecedunt</unclear>; de Incarnatione quo ad substantiam, et non solum quo ad ali<lb ed="#K" break="no"/>quam
+        <lb ed="#K" n="15"/>aperte <unclear>praecedunt</unclear>; de Incarnatione quo ad substantiam, et non solum quo ad ali<lb ed="#K" break="no" n="16"/>quam
         eius circumstantiam ut verba gratia fieret in carne passibili.
       </p>
       <p>
@@ -139,13 +139,13 @@
         <lb ed="#K" n="3"/>talibus circumstantiis et tentationibus.
       </p>
       <p>
-        <lb ed="#K" n="4"/><ref>Alii</ref> docent quod mysterium quidem Unionis Hypostaticae fuit decretum in pri<lb ed="#K" break="no"/>mo
+        <lb ed="#K" n="4"/><ref>Alii</ref> docent quod mysterium quidem Unionis Hypostaticae fuit decretum in pri<lb ed="#K" break="no" n="5"/>mo
         statim signo quo Deus voluit ad extra se communicare, non tamen mysterium 
         <lb ed="#K" n="6"/>Incarnationis, id est unio Verbi cum natura humana. Tantum ergo in illo
         <lb ed="#K" n="7"/>signo decretum fuit ut Deus assumeret intellectualem naturam aliquam
         <lb ed="#K" n="8"/>abstrahendo ab hac vel illa persona Divinae, et a natura tam humana
         <lb ed="#K" n="9"/>quam Angelica. Unde unio hypostatica secundum se, est prior quam Incarnatio
-        <lb ed="#K" n="10"/>et independens ab illa et per se sufficiens ad completam Dei communica<lb ed="#K" break="no"/>tionem
+        <lb ed="#K" n="10"/>et independens ab illa et per se sufficiens ad completam Dei communica<lb ed="#K" break="no" n="11"/>tionem
         quae in primo signo intenta est. Incarnatio autem posterior decreto
         <lb ed="#K" n="12"/>est ex occasione peccati futuri et praevisi a Deo.
       </p>
@@ -156,22 +156,22 @@
       <p>
         <lb ed="#K" n="15"/>Certum est ex fide Verbum Caro factum esse propter redemptionem nostram
         <lb ed="#K" n="16"/>ut patet ex scriptura et Conciliis pro prima sententia citatis. Restat
-        <lb ed="#K" n="17"/>tamen a Theologo declarandum: an motivum redemptionis nostrae uni<lb ed="#K" break="no"/>cum
+        <lb ed="#K" n="17"/>tamen a Theologo declarandum: an motivum redemptionis nostrae uni<lb ed="#K" break="no" n="18"/>cum
         fuerit vel principale ad decernendam Incarnationem? Et in quo
         <lb ed="#K" n="19"/>signo rationis decretum hoc divinum sit ponendum dum indivisibilem
-        <lb ed="#K" n="20"/>actum Divinae voluntatis in plura signa, ac veluti actus ratione nos<lb ed="#K" break="no"/>tra
-        distinguimus? ex qua difficultate deciso patebit resolutio cele<lb ed="#K" break="no"/>bris
+        <lb ed="#K" n="20"/>actum Divinae voluntatis in plura signa, ac veluti actus ratione nos<lb ed="#K" break="no" n="21"/>tra
+        distinguimus? ex qua difficultate deciso patebit resolutio cele<lb ed="#K" break="no" n="22"/>bris
         illius quaestionis: an Christus venisset vi praesentium decretorum,
         <lb ed="#K" n="23"/>si Adam ne peccasset.
       </p>
       <p>
         <lb ed="#K" n="24"/>Dicendum primo. Redemptio generis humani non fuit Deo unicum
         <lb ed="#K" n="25"/>nec primarium, nec primum motivum (quod scilicet se teneat ex parte obiecti)
-        <lb ed="#K" n="26"/>ad decernendam Incarnationem: sed primaria intentione et prima vo<lb ed="#K" break="no"/>luntate
+        <lb ed="#K" n="26"/>ad decernendam Incarnationem: sed primaria intentione et prima vo<lb ed="#K" break="no" n="27"/>luntate
         qua voluit se creaturis communicare, decrevit misterium<!-- sic --> Incar<lb ed="#K" n="28"/>nationis 
         propter excellentiam eiusdem, et Christum Deum simul et hominem 
         <lb ed="#K" n="29"/>constituit caput et finem omnium Divinorum operum sub ipso Deo.
-        <lb ed="#K" n="30"/>Ita Schola Scotistica, item <ref><name>Suarez</name> <title>Sectione 2 et sequentibus</title></ref>, <ref><name>Salme<lb ed="#K" break="no"/>ron</name></ref>,
+        <lb ed="#K" n="30"/>Ita Schola Scotistica, item <ref><name>Suarez</name> <title>Sectione 2 et sequentibus</title></ref>, <ref><name>Salme<lb ed="#K" break="no" n="31"/>ron</name></ref>,
         <ref><name>Hurtado</name></ref>, <ref><name>Martinon</name></ref>, <ref><name>Perez</name></ref>, <ref><name>Arriaga</name></ref>, et caeteri contra <ref><name>Vasquez</name></ref>
         <lb ed="#K" n="32"/>et plurimos.
       </p>
@@ -180,7 +180,7 @@
         <lb ed="#K" n="1"/>Probatur primo. Quia Sacra Scriptura et Sancti Patres indicant rationes propter
         <lb ed="#K" n="2"/>quas volitus et positus est Christus, et quidem per se independens a peccato,
         <lb ed="#K" n="3"/>et de se sufficiens ad efficaciter et principaliter ponendam voluntatem 
-        <lb ed="#K" n="4"/>Divinam ad Incarnationem decernendam Ergo et cetera. Probatur Antecedens, <unclear>imand</unclear> <ref><title>Co<lb ed="#K" break="no"/>losenses 1 versu 14</title></ref>
+        <lb ed="#K" n="4"/>Divinam ad Incarnationem decernendam Ergo et cetera. Probatur Antecedens, <unclear>imand</unclear> <ref><title>Co<lb ed="#K" break="no" n="5"/>losenses 1 versu 14</title></ref>
         appellat Apostolus Christum <quote>primogenitum omnis
         <lb ed="#K" n="6"/>creaturae</quote>. Et rationem huius ut: quoniam in ipso condita sit universa
         <lb ed="#K" n="7"/>in caelis et in terra et cetera omnia per ipsum et in ipso creata sit, et ipse est
@@ -190,29 +190,29 @@
         <lb ed="#K" n="11"/>ut homine, testatur <ref><title>Concilium Ephesium tomo seu parte prima capite
         <lb ed="#K" n="12"/>4 et 5, et tomo 4 capite 26</title></ref> apud <ref><name>Martinonem</name></ref> ubi ait: <quote>Christus 
         <lb ed="#K" n="13"/>ut Verbum dicitur unigenitus, ut homo primogenitus</quote>. Similiter
-        <lb ed="#K" n="14"/>exponunt <ref><name>Hyeronimus</name></ref>, <ref><name>Christotmus</name></ref>, <ref><name>Basilius</name></ref> verba in textu ci<lb ed="#K" break="no"/>tato,
+        <lb ed="#K" n="14"/>exponunt <ref><name>Hyeronimus</name></ref>, <ref><name>Christotmus</name></ref>, <ref><name>Basilius</name></ref> verba in textu ci<lb ed="#K" break="no" n="15"/>tato,
         ipse est caput corporis Ecclesiae primogenitus ex mortuis.
       </p>
       <p>
-        <lb ed="#K" n="16"/>Similiter loquitur <ref><name>Apostolus</name><title>ad Romanos 8</title></ref> quos praescivit et praedes<lb ed="#K" break="no"/>tinavit
-        conformes fieri imaginis filii sui ut sit ipse primogeni<lb ed="#K" break="no"/>tus
+        <lb ed="#K" n="16"/>Similiter loquitur <ref><name>Apostolus</name><title>ad Romanos 8</title></ref> quos praescivit et praedes<lb ed="#K" break="no" n="17"/>tinavit
+        conformes fieri imaginis filii sui ut sit ipse primogeni<lb ed="#K" break="no" n="18"/>tus
         ex multis fratribus. Idem indicatur <ref><title>Proverborium 8<!-- 8:22 --></title></ref> ubi dicitur
         <lb ed="#K" n="19"/><quote>Dominus possedit me ab initio viarum suarum</quote>. Quae verba omnes
-        <lb ed="#K" n="20"/>graeci et latini patres exponant de sapientia infinita. <ref><name>Sanctus Augus<lb ed="#K" break="no"/>tinus</name>
+        <lb ed="#K" n="20"/>graeci et latini patres exponant de sapientia infinita. <ref><name>Sanctus Augus<lb ed="#K" break="no" n="21"/>tinus</name>
         <title>Libro 1 de Trinitate cap 12</title></ref> secundum formam inquit Dei ante
         <lb ed="#K" n="22"/>omnes colles genuit me: secundum formam servi dominus creavit 
-        <lb ed="#K" n="23"/>me initium viarum suarum. Unde et <ref><title>Apocalypsis 1 versu 17</title></ref> Christus di<lb ed="#K" break="no"/>catur
+        <lb ed="#K" n="23"/>me initium viarum suarum. Unde et <ref><title>Apocalypsis 1 versu 17</title></ref> Christus di<lb ed="#K" break="no" n="24"/>catur
         <quote>primus et novissimus</quote>.
       </p>
       <p>
         <lb ed="#K" n="25"/>Respondent <ref>Adversarii</ref>: praedictis et similibus locis, Christum
-        <lb ed="#K" n="26"/>dici primum et primogenitum omnis creaturae non ordine praedestinatio<lb ed="#K" break="no"/>nis
+        <lb ed="#K" n="26"/>dici primum et primogenitum omnis creaturae non ordine praedestinatio<lb ed="#K" break="no" n="27"/>nis
         vel causalitatis, sed praerogativa dignitatis. Sicut <ref><title>Job 40<!-- 15-24 --></title></ref> 
         <lb ed="#K" n="28"/>dicitur de Behemoth: <quote>ipse est principium viarum Domini</quote>, scilicet
-        <lb ed="#K" n="29"/>perfectissimus quo ad naturalem excellentiam inter puras crea<lb ed="#K" break="no"/>turas.
-        Sed contra est quia ratio propter quam <ref><name>Apostolus</name></ref> loco su<lb ed="#K" break="no"/>pra
+        <lb ed="#K" n="29"/>perfectissimus quo ad naturalem excellentiam inter puras crea<lb ed="#K" break="no" n="30"/>turas.
+        Sed contra est quia ratio propter quam <ref><name>Apostolus</name></ref> loco su<lb ed="#K" break="no" n="31"/>pra
         citato appellat Christum <quote>primogenitum omnis creaturae</quote>, non tantum 
-        <lb ed="#K" n="32"/>dignitatis sed praedestinationis, et causalitatis prioritatem probat, quo<lb ed="#K" break="no"/>niam
+        <lb ed="#K" n="32"/>dignitatis sed praedestinationis, et causalitatis prioritatem probat, quo<lb ed="#K" break="no" n="33"/>niam
         in ipso inquit condita sit universa id est in honorem ipsius, et nisi
         <pb ed="#K" n="55-v"/>
         <lb ed="#K" n="1"/>ipse esset, reliquae creaturae ne essent. Unde subdit ipse est ante omnes,
@@ -220,38 +220,38 @@
       </p>
       <p>
         <lb ed="#K" n="3"/>Probatur secundo. <ref><title>Ad Epheseos 1</title></ref> describit <name>Apostolus</name> Christum tanquam
-        <lb ed="#K" n="4"/>caput omnis Ecclesiae, id est tam Angelicae quam humanae, dum ait: <quote>om<lb ed="#K" break="no"/>nia
+        <lb ed="#K" n="4"/>caput omnis Ecclesiae, id est tam Angelicae quam humanae, dum ait: <quote>om<lb ed="#K" break="no" n="5"/>nia
         subiecit sub pedibus eius, et ipsum det caput supra omnem ecclesiam
         <lb ed="#K" n="6"/>quae est corpus ipsius et plenitudo eius qui omnia in omnibus adimplet</quote>.
         <lb ed="#K" n="7"/>Deinde <ref><title>Lucae 15</title></ref> Christus se ipsum comparat pastori habenti 100 oves
         <lb ed="#K" n="8"/>et unam errabundam quaerenti, id est hominem, relictis 99 id est Angelis,
         <lb ed="#K" n="9"/>ut communiter explicatur. Cum igitur Christus sit caput et pastor
         <lb ed="#K" n="10"/>generalis tam humanum quam Angelorum, et ratio capitis vel pastoris 
-        <lb ed="#K" n="11"/>per se non praesupponat peccatum, sequitur eum ante praevisum peccatum, con<lb ed="#K" break="no"/>stitutum
+        <lb ed="#K" n="11"/>per se non praesupponat peccatum, sequitur eum ante praevisum peccatum, con<lb ed="#K" break="no" n="12"/>stitutum
         esse tale caput et pastorem.
       </p>
       <p>
         <lb ed="#K" n="13"/>Respondent <ref>Adversarii</ref>, eas denominationes competere Christo,
-        <lb ed="#K" n="14"/>propter titulum et officium redemptoris, quod cum tam heroice exer<lb ed="#K" break="no"/>cuerit,
-        data est ei plena potestas et dominium actuale, non solum in ho<lb ed="#K" break="no"/>mines
+        <lb ed="#K" n="14"/>propter titulum et officium redemptoris, quod cum tam heroice exer<lb ed="#K" break="no" n="15"/>cuerit,
+        data est ei plena potestas et dominium actuale, non solum in ho<lb ed="#K" break="no" n="16"/>mines
         sed Angelos, ac proinde titulos illos posteriores esse titulo
         <lb ed="#K" n="17"/>enim generaliter et amplissime loquuntur, et nulla est necessitas
         <lb ed="#K" n="18"/>restringendi, imo magna ratio ampliandi tum ex dignitate Christi,
-        <lb ed="#K" n="19"/>tum ex communi principio Theologico, iuxta quod scriptura accipi de<lb ed="#K" break="no"/>bat 
+        <lb ed="#K" n="19"/>tum ex communi principio Theologico, iuxta quod scriptura accipi de<lb ed="#K" break="no" n="20"/>bat 
         in sensu proprio, quando aperta ratio in contrarium non obstat:
-        Quod autem praedicti textus seu praerogativae in illis expressae attri<lb ed="#K" break="no"/>buantur
+        Quod autem praedicti textus seu praerogativae in illis expressae attri<lb ed="#K" break="no" n="21"/>buantur
         Christo non propter susceptum aut consummatum officium redemptoris,
         <lb ed="#K" n="22"/>patet primo ex praedicta parabola pastoris qui antequam quaereret et
-        <lb ed="#K" n="23"/>inveniret errantem ovem, in dictum pro habuisse 100 scilicet ex Ange<lb ed="#K" break="no"/>lis
+        <lb ed="#K" n="23"/>inveniret errantem ovem, in dictum pro habuisse 100 scilicet ex Ange<lb ed="#K" break="no" n="24"/>lis
         et hominibus conflatum gregem.
       </p>
       <p>
         <lb ed="#K" n="25"/>Secundo tam Angeli quam primi 
         <lb ed="#K" n="26"/>textus <ref><title>Epistola ad Epheseos</title></ref>: <quote>non enim Christus dicendus esset adimple
-        <lb ed="#K" n="27"/>non omnia in omnibus</quote>. Si Angeli et primi parentes suam sanctifi<lb ed="#K" break="no"/>cationem
+        <lb ed="#K" n="27"/>non omnia in omnibus</quote>. Si Angeli et primi parentes suam sanctifi<lb ed="#K" break="no" n="28"/>cationem
         per gratiam originalem ipsi non debuissent. Deinde <ref>versu 3</ref>
         <lb ed="#K" n="29"/> ibidem <name>Apostolus</name> loquitur: <quote>benedixit nos in omni benedictione
-        <lb ed="#K" n="30"/>spirituali in caelestibus in Christo</quote>. Si autem sanctificatio Angelorum et primorum pa<lb ed="#K" break="no"/>rentum
+        <lb ed="#K" n="30"/>spirituali in caelestibus in Christo</quote>. Si autem sanctificatio Angelorum et primorum pa<lb ed="#K" break="no" n="31"/>rentum
         ante praevisum peccatum originale, nam praevisio peccati absolute
         <lb ed="#K" n="32"/>futuri supponit permissionem Dei, id est decretum quo Deus statuit
         <lb ed="#K" n="33"/>permittere ut Angeli et primi parentes exciderent a iustitia originali
@@ -264,7 +264,7 @@
         <lb ed="#K" n="3"/>prius absolute decerni, quam absolute decerneretur permissio peccati.
       </p>
       <p>
-        <lb ed="#K" n="4"/>Probatur tertio. Ex scriptura qua asseritur Christus esse causa finalis om<lb ed="#K" break="no"/>nium
+        <lb ed="#K" n="4"/>Probatur tertio. Ex scriptura qua asseritur Christus esse causa finalis om<lb ed="#K" break="no" n="5"/>nium
         rerum creatarum, et causa exemplaris praedestinatorum. Sic ad <ref><title>Hebreos 2<!-- 2:10 --></title></ref>
         <lb ed="#K" n="6"/>dicit Apostolus, Christum <quote>esse eum propter quem omnia</quote>. Et <ref><title>prima ad Corinth. cap 3</title></ref>
         ad iustos et praedestinatos loquens: <quote>omnia inquit vestra sit, vos autem Christi
@@ -275,7 +275,7 @@
         <lb ed="#K" n="9"/>Idem indicatur <ref><title>ad Ephesios 1</title></ref> ubi dicitur: <quote>praedestinavit nos per Iesum Christum
         <lb ed="#K" n="10"/>in ipsum</quote>. Quod sit causa exemplaris Electorum, testatur <ref><name>apostolus</name> ad Rom 3</ref>.
         <lb ed="#K" n="11"/><unclear>Quos</unclear> praescivit et praedestinavit conformes fieri imaginis filiis sui ut
-        <lb ed="#K" n="12"/>sit ipse primogenitus in multis fratribus. Quod de Christo ut homi<lb ed="#K" break="no"/>ne
+        <lb ed="#K" n="12"/>sit ipse primogenitus in multis fratribus. Quod de Christo ut homi<lb ed="#K" break="no" n="13"/>ne
         exponunt <ref><name>D. Chrisostomus</name></ref>, <ref><name>Basilius</name></ref>, <ref><name>Hyeronimus</name></ref>, caeterique graeci
         <lb ed="#K" n="14"/>et latini Patres. Atqui causa finalis est prior in intentione ex
         <lb ed="#K" n="15"/>natura quam electio mediorum. Similiter etiam causa exemplaris quam
@@ -293,11 +293,11 @@
         <lb ed="#K" n="25"/>ut si superstructa ruinam patiantur, possint reparari servata</quote>.
         <lb ed="#K" n="26"/>Tum subdit: <quote>eodem modo creator noster Christum salutis nostrae
         <lb ed="#K" n="27"/>fundamentum etiam ante initium mundi fundavit ut si praeverificatione
-        <lb ed="#K" n="28"/>caderemus, in ipso rursus renovaremur</quote>. Quibus satis aperte indi<lb ed="#K" break="no"/>cat
+        <lb ed="#K" n="28"/>caderemus, in ipso rursus renovaremur</quote>. Quibus satis aperte indi<lb ed="#K" break="no" n="29"/>cat
         <ref><name>Sanctus Pater</name></ref> Christum et alios humanes praedestinatos esse ante praevisum absolute
-        <lb ed="#K" n="30"/>futurum lapsum Adae. <ref><name>Sanctus Augustinus</name> <title>Libro 1 de nuptiis et concu<lb ed="#K" break="no"/>piscentia
+        <lb ed="#K" n="30"/>futurum lapsum Adae. <ref><name>Sanctus Augustinus</name> <title>Libro 1 de nuptiis et concu<lb ed="#K" break="no" n="31"/>piscentia
         cap: 21</title></ref> ait: <quote>Coniugium etiam in statu innocentiae, si homo ne peccasset
-        <lb ed="#K" n="32"/>futurum fuisse sacramentum coniunctionis Christi cum Ecclesia</quote>. Ergo coniunc<lb ed="#K" break="no"/>tio
+        <lb ed="#K" n="32"/>futurum fuisse sacramentum coniunctionis Christi cum Ecclesia</quote>. Ergo coniunc<lb ed="#K" break="no" n="33"/>tio
         haec fuisset, quamvis peccatum ne fuisset. Ergo Christus decerni debuit
         <lb ed="#K" n="34"/>independenter a praeviso absolute futuro peccato.
       </p>
@@ -312,7 +312,7 @@
         <lb ed="#K" n="5"/>Cum enim praeexisteret saluans, oportebat et quod saluaretur fieri, ut
         <lb ed="#K" n="6"/>non vacuum sit saluans. Quibus verbis affirmat Adamum primum humanem
         <lb ed="#K" n="7"/>animalem esse propter humanem spiritualem seu Christum, et hunc illi <unclear>praeexistisse</unclear>.
-        <lb ed="#K" n="8"/>Atqui non praeexistit ordine executionis, Ergo intentionis, Ergo prius decre<lb ed="#K" break="no"/>ta
+        <lb ed="#K" n="8"/>Atqui non praeexistit ordine executionis, Ergo intentionis, Ergo prius decre<lb ed="#K" break="no" n="9"/>ta
         est eius existentia quam Adami. Quod autem velint Adversarii
         <lb ed="#K" n="10"/><ref><name>Ireneum</name></ref> esse hic locutum de Christo ut Deo solum, id valde extortum
         <lb ed="#K" n="11"/>est, non enim <ref><name>Sanctus Pater</name></ref> dum dicit praeexistisse saluantem, loquitur de
@@ -320,34 +320,34 @@
       </p>
       <p>
         <lb ed="#K" n="13"/>Probatur quinto Ratione Quando defacto alicui operari volenti
-        <lb ed="#K" n="14"/>adfuerunt motiva plura inaequalia, tunc voluntas prudenter et or<lb ed="#K" break="no"/>dinate
+        <lb ed="#K" n="14"/>adfuerunt motiva plura inaequalia, tunc voluntas prudenter et or<lb ed="#K" break="no" n="15"/>dinate
         operantis censenda est in illud primo et primario tetendisse, 
-        <lb ed="#K" n="16"/>seu ab illo mota fuisse quod est et nobilissimum, et simul conducibi<lb ed="#K" break="no"/>lissimum
+        <lb ed="#K" n="16"/>seu ab illo mota fuisse quod est et nobilissimum, et simul conducibi<lb ed="#K" break="no" n="17"/>lissimum
         ad optinendum ultimatum finem suum, nisi aperta ratio aliud suadent.
-        <lb ed="#K" n="18"/>Atqui ex motivis, quae Deo volenti se ad extra communicare per Incar<lb ed="#K" break="no"/>nationem
+        <lb ed="#K" n="18"/>Atqui ex motivis, quae Deo volenti se ad extra communicare per Incar<lb ed="#K" break="no" n="19"/>nationem
         occurebant, nobilissimum, et ad optinendum ultimum finem qui
-        <lb ed="#K" n="20"/>est manifestatio et propagatio gloriae suae, conducibilissimum est ipsa excel<lb ed="#K" break="no"/>lentia
-        Incarnationis, seu dignitas Christi, magis enim ex huius perfec<lb ed="#K" break="no"/>tione
+        <lb ed="#K" n="20"/>est manifestatio et propagatio gloriae suae, conducibilissimum est ipsa excel<lb ed="#K" break="no" n="21"/>lentia
+        Incarnationis, seu dignitas Christi, magis enim ex huius perfec<lb ed="#K" break="no" n="22"/>tione
         relucet perfectio Dei, et magis eius actibus glorificatur
         <lb ed="#K" n="23"/>vel aliis quibus vis creaturis, nec adest aperta in oppositum ratio
-        <lb ed="#K" n="24"/>vel authoritas, ut ex solutione obiectionum patebit. Ergo rationa<lb ed="#K" break="no"/>bilissimum 
-        est asserere quod defacto Deus volens ad extra se communica<lb ed="#K" break="no"/>re 
-        per Incarnationem, prima et primaria voluntate voluerit Incar<lb ed="#K" break="no"/>nationem
-        propter excellentiam et amabilitatem ipsius <unclear>met</unclear> Christi, con<lb ed="#K" break="no"/>sequenter
-        nec primum nec primarium nec unicum motivum Incarnatio<lb ed="#K" break="no"/>nis
+        <lb ed="#K" n="24"/>vel authoritas, ut ex solutione obiectionum patebit. Ergo rationa<lb ed="#K" break="no" n="25"/>bilissimum 
+        est asserere quod defacto Deus volens ad extra se communica<lb ed="#K" break="no" n="26"/>re 
+        per Incarnationem, prima et primaria voluntate voluerit Incar<lb ed="#K" break="no" n="27"/>nationem
+        propter excellentiam et amabilitatem ipsius <unclear>met</unclear> Christi, con<lb ed="#K" break="no" n="28"/>sequenter
+        nec primum nec primarium nec unicum motivum Incarnatio<lb ed="#K" break="no" n="29"/>nis
         fuit peccatum.
       </p>
       <p>
-        <lb ed="#K" n="30"/>Respondet Adversarii: Deum omnino libere voluisse Incarna<lb ed="#K" break="no"/>tionem.
+        <lb ed="#K" n="30"/>Respondet Adversarii: Deum omnino libere voluisse Incarna<lb ed="#K" break="no" n="31"/>tionem.
         Ubi autem agente non est necessaria intentio talis finis vel
-        <lb ed="#K" n="32"/>modi perfectissimi illam optinendi ibi etiam non est necessitas eligen<lb ed="#K" break="no"/>di
+        <lb ed="#K" n="32"/>modi perfectissimi illam optinendi ibi etiam non est necessitas eligen<lb ed="#K" break="no" n="33"/>di
         media propinquiora ad illum finem, et potest voluntas relicto
         <pb ed="#K" n="57-r"/>
         <lb ed="#K" n="1"/>motivo nobiliore et ex se fortiore procedere secundum minus nobile
         <lb ed="#K" n="2"/>minusque conducibile. Verum haec responsio non satisfacit; quamvis 
-        <lb ed="#K" n="3"/>enim Deus nullo motivo necessitatus fuerit ad Incarnationem decer<lb ed="#K" break="no"/>nendam
+        <lb ed="#K" n="3"/>enim Deus nullo motivo necessitatus fuerit ad Incarnationem decer<lb ed="#K" break="no" n="4"/>nendam
         ut libenter concedimus postquam tamen allam libere decrevit
-        <lb ed="#K" n="5"/>et nos omnino certam notitiam non habemus quod nam libere volun<lb ed="#K" break="no"/>tatis
+        <lb ed="#K" n="5"/>et nos omnino certam notitiam non habemus quod nam libere volun<lb ed="#K" break="no" n="6"/>tatis
         illius primarium et primum fuerit motivum propter bonitatem suam
         <lb ed="#K" n="7"/>intrinsecam et gloriam extrinsecum: probabilius arguere possumus et
         <lb ed="#K" n="8"/>debemus fuisse id quod nobilius est et conducibilius ad finem illum
@@ -361,17 +361,17 @@
         <lb ed="#K" n="14"/>et conducibilius ad gloriam Dei tanquam finem, quam sit Incarnatio propter
         <lb ed="#K" n="15"/>redemptionem generis humani, cum in hac plura reluceant attributa 
         <lb ed="#K" n="16"/>Divina. Respondeo. non debere comparari Incarnationem secundum se, seu Christum
-        <lb ed="#K" n="17"/>secundum substantiam suam, cum eadem met Incarnatione, seu Christo sum<lb ed="#K" break="no"/>pto
-        tam secundum substantiam suum, quam etiam cum opere actualis redem<lb ed="#K" break="no"/>ptionis,
+        <lb ed="#K" n="17"/>secundum substantiam suam, cum eadem met Incarnatione, seu Christo sum<lb ed="#K" break="no" n="18"/>pto
+        tam secundum substantiam suum, quam etiam cum opere actualis redem<lb ed="#K" break="no" n="19"/>ptionis,
         sic enim patet in hoc complexo plus esse boni saltem extensive:
-        <lb ed="#K" n="20"/>sed comparari debent inter se ipsa formalia motiva, scilicet intrin<lb ed="#K" break="no"/>seca
-        dignitas, bonitas et amabilitas Christi, cum bonitate relu<lb ed="#K" break="no"/>cente 
+        <lb ed="#K" n="20"/>sed comparari debent inter se ipsa formalia motiva, scilicet intrin<lb ed="#K" break="no" n="21"/>seca
+        dignitas, bonitas et amabilitas Christi, cum bonitate relu<lb ed="#K" break="no" n="22"/>cente 
         in actuali redemptione humanum facienda per Christum: Et sic
-        <lb ed="#K" n="23"/>facile apparet <unclear>illam</unclear> esse longe maiorem ista. Nam actualis redem<lb ed="#K" break="no"/>ptio
+        <lb ed="#K" n="23"/>facile apparet <unclear>illam</unclear> esse longe maiorem ista. Nam actualis redem<lb ed="#K" break="no" n="24"/>ptio
         est solum unus certus modus quantumvis eximius glorificandi Deum,
         <lb ed="#K" n="25"/>idque consistens in operibus seu actionibus satisfactoriis quae sit tantum 
         <lb ed="#K" n="26"/>accidentia. Iam vero intrinseca bonitas Christi dicit propter substantiam
-        <lb ed="#K" n="27"/>naturae humanae ipsam personalitatem Divinam immediate unitam quod comple<lb ed="#K" break="no"/>xum
+        <lb ed="#K" n="27"/>naturae humanae ipsam personalitatem Divinam immediate unitam quod comple<lb ed="#K" break="no" n="28"/>xum
         aptum per se est ad glorificandum Deum non solum per redemptionem quamvis
         <lb ed="#K" n="29"/>peccatorum, sed etiam infinitis aliis modis.
       </p>
@@ -387,22 +387,22 @@
         <lb ed="#K" n="4"/>consentaneum videtur, ut etiam in quibus speciali quodammodo reperitur
         <lb ed="#K" n="5"/>Deus, sint aliorum inferiorum fines, ut patet ex anima hominis
         <lb ed="#K" n="6"/>iusti, in qua cum speciali modo inhabitet Deus, ad iustum tanquam
-        <lb ed="#K" n="7"/>ad finem omnia ordinantur. Cum ergo in Christo inhabitet om<lb ed="#K" break="no"/>nis
+        <lb ed="#K" n="7"/>ad finem omnia ordinantur. Cum ergo in Christo inhabitet om<lb ed="#K" break="no" n="8"/>nis
         plenitudo Divinitatis, potiori iure censendus est finis totius
-        <lb ed="#K" n="9"/>naturae et gratiae. Secundo. De Divinis decretis et eorum motivis fi<lb ed="#K" break="no"/>nibusque
-        loquendum est semper consentanee ad rerum naturas, nisi oppo<lb ed="#K" break="no"/>situm
+        <lb ed="#K" n="9"/>naturae et gratiae. Secundo. De Divinis decretis et eorum motivis fi<lb ed="#K" break="no" n="10"/>nibusque
+        loquendum est semper consentanee ad rerum naturas, nisi oppo<lb ed="#K" break="no" n="11"/>situm
         revelatum sit. Atqui magis consonum est naturis rerum ut
         <lb ed="#K" n="12"/>ad id quod perfectius est, imperfectius ut adfinem principaliter ordinatur 
         <lb ed="#K" n="13"/>et non e contra: nec oppositum est revelatum; quamvis enim revelatum sit
-        <lb ed="#K" n="14"/>Verbum Incarnatum esse propter redemptionem nostram, non tamen eo ipso revela<lb ed="#K" break="no"/>tum
+        <lb ed="#K" n="14"/>Verbum Incarnatum esse propter redemptionem nostram, non tamen eo ipso revela<lb ed="#K" break="no" n="15"/>tum
         est hoc motivum esse principale Incarnationis, aut redemptionem nostram
-        <lb ed="#K" n="16"/>fuisse finem primarium immediatum propter quem primo intentus et decre<lb ed="#K" break="no"/>tus
+        <lb ed="#K" n="16"/>fuisse finem primarium immediatum propter quem primo intentus et decre<lb ed="#K" break="no" n="17"/>tus
         est Christus. Ergo potius asserendum est Christum ob intrinsecam 
-        <lb ed="#K" n="18"/>excellentiam suam fuisse primo et principaliter constitutum finem reli<lb ed="#K" break="no"/>quorum
+        <lb ed="#K" n="18"/>excellentiam suam fuisse primo et principaliter constitutum finem reli<lb ed="#K" break="no" n="19"/>quorum
         operarum Divinorum.
       </p>
       <p>
-        <lb ed="#K" n="20"/>Respondet <ref><name>Gonet</name> <title>dispu: 5 paragraphus 5</title></ref> Christum ordine inten<lb ed="#K" break="no"/>tionis
+        <lb ed="#K" n="20"/>Respondet <ref><name>Gonet</name> <title>dispu: 5 paragraphus 5</title></ref> Christum ordine inten<lb ed="#K" break="no" n="21"/>tionis
         esse prius volitum tanquam finem qui: non autem tanquam finem cui. 
         <lb ed="#K" n="22"/>Finis autem qui seu cuius gratia dicitur illud bonum, quod appetitur et
         <lb ed="#K" n="23"/>cuius gratia assumuntur media: finis autem cui dicitur illud subiectum
@@ -410,14 +410,14 @@
         <lb ed="#K" n="25"/>sit is cuius gratia decreta et condita sit omnia reliqua tam
         <lb ed="#K" n="26"/>naturalis quam supernaturalis ordinis, adeoque sit hoc respectu prior
         <lb ed="#K" n="27"/>ipsis: quia tamen ipse ordinatus est ad redimendum genus humanum lapsum,
-        <lb ed="#K" n="28"/>optinet hoc ratione finis cui seu in quod derivaretur utilitas Incar<lb ed="#K" break="no"/>nationis;
+        <lb ed="#K" n="28"/>optinet hoc ratione finis cui seu in quod derivaretur utilitas Incar<lb ed="#K" break="no" n="29"/>nationis;
         et hoc respectu posterior est Incarnatio et Christus in
         <lb ed="#K" n="30"/>intentione Divina.
       </p>
       <p>
         <lb ed="#K" n="31"/>Alii <ref>Thomistae</ref> dicunt Christum fuisse prius intentum in genere causae finalis,
         <lb ed="#K" n="32"/>posterius tamen in genere causae materialis quia nimirum ex vi decreti intentivi Christus
-        <lb ed="#K" n="33"/>fuit volitus ut Redemptor, non potuit autem ut talis intendi nisi praeviso homi<lb ed="#K" break="no"/>ne
+        <lb ed="#K" n="33"/>fuit volitus ut Redemptor, non potuit autem ut talis intendi nisi praeviso homi<lb ed="#K" break="no" n="34"/>ne
         lapso ut materia perficienda, et praeviso peccato ut materia destruenda.
       </p>
       <p>
@@ -426,7 +426,7 @@
         <lb ed="#K" n="1"/>Adae absolute futurum,, esse <unclear>fortior</unclear> decretum ut redemptorem futurum, ac proinde
         <lb ed="#K" n="2"/>respectu tituli seu officii redemptoris exercendi a Christo, habere se hominem
         <lb ed="#K" n="3"/>lapsum ut finem cui et peccatum eius ut materiam quandam destruendam, quod
-        <lb ed="#K" n="4"/>libenter concedimus: negamus autem hunc finem cui fuisse finem primum et pri<lb ed="#K" break="no"/>marium
+        <lb ed="#K" n="4"/>libenter concedimus: negamus autem hunc finem cui fuisse finem primum et pri<lb ed="#K" break="no" n="5"/>marium
         ob quem primo decreta sit Incarnatio et efficaciter intentus Christus.
         <lb ed="#K" n="6"/>Ratio negationis sumitur ex ipsa excellentia intrinseca Christi ut paulo
         <lb ed="#K" n="7"/>ante probatum. Et confirmatur ex <ref><name>Suarez<!-- TO-DO: is this Suarez or Suarez reporting Thomas? --></name></ref>: potest aliquid esse propter aliud
@@ -435,31 +435,31 @@
         <lb ed="#K" n="10"/>stellae propter noctuas et vespertiliones, cum finis sit potior his quae sit ad
         <lb ed="#K" n="11"/>finem. Alio modo dici potest aliquid esse propter aliud, cui ex ipso praevenit aliqua
         <lb ed="#K" n="12"/>ne praevenit illi pars. Unde sic arguo: Inconveniens est dicere quod aliquid
-        <lb ed="#K" n="13"/>sit propter vilius se tanquam propter finem proprium et principalem. Ergo etiam incon<lb ed="#K" break="no"/>veniens
+        <lb ed="#K" n="13"/>sit propter vilius se tanquam propter finem proprium et principalem. Ergo etiam incon<lb ed="#K" break="no" n="14"/>veniens
         est dicere Incarnationem et Christum esse propter redemptionem hominum
         <lb ed="#K" n="15"/>tanquam propter finem proprium et principalem. Ergo redemptio generis humani sive
         <lb ed="#K" n="16"/>appelletur finis cui, sive causa materialis Christi ut redemptoris, est solum
         <lb ed="#K" n="17"/>finis accessorius et secundarius respectu Incarnationis et Christi.
       </p>
       <p>
-        <lb ed="#K" n="18"/>Probatur septimo ratione. <quote source="http://scta.info/resource/szstco-k07650-d1e47233@8-116">Videmus (ut ait <ref><name>Suarius</name><title>hic sec 2, paragrapho 3</title></ref>) to<lb ed="#K" break="no"/>tius
-        universi creationem dispositionem et gubernationem adhoc tendere, ut nu<lb ed="#K" break="no"/>merus
+        <lb ed="#K" n="18"/>Probatur septimo ratione. <quote source="http://scta.info/resource/szstco-k07650-d1e47233@8-116">Videmus (ut ait <ref><name>Suarius</name><title>hic sec 2, paragrapho 3</title></ref>) to<lb ed="#K" break="no" n="19"/>tius
+        universi creationem dispositionem et gubernationem adhoc tendere, ut nu<lb ed="#K" break="no" n="20"/>merus
         praedestinatorum impleatur, et tandem omnia terminentur <unclear>stabilato</unclear> regno
         <lb ed="#K" n="21"/>beatitudinis aeterno ex hominibus et Angelis composito quorum princeps
         <lb ed="#K" n="22"/>et caput sit Christus. Ergo optimo et prudentissimo ordine intelligimus 
-        <lb ed="#K" n="23"/>primam intentionem suam posuisse Deum in hoc felicissimo Regno praedestina<lb ed="#K" break="no"/>torum,
-        et propter illud fundandum, deinde paulatim augendum, ac tandem con<lb ed="#K" break="no"/>summandum,
+        <lb ed="#K" n="23"/>primam intentionem suam posuisse Deum in hoc felicissimo Regno praedestina<lb ed="#K" break="no" n="24"/>torum,
+        et propter illud fundandum, deinde paulatim augendum, ac tandem con<lb ed="#K" break="no" n="25"/>summandum,
         voluisse conferre prius gratiam et iustitiam originalem, deinde 
-        <lb ed="#K" n="26"/>permittere peccatum, postea dare remedium, ac denique applicare id his qui<lb ed="#K" break="no"/>bus
+        <lb ed="#K" n="26"/>permittere peccatum, postea dare remedium, ac denique applicare id his qui<lb ed="#K" break="no" n="27"/>bus
         erit efficaciter conferendum. Consequentia patet ex illo principio: quod
         <lb ed="#K" n="28"/>in prudentiori modo operandi executio respondeat intentioni, ita ut quae 
-        <lb ed="#K" n="29"/>sit postrema in executione, sint prima in intentione, praesertim si per se amabi<lb ed="#K" break="no"/>lia
-        sint</quote>. Si ergo totus ordo universi tendit ad consummationem illius aeter<lb ed="#K" break="no"/>ni
+        <lb ed="#K" n="29"/>sit postrema in executione, sint prima in intentione, praesertim si per se amabi<lb ed="#K" break="no" n="30"/>lia
+        sint</quote>. Si ergo totus ordo universi tendit ad consummationem illius aeter<lb ed="#K" break="no" n="31"/>ni
         felicissimique Regni, necesse est hoc una cum capita suo Christo prius
         <lb ed="#K" n="32"/>fuisse in intentione Dei.
       </p>
       <p>
-        <lb ed="#K" n="33"/>Probatur octo. Ratione. Ex adversa sententia sequitur nobilius praedesti<lb ed="#K" break="no"/>natum
+        <lb ed="#K" n="33"/>Probatur octo. Ratione. Ex adversa sententia sequitur nobilius praedesti<lb ed="#K" break="no" n="34"/>natum
         <pb ed="#K" n="58-v"/>
         fuisse Adamum quam Christum, quia ille independenter a peccato,
         <lb ed="#K" n="1"/>et propter intrinsecam bonitatem praedestinationis suae, hic vero dependenter
@@ -467,12 +467,12 @@
         <lb ed="#K" n="3"/>sequitur Incarnationem imo et Christum, esse tantum occasionatum bonum
         <lb ed="#K" n="4"/>quoddam ut loquitur <ref><name>Scotus</name></ref>. Deinde non minus decuit ex tolli naturam
         <lb ed="#K" n="5"/>innocentem, quam reparari <unclear>peccatucem</unclear>: nec minus decuit Christum decerni
-        <lb ed="#K" n="6"/>ut mediatorem gratiae et gloriae naturae nostrae innocentis, quam ut recon<lb ed="#K" break="no"/>ciliatorem
+        <lb ed="#K" n="6"/>ut mediatorem gratiae et gloriae naturae nostrae innocentis, quam ut recon<lb ed="#K" break="no" n="7"/>ciliatorem
         peccatricis.
       </p>
       <p>
-        <lb ed="#K" n="8"/>Probatur nono Ratione Si Christus praedestinatus fuisset primo et pri<lb ed="#K" break="no"/>mario
-        propter remedium peccati, Deus plus dilexisset illa sua voluntate redem<lb ed="#K" break="no"/>ptionem
+        <lb ed="#K" n="8"/>Probatur nono Ratione Si Christus praedestinatus fuisset primo et pri<lb ed="#K" break="no" n="9"/>mario
+        propter remedium peccati, Deus plus dilexisset illa sua voluntate redem<lb ed="#K" break="no" n="10"/>ptionem
         nostram et hominem, quam Incarnationem et Christum. Hoc est absurdum
         <lb ed="#K" n="11"/>Ergo et cetera. Probatur sequela, illud plus diligitur quod diligatur ut finis,
         <lb ed="#K" n="12"/>illud minus quod ut medium. Christus autem et Incarnatio, haberet
@@ -489,7 +489,7 @@
         <lb ed="#K" n="21"/>debuit homo ipse, et omnia ad ipsam pertinentia. 
       </p>
       <p>
-        <lb ed="#K" n="22"/>Respondeo hoc ipsum durissi<lb ed="#K" break="no"/>mum
+        <lb ed="#K" n="22"/>Respondeo hoc ipsum durissi<lb ed="#K" break="no" n="23"/>mum
         est quomodo Deus noluit ullo antecedente decreto subiectum esse
         <lb ed="#K" n="24"/>Christo hominem et mundum, nisi Christus id mereretur per gravissimos
         <lb ed="#K" n="25"/>redemptionis labores, cum est contra omnino gratis voluerit Christum
@@ -497,7 +497,7 @@
       </p>
       <p>
         <lb ed="#K" n="27"/>Probatur decimo Ratione. Ex contraria sententia sequitur quod anima
-        <lb ed="#K" n="28"/>Christi tantum laetaretur de peccato Adae, et perditione generis huma<lb ed="#K" break="no"/>ni,
+        <lb ed="#K" n="28"/>Christi tantum laetaretur de peccato Adae, et perditione generis huma<lb ed="#K" break="no" n="29"/>ni,
         quantum de sua assumptione a Verbo, haec enim sine illa nullatenus 
         <lb ed="#K" n="30"/>fuisset. Sicut in simili materia argumentatur <ref><name>Sanctus Anselmus</name> <title>Libro 1
         <lb ed="#K" n="31"/>Cur Deus homo capite 18</title></ref> Ubi dicit <quote>absurdum esse existimare homines
@@ -506,23 +506,23 @@
         <lb ed="#K" n="34"/>si quis enim diceret quia tantum laetabuntur electi homines de Angelorum
         <pb ed="#K" n="59-r"/>
         <lb ed="#K" n="1"/>perditione, quantum gaudebunt de sua assumptione, quoniam absque dubio
-        <lb ed="#K" n="2"/>haec non esset nisi illa fuisset, quomodo poterunt ab haac perversa gra<lb ed="#K" break="no"/>tulatione
+        <lb ed="#K" n="2"/>haec non esset nisi illa fuisset, quomodo poterunt ab haac perversa gra<lb ed="#K" break="no" n="3"/>tulatione
         defendi.
       </p>
       <p>
         <lb ed="#K" n="4"/>Probatur undecimo Ratione. Quia optime et facillime explicatur
-        <lb ed="#K" n="5"/>et salvatur per hanc sententiam, quomodo per Christum data est omni crea<lb ed="#K" break="no"/>turae
-        gratia, etiam protoparentibus ante lapsum. Prout indicat scriptu<lb ed="#K" break="no"/>ra
-        supra citata. Item quomodo revelari potuerit Incarnatio tam Ada<lb ed="#K" break="no"/>mo
-        cuius matrimonium cum Eva figura fuit Incarnationis et coniure<lb ed="#K" break="no"/>tionis
-        Christi cum ecclesia, quam etiam Angelis qui lapsi dicuntur ex occa<lb ed="#K" break="no"/>sione
+        <lb ed="#K" n="5"/>et salvatur per hanc sententiam, quomodo per Christum data est omni crea<lb ed="#K" break="no" n="6"/>turae
+        gratia, etiam protoparentibus ante lapsum. Prout indicat scriptu<lb ed="#K" break="no" n="7"/>ra
+        supra citata. Item quomodo revelari potuerit Incarnatio tam Ada<lb ed="#K" break="no" n="8"/>mo
+        cuius matrimonium cum Eva figura fuit Incarnationis et coniure<lb ed="#K" break="no" n="9"/>tionis
+        Christi cum ecclesia, quam etiam Angelis qui lapsi dicuntur ex occa<lb ed="#K" break="no" n="10"/>sione
         Incarnationis sibi propositae. 
       </p>
       <p>
         <lb ed="#K" n="11"/>Itaque tendendum est motivum Incarnationis fuisse eam ipsam primo
         <lb ed="#K" n="12"/>decernendam independenter a praevisione peccati absolute futuri, nec
         <lb ed="#K" n="13"/>decretum esse Christum propter peccatum primario, sed potius decretum esse a
-        <lb ed="#K" n="14"/>Deo permissionem peccati propter ampliorem Christi gloriam. Sicut exis<lb ed="#K" break="no"/>timandum 
+        <lb ed="#K" n="14"/>Deo permissionem peccati propter ampliorem Christi gloriam. Sicut exis<lb ed="#K" break="no" n="15"/>timandum 
         non est, quod Deus Josephum voluerit esse Principem Aegypti, solum
         <lb ed="#K" n="16"/>post praevisum peccatum venditionis a fratribus eius committendum, sed potius
         <lb ed="#K" n="17"/>e contra: quia statuerat eum Deus facere Principem Aegypti, voluit 
@@ -537,7 +537,7 @@
         <lb ed="#K" n="24"/>Solvuntur Obiectiones
       </p>
       <p>
-        Obiicitur primo Authoritas scripturae quae non aliam causam tradit Incarna<lb ed="#K" break="no"/>tionis
+        Obiicitur primo Authoritas scripturae quae non aliam causam tradit Incarna<lb ed="#K" break="no" n="25"/>tionis
         quam redemptionem generis humani ut patet in prima Thomistarum <ref>sententia 
         <lb ed="#K" n="26"/>supra dicta</ref>. Ergo nec fuit alia saltem adaequata.
       </p>
@@ -549,22 +549,22 @@
         <lb ed="#K" n="31"/>finis, mediator gratiae et gloriae. Imo potior pro nobis est scriptura.
       </p>
       <p>
-        <lb ed="#K" n="32"/>Respondeo secundo transeat antecedens nego consequentum quamvis enim nullum aliud mo<lb ed="#K" break="no"/>tivum
+        <lb ed="#K" n="32"/>Respondeo secundo transeat antecedens nego consequentum quamvis enim nullum aliud mo<lb ed="#K" break="no" n="33"/>tivum
         expresse indicaret scriptura, non tamen eo ipso inferre licet et prorsus 
         <pb ed="#K" n="59-v"/>
         <lb ed="#K" n="1"/>nullum aliud adfuisse simul cum motivo redemptionis. Non enim repugnat
-        <lb ed="#K" n="2"/>plures aliae causae etiam principales et totales Incarnationis cum redemptio<lb ed="#K" break="no"/>ne
-        bene convenientes, quarum aliquae cum sint ipsi mysterio Incarnationis in<lb ed="#K" break="no"/>trinsecae
-        ac per se independenter a remedio peccati movere dignissi<lb ed="#K" break="no"/>mae
+        <lb ed="#K" n="2"/>plures aliae causae etiam principales et totales Incarnationis cum redemptio<lb ed="#K" break="no" n="3"/>ne
+        bene convenientes, quarum aliquae cum sint ipsi mysterio Incarnationis in<lb ed="#K" break="no" n="4"/>trinsecae
+        ac per se independenter a remedio peccati movere dignissi<lb ed="#K" break="no" n="5"/>mae
         ac sufficientissimae, speciali iure intelligi possunt de facto movisse
         <lb ed="#K" n="6"/>Deum ex natura rei. Neque ut movisse prudenter asserantur, opus est
         <lb ed="#K" n="7"/>revelatione, sed potius ut asserantur ne movisse ut bene advertit <ref><name>Suarez</name></ref>.
         <lb ed="#K" n="8"/>Quod autem scriptura saepius <unclear>proponat</unclear> et commendet motivum redemptionis,
-        <lb ed="#K" n="9"/>id facit propter specialem vim quam habet illa ratio, um ad exagge<lb ed="#K" break="no"/>randam
+        <lb ed="#K" n="9"/>id facit propter specialem vim quam habet illa ratio, um ad exagge<lb ed="#K" break="no" n="10"/>randam
         Dei benignitatem et charitatem ut pote indignissimis imo inimicis
         <lb ed="#K" n="11"/>suis exhibitam, tum ad excitandam in hominibus maiorem gratitudinem, 
         <lb ed="#K" n="12"/>peccati horrerem. Spem, charitatem, et cetera quam ob causam etiam Angelus <ref><title>Mathei 1</title></ref>,
-        <lb ed="#K" n="13"/>relictis amplissimis nominibus Christi ab <ref><title>Isaia</title></ref> indicatis, nomen et ra<lb ed="#K" break="no"/>tionem
+        <lb ed="#K" n="13"/>relictis amplissimis nominibus Christi ab <ref><title>Isaia</title></ref> indicatis, nomen et ra<lb ed="#K" break="no" n="14"/>tionem
         nominis magis sensibilem miseris hominibus iubet imponi
         <lb ed="#K" n="15"/>Christo, eum ex Divino iussu nomen Christi vult vocari Iesus eo quod
         <lb ed="#K" n="16"/>salvum faciet populum a peccatis eorum. Quem enim libentius audiat captivus
@@ -574,9 +574,9 @@
         <lb ed="#K" n="20"/>quia de terra formatum, licet haec consideratio ne sit praecipua in homine.
       </p>
       <p>
-        <lb ed="#K" n="21"/>Vrgetur. Non ulla scripturae loca excludunt alia motiva Incar<lb ed="#K" break="no"/>nationis,
+        <lb ed="#K" n="21"/>Vrgetur. Non ulla scripturae loca excludunt alia motiva Incar<lb ed="#K" break="no" n="22"/>nationis,
         et redemptionem nostram tanquam unicam totalem causam assignant.
-        <lb ed="#K" n="23"/>Ut cum dicitur <ref><title>Mathei 9</title></ref>, non est opus valentibus medicus, sed male ha<lb ed="#K" break="no"/>bentibus,
+        <lb ed="#K" n="23"/>Ut cum dicitur <ref><title>Mathei 9</title></ref>, non est opus valentibus medicus, sed male ha<lb ed="#K" break="no" n="24"/>bentibus,
         non veni vocare iustos sed peccatores. Item <ref><title>Ioannis 3</title></ref>, non 
         <lb ed="#K" n="25"/>enim Deus misit filium suum ut iudicet mundum sed ut salvetur mundus per
         <lb ed="#K" n="26"/>ipsum et cetera. Ergo et cetera.
@@ -605,7 +605,7 @@
       </p>
       <p>
         <lb ed="#K" n="8"/>Respondeo nego Consequentiam 
-        <lb ed="#K" n="9"/>quia ut patet ex paragrapho praecedente complura loca scripturae suffi<lb ed="#K" break="no"/>cientissime 
+        <lb ed="#K" n="9"/>quia ut patet ex paragrapho praecedente complura loca scripturae suffi<lb ed="#K" break="no" n="10"/>cientissime 
         indicant alia plura motiva independentia a peccato.
         <lb ed="#K" n="11"/>Nullibi autem vel alter mundus, vel alia persona Divina Incarnata
         <lb ed="#K" n="12"/>vel plures personae Divinae quam tres etiam obscure indicantur.
@@ -618,19 +618,19 @@
       <p>
         <lb ed="#K" n="16"/>Respondeo ple<lb ed="#K" n="17"/>raque
         testimoniorum illorum <unclear>procedere</unclear> de Incarnatione prout nunc facta est, quod
-        <lb ed="#K" n="18"/>scilicet Christus ne venisset in carne possibili et mortali. Alioqui <ref><name>Ire<lb ed="#K" break="no"/>neus</name></ref>
+        <lb ed="#K" n="18"/>scilicet Christus ne venisset in carne possibili et mortali. Alioqui <ref><name>Ire<lb ed="#K" break="no" n="19"/>neus</name></ref>
         et <ref><name>Augustinus</name></ref> sibi ipsis contradicerent in locis pro conclusione <unclear>natura</unclear>
         <lb ed="#K" n="20"/>citatis. Facile autem concedimus motivum assumendi carnem passibilem,
-        <lb ed="#K" n="21"/>et veniendi ut homo mortalis, fuisse defacto remedium peccati, et uti dia<lb ed="#K" break="no"/>bolus
+        <lb ed="#K" n="21"/>et veniendi ut homo mortalis, fuisse defacto remedium peccati, et uti dia<lb ed="#K" break="no" n="22"/>bolus
         vinceretur per carnem similem illi quam vicerat. Bonitas huius
-        <lb ed="#K" n="23"/>explicationis patet ex textu ante illa testimonia allato prout patet dili<lb ed="#K" break="no"/>genter
+        <lb ed="#K" n="23"/>explicationis patet ex textu ante illa testimonia allato prout patet dili<lb ed="#K" break="no" n="24"/>genter
         consideranti. Tum maxime ex nomine carnis quod frequenter ibi
         <lb ed="#K" n="25"/>usurpatur, et secundum phrasim scripturae ac patres corruptibilitatem significat.
         <lb ed="#K" n="26"/>Unde secundum hunc loquendi modum sumere vel induere carnem aut fieri carnem,
         <lb ed="#K" n="27"/>idem sonat quod sumere et induere anturam corruptibilem et mortalem.
       </p>
       <p>
-        <lb ed="#K" n="28"/>Quodsi aliquis ex Sanctis Patribus alicubi forte loquatur de ipsa substan<lb ed="#K" break="no"/>tia 
+        <lb ed="#K" n="28"/>Quodsi aliquis ex Sanctis Patribus alicubi forte loquatur de ipsa substan<lb ed="#K" break="no" n="29"/>tia 
         Incarnationis, quasi peccato non dato Deus nulla tenus fuisset factus
         <lb ed="#K" n="30"/>homo, sive passibilis sive impassibilis, sive mortalis, sive immortalis. Ergo
         <lb ed="#K" n="31"/>primo opponi possunt alii Patres et scripturae pro nobis supra citatae. Secundo
@@ -640,39 +640,39 @@
         <lb ed="#K" n="35"/>Dei vel ipsius Christi non fuerit alia aeque potens causa aut potentior nullus
         <pb ed="#K" n="60-v"/>
         <lb ed="#K" n="1"/>Sanctorum Patrum docuit. Tertio Intelligi possunt probabiliter alia
-        <lb ed="#K" n="2"/>testimonia de Incarnatione comparata ad totam seriem decretorum Divino<lb ed="#K" break="no"/>rum,
+        <lb ed="#K" n="2"/>testimonia de Incarnatione comparata ad totam seriem decretorum Divino<lb ed="#K" break="no" n="3"/>rum,
         omnique iuxta seriem hanc Divinorum decretorum omnium, name in hac
-        <lb ed="#K" n="4"/>includebatur de facto etiam decretum de Incarnatione facienda in reme<lb ed="#K" break="no"/>dium
+        <lb ed="#K" n="4"/>includebatur de facto etiam decretum de Incarnatione facienda in reme<lb ed="#K" break="no" n="5"/>dium
         peccati. Alii explicant quod Christus ne venisset ut redemptor actualis.
       </p>
       <p>
         <lb ed="#K" n="6"/>Vrgetur. Negatio ita est malignantis naturae, ut totum destruat.
-        <lb ed="#K" n="7"/>Ergo simpliciter et sine ulla restrictione negat Christum venturum esse Ada<lb ed="#K" break="no"/>mo 
+        <lb ed="#K" n="7"/>Ergo simpliciter et sine ulla restrictione negat Christum venturum esse Ada<lb ed="#K" break="no" n="8"/>mo 
         non peccante, censendus est significare velle, quod Christus non tantum hoc vel illo modo,
         <lb ed="#K" n="9"/>verba gratia in carne passibili ne venisset, sed quod absolute nullo modo venisset.
         <lb ed="#K" n="10"/>Sicut qui dicit verba gratia Metropolitam hodie non venturum ad Collegium, non tantum dicit
         <lb ed="#K" n="11"/>illum non venturum hoc vel illo modo determinato verba gratia in sacro vestitu aus sine,
-        <lb ed="#K" n="12"/>in equo, vel curru, sed absolute non venturum. Atqui Sancti Patres simpli<lb ed="#K" break="no"/>citer
+        <lb ed="#K" n="12"/>in equo, vel curru, sed absolute non venturum. Atqui Sancti Patres simpli<lb ed="#K" break="no" n="13"/>citer
         et sine ulla restrictione, negarunt futuram Incarnationem Adamo
         <lb ed="#K" n="14"/>non peccante. Ergo et cetera.
       </p>
       <p>
         <lb ed="#K" n="15"/>Respondeo nego subsumptum argumenti. Licet enim expresse
-        <lb ed="#K" n="16"/>et immediate in quibusdam testimoniis ne addiderint particulam restricti<lb ed="#K" break="no"/>vam,
+        <lb ed="#K" n="16"/>et immediate in quibusdam testimoniis ne addiderint particulam restricti<lb ed="#K" break="no" n="17"/>vam,
         eorum tamen meus restricta sufficienter apparet ex antecedente vel
         <lb ed="#K" n="18"/>consequente Christum, aut ex oppositis rationibus vel scriptura, cui se
         <lb ed="#K" n="19"/>conformare volebant et studebant.
       </p>
       <p>
-        <lb ed="#K" n="20"/>Obiicitur tertio Si daretur alia prior et principalior causa Incarna<lb ed="#K" break="no"/>tionis,
+        <lb ed="#K" n="20"/>Obiicitur tertio Si daretur alia prior et principalior causa Incarna<lb ed="#K" break="no" n="21"/>tionis,
         non essent verae ac sincerae Dei locutiones, quibus in scriptura
-        <lb ed="#K" n="22"/>testatur se Incarnatum esse, et in mundum venisse propter hominum redem<lb ed="#K" break="no"/>ptionem
-        et salutem. Debuisset enim dicere Deus se voluisse venire immun<lb ed="#K" break="no"/>dum
+        <lb ed="#K" n="22"/>testatur se Incarnatum esse, et in mundum venisse propter hominum redem<lb ed="#K" break="no" n="23"/>ptionem
+        et salutem. Debuisset enim dicere Deus se voluisse venire immun<lb ed="#K" break="no" n="24"/>dum
         propter alium quem priam finem, miseriam tamen generis humani et misericordiam
-        <lb ed="#K" n="25"/>suam addidisse sibi novum pondus et impulsum ad exequendam volunta<lb ed="#K" break="no"/>tem
+        <lb ed="#K" n="25"/>suam addidisse sibi novum pondus et impulsum ad exequendam volunta<lb ed="#K" break="no" n="26"/>tem
         priorem. Sicut <ref><name>Apostolus</name> <title>2 ad Corin. 8<!-- 8:16-17 --></title></ref> loquitur de Tito proficiscente: 
         <lb ed="#K" n="27"/><quote>Gratias ago Deo qui dedit eandem sollicitudinem in corde Titi, quoniam
-        <lb ed="#K" n="28"/>exhortationem quidem suscepit, sed cum esset sollicitior, sua voluntate profec<lb ed="#K" break="no"/>tus
+        <lb ed="#K" n="28"/>exhortationem quidem suscepit, sed cum esset sollicitior, sua voluntate profec<lb ed="#K" break="no" n="29"/>tus
         est ad vos</quote>. Id est Tito qui iam sponte sua proficisci ad vos decreverat.
         <lb ed="#K" n="30"/>Ergo et cetera.
       </p>
@@ -683,25 +683,25 @@
         <lb ed="#K" n="34"/>nec sincere huiusmodi Rex exprobrare deinde posset Italia ego 
         <pb ed="#K" n="61-r"/>
         <lb ed="#K" n="1"/>filii mei conspectu me privavi ad vos tuendos, quia talis modus
-        <lb ed="#K" n="2"/>loquendi indicaret Regem non iam iam <!-- why twice? -->profecturo filio mandasse ut Ita<lb ed="#K" break="no"/>liam
+        <lb ed="#K" n="2"/>loquendi indicaret Regem non iam iam <!-- why twice? -->profecturo filio mandasse ut Ita<lb ed="#K" break="no" n="3"/>liam
         tueretur, sed potius quod nullo priore motivo destinata fuerit illis
-        <lb ed="#K" n="4"/>profectio. Sincere ergo loquendo dicere deberet, filio meo profecturo man<lb ed="#K" break="no"/>davi
+        <lb ed="#K" n="4"/>profectio. Sincere ergo loquendo dicere deberet, filio meo profecturo man<lb ed="#K" break="no" n="5"/>davi
         ut vos tueretur, desideriumque meum vobis subveniendi quasi 
         <lb ed="#K" n="6"/>calear illi addidi. 
       </p>
       <p>
         <lb ed="#K" n="7"/>Respondeo nego Antecedens, quando enim quis aliquid facit ex
-        <lb ed="#K" n="8"/>duplici motivo seu finem totali, sufficit ad veritatem et proprietatem sermo<lb ed="#K" break="no"/>nis.
+        <lb ed="#K" n="8"/>duplici motivo seu finem totali, sufficit ad veritatem et proprietatem sermo<lb ed="#K" break="no" n="9"/>nis.
         Si unam aliquam ex illis totalibus causis quae de facto ut totales
         <lb ed="#K" n="10"/>moverunt exprimat, quamvis non possit velle dicere, quod illius solius
-        <lb ed="#K" n="11"/>gratia id fecerit: nec potest dici tunc non sincere loqui, cum nec amphibo<lb ed="#K" break="no"/>logia
+        <lb ed="#K" n="11"/>gratia id fecerit: nec potest dici tunc non sincere loqui, cum nec amphibo<lb ed="#K" break="no" n="12"/>logia
         aliqua utatur, nec aliunde teneatur ad aperiendum totum quod
         <lb ed="#K" n="13"/>in mente et voluntate habuit. Cum ergo Deus defacto miserit filium
         <lb ed="#K" n="14"/>suum propter redemptionem nostram tanquam propter motivum adaequatum, licet
-        <lb ed="#K" n="15"/>non unicum, nec primum, et nunquam affirmet, se Solius redimendi gene<lb ed="#K" break="no"/>ris
-        humani gratia filium misisse, sed e contrario non semel alia mo<lb ed="#K" break="no"/>tiva
+        <lb ed="#K" n="15"/>non unicum, nec primum, et nunquam affirmet, se Solius redimendi gene<lb ed="#K" break="no" n="16"/>ris
+        humani gratia filium misisse, sed e contrario non semel alia mo<lb ed="#K" break="no" n="17"/>tiva
         commemoret per Apostolum et alias scripturas <ref>ut supra vidimus</ref>,
-        non potest argui violatae veritatis aut sinceritatis. Similiter discur<lb ed="#K" break="no"/>rendum
+        non potest argui violatae veritatis aut sinceritatis. Similiter discur<lb ed="#K" break="no" n="18"/>rendum
         de Regno illo si forte revera ex duplici motivo adaequato
         <lb ed="#K" n="19"/>expeditionem illam filio commisit. Ex his.
       </p>
@@ -712,13 +712,13 @@
         <lb ed="#K" n="23"/>illorum fuisse totale etiam in actu secundo.
       </p>
       <p>
-        <lb ed="#K" n="24"/>Vrgetur si involuntate Dei propter redemptionem generis hu<lb ed="#K" break="no"/>mani
-        fuit alia et quidem prior adaequata causa, ex qua decrevit Incar<lb ed="#K" break="no"/>nationem
+        <lb ed="#K" n="24"/>Vrgetur si involuntate Dei propter redemptionem generis hu<lb ed="#K" break="no" n="25"/>mani
+        fuit alia et quidem prior adaequata causa, ex qua decrevit Incar<lb ed="#K" break="no" n="26"/>nationem
         Deus: eo ipso ne potuit redemptio illa accedere tanquam causa
         secunda finalis et adaequata, sed solum ut impulsus et confirmatio quaedam
         <lb ed="#K" n="27"/>primae illius voluntatis. Ergo non potest dici quod Deus ex duplici motivo
         <lb ed="#K" n="28"/>seu fine totali voluerit Incarnationem. Sequelam probat <ref><name>Gonet</name></ref> primo: <quote>quia
-        <lb ed="#K" n="29"/>idem effectus non potest etiam de potentia absoluta a duplici causa efficiente tota<lb ed="#K" break="no"/>li
+        <lb ed="#K" n="29"/>idem effectus non potest etiam de potentia absoluta a duplici causa efficiente tota<lb ed="#K" break="no" n="30"/>li
         <unclear>procedere</unclear>, alioqui penderet et non penderet ab utraque secundum eandem rationem</quote>.
         <lb ed="#K" n="31"/>Ergo nec a duplici causa finali adaequata propter eandem rationem. Ergo
         <lb ed="#K" n="32"/>nec Incarnatio potuit procedere ex duplici causa finali adaequata.
@@ -727,7 +727,7 @@
         <pb ed="#K" n="61-v"/>
         <lb ed="#K" n="1"/>Secundo. Etsi de potentia absoluta posset idem effectus procedere a duplici
         <lb ed="#K" n="2"/>causa totali sive efficiente sive finale, non tamen potest de lege ordinaria 
-        <lb ed="#K" n="3"/>et attenta rei natura. Atqui de Divinis decretis et motivis illo<lb ed="#K" break="no"/>rum,
+        <lb ed="#K" n="3"/>et attenta rei natura. Atqui de Divinis decretis et motivis illo<lb ed="#K" break="no" n="4"/>rum,
         loquendum est semper consentaneae ad rerum naturas nisi oppositum
         <lb ed="#K" n="5"/>sit revelatum. Ergo et cetera. Tertio ideo apud homines potest quis primo velle
         <lb ed="#K" n="6"/>aliquod obiectum propter unum totale motivum, et postea idem intendere
@@ -738,19 +738,19 @@
         <lb ed="#K" n="11"/>procedente, sicque velle praedictum obiectum ex duplici illo motivo per modum
         <lb ed="#K" n="12"/>unius. Sed hoc repugnat Deo, cum hic modus procedendi imperfectionem
         <lb ed="#K" n="13"/>mutabilitatis importet. Ergo et cetera. Respondeo nego Antecedens. 
-        <lb ed="#K" n="14"/>Primae simpliciter probationis nego Antecedens et rationem eius. Contrarium enim patuit in Phi<lb ed="#K" break="no"/>losophia
+        <lb ed="#K" n="14"/>Primae simpliciter probationis nego Antecedens et rationem eius. Contrarium enim patuit in Phi<lb ed="#K" break="no" n="15"/>losophia
         recole quae ibi tradita sit de hac materia, ubi pro nobis stat <ref><name>Arriaga</name></ref>
-        <lb ed="#K" n="16"/><ref><name>Oviedo</name></ref>, <ref><name>Suarius</name></ref>, <ref><name>Hurtadus</name></ref>, et cetera. Ad secundum Respondeo nego maiorem, possunt enim naturalissi<lb ed="#K" break="no"/>me
-        eandem deambulationem et propter sanitatem et propter amicum recreandum inten<lb ed="#K" break="no"/>dere,
+        <lb ed="#K" n="16"/><ref><name>Oviedo</name></ref>, <ref><name>Suarius</name></ref>, <ref><name>Hurtadus</name></ref>, et cetera. Ad secundum Respondeo nego maiorem, possunt enim naturalissi<lb ed="#K" break="no" n="17"/>me
+        eandem deambulationem et propter sanitatem et propter amicum recreandum inten<lb ed="#K" break="no" n="18"/>dere,
         ita nimirum ut quocunque ex illis motivis deficiente, adhuc efficaciter
         <lb ed="#K" n="19"/>instituerem deambulationem. Hoc autem est velle aliquid ex duplici motivo vel
-        <lb ed="#K" n="20"/>fine totali. Ad tertiam probationem Respondeo nego causalem: ideo enim potest quis ali<lb ed="#K" break="no"/>quod
+        <lb ed="#K" n="20"/>fine totali. Ad tertiam probationem Respondeo nego causalem: ideo enim potest quis ali<lb ed="#K" break="no" n="21"/>quod
         obiectum velle ex duplici motivo totali, quia advertit quodlibet per
         <lb ed="#K" n="22"/>se esse sufficientissimum movere ad prosecutionem efficacem talis obiecti; et quia
         <lb ed="#K" n="23"/>ipsa voluntas per se apta est ita illis acquiescere prout naturalis vis motiva
-        <lb ed="#K" n="24"/>illorum requirit. Unde patet quod voluntas magis naturaliter agat quan<lb ed="#K" break="no"/>do
-        talibus motivis acquiescit ut totalibus, quare quando illa per subor<lb ed="#K" break="no"/>dinationem
-        liberam partialia facit in actu secundo, quae in actu primo mereba<lb ed="#K" break="no"/>tur
+        <lb ed="#K" n="24"/>illorum requirit. Unde patet quod voluntas magis naturaliter agat quan<lb ed="#K" break="no" n="25"/>do
+        talibus motivis acquiescit ut totalibus, quare quando illa per subor<lb ed="#K" break="no" n="26"/>dinationem
+        liberam partialia facit in actu secundo, quae in actu primo mereba<lb ed="#K" break="no" n="27"/>tur
         esse totalia. Quod vero aliquis advertens novum motivum mutet priorem
         <lb ed="#K" n="28"/>voluntatem, id per accidens est ad totalitatem huius motivi, poterat enim absolute
         <lb ed="#K" n="29"/>et persistere in illa volitione et novam concipere, si quidem idem omnino utriusque
@@ -766,10 +766,10 @@
         <lb ed="#K" n="3"/>etiam aliud sive per possibile sive per impossibile ab fuisset.
       </p>
       <p>
-        <lb ed="#K" n="4"/>Obiicitur quarto. Mysterium Incarnationis includit humiliationem et ex ina<lb ed="#K" break="no"/>nitionem.
+        <lb ed="#K" n="4"/>Obiicitur quarto. Mysterium Incarnationis includit humiliationem et ex ina<lb ed="#K" break="no" n="5"/>nitionem.
         Ergo non fuit per se expetendum, sed solum ob aliquam causam extrinsecam
         <lb ed="#K" n="6"/>maioris momenti, cui alia ratione consuli non potuit. Antecedens patet tum ex
-        <lb ed="#K" n="7"/><ref><name>Apostolo</name> <title>ad Philippenses secundo</title></ref>. Tum quia per Incarnationem Creator fit crea<lb ed="#K" break="no"/>tura,
+        <lb ed="#K" n="7"/><ref><name>Apostolo</name> <title>ad Philippenses secundo</title></ref>. Tum quia per Incarnationem Creator fit crea<lb ed="#K" break="no" n="8"/>tura,
         Dominus sit servus, et cetera. Consequentia probatur a pari: dedecet per se ut
         <lb ed="#K" n="9"/>Rex quispiam sponte fiat servus, aut mysticam, ducat in sponsam, nisi bonum
         <lb ed="#K" n="10"/>maioris momenti id exigat, verba gratia ad Regnum aut magnam eius partem a mina
@@ -779,16 +779,16 @@
         <lb ed="#K" n="12"/>Respondeo primo retorque eo, si per se indecens erat Incarnatio nisi ob aliquam
         <lb ed="#K" n="13"/>causam extrinsecam maioris momenti cui alia ratione consuli non poterat.
         <lb ed="#K" n="14"/>Ergo nec decebat ut Incarnaretur Verbum propter peccatum, nam huic potuit
-        <lb ed="#K" n="15"/>Deus aliter consulere vel ex pura misericordia, vel admixta iustitia non ita rigo<lb ed="#K" break="no"/>rosa.
+        <lb ed="#K" n="15"/>Deus aliter consulere vel ex pura misericordia, vel admixta iustitia non ita rigo<lb ed="#K" break="no" n="16"/>rosa.
         Si dicas: Deum sine Incarnatione non potuisse habere satisfactionem
-        <lb ed="#K" n="17"/>ex iustitia rigorosa. Respondeo Deo non fuit necessaria talis satisfactio, nec inde<lb ed="#K" break="no"/>corum
-        illi fuisset carere illa. Ergo haec ratio non erat tanti momenti ut incar<lb ed="#K" break="no"/>naretur
+        <lb ed="#K" n="17"/>ex iustitia rigorosa. Respondeo Deo non fuit necessaria talis satisfactio, nec inde<lb ed="#K" break="no" n="18"/>corum
+        illi fuisset carere illa. Ergo haec ratio non erat tanti momenti ut incar<lb ed="#K" break="no" n="19"/>naretur
         Deus si aliande Incarnatio indecens fuisset.
       </p>
       <p>
-        <lb ed="#K" n="20"/>Respondeo secundo distin<lb ed="#K" break="no"/>guo
+        <lb ed="#K" n="20"/>Respondeo secundo distin<lb ed="#K" break="no" n="21"/>guo
         Antecedens Incarnatio includit humiliationem et exinanitionem Divinitatis
-        <lb ed="#K" n="22"/>per deteriorationem quandam ipsius secundum se nego, per absconsionem maiesta<lb ed="#K" break="no"/>tis 
+        <lb ed="#K" n="22"/>per deteriorationem quandam ipsius secundum se nego, per absconsionem maiesta<lb ed="#K" break="no" n="23"/>tis 
         et gloriae suae sub nube carnis assumptae concedo Antecedens et nego
         <lb ed="#K" n="24"/>Consequentiam. Non enim satis pie vel vere dicitur Christum non esse per 
         <lb ed="#K" n="25"/>se amabilem et expetibilem, sed solum in ordine ad redemptionem. Quamvis
@@ -806,31 +806,31 @@
         <lb ed="#K" n="2"/>secundum rigorem proprietatis, sed tantum per appropriationem denominationis seu
         <lb ed="#K" n="3"/>idiomatum communicationem. Unde patet disparitas eum Rego qui se ipsum
         <lb ed="#K" n="4"/>in servitutem abduceret vel rusticam uxorem duceret nam is vere et proprie. Secundum
-        <lb ed="#K" n="5"/>se fieret servus: et cum a coniugiis multum pendeat Principum Regno<lb ed="#K" break="no"/>rumque
+        <lb ed="#K" n="5"/>se fieret servus: et cum a coniugiis multum pendeat Principum Regno<lb ed="#K" break="no" n="6"/>rumque
         felicitas non bene consuleret sibi vel <unclear>Reip</unclear>: per tale coniugium,
-        <lb ed="#K" n="7"/>nisi in casu quo id exigeret necessitas vel aliud bonum maioris mo<lb ed="#K" break="no"/>menti.
+        <lb ed="#K" n="7"/>nisi in casu quo id exigeret necessitas vel aliud bonum maioris mo<lb ed="#K" break="no" n="8"/>menti.
         At Dei bonus et felicissimus status non pendet a creaturis
         <lb ed="#K" n="9"/>proinde opus non ut attendat ad aliquod bonum maius extrinsecum quod
         <lb ed="#K" n="10"/>aliter quam per Incarnationem obtinere ne possit. Adde quod quamvis
         <lb ed="#K" n="11"/>Incarnatio non esset per se ex petibilis Deo, sed propter aliud extrinsecum,
-        <lb ed="#K" n="12"/>a defuerint alia motiva extrinseca propter quae aeque decenter appete<lb ed="#K" break="no"/>retur
+        <lb ed="#K" n="12"/>a defuerint alia motiva extrinseca propter quae aeque decenter appete<lb ed="#K" break="no" n="13"/>retur
         ac propter redemptionem, verba gratia ad Regnum Beatorum Deo acquirendum,
         <lb ed="#K" n="14"/>ad filios ei ad optandos, ad Deum ipsum summe honorandum, et cetera.
       </p>
       <p>
-        <lb ed="#K" n="15"/>Obiicitur quinto. Sententia asserens motivum Incarnationis prin<lb ed="#K" break="no"/>cipale
+        <lb ed="#K" n="15"/>Obiicitur quinto. Sententia asserens motivum Incarnationis prin<lb ed="#K" break="no" n="16"/>cipale
         et adaequatum fuisse solum hominum redemptionem, magis nobis
         <lb ed="#K" n="17"/>commendat bonitatem et charitatem Dei. Ergo haec potius tenenda.
         <lb ed="#K" n="18"/>Respondeo nego Antecedens mirabilius longe per nostram sententiam commendatur
         <lb ed="#K" n="19"/>bonitas et charitas Dei, quia in nullo statu nos relinquit absque 
-        <lb ed="#K" n="20"/>Christo tam pretioso capite, tam digno, tamque nostri amante Prin<lb ed="#K" break="no"/>cipe,
-        in qua et per quem nos primo elegit ad gloriam. Secundo instruxit suf<lb ed="#K" break="no"/>ficientibus
+        <lb ed="#K" n="20"/>Christo tam pretioso capite, tam digno, tamque nostri amante Prin<lb ed="#K" break="no" n="21"/>cipe,
+        in qua et per quem nos primo elegit ad gloriam. Secundo instruxit suf<lb ed="#K" break="no" n="22"/>ficientibus
         auxiliis ad vitandum peccatum. Tertio tam mirabili redem<lb ed="#K" n="23"/>ptione 
         liberavit a commisso. Deinde maior patet Dei bonitas
         <lb ed="#K" n="24"/>ut pote etiam ad Angelos extensa, quibus etiam dedit Christum et per
         <lb ed="#K" n="25"/>Christum gratiam et gloriam. Proinde non adversa sententia, ut prima
         <lb ed="#K" n="26"/>fronte apparet, sed nostra potius est magis pia, non enim per hoc potest
-        <lb ed="#K" n="27"/>decrescere benignitas Dei, quod se ultra statum peccato, et ultra ge<lb ed="#K" break="no"/>nus
+        <lb ed="#K" n="27"/>decrescere benignitas Dei, quod se ultra statum peccato, et ultra ge<lb ed="#K" break="no" n="28"/>nus
         humanum extendat etiam ad Angelos: sicut non potest dici Christus
         <lb ed="#K" n="29"/>minus me amasse ex eo, quia non tantum pro me, sed etiam aliis est mortuus,
         <lb ed="#K" n="30"/>quin potius per tantum diffusionem magis angetur eius charitas
@@ -841,7 +841,7 @@
         <lb ed="#K" n="33"/>mysterii et gloria Christi, debuit eodem iure fieri unio Hypostatica ad
         <pb ed="#K" n="63-r"/>
         <lb ed="#K" n="1"/>personam Patris et Spiritus Sancti, nec cum humana solum sed etiam Angelica
-        <lb ed="#K" n="2"/>natura. Respondeo nego sequelam, motivum enim illud licet fuit principale non tamen ne<lb ed="#K" break="no"/>cissitabat
+        <lb ed="#K" n="2"/>natura. Respondeo nego sequelam, motivum enim illud licet fuit principale non tamen ne<lb ed="#K" break="no" n="3"/>cissitabat
         Deum, sed liberrimam illi relinquebat determinationem.
       </p>
     </div>
