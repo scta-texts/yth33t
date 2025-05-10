@@ -57,315 +57,316 @@
     </front>
     <body>
       <div xml:id="yth33t-f2x212">
-      <head>Sectio 4</head> 
-      <head type="question-title">An Christus decretus fuerit prius aut principalius propter peccatum Originale quam propter actualia?</head> 
-      <p>
-        <lb ed="#K"/>SECTIO IV
-        <lb ed="#K"/>An Christus decretus fuerit prius aut principalius
-        <lb ed="#K"/>propter peccatum Originale quam propter actualia?
+      <head xml:id="yth33t-f2x212-Hd1e108">Sectio 4</head> 
+      <head xml:id="yth33t-f2x212-Hd1e110" type="question-title">An Christus decretus fuerit prius aut principalius propter peccatum Originale quam propter actualia?</head> 
+      <p xml:id="yth33t-f2x212-d1e113">
+        <pb ed="#K" n="64-v"/>
+        <lb ed="#K" n="1"/>SECTIO IV
+        <lb ed="#K" n="2"/>An Christus decretus fuerit prius aut principalius
+        <lb ed="#K" n="3"/>propter peccatum Originale quam propter actualia?
       </p>
-      <p>
-        <lb ed="#K"/>Certum ex fide Christum decretum esse et venisse ut nos redimeret ab
-        <lb ed="#K"/>omni peccato, id est tam originali quam actuali sive mortali sive veniali,
-        <lb ed="#K"/>secundum illud <ref>prima Ioannis primo</ref>. Sanguis filiis eius emundat nos <unclear>ab</unclear> omni peccato.
-        <lb ed="#K"/>Et <ref>ad Titum secundo</ref>: <quote>Dedit semet ipsum pro nobis ut nos redimeret ob omni
-        <lb ed="#K"/>iniquitate.</quote> Et Ratio est quia unus ex principalibus finibus Incarnatio<lb ed="#K" break="no"/>nis
-        fuit perducere homines per Christum ad vitam aeternam. Atqui conse<lb ed="#K" break="no"/>cutioni
+      <p xml:id="yth33t-f2x212-d1e124">
+        <lb ed="#K" n="4"/>Certum ex fide Christum decretum esse et venisse ut nos redimeret ab
+        <lb ed="#K" n="5"/>omni peccato, id est tam originali quam actuali sive mortali sive veniali,
+        <lb ed="#K" n="6"/>secundum illud <ref xml:id="yth33t-f2x212-Rd1e132">prima Ioannis primo</ref>. Sanguis filiis eius emundat nos <unclear>ab</unclear> omni peccato.
+        <lb ed="#K" n="7"/>Et <ref xml:id="yth33t-f2x212-Rd1e139">ad Titum secundo</ref>: <quote xml:id="yth33t-f2x212-Qd1e141">Dedit semet ipsum pro nobis ut nos redimeret ob omni
+        <lb ed="#K" n="8"/>iniquitate.</quote> Et Ratio est quia unus ex principalibus finibus Incarnatio<lb ed="#K" break="no" n="9"/>nis
+        fuit perducere homines per Christum ad vitam aeternam. Atqui conse<lb ed="#K" break="no" n="10"/>cutioni
         huius finis non solum obstabat originale, sed etiam imo magis (quia
-        <lb ed="#K"/>magis voluntarium) actuale peccatum. Ergo, etc. Ergo Deus in totum hoc 
-        <lb ed="#K"/>obstaculum tollendum ordinavit mysterium Incarnationis.
+        <lb ed="#K" n="11"/>magis voluntarium) actuale peccatum. Ergo, etc. Ergo Deus in totum hoc 
+        <lb ed="#K" n="12"/>obstaculum tollendum ordinavit mysterium Incarnationis.
       </p>
-      <p>
-        <lb ed="#K"/>Dubitatur autem, an prius secundum rationem nostram et principalius sit decretus
-        <lb ed="#K"/>Christus ut Redemptor et in carne passibili propter originale peccatum quam
-        <lb ed="#K"/>propter actualia, et consequenter an venisset Christus ut Redempter et
-        <lb ed="#K"/>passibilis, si nulla actualia praevisa fuissent.
+      <p xml:id="yth33t-f2x212-d1e156">
+        <lb ed="#K" n="13"/>Dubitatur autem, an prius secundum rationem nostram et principalius sit decretus
+        <lb ed="#K" n="14"/>Christus ut Redemptor et in carne passibili propter originale peccatum quam
+        <lb ed="#K" n="15"/>propter actualia, et consequenter an venisset Christus ut Redempter et
+        <lb ed="#K" n="16"/>passibilis, si nulla actualia praevisa fuissent.
       </p>
-      <p>
-        <lb ed="#K"/>Dicendum primo. Principalius et prius decretus est Christus in reme<lb ed="#K" break="no"/>dium
-        peccati originalis quam actualium. Ita <ref><name>Suarez</name></ref> cum <ref>Thomistis</ref> contra
-        <lb ed="#K"/><ref><name>Martinonem</name></ref> et caeteros. 
+      <p xml:id="yth33t-f2x212-d1e168">
+        <lb ed="#K" n="17"/>Dicendum primo. Principalius et prius decretus est Christus in reme<lb ed="#K" break="no" n="18"/>dium
+        peccati originalis quam actualium. Ita <ref xml:id="yth33t-f2x212-Rd1e174"><name xml:id="yth33t-f2x212-Nd1e175">Suarez</name></ref> cum <ref xml:id="yth33t-f2x212-Rd1e177">Thomistis</ref> contra
+        <lb ed="#K" n="19"/><ref xml:id="yth33t-f2x212-Rd1e180"><name xml:id="yth33t-f2x212-Nd1e181">Martinonem</name></ref> et caeteros. 
       </p>
-      <p>
-        <lb ed="#K"/>Probatur ex Sacra Scriptura praesertim ad <ref>ad Rom: 5</ref> ubi Christus opponitur
-        <lb ed="#K"/>Adae scilicet ut Redemptor totius naturae corruptori eiusdem: <quote>sicut per unum
-        <lb ed="#K"/>humanem peccatum intravit in mundum</quote>, etc, quod ipsum indicatum videtur <ref>Joannis 1</ref>
-        <lb ed="#K"/>ubi per antonomasiam loquitur Baptista: <quote>Ecce Agnus Dei ecce qui tollit
-        <lb ed="#K"/>peccatum mundi.</quote> Quod SS. Patres ex ponendo dicunt peccatum mundi esse origi<lb ed="#K" break="no"/>nale
-        peccatum quod est commune totiius mundi. Similiter loquitur Deus <ref>Isaiae 52</ref>
-        <lb ed="#K"/>Propter scelus populi mei percussi eum. Unde hic valet <ref>ille himnus Ecclesiae
-        <lb ed="#K"/>Romanae: O vere necessarium adae peccatum quod Christi morte delectum est.
-        <lb ed="#K"/>O felix culpa quae talem ac tantum meruit habere redemptorem! qui modi loquen<lb ed="#K" break="no"/>di
+      <p xml:id="yth33t-f2x212-d1e184">
+        <lb ed="#K" n="20"/>Probatur ex Sacra Scriptura praesertim ad <ref xml:id="yth33t-f2x212-Rd1e188">ad Rom: 5</ref> ubi Christus opponitur
+        <lb ed="#K" n="21"/>Adae scilicet ut Redemptor totius naturae corruptori eiusdem: <quote xml:id="yth33t-f2x212-Qd1e192">sicut per unum
+        <lb ed="#K" n="22"/>humanem peccatum intravit in mundum</quote>, etc, quod ipsum indicatum videtur <ref xml:id="yth33t-f2x212-Rd1e197">Joannis 1</ref>
+        <lb ed="#K" n="23"/>ubi per antonomasiam loquitur Baptista: <quote xml:id="yth33t-f2x212-Qd1e202">Ecce Agnus Dei ecce qui tollit
+        <lb ed="#K" n="24"/>peccatum mundi.</quote> Quod SS. Patres ex ponendo dicunt peccatum mundi esse origi<lb ed="#K" break="no" n="25"/>nale
+        peccatum quod est commune totiius mundi. Similiter loquitur Deus <ref xml:id="yth33t-f2x212-Rd1e209">Isaiae 52</ref>
+        <lb ed="#K" n="26"/>Propter scelus populi mei percussi eum. Unde hic valet <ref xml:id="yth33t-f2x212-Rd1e213">ille himnus Ecclesiae
+        <lb ed="#K" n="27"/>Romanae: O vere necessarium adae peccatum quod Christi morte delectum est.
+        <lb ed="#K" n="28"/>O felix culpa quae talem ac tantum meruit habere redemptorem! qui modi loquen<lb ed="#K" break="no" n="29"/>di
         singularem vim movendi Deum tribuunt originali peccato!</ref>
       </p>
-      <p>
-        <lb ed="#K"/>Probatur secundo ratione. Quia licet peccatum actuale mortale maius sit inten<lb ed="#K" break="no"/>sive 
+      <p xml:id="yth33t-f2x212-d1e223">
+        <lb ed="#K" n="30"/>Probatur secundo ratione. Quia licet peccatum actuale mortale maius sit inten<lb ed="#K" break="no" n="31"/>sive 
         seu gravius, peccatum tamen originale maius est extensive inficit enim
-        <lb ed="#K"/>totum naturam actuale vero singularem personam. Iam vero iuxta <ref><name>Aristotelem</name>
-        <lb ed="#K"/>primo Ethicorum cap: 2</ref>, bonum gentis Divinus est et praestantius quam bonum parti<lb ed="#K" break="no"/>culare.
+        <lb ed="#K" n="32"/>totum naturam actuale vero singularem personam. Iam vero iuxta <ref xml:id="yth33t-f2x212-Rd1e231"><name xml:id="yth33t-f2x212-Nd1e232">Aristotelem</name>
+        <lb ed="#K" n="33"/>primo Ethicorum cap: 2</ref>, bonum gentis Divinus est et praestantius quam bonum parti<lb ed="#K" break="no" n="34"/>culare.
         Unde colligere licet liberationem ab originali et universali malo
         <pb ed="#K" n="65-r"/>
-        <lb ed="#K"/>principalius esse intentum a Deo. Firmatur primo. Quia originale
-        <lb ed="#K"/>non tantum maius est extensive, sed etiam quasi radix et fons omnium actualium,
-        <lb ed="#K"/>ut notat <ref><name>Suarez</name></ref>, name non solum hominem avertit a Deo, privatque iustitia ori<lb ed="#K" break="no"/>ginali,
+        <lb ed="#K" n="1"/>principalius esse intentum a Deo. Firmatur primo. Quia originale
+        <lb ed="#K" n="2"/>non tantum maius est extensive, sed etiam quasi radix et fons omnium actualium,
+        <lb ed="#K" n="3"/>ut notat <ref xml:id="yth33t-f2x212-Rd1e248"><name xml:id="yth33t-f2x212-Nd1e249">Suarez</name></ref>, <unclear>name</unclear> non solum hominem avertit a Deo, privatque iustitia ori<lb ed="#K" break="no" n="4"/>ginali,
         sed etiam relinquat inordinatum et suis affectibus suiectum, et quantum 
-        <lb ed="#K"/>est ex mento talis peccati, omnibus auxiliis gratiae necessariis ad vitan<lb ed="#K" break="no"/>da
+        <lb ed="#K" n="5"/>est ex mento talis peccati, omnibus auxiliis gratiae necessariis ad vitan<lb ed="#K" break="no" n="6"/>da
         peccata actualia spoliatum. Unde mento peccatum originale tanquam
-        <lb ed="#K"/>multa peccata suspiciebat et deflebat psalmista <ref>psal: 5</ref> <quote>Ecce enim in in<lb ed="#K" break="no"/>quitatibus
-        conceptus sum et peccatis concepit me mater mea.</quote> Nimi<lb ed="#K" break="no"/>um
-        <unclear>adubterium</unclear> et homicidium illius actuale aliis defectus in illa radice con<lb ed="#K" break="no"/>tiniebantur.
+        <lb ed="#K" n="7"/>multa peccata suspiciebat et deflebat psalmista <ref xml:id="yth33t-f2x212-Rd1e260">psal: 5</ref> <quote xml:id="yth33t-f2x212-Qd1e262">Ecce enim in in<lb ed="#K" break="no" n="8"/>quitatibus
+        conceptus sum et peccatis concepit me mater mea.</quote> Nimi<lb ed="#K" break="no" n="9"/>um
+        <unclear>adubterium</unclear> et homicidium illius actuale aliis defectus in illa radice con<lb ed="#K" break="no" n="10"/>tiniebantur.
         Credendus est ergo Deus tanquam peritus medicus primo et
-        <lb ed="#K"/>principalius voluisse radici aegritudinis nostrae remedium adhibere.
-        <lb ed="#K"/>Firmatur secundo. Quia licet peccatum originale vere sit nostrum <unclear>minus</unclear> tamen
-        <lb ed="#K"/>rigorose nostrum est, quia non commissum actuali <unclear>usu</unclear> propriae libertatis, proinde sta<lb ed="#K" break="no"/>tus
+        <lb ed="#K" n="11"/>principalius voluisse radici aegritudinis nostrae remedium adhibere.
+        <lb ed="#K" n="12"/>Firmatur secundo. Quia licet peccatum originale vere sit nostrum <unclear>minus</unclear> tamen
+        <lb ed="#K" n="13"/>rigorose nostrum est, quia non commissum actuali <unclear>usu</unclear> propriae libertatis, proinde sta<lb ed="#K" break="no" n="14"/>tus
         miserrimus per quem in illud dedideramus, magis movere poterat Deum
-        <lb ed="#K"/>ad remedium exhibendum quam ille status in quem plena deliberatine propria per
-        <lb ed="#K"/>actualia delabimur. 
+        <lb ed="#K" n="15"/>ad remedium exhibendum quam ille status in quem plena deliberatine propria per
+        <lb ed="#K" n="16"/>actualia delabimur. 
       </p>
-      <p>
-        <lb ed="#K"/>Probatur secunda pars conclusionis de prioritate. Quia decretum Christi
-        <lb ed="#K"/>ut Redemptoris propter actualia, supponit peccata actualia permissa et
-        <lb ed="#K"/>praevisa a Deo, peccata vero actualia vel omnia vel plurima supponunt
-        <lb ed="#K"/>ex parte potentiae auxilium sufficiens ad ea vitanda. Atqui necessaria
-        <lb ed="#K"/>auxilia ad vitanda peccata actualia nulli ex posteris Adae dantur,
-        <lb ed="#K"/>nisi propter merita Christi ut Redemptoris seu propter mortem Christi ut
-        <lb ed="#K"/>communis tenet sententia et scriptura testatur. Ergo illa peccata eorumque 
-        <lb ed="#K"/>praevisio absoluta, supponunt Christum iam decretum ut redemptorem propter
-        <lb ed="#K"/>peccatum aliud prius actualibus. Ergo propter originale. Ergo etiam ab
-        <lb ed="#K"/>originali pependit actualium permissio ut ex infra dicendis patebit.
+      <p xml:id="yth33t-f2x212-d1e292">
+        <lb ed="#K" n="17"/>Probatur secunda pars conclusionis de prioritate. Quia decretum Christi
+        <lb ed="#K" n="18"/>ut Redemptoris propter actualia, supponit peccata actualia permissa et
+        <lb ed="#K" n="19"/>praevisa a Deo, peccata vero actualia vel omnia vel plurima supponunt
+        <lb ed="#K" n="20"/>ex parte potentiae auxilium sufficiens ad ea vitanda. Atqui necessaria
+        <lb ed="#K" n="21"/>auxilia ad vitanda peccata actualia nulli ex posteris Adae dantur,
+        <lb ed="#K" n="22"/>nisi propter merita Christi ut Redemptoris seu propter mortem Christi ut
+        <lb ed="#K" n="23"/>communis tenet sententia et scriptura testatur. Ergo illa peccata eorumque 
+        <lb ed="#K" n="24"/>praevisio absoluta, supponunt Christum iam decretum ut redemptorem propter
+        <lb ed="#K" n="25"/>peccatum aliud prius actualibus. Ergo propter originale. Ergo etiam ab
+        <lb ed="#K" n="26"/>originali pependit actualium permissio ut ex infra dicendis patebit.
       </p>
-      <p>
-        <lb ed="#K"/>Obiicitur primo. Remedium mali maioris est bonum praestantius. Atqui
-        <lb ed="#K"/>peccata personalia gravia tam multa et tam multorum posterorum Adae sunt 
-        <lb ed="#K"/>maius malum quam peccatum originale. Ergo illorum remedium est praestantius.
-        <lb ed="#K"/>Ergo magis seu principalius intentum. Respondeo distinguo maiorem. Remedium 
-        <lb ed="#K"/>maioris mali tam intensive quam extensive caeteris paribus est praestantius 
-        <lb ed="#K"/>alio etiam capite minus <unclear>inuari</unclear> meretur, est bonum praestantius nego.
-        <lb ed="#K"/>Similiter distinguo <unclear>n'orem</unclear>, nam appecatto originali sola Dei para Virgo
+      <p xml:id="yth33t-f2x212-d1e316">
+        <lb ed="#K" n="27"/>Obiicitur primo. Remedium mali maioris est bonum praestantius. Atqui
+        <lb ed="#K" n="28"/>peccata personalia gravia tam multa et tam multorum posterorum Adae sunt 
+        <lb ed="#K" n="29"/>maius malum quam peccatum originale. Ergo illorum remedium est praestantius.
+        <lb ed="#K" n="30"/>Ergo magis seu principalius intentum. Respondeo distinguo maiorem. Remedium 
+        <lb ed="#K" n="31"/>maioris mali tam intensive quam extensive caeteris paribus est praestantius 
+        <lb ed="#K" n="32"/>alio etiam capite minus <unclear>inuari</unclear> meretur, est bonum praestantius nego.
+        <lb ed="#K" n="33"/>Similiter distinguo <unclear>n'orem</unclear>, nam appecatto originali sola Dei para Virgo
         <pb ed="#K" n="65-v"/>
-        <lb ed="#K"/>est immunis ab actualibus vero mortalibus plurimi. Deinde haec propria
-        <lb ed="#K"/>deliberatione et malitia committuntur: illud in alio tantum propter trans<lb ed="#K" break="no"/>fusionem
+        <lb ed="#K" n="1"/>est immunis ab actualibus vero mortalibus plurimi. Deinde haec propria
+        <lb ed="#K" n="2"/>deliberatione et malitia committuntur: illud in alio tantum propter trans<lb ed="#K" break="no" n="3"/>fusionem
         voluntatum commissum est a nescientibus, adeoque magis ad commise
         - rationem et auxilium movere aptum est. 
       </p>
-      <p>
-        <lb ed="#K"/>Obiicitur secundo. Christus satisfecit sustinendo paenam sensus, consu<lb ed="#K" break="no"/>mavitque
+      <p xml:id="yth33t-f2x212-d1e347">
+        <lb ed="#K" n="4"/>Obiicitur secundo. Christus satisfecit sustinendo <sic>paenam</sic> sensus, consu<lb ed="#K" break="no" n="5"/>mavitque
         satisfactionem per mortem acerbissimam. Ergo signum est satisfactionem
-        <lb ed="#K"/>pro actualibus peccatis fuisse principalius intentam, nam paena sensus non debe<lb ed="#K" break="no"/>tur
+        <lb ed="#K" n="6"/>pro actualibus peccatis fuisse principalius intentam, nam paena sensus non debe<lb ed="#K" break="no" n="7"/>tur
         originali. Respondeo nego Consequentiam quamvis enim paena sensus ne deberetur
-        <lb ed="#K"/>originali liberum tamen erat Deo ordinare passionem et mortem Christi principalius
-        <lb ed="#K"/>ad tollendum originale, et ita copiosiorem exhibere redemptionem et chari<lb ed="#K" break="no"/>tatem 
-        superabundantem. Quod ita revera ordinaverit colligitur ex proba<lb ed="#K" break="no"/>tionibus 
+        <lb ed="#K" n="8"/>originali liberum tamen erat Deo ordinare passionem et mortem Christi principalius
+        <lb ed="#K" n="9"/>ad tollendum originale, et ita copiosiorem exhibere redemptionem et chari<lb ed="#K" break="no" n="10"/>tatem 
+        superabundantem. Quod ita revera ordinaverit colligitur ex proba<lb ed="#K" break="no" n="11"/>tionibus 
         conclusionis nostrae.
       </p>
-      <p>
-        <lb ed="#K"/>Dicendum secundo. Incarnatio non tantum principaliter decreta fuit propter
-        <lb ed="#K"/>tollendum peccatum originale, sed etiam totaliter, ita nimirum ut licet nulla 
-        <lb ed="#K"/>fuissent actualia peccata, Christus tamen venisset ut Redemptor. Ita <ref><name>Suarius</name></ref>,
-        <lb ed="#K"/><ref><name>Martinon</name></ref>, <ref><name>Gonet</name></ref>, et caeteri: Patet conclusio ex dictis quia Christus
-        <lb ed="#K"/>ut redemptor in remedium peccati originalis fuit decretus prius quam
-        <lb ed="#K"/>Deus decerneret permittere actualia illa quae videret absolute futura,
-        <lb ed="#K"/>si quidem per ipsum Christum et mortem eius voluit omnes homines instruere 
-        <lb ed="#K"/>sufficientibus gratiis, et in actu primo potentes reddere ad vitanda
-        <lb ed="#K"/>peccata actualia. Ergo vitalis decreti ne potuisset non venire Christus
-        <lb ed="#K"/>ut Redemptor, etiamsi Deus per gratias efficaces impedivisset omnia
-        <lb ed="#K"/>peccata actualia. Ergo decretum haec fuit totale.
+      <p xml:id="yth33t-f2x212-d1e368">
+        <lb ed="#K" n="12"/>Dicendum secundo. Incarnatio non tantum principaliter decreta fuit propter
+        <lb ed="#K" n="13"/>tollendum peccatum originale, sed etiam totaliter, ita nimirum ut licet nulla 
+        <lb ed="#K" n="14"/>fuissent actualia peccata, Christus tamen venisset ut Redemptor. Ita <ref xml:id="yth33t-f2x212-Rd1e376"><name xml:id="yth33t-f2x212-Nd1e377">Suarius</name></ref>,
+        <lb ed="#K" n="15"/><ref xml:id="yth33t-f2x212-Rd1e380"><name xml:id="yth33t-f2x212-Nd1e381">Martinon</name></ref>, <ref xml:id="yth33t-f2x212-Rd1e384"><name xml:id="yth33t-f2x212-Nd1e385">Gonet</name></ref>, et caeteri: Patet conclusio ex dictis quia Christus
+        <lb ed="#K" n="16"/>ut redemptor in remedium peccati originalis fuit decretus prius quam
+        <lb ed="#K" n="17"/>Deus decerneret permittere actualia illa quae videret absolute futura,
+        <lb ed="#K" n="18"/>si quidem per ipsum Christum et mortem eius voluit omnes homines instruere 
+        <lb ed="#K" n="19"/>sufficientibus gratiis, et in actu primo potentes reddere ad vitanda
+        <lb ed="#K" n="20"/>peccata actualia. Ergo vitalis decreti ne potuisset non venire Christus
+        <lb ed="#K" n="21"/>ut Redemptor, etiamsi Deus per gratias efficaces impedivisset omnia
+        <lb ed="#K" n="22"/>peccata actualia. Ergo decretum haec fuit totale.
       </p>
-      <p>
-        <lb ed="#K"/>Obiicitur primo Non existentibus peccatis actualibus defecisset 
-        <lb ed="#K"/>ratio integra quae defacto movit Deum ad decernendum Christum ut Redem<lb ed="#K" break="no"/>torem <!-- sic -->,
-        nam defacto per motus est non tantum originali, sed etiam actuali<lb ed="#K" break="no"/>bus
+      <p xml:id="yth33t-f2x212-d1e403">
+        <lb ed="#K" n="23"/>Obiicitur primo Non existentibus peccatis actualibus defecisset 
+        <lb ed="#K" n="24"/>ratio integra quae defacto movit Deum ad decernendum Christum ut Redem<lb ed="#K" break="no" n="25"/>torem <!-- sic -->,
+        nam defacto per motus est non tantum originali, sed etiam actuali<lb ed="#K" break="no" n="26"/>bus
         peccatis tollendis. Ergo actualibus sublatis et solo originali
-        <lb ed="#K"/>dato, Christus ne venisset vi praesentis decreti ut Redemptor. Respondeo
-        <lb ed="#K"/>distinguo Antecedens non existentibus peccatis actualibus defecisset ratio
-        <lb ed="#K"/>integra movendi, defecisset inquam secundum integritatem materialem
-        <lb ed="#K"/>Concedo secundum virtualem Nego. Integritas materialis motivorum
-        <lb ed="#K"/>dicit <unclear>collectionem</unclear> omnium rationum quas defacto movisse constat:
+        <lb ed="#K" n="27"/>dato, Christus ne venisset vi praesentis decreti ut Redemptor. Respondeo
+        <lb ed="#K" n="28"/>distinguo Antecedens non existentibus peccatis actualibus defecisset ratio
+        <lb ed="#K" n="29"/>integra movendi, defecisset inquam secundum integritatem materialem
+        <lb ed="#K" n="30"/>Concedo secundum virtualem Nego. Integritas materialis motivorum
+        <lb ed="#K" n="31"/>dicit <unclear>collectionem</unclear> omnium rationum quas defacto movisse constat:
         <pb ed="#K" n="66-r"/>
-        <lb ed="#K"/>Inter has autem est etiam respectus Incarnationis decernende ad remedium
-        <lb ed="#K"/>peccatis actualibus, qua ratione sublata, atique ne haberentur omnes om<lb ed="#K" break="no"/>nino 
-        rationes quae defacto moverunt adeoque, integritas materialis moti<lb ed="#K" break="no"/>vorum
+        <lb ed="#K" n="1"/>Inter has autem est etiam respectus Incarnationis decernende ad remedium
+        <lb ed="#K" n="2"/>peccatis actualibus, qua ratione sublata, atique ne haberentur omnes om<lb ed="#K" break="no" n="3"/>nino 
+        rationes quae defacto moverunt adeoque, integritas materialis moti<lb ed="#K" break="no" n="4"/>vorum
         deesset. Virtualis integritas consistit in ipsa vi movendi quae
-        <lb ed="#K"/>rationibus inest. Cum ergo remedium peccati originalis independen<lb ed="#K" break="no"/>ter
-        <lb ed="#K"/>ab actualibus posterorum Adae vim habeat sufficientissimum movendi
-        <lb ed="#K"/>Deum ad Incarnationem decernendam, etiam seclusis illis habetur integra seu
-        <lb ed="#K"/>adaequata ratio motiva.
+        <lb ed="#K" n="5"/>rationibus inest. Cum ergo remedium peccati originalis independen<lb ed="#K" break="no" n="6"/>ter
+        <lb ed="#K" n="7"/>ab actualibus posterorum Adae vim habeat sufficientissimum movendi
+        <lb ed="#K" n="8"/>Deum ad Incarnationem decernendam, etiam seclusis illis habetur integra seu
+        <lb ed="#K" n="9"/>adaequata ratio motiva.
       </p>
-      <p>
-        <lb ed="#K"/>Obiicitur secundo Christus non potuit decerni ut Redemptor propter
-        <lb ed="#K"/>peccatum originale independenter a praevisione et permissione absoluto pec<lb ed="#K" break="no"/>catorum
+      <p xml:id="yth33t-f2x212-d1e451">
+        <lb ed="#K" n="10"/>Obiicitur secundo Christus non potuit decerni ut Redemptor propter
+        <lb ed="#K" n="11"/>peccatum originale independenter a praevisione et permissione absoluto pec<lb ed="#K" break="no" n="12"/>catorum
         actualium. Ergo Incarnatio non est decreta propter originale tanquam 
-        <lb ed="#K"/>propter motivum totale independenter a peccatis actualibus Antecedens probatur
-        <lb ed="#K"/>Christus non aliter decretus est ut redemptoris generis <unclear>humani</unclear> a peccato origi<lb ed="#K" break="no"/>nali
-        quam ut per mortem suam illud tolleret, atqui mors Christi involue<lb ed="#K" break="no"/>bat 
-        <lb ed="#K"/>peccata actuali <unclear>crucifieritium</unclear> a quibus illata est. Ergo saltem haec
-        <lb ed="#K"/>actualia permitti et praevideri debebant ut Christus efficaciter decer<lb ed="#K" break="no"/>neretur 
-        ut Redemptor <unclear>pro</unclear> originali. Haec difficultas quae in aliis sen<lb ed="#K" break="no"/>tentiis
+        <lb ed="#K" n="13"/>propter motivum totale independenter a peccatis actualibus Antecedens probatur
+        <lb ed="#K" n="14"/>Christus non aliter decretus est ut redemptoris generis <unclear>humani</unclear> a peccato origi<lb ed="#K" break="no" n="15"/>nali
+        quam ut per mortem suam illud tolleret, atqui mors Christi involue<lb ed="#K" break="no" n="16"/>bat 
+        <lb ed="#K" n="17"/>peccata actuali <unclear>crucifieritium</unclear> a quibus illata est. Ergo saltem haec
+        <lb ed="#K" n="18"/>actualia permitti et praevideri debebant ut Christus efficaciter decer<lb ed="#K" break="no" n="19"/>neretur 
+        ut Redemptor <unclear>pro</unclear> originali. Haec difficultas quae in aliis sen<lb ed="#K" break="no" n="20"/>tentiis
         molestissima est nobis facilior venit. Nam.
       </p>
-      <p>
-        <lb ed="#K"/>Respondeo nego Antecedens probationis distinguo maiorem Christus non aliter
-        <lb ed="#K"/>decretus est ut Redemptor, quam ut originale tolleret per mortem suam sumptam
-        <lb ed="#K"/>praecise secundum substantiam suam Concedo sumptam simul <unclear>cum</unclear> illis causis et cir<lb ed="#K" break="no"/>cumstantiis
+      <p xml:id="yth33t-f2x212-d1e484">
+        <lb ed="#K" n="21"/>Respondeo nego Antecedens probationis distinguo maiorem Christus non aliter
+        <lb ed="#K" n="22"/>decretus est ut Redemptor, quam ut originale tolleret per mortem suam sumptam
+        <lb ed="#K" n="23"/>praecise secundum substantiam suam Concedo sumptam simul <unclear>cum</unclear> illis causis et cir<lb ed="#K" break="no" n="24"/>cumstantiis
         quae per decreta executionis deinde ordinata sit nego 
-        <lb ed="#K"/>maiorem, similiter distinguo minorem, mors Christi sumpta praecise secundum
-        <lb ed="#K"/>substantiam suam involuebat peccata actualia crucifientium nego
-        <lb ed="#K"/>mors Christi prout <unclear>pro</unclear> decreta executionis ordinata est Concedo minorem
-        <lb ed="#K"/>et nego Consequentiam. Et dico: conclusio nostra procedit de Christo
-        <lb ed="#K"/>in remedium peccati originalis decreto secundum ordinem intentionis Divinae
-        <lb ed="#K"/>non vero secundum ordinem posteriorem executionis. in intentionis autem ordine
-        <lb ed="#K"/>(ut distinctius patebit ex dicendis sectione sequente) solum est decreta
-        <lb ed="#K"/>mors Christi secundum substantiam suam, id est ut propter originale peccatum tollen<lb ed="#K" break="no"/>dum
-        Christus se offerret in holocaustum subiretque separationem animae a cor<lb ed="#K" break="no"/>pore,
+        <lb ed="#K" n="25"/>maiorem, similiter distinguo minorem, mors Christi sumpta praecise secundum
+        <lb ed="#K" n="26"/>substantiam suam involuebat peccata actualia crucifientium nego
+        <lb ed="#K" n="27"/>mors Christi prout <unclear>pro</unclear> decreta executionis ordinata est Concedo minorem
+        <lb ed="#K" n="28"/>et nego Consequentiam. Et dico: conclusio nostra procedit de Christo
+        <lb ed="#K" n="29"/>in remedium peccati originalis decreto secundum ordinem intentionis Divinae
+        <lb ed="#K" n="30"/>non vero secundum ordinem posteriorem executionis. in intentionis autem ordine
+        <lb ed="#K" n="31"/>(ut distinctius patebit ex dicendis sectione sequente) solum est decreta
+        <lb ed="#K" n="32"/>mors Christi secundum substantiam suam, id est ut propter originale peccatum tollen<lb ed="#K" break="no" n="33"/>dum
+        Christus se offerret in holocaustum subiretque separationem animae a cor<lb ed="#K" break="no" n="34"/>pore,
         quocunque <unclear>ta'dem</unclear> modo ea inferenda esset, sui intentioni Divinae
         <pb ed="#K" n="66-v"/>
-        <lb ed="#K"/>visa est respendere liberalissima et resolutissima acceptatio Christi
-        <lb ed="#K"/>postea vero secundum rationem nostram per ordinem decretorum executionis deter<lb ed="#K" break="no"/>minavit 
-        Deus in particulari ut tali modo et actualibus causis illa separa<lb ed="#K" break="no"/>tio
+        <lb ed="#K" n="1"/>visa est respondere liberalissima et resolutissima acceptatio Christi
+        <lb ed="#K" n="2"/>postea vero secundum rationem nostram per ordinem decretorum executionis deter<lb ed="#K" break="no" n="3"/>minavit 
+        Deus in particulari ut tali modo et actualibus causis illa separa<lb ed="#K" break="no" n="4"/>tio
         fieret, voluitque permittere ut etiam ex malitia et rabie sacrilega
-        <lb ed="#K"/>mors inferretur Christi: Atque tum primum vidit Deus peccata actualia
-        <lb ed="#K"/>absolute futura crucifientum et aliorum qui ad mortem et passionem Christi
-        <lb ed="#K"/>cooperati sunt, vel eius occasione scandalisati ut Petrus et aliis. 
+        <lb ed="#K" n="5"/>mors inferretur Christi: Atque tum primum vidit Deus peccata actualia
+        <lb ed="#K" n="6"/>absolute futura crucifientum et aliorum qui ad mortem et passionem Christi
+        <lb ed="#K" n="7"/>cooperati sunt, vel eius occasione scandalisati ut Petrus et aliis. 
       </p>
-      <p>
-        <lb ed="#K"/>Vrgetur Christus decretus est in remedium peccati originalis, <unclear>ita<lb ed="#K" break="no"/>nt</unclear>
+      <p xml:id="yth33t-f2x212-d1e541">
+        <lb ed="#K" n="8"/>Vrgetur Christus decretus est in remedium peccati originalis, <unclear>ita<lb ed="#K" break="no" n="9"/>nt</unclear>
         illud tolleret non per mortem ut sic vel inconfuso, sed per mortem hanc quam 
-        <lb ed="#K"/>defacto postea subiit. Ergo tunc videri debuit etiam crucifixio mali<lb ed="#K" break="no"/>ciosa
+        <lb ed="#K" n="10"/>defacto postea subiit. Ergo tunc videri debuit etiam crucifixio mali<lb ed="#K" break="no" n="11"/>ciosa
         et alia connexa peccata actualia. Respondeo distinguo secunda partem
-        <lb ed="#K"/>Antecedentis: sed per mortem hanc sumptam secundum substantiam suam Concedo, 
-        <lb ed="#K"/>sumptam etiam cum accidentalibus circumstantiis omnibus quibus de facto 
-        <lb ed="#K"/>fuit affecta nego. Mors haec secundum substantiam suam non plus dicit 
-        <lb ed="#K"/>quam negationem unionis physicae quae antea fuit inter hanc animam
-        <lb ed="#K"/>et hoc corpus Christi. Haec autem negatio contingere potuit ex <unclear>van<lb ed="#K" break="no"/>is</unclear> 
-        causis etiam sine ullo peccato interveniente, verba gratia per in tolerabi<lb ed="#K" break="no"/>lem
-        dolorem eti tristitiam conceptam de gravitate offensae divinae per pec<lb ed="#K" break="no"/>catum
+        <lb ed="#K" n="12"/>Antecedentis: sed per mortem hanc sumptam secundum substantiam suam Concedo, 
+        <lb ed="#K" n="13"/>sumptam etiam cum accidentalibus circumstantiis omnibus quibus de facto 
+        <lb ed="#K" n="14"/>fuit affecta nego. Mors haec secundum substantiam suam non plus dicit 
+        <lb ed="#K" n="15"/>quam negationem unionis physicae quae antea fuit inter hanc animam
+        <lb ed="#K" n="16"/>et hoc corpus Christi. Haec autem negatio contingere potuit ex <unclear>van<lb ed="#K" break="no" n="17"/>is</unclear> 
+        causis etiam sine ullo peccato interveniente, verba gratia per in tolerabi<lb ed="#K" break="no" n="18"/>lem
+        dolorem eti tristitiam conceptam de gravitate offensae divinae per pec<lb ed="#K" break="no" n="19"/>catum
         originale commissae qualis de facto illum obruit in horto ut ipse 
-        <lb ed="#K"/>testaretur: tristis est anima mea utique ad mortem. Vel per voluntariam sangui<lb ed="#K" break="no"/>nis
+        <lb ed="#K" n="20"/>testaretur: tristis est anima mea utique ad mortem. Vel per voluntariam sangui<lb ed="#K" break="no" n="21"/>nis
         effusionem qualem passus est ibidem, vel aliqua ex causa naturali ut
-        <lb ed="#K"/>morbo gravi sponte admisso vel hominum mynisterio <!-- sic --> innocente, ita
-        <lb ed="#K"/><unclear>vibenta</unclear> Deo, prout iustit ab Abrahamo, immolari filium, ac proinde potuit
-        <lb ed="#K"/>etiam ipsa crucifixio Christi et mors crucis decerno in remedium peccati
-        <lb ed="#K"/>originalis absque <unclear>promisso/praemisso</unclear> et praeviso actuali crucifiericium peccato, non
-        <lb ed="#K"/>enim inter hoc et illam necessaria est connexio, nec pependit satisfac<lb ed="#K" break="no"/>tio
-        necessaria pro peccato originali a morte Christi, ut iniuste et mali<lb ed="#K" break="no"/>ciose illata.
-        Vel si placuisset Deo suaviorem ordinare mortem potuis<lb ed="#K" break="no"/>set 
+        <lb ed="#K" n="22"/>morbo gravi sponte admisso vel hominum <sic>mynisterio</sic> innocente, ita
+        <lb ed="#K" n="23"/><unclear>vibenta</unclear> Deo, prout iustit ab Abrahamo, immolari filium, ac proinde potuit
+        <lb ed="#K" n="24"/>etiam ipsa crucifixio Christi et mors crucis decerno in remedium peccati
+        <lb ed="#K" n="25"/>originalis absque <unclear>promisso/praemisso</unclear> et praeviso actuali crucifiericium peccato, non
+        <lb ed="#K" n="26"/>enim inter hoc et illam necessaria est connexio, nec pependit satisfac<lb ed="#K" break="no" n="27"/>tio
+        necessaria pro peccato originali a morte Christi, ut iniuste et mali<lb ed="#K" break="no" n="28"/>ciose illata.
+        Vel si placuisset Deo suaviorem ordinare mortem potuis<lb ed="#K" break="no" n="29"/>set 
         mori Christus per vehementem actum amoris Dei ut pie creditur 
-        <lb ed="#K"/>Beatissima obiisse.
+        <lb ed="#K" n="30"/>Beatissima obiisse.
       </p>
-      <p>
-        <lb ed="#K"/>His expeditis quaeri potest e contrario: Si ne fuisset originale peccatum futura
-        <lb ed="#K"/>autem fuissent gravia actuali inter humanes: an in eo casu Christus venisset ut 
+      <p xml:id="yth33t-f2x212-d1e605">
+        <lb ed="#K" n="31"/>His expeditis quaeri potest e contrario: Si ne fuisset originale peccatum futura
+        <lb ed="#K" n="32"/>autem fuissent gravia actuali inter humanes: an in eo casu Christus venisset ut 
         <pb ed="#K" n="67-r"/>
-        <lb ed="#K"/>Redemptor et in carne passibili? Item: quid si venialia tantum fuissent?
-        <lb ed="#K"/>Item: quid si pauca mortalia et in paucis hominibus? quorum omnium
-        <lb ed="#K"/>resolutio valde et incerta. Proinde breviter.
+        <lb ed="#K" n="1"/>Redemptor et in carne passibili? Item: quid si venialia tantum fuissent?
+        <lb ed="#K" n="2"/>Item: quid si pauca mortalia et in paucis hominibus? quorum omnium
+        <lb ed="#K" n="3"/>resolutio valde et incerta. Proinde breviter.
       </p>
-      <p>
-        <lb ed="#K"/>Dicendum tertio. Si fuisset originale peccatum, etiamsi peccata quae<lb ed="#K" break="no"/>cunque
-        alia etiam gravissima totuis <!-- sic --> generis humani actualia fuissent Chris<lb ed="#K" break="no"/>tus
-        ne venisset ut Redemptor et in carne passibili vi praesentium decreto<lb ed="#K" break="no"/>rum
-        formaliter, Ita <ref><name>Suarius</name></ref> et alii communiter.
+      <p xml:id="yth33t-f2x212-d1e622">
+        <lb ed="#K" n="4"/>Dicendum tertio. Si fuisset originale peccatum, etiamsi peccata quae<lb ed="#K" break="no" n="5"/>cunque
+        alia etiam gravissima totuis <!-- sic --> generis humani actualia fuissent Chris<lb ed="#K" break="no" n="6"/>tus
+        ne venisset ut Redemptor et in carne passibili vi praesentium decreto<lb ed="#K" break="no" n="7"/>rum
+        formaliter, Ita <ref xml:id="yth33t-f2x212-Rd1e635"><name xml:id="yth33t-f2x212-Nd1e636">Suarius</name></ref> et alii communiter.
       </p>
-      <p>
-        <lb ed="#K"/>Probatur primo quia ut ex supra dictis patet Deus de facto decrevit 
-        <lb ed="#K"/>Christum ut Redemptorem principaliter propter peccatum originale. Deinde in 
-        <lb ed="#K"/>remedium actualium ordinata est satisfactio Christi in tantum in quantum
-        <lb ed="#K"/>ea <unclear>procedunt</unclear> ab originali ut aradice, cuius sublationem Deus per se
-        <lb ed="#K"/>antecedenter voluit. Ergo praesens voluntas redimendi ab actualibus,
-        <lb ed="#K"/>supponit originale. Ergo non dato originali ne posset esse haec decre<lb ed="#K" break="no"/>torum
-        series, consequenter Christus ne veniret ex vi praesentium decreto<lb ed="#K" break="no"/>rum
-        formaliter. Confirmatur primo. Si peccatum originale ne fuisset, quam<lb ed="#K" break="no"/>vis 
+      <p xml:id="yth33t-f2x212-d1e639">
+        <lb ed="#K" n="8"/>Probatur primo quia ut ex supra dictis patet Deus de facto decrevit 
+        <lb ed="#K" n="9"/>Christum ut Redemptorem principaliter propter peccatum originale. Deinde in 
+        <lb ed="#K" n="10"/>remedium actualium ordinata est satisfactio Christi in tantum in quantum
+        <lb ed="#K" n="11"/>ea <unclear>procedunt</unclear> ab originali ut aradice, cuius sublationem Deus per se
+        <lb ed="#K" n="12"/>antecedenter voluit. Ergo praesens voluntas redimendi ab actualibus,
+        <lb ed="#K" n="13"/>supponit originale. Ergo non dato originali ne posset esse haec decre<lb ed="#K" break="no" n="14"/>torum
+        series, consequenter Christus ne veniret ex vi praesentium decreto<lb ed="#K" break="no" n="15"/>rum
+        formaliter. Confirmatur primo. Si peccatum originale ne fuisset, quam<lb ed="#K" break="no" n="16"/>vis 
         actualia futura fuissent, fortasse non haec ipsa fuissent quae modo
-        <lb ed="#K"/>in natura lapsa committuntur. Ergo nec voluntas redimendi ab ipsis 
-        <lb ed="#K"/>esset omnino eadem. Confirmatur secundo. Probabilius est quod non dato
-        <lb ed="#K"/>originali et paucis tantum datis actualibus, Christus ne venisset in
-        <lb ed="#K"/>carne passibili et mortalis, hoc enim decretum est propter originale ut
-        <lb ed="#K"/>indicat Apostolus: <ref>ad Rom. 5</ref> dicens: <quote>per unum humanem peccatum in hunc mun<lb ed="#K" break="no"/>dum
-        intravit, et per peccatum mors.</quote> Ergo ne venisset Christus vi praesen<lb ed="#K" break="no"/>tium
-        decretorum formaliter. Dixi formaliter dici enim potest quod ad<lb ed="#K" break="no"/>huc
+        <lb ed="#K" n="17"/>in natura lapsa committuntur. Ergo nec voluntas redimendi ab ipsis 
+        <lb ed="#K" n="18"/>esset omnino eadem. Confirmatur secundo. Probabilius est quod non dato
+        <lb ed="#K" n="19"/>originali et paucis tantum datis actualibus, Christus ne venisset in
+        <lb ed="#K" n="20"/>carne passibili et mortalis, hoc enim decretum est propter originale ut
+        <lb ed="#K" n="21"/>indicat Apostolus: <ref xml:id="yth33t-f2x212-Rd1e673">ad Rom. 5</ref> dicens: <quote xml:id="yth33t-f2x212-Qd1e675">per unum humanem peccatum in hunc mun<lb ed="#K" break="no" n="22"/>dum
+        intravit, et per peccatum mors.</quote> Ergo ne venisset Christus vi praesen<lb ed="#K" break="no" n="23"/>tium
+        decretorum formaliter. Dixi formaliter dici enim potest quod ad<lb ed="#K" break="no" n="24"/>huc
         fuisset venturus ut redemptor vi praesentium decretorum arguitive, 
-        <lb ed="#K"/>inquantum ex hic decretis colligimus quod Divina bonitas per aliam
-        <lb ed="#K"/>voluntatem ordinasset generi humano redemptorem. Ut patebit ex
-        <lb ed="#K"/>conclusione sequenti.
+        <lb ed="#K" n="25"/>inquantum ex hic decretis colligimus quod Divina bonitas per aliam
+        <lb ed="#K" n="26"/>voluntatem ordinasset generi humano redemptorem. Ut patebit ex
+        <lb ed="#K" n="27"/>conclusione sequenti.
       </p>
-      <p>
-        <lb ed="#K"/>Dicendum quarto. Si originale peccatum ne fuisset, et nihilominus omnes, <unclear>vfere<lb ed="#K" break="no"/>eos</unclear>
+      <p xml:id="yth33t-f2x212-d1e692">
+        <lb ed="#K" n="28"/>Dicendum quarto. Si originale peccatum ne fuisset, et nihilominus omnes, <unclear>vfere<lb ed="#K" break="no" n="29"/>eos</unclear>
         homines in gravia peccata actualia incidissent probabile est quod vi alterius
-        <lb ed="#K"/>cuiusdam decreti venisset Christus ut Redemptor et in carne passibili. Ita 
-        <lb ed="#K"/><ref><name>Suarez</name></ref>, <ref><name>Vasquez</name></ref>, <ref><name>Martinon</name></ref>. Ratio: quia tunc fere esset eadem mora<lb ed="#K" break="no"/>liter
+        <lb ed="#K" n="30"/>cuiusdam decreti venisset Christus ut Redemptor et in carne passibili. Ita 
+        <lb ed="#K" n="31"/><ref xml:id="yth33t-f2x212-Rd1e704"><name xml:id="yth33t-f2x212-Nd1e705">Suarez</name></ref>, <ref xml:id="yth33t-f2x212-Rd1e707"><name xml:id="yth33t-f2x212-Nd1e708">Vasquez</name></ref>, <ref xml:id="yth33t-f2x212-Rd1e711"><name xml:id="yth33t-f2x212-Nd1e712">Martinon</name></ref>. Ratio: quia tunc fere esset eadem mora<lb ed="#K" break="no" n="32"/>liter
         necessitas quae modo, scilicet universalis miseria generis humani
-        <lb ed="#K"/>sublevanda, et perditio amovenda quia Divinam bonitatem efficaciter 
-        <lb ed="#K"/>fuisse movendam credibile est.
+        <lb ed="#K" n="33"/>sublevanda, et perditio amovenda quia Divinam bonitatem efficaciter 
+        <lb ed="#K" n="34"/>fuisse movendam credibile est.
         <pb ed="#K" n="67-v"/>
       </p>
-      <p>
-        <lb ed="#K"/>Dixi: si omnes aut fere omnes homines peccassent peccato actuali.
-        <lb ed="#K"/>Quia si minor solum pars sic peccasset, videtur a Deo relinquenda fuisse
-        <lb ed="#K"/>sine remedio tali per mortem Christi; sicut ex simili causa testantur
-        <lb ed="#K"/>SS: Patres relictos esse Angelos malos, quia nimirum minor eorum pars
-        <lb ed="#K"/>ceciderat. Forte tamen Deus illos iuvisset saltem aliquos per actus
-        <lb ed="#K"/>Christi ex amore et sine dolore elicitos.
+      <p xml:id="yth33t-f2x212-d1e723">
+        <lb ed="#K" n="1"/>Dixi: si omnes aut fere omnes homines peccassent peccato actuali.
+        <lb ed="#K" n="2"/>Quia si minor solum pars sic peccasset, videtur a Deo relinquenda fuisse
+        <lb ed="#K" n="3"/>sine remedio tali per mortem Christi; sicut ex simili causa testantur
+        <lb ed="#K" n="4"/>SS: Patres relictos esse Angelos malos, quia nimirum minor eorum pars
+        <lb ed="#K" n="5"/>ceciderat. Forte tamen Deus illos iuvisset saltem aliquos per actus
+        <lb ed="#K" n="6"/>Christi ex amore et sine dolore elicitos.
       </p>
-      <p>
-        <lb ed="#K"/>Adverte conclusionem datam <unclear>procedere</unclear>> in hypostesi abstrahente ab eo
-        <lb ed="#K"/>utrum de facto posteri. Adae peccata aliqua actualia praesertim gravia
-        <lb ed="#K"/>commississent Adamo ipso non peccante? Circa quod non eadem est sententia Doc<lb ed="#K" break="no"/>torum.
-        Probabilior videtur <ref>Scoti</ref> et aliorum quod fuissent in gratia om<lb ed="#K" break="no"/>nes
+      <p xml:id="yth33t-f2x212-d1e739">
+        <lb ed="#K" n="7"/>Adverte conclusionem datam <unclear>procedere</unclear>&gt; in hypostesi abstrahente ab eo
+        <lb ed="#K" n="8"/>utrum de facto posteri. Adae peccata aliqua actualia praesertim gravia
+        <lb ed="#K" n="9"/>commississent Adamo ipso non peccante? Circa quod non eadem est sententia Doc<lb ed="#K" break="no" n="10"/>torum.
+        Probabilior videtur <ref xml:id="yth33t-f2x212-Rd1e752">Scoti</ref> et aliorum quod fuissent in gratia om<lb ed="#K" break="no" n="11"/>nes
         confirmati, probabilius enim est bonitatem Dei, qui ex se prior est ad 
-        <lb ed="#K"/>bene faciendum quam puniendum, ita in pacto suo <unclear>processisisse</unclear> cum Adamo, ut
-        <lb ed="#K"/>quemadmodum inobedientiae eius alligavit amissionem iustitiae originalis
-        <lb ed="#K"/>etiam respectu posterorum, ita quoque respectu eorundem obedientiae ipsius
-        <lb ed="#K"/>alligaverit confirmationem iustitiae originalis. Accedit authoritas 
-        <lb ed="#K"/>D: <ref><name>Augustini</name> Libr: 1 retractionum</ref>, <ref><name>Greg.</name> magni Lib: 4 Moralium cap 6</ref>,
-        <lb ed="#K"/><ref><name>D: Anselmi</name> Libro 1 Cur Deus homo capite 18</ref> ubi sci loquitur: <quote>In illa
-        <lb ed="#K"/>tamen iustitia in qua erant (scilicet primi parentes) videtur quod si vi<lb ed="#K" break="no"/>cissent
-        ut non peccarent tentati, ita confirmarentur cum omni pro pagi<lb ed="#K" break="no"/>ne 
+        <lb ed="#K" n="12"/>bene faciendum quam puniendum, ita in pacto suo <unclear>processisisse</unclear> cum Adamo, ut
+        <lb ed="#K" n="13"/>quemadmodum inobedientiae eius alligavit amissionem iustitiae originalis
+        <lb ed="#K" n="14"/>etiam respectu posterorum, ita quoque respectu eorundem obedientiae ipsius
+        <lb ed="#K" n="15"/>alligaverit confirmationem iustitiae originalis. Accedit authoritas 
+        <lb ed="#K" n="16"/>D: <ref xml:id="yth33t-f2x212-Rd1e769"><name xml:id="yth33t-f2x212-Nd1e770">Augustini</name> Libr: 1 retractionum</ref>, <ref xml:id="yth33t-f2x212-Rd1e773"><name xml:id="yth33t-f2x212-Nd1e774">Greg.</name> magni Lib: 4 Moralium cap 6</ref>,
+        <lb ed="#K" n="17"/><ref xml:id="yth33t-f2x212-Rd1e778"><name xml:id="yth33t-f2x212-Nd1e779">D: Anselmi</name> Libro 1 Cur Deus homo capite 18</ref> ubi sci loquitur: <quote xml:id="yth33t-f2x212-Qd1e783">In illa
+        <lb ed="#K" n="18"/>tamen iustitia in qua erant (scilicet primi parentes) videtur quod si vi<lb ed="#K" break="no" n="19"/>cissent
+        ut non peccarent tentati, ita confirmarentur cum omni pro pagi<lb ed="#K" break="no" n="20"/>ne 
         sua, ut ultra peccare non possent.</quote>
       </p>
-      <p>
-        <lb ed="#K"/>Obiicitur primo. Christus ita mortuus pro singulis seorsim peccatori<lb ed="#K" break="no"/>ibus,
-        sicut pro omnibus simul sumptis, ut patet <ref>ex illo <title>Apostoli ad Galatas 4</title></ref>.
-        <lb ed="#K"/><quote>Qui dilexit me et tradidit semet ipsum pro me</quote>. Item <ref>Lucae 15</ref> testatur
-        <lb ed="#K"/>Christus: <quote>Gaudium erit in caelo super uno peccatore paenitentiam agente,
-        <lb ed="#K"/>magis quam super 99 iustis.</quote> Item significasse videtur Christus, <ref>Sancto
-        <lb ed="#K"/>Carpo</ref>, cui ut refert <ref><title>Dyonisius <!-- does he mean Dionysius's Letter 8 or the Letter to Diognetus? -->Epistola</title> 8</ref> dixit paratum se esse ad
-        <lb ed="#K"/>moriendum iterum pro hominibus si id opus esset. Idem probatur etiam ex pa<lb ed="#K" break="no"/>rabola
-        unius drachmae perditae et oviculae quaesitae <ref>Lucae 15</ref>. Ergo Christus venis<lb ed="#K" break="no"/>set
+      <p xml:id="yth33t-f2x212-d1e793">
+        <lb ed="#K" n="21"/>Obiicitur primo. Christus ita mortuus pro singulis seorsim peccatori<lb ed="#K" break="no" n="22"/>ibus,
+        sicut pro omnibus simul sumptis, ut patet <ref xml:id="yth33t-f2x212-Rd1e799">ex illo <title>Apostoli ad Galatas 4</title></ref>.
+        <lb ed="#K" n="23"/><quote xml:id="yth33t-f2x212-Qd1e804">Qui dilexit me et tradidit semet ipsum pro me</quote>. Item <ref xml:id="yth33t-f2x212-Rd1e806">Lucae 15</ref> testatur
+        <lb ed="#K" n="24"/>Christus: <quote xml:id="yth33t-f2x212-Qd1e811">Gaudium erit in caelo super uno peccatore paenitentiam agente,
+        <lb ed="#K" n="25"/>magis quam super 99 iustis.</quote> Item significasse videtur Christus, <ref xml:id="yth33t-f2x212-Rd1e816">Sancto
+        <lb ed="#K" n="26"/>Carpo</ref>, cui ut refert <ref xml:id="yth33t-f2x212-Rd1e821"><title>Dyonisius <!-- does he mean Dionysius's Letter 8 or the Letter to Diognetus? -->Epistola</title> 8</ref> dixit paratum se esse ad
+        <lb ed="#K" n="27"/>moriendum iterum pro hominibus si id opus esset. Idem probatur etiam ex pa<lb ed="#K" break="no" n="28"/>rabola
+        unius drachmae perditae et oviculae quaesitae <ref xml:id="yth33t-f2x212-Rd1e833">Lucae 15</ref>. Ergo Christus venis<lb ed="#K" break="no" n="29"/>set
         vi plentis decreti ut redemptor et passibilis, etiam paucorum imo varius dato
-        <lb ed="#K"/>peccato actuali gravi. Respondeo distinguo Antecedens, ita mortuus est pro singulis si
-        <lb ed="#K"/>respiciatur affectus ipsius Christi quo ferebatur in singulos Concedo si res<lb ed="#K" break="no"/>piciatur
-        actualis ordinatio Dei nego Christus quantum ex se pro sua <unclear>tenerr<lb ed="#K" break="no"/>ima</unclear>
+        <lb ed="#K" n="30"/>peccato actuali gravi. Respondeo distinguo Antecedens, ita mortuus est pro singulis si
+        <lb ed="#K" n="31"/>respiciatur affectus ipsius Christi quo ferebatur in singulos Concedo si res<lb ed="#K" break="no" n="32"/>piciatur
+        actualis ordinatio Dei nego Christus quantum ex se pro sua <unclear>tenerr<lb ed="#K" break="no" n="33"/>ima</unclear>
         et ardentissima charitate paratissimus erat pro saltue singulorum mori
         <pb ed="#K" n="68-v"/>
-        <lb ed="#K"/>tanquam fine totale si Deus, a cuius natu totus pendebat ita vellet
-        <lb ed="#K"/>et ordinaret. Iam vero quod Deus ita voluerit de facto et ordinave<lb ed="#K" break="no"/>rit,
+        <lb ed="#K" n="1"/>tanquam fine totale si Deus, a cuius natu totus pendebat ita vellet
+        <lb ed="#K" n="2"/>et ordinaret. Iam vero quod Deus ita voluerit de facto et ordinave<lb ed="#K" break="no" n="3"/>rit,
         fundamentum nullum est, quin potius contrarium indicant Patres ut
-        <lb ed="#K"/>patet ex dictis. Redemptio ergo totius generis humani praesertim ab
-        <lb ed="#K"/>originali constituebat de facto unum totale motivum ut Christus venisset
-        <lb ed="#K"/>passibilis et moreretur. Quod attinet ad instantias datas.
-        <lb ed="#K"/>Respondeo in parabola de ove et drachma perdita a <ref><name>Sancto Gregorio</name></ref> et 
-        <lb ed="#K"/>aliis Patribus intelligi non particularem personam, sed totam naturam humanam
-        <lb ed="#K"/>comparatam ad Angelos. Alia loca <unclear>procedunt</unclear> de specialissimo affectu
-        <lb ed="#K"/>Christi Domini non vero de actuali ordinatione seu voluntate Dei. Secundum
-        <lb ed="#K"/>eandem distinctionem intelligendus etiam est <ref><name>D. Chrisostomus</name></ref> qui ad ferri solet.
+        <lb ed="#K" n="4"/>patet ex dictis. Redemptio ergo totius generis humani praesertim ab
+        <lb ed="#K" n="5"/>originali constituebat de facto unum totale motivum ut Christus venisset
+        <lb ed="#K" n="6"/>passibilis et moreretur. Quod attinet ad instantias datas.
+        <lb ed="#K" n="7"/>Respondeo in parabola de ove et drachma perdita a <ref xml:id="yth33t-f2x212-Rd1e866"><name xml:id="yth33t-f2x212-Nd1e867">Sancto Gregorio</name></ref> et 
+        <lb ed="#K" n="8"/>aliis Patribus intelligi non particularem personam, sed totam naturam humanam
+        <lb ed="#K" n="9"/>comparatam ad Angelos. Alia loca <unclear>procedunt</unclear> de specialissimo affectu
+        <lb ed="#K" n="10"/>Christi Domini non vero de actuali ordinatione seu voluntate Dei. Secundum
+        <lb ed="#K" n="11"/>eandem distinctionem intelligendus etiam est <ref xml:id="yth33t-f2x212-Rd1e880"><name xml:id="yth33t-f2x212-Nd1e881">D. Chrisostomus</name></ref> qui ad ferri solet.
       </p>
-      <p>
-        <lb ed="#K"/>Obiicitur secundo. Potuit Deus per merita Christi impedire ne posteri
-        <lb ed="#K"/>Adae inficerentur actu peccato originali quamvis Adamus ipse peccasset, in hac
-        <lb ed="#K"/>hypostesi quamvis ne essent <unclear>extitura</unclear> peccata originalia, propter illud solum Adami
-        <lb ed="#K"/>actuale peccatum venisset Christus ut Redemptor. Respondeo quidquid sit de hypostesi 
-        <lb ed="#K"/>illa distinguo <unclear>ultimem</unclear> partem antecedentis: propter illud solum actuale venisset,
-        <lb ed="#K"/>ut simpliciter actuale unius Adami erat nego. Ut erat actuale Adami et 
-        <lb ed="#K"/>simul originale posterorum Concedo Antecedens. Ratione peccati quod commisit Adam 
-        <lb ed="#K"/>debitum habebant posteri eius ut in peccato nascerentur proinde etiam in
-        <lb ed="#K"/>data hypostesi venisset Christus ut Redemptor propter universale malum. 
-        <lb ed="#K"/>Quodsi autem intelligatur nullum tale debitum fuisse, tum nego Antecedens simpli<lb ed="#K" break="no"/>citer.
+      <p xml:id="yth33t-f2x212-d1e885">
+        <lb ed="#K" n="12"/>Obiicitur secundo. Potuit Deus per merita Christi impedire ne posteri
+        <lb ed="#K" n="13"/>Adae inficerentur actu peccato originali quamvis Adamus ipse peccasset, in hac
+        <lb ed="#K" n="14"/>hypostesi quamvis ne essent <unclear>extitura</unclear> peccata originalia, propter illud solum Adami
+        <lb ed="#K" n="15"/>actuale peccatum venisset Christus ut Redemptor. Respondeo quidquid sit de hypostesi 
+        <lb ed="#K" n="16"/>illa distinguo <unclear>ultimem</unclear> partem antecedentis: propter illud solum actuale venisset,
+        <lb ed="#K" n="17"/>ut simpliciter actuale unius Adami erat nego. Ut erat actuale Adami et 
+        <lb ed="#K" n="18"/>simul originale posterorum Concedo Antecedens. Ratione peccati quod commisit Adam 
+        <lb ed="#K" n="19"/>debitum habebant posteri eius ut in peccato nascerentur proinde etiam in
+        <lb ed="#K" n="20"/>data hypostesi venisset Christus ut Redemptor propter universale malum. 
+        <lb ed="#K" n="21"/>Quodsi autem intelligatur nullum tale debitum fuisse, tum nego Antecedens simpli<lb ed="#K" break="no" n="22"/>citer.
         Ex his.
       </p>
-      <p>
-        <lb ed="#K"/>Collige a potiori Christum venturum ne fuisse ut Redemptorem et in carne pas<lb ed="#K" break="no"/>sibili,
+      <p xml:id="yth33t-f2x212-d1e916">
+        <lb ed="#K" n="23"/>Collige a potiori Christum venturum ne fuisse ut Redemptorem et in carne pas<lb ed="#K" break="no" n="24"/>sibili,
         si sola venialia fuissent, minor enim fuisset necessitas et faciliora
-        <lb ed="#K"/>praesto fuissent remedia.
+        <lb ed="#K" n="25"/>praesto fuissent remedia.
       </p>
       </div>
     </body>
