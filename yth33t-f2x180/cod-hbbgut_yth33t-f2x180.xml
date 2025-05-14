@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Praeambulum</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Praeambulum</title>
+          <date when="2025-05-13">May 13, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-05-13" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="49-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="yth33t-f2x180">
+        <head>Praeambulum</head>
+        <p>
+          <lb ed="#K" n="21"/>DISPUTATIO V
+          <lb ed="#K"/>De Motivo propter Quod Decreta est
+          <lb ed="#K"/>Existentia Incarnationis
+        </p>
+        <p>
+          <lb ed="#K"/>Scrutandum hic suscipimus pari reverentia et circumspectione mag<lb ed="#K"/>num
+          illud consilium decretum aeternum, praedestinans Existentiam Christi faciendam
+          <lb ed="#K"/>in tempore, quod nam sit quod efficaciter Deum movit ad eam de cernandam tan<lb ed="#K"/>quam
+          finis immediatus et causa motiva? Dixi tanquam finis immediatus,
+          <lb ed="#K"/>certum enim est respectu omnium Dei operum finem ultimatum esse gloriam et boni<lb ed="#K"/>tatem
+          ipsiusmet Dei. Sed quid nam moverit Deum tanquam motivum te<lb ed="#K"/>mens
+          se ex parte rei et obiecti? Commisit haec controversia non mo<lb ed="#K"/>dicam
+          contentionem <ref>Thomistas</ref> inter et <ref>Scotistas</ref> <ref><name>Suarium</name></ref> et <ref><name>Vasquium</name></ref>
+          <lb ed="#K"/>quorum cuilibet insigne militat agmen verbenarum et recentiorum
+
+          <lb ed="#K"/>quod antequam lustremus, praemittenda est brevis declaratio ordinis qui esse
+          <lb ed="#K"/>dicitur inter actus Divinae scientiae et voluntatis.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
