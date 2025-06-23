@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 2</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 5</title>
+          <date when="2025-03-25">June 23, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-06-23" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="72-r"/>
+        <lb ed="#K" n="22"/>
+      </div>
+    </front>
+    <body>
+      <div>
+      <head>Sectio 2</head> 
+      <head type="question-title">Proponitur ordo decretorum divinorum circa mysterium incarnationis</head>
+      <p>
+        <lb ed="#K" n="23"/>SECTIO II
+        <lb ed="#K"/>An Causa Efficiens moralis seu meritoria Incarn<lb ed="#K"/>ationis
+        fuerit Beatissima Virgo et Sancti Patres?
+      </p>
+      <p>
+        <lb ed="#K"/>Quaestio procedit de Incarnatione tam secundum Substantiam suam, quam secundum
+        <lb ed="#K"/>circumstantias certas considerata, id qui an illam meruerint personae praedicta,
+        <lb ed="#K"/>vel mereri potuerint de condigno, vel saltem de congruo.
+      </p>
+      <p>
+        <lb ed="#K"/>PARAGRAPHVS I
+        <lb ed="#K"/>Vtrum homines iusti qui praecesserunt meruerint
+        <lb ed="#K"/>vel mereri potuerint de condigno aut de congruo Incarnationem?
+      </p>
+      <p>
+        <lb ed="#K"/>Dicendum primo. Nullus hominum de facto meruit, sed nec potuit
+        <lb ed="#K"/>Incarnationem quo ad substantiam suam, mereri proprie de condigno. Est communis.
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur prima pars quia meritis iustorum de facto respondebat augmentum
+        <lb ed="#K"/>gratiae et gloriae tanquam praemium condignum. Ergo non poterant se extendere
+        <lb ed="#K"/>ad aliud infinities maius praemium ut est Incarnatio. Confirmabitur
+        <lb ed="#K"/>ex probatione secundae partis.
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur secunda pars. Opera bona iustorum licet supernaturalia, non
+        <lb ed="#K"/>habent sufficientem proportionem moralem cum unione hypostatica, sed solum
+        <lb ed="#K"/>cum gloria cuius semen est gratia. Ergo, etc. Probatur Antecedens quia bonum quod
+        <lb ed="#K"/>per unionem hypostaticam acquirit natura humana est ipse Deus, vere realiter physice
+        <lb ed="#K"/>unum constituens cum illa suppositum, ex quo capite supra omnem modum gra<lb ed="#K"/>tia
+        unionis transcendit gratiam visionis beatificae, quia nimirum per illam
+        <lb ed="#K"/>realiter in se et immediate obtinetur Deus, per hanc vero tantum inten<lb ed="#K"/>tionaliter
+        et in inadaequata sui imagine. Proinde licet possibiliis esset
+        <lb ed="#K"/>gratia infinita creata dignificativa operum alicuius purae creaturae, non
+        evaderent illa proprie et perfecte condigna ad promerendam substantiam
+        <lb ed="#K"/>Incarnationis: haec enim importat bonum simpliciter infinitum a quo non tan<lb ed="#K"/>tum
+        in genere entis, sed etiam in genere moris prudentum iuditio semper 
+        <lb ed="#K"/>infinite distabit, sicut gratia infinita, ita opus per illam dignifi<lb ed="#K"/>catum.
+        Firmatur. Si purus homo posset de condigno mereri substantiam
+        <lb ed="#K"/>Incarnationis, sequeretur eum posse de condigno satisfacere pro peccatis
+        <lb ed="#K"/>humanum, quando quidem mereretur ipsum Christum per omnis gratiae fontem et prin<lb ed="#K"/>cipium
+        satisfactionis non tantum aequalis sed etiam superabundantis.
+      </p>
+       </div>
+    </body>
+  </text>
+</TEI>
