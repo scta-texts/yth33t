@@ -56,80 +56,80 @@
       </div>
     </front>
     <body>
-      <div>
-      <head>Sectio 1</head> 
-      <head type="question-title">De actione productiva unionis hypostaticae?</head> 
-      <p>
+      <div xml:id="--Dd1e106">
+      <head xml:id="--Hd1e108">Sectio 1</head> 
+      <head xml:id="--Hd1e110" type="question-title">De actione productiva unionis hypostaticae?</head> 
+      <p xml:id="--d1e113">
         <lb ed="#K" n="1"/>SECTIO I
-        <lb ed="#K"/>De Actione productiva Vnionis Hyposticae? 
+        <lb ed="#K" n="2"/>De Actione productiva Vnionis Hyposticae? 
         </p>
-        <p>
-          <lb ed="#K"/>Certum est primo. Incarnationem dicere propriam et veram actionem realem; 
-          <lb ed="#K"/>nil enim potest esse de novo in rerum natura, quod ne producatur vere ac reali<lb ed="#K" break ="no"/>ter.
-          Cum ergo mirabile hoc suppositum Christi ne fuerit ab aeter<lb ed="#K" break ="no"/>no
+        <p xml:id="--d1e120">
+          <lb ed="#K" n="3"/>Certum est primo. Incarnationem dicere propriam et veram actionem realem; 
+          <lb ed="#K" n="4"/>nil enim potest esse de novo in rerum natura, quod ne producatur vere ac reali<lb ed="#K" break="no" n="5"/>ter.
+          Cum ergo mirabile hoc suppositum Christi ne fuerit ab aeter<lb ed="#K" break="no" n="6"/>no
           et a se, sed de novo ante mille <unclear>sexcentos nonaginta tres</unclear>
-          <lb ed="#K"/>annos coeperit esse, necesse est intervenisse novam quandam veramque
-          <lb ed="#K"/>actionem realem.
+          <lb ed="#K" n="7"/>annos coeperit esse, necesse est intervenisse novam quandam veramque
+          <lb ed="#K" n="8"/>actionem realem.
         </p>
-        <p>
-          <lb ed="#K"/>Certum est secundo. Quod actio Incarnatura vera est prout procedit
-          <lb ed="#K"/>a Verbo, ita et vera passio prout recipitur in humanitate. Nulla 
-          <lb ed="#K"/>tenus tamen est propria et stricta mutatio: non respectu Verbi ut <ref>initio hu<lb ed="#K" break ="no"/>ius
-          tractatus disputatione 1 sectione secunda</ref> duximus. Non etiam res<lb ed="#K" break ="no"/>pectu
+        <p xml:id="--d1e138">
+          <lb ed="#K" n="9"/>Certum est secundo. Quod actio Incarnatura vera est prout procedit
+          <lb ed="#K" n="10"/>a Verbo, ita et vera passio prout recipitur in humanitate. Nulla 
+          <lb ed="#K" n="11"/>tenus tamen est propria et stricta mutatio: non respectu Verbi ut <ref xml:id="--Rd1e146">initio hu<lb ed="#K" break="no" n="12"/>ius
+          tractatus disputatione 1 sectione secunda</ref> duximus. Non etiam res<lb ed="#K" break="no" n="13"/>pectu
           humanitatis quia ad rationem propria et strictae mutationis,
-          <lb ed="#K"/>secundum physicam, requiritur ut subiectum prius tempore extiterit in
-          <lb ed="#K"/>potentia ad formam vel terminum cum reali illius privatione.
-          <lb ed="#K"/>Atqui humanitas Christi <unclear>nullo</unclear> instanti reali extitit non unita Verbo.
-          <lb ed="#K"/>Ergo, etc. Potest tamen laxe et minus proprie dici mutatio (intellige causa<lb ed="#K" break ="no"/>lis)
+          <lb ed="#K" n="14"/>secundum physicam, requiritur ut subiectum prius tempore extiterit in
+          <lb ed="#K" n="15"/>potentia ad formam vel terminum cum reali illius privatione.
+          <lb ed="#K" n="16"/>Atqui humanitas Christi <unclear>nullo</unclear> instanti reali extitit non unita Verbo.
+          <lb ed="#K" n="17"/>Ergo, etc. Potest tamen laxe et minus proprie dici mutatio (intellige causa<lb ed="#K" break="no" n="18"/>lis)
           quatenus ex vi illius actionis aliter se habet subiectum
-          <lb ed="#K"/>quam propriori naturae se habebat, vel quia aliter se habet vi illius
-          <lb ed="#K"/>quam ex natura sua exposceret.
+          <lb ed="#K" n="19"/>quam propriori naturae se habebat, vel quia aliter se habet vi illius
+          <lb ed="#K" n="20"/>quam ex natura sua exposceret.
         </p>
-        <p>
-          <lb ed="#K"/>Dubitatur autem an per unam eandemque numero actionem sit produc<lb ed="#K" break ="no"/>ta
+        <p xml:id="--d1e173">
+          <lb ed="#K" n="21"/>Dubitatur autem an per unam eandemque numero actionem sit produc<lb ed="#K" break="no" n="22"/>ta
           humanitas Christi et simul unio hypostatica? Vel per distinctas?
-          <lb ed="#K"/>Thomiste communiter asserunt unicam fuisse actionem illam. Negant
-          <lb ed="#K"/>plerique alii cum quibus.
+          <lb ed="#K" n="23"/>Thomiste communiter asserunt unicam fuisse actionem illam. Negant
+          <lb ed="#K" n="24"/>plerique alii cum quibus.
         </p>
-        <p>
-          <lb ed="#K"/>Dicendum est Actio productiva unionis hypostaticae de fac<lb ed="#K" break ="no"/>to
+        <p xml:id="--d1e184">
+          <lb ed="#K" n="25"/>Dicendum est Actio productiva unionis hypostaticae de fac<lb ed="#K" break="no" n="26"/>to
           non fuit eadem cum actione productiva humanitatis Christi.
         </p>
-        <p>
-          <lb ed="#K"/>Probatur primo quia humanitas est entitas realiter distincta ab unione hyposta<lb ed="#K" break ="no"/>tica,
-          et secundum se independens ab illa. Ergo et productio eius fuit distincta. Consequen<lb ed="#K" break ="no"/>tia
+        <p xml:id="--d1e191">
+          <lb ed="#K" n="27"/>Probatur primo quia humanitas est entitas realiter distincta ab unione hyposta<lb ed="#K" break="no" n="28"/>tica,
+          et secundum se independens ab illa. Ergo et productio eius fuit distincta. Consequen<lb ed="#K" break="no" n="29"/>tia
           probatur quia semper entitates diversae diversis actionibus producuntur quando una
-          <lb ed="#K"/>est independens ab alia. Unde in physica communiter docetur quod actiones non solum
-          <lb ed="#K"/>a principiis sed etiam a terminis suis specificantur.
+          <lb ed="#K" n="30"/>est independens ab alia. Unde in physica communiter docetur quod actiones non solum
+          <lb ed="#K" n="31"/>a principiis sed etiam a terminis suis specificantur.
         </p>
-        <p>
-          <lb ed="#K"/>Probatur secundo. Quia inter humanitatem Christi et unionem hypostaticam debemus
-          <lb ed="#K"/>agnoscere prioritatem et posterioritatem saltem naturae. Ergo etiam inter
-          <lb ed="#K"/>actiones quibus praedicuntur. Ergo hae actiones debent esse distinctae realiter.
+        <p xml:id="--d1e204">
+          <lb ed="#K" n="32"/>Probatur secundo. Quia inter humanitatem Christi et unionem hypostaticam debemus
+          <lb ed="#K" n="33"/>agnoscere prioritatem et posterioritatem saltem naturae. Ergo etiam inter
+          <lb ed="#K" n="34"/>actiones quibus praedicuntur. Ergo hae actiones debent esse distinctae realiter.
 
-          <lb ed="#K"/>Consequentia patet Antecedens probatur, nam in primis materia humanitatis est
-          <lb ed="#K"/>prior natura quam productio unionis cum forma, cum actio ista productiva edu<lb ed="#K" break ="no"/>catur
-          ex materia tanquam causa materiali. Deinde est etiam prior na<lb ed="#K" break ="no"/>tura
-          anima Christi quam productio unionis hypos. quia haec subiec<lb ed="#K" break ="no"/>tatur 
+          <lb ed="#K" n="35"/>Consequentia patet Antecedens probatur, nam in primis materia humanitatis est
+          <lb ed="#K" n="36"/>prior natura quam productio unionis cum forma, cum actio ista productiva edu<lb ed="#K" break="no" n="37"/>catur
+          ex materia tanquam causa materiali. Deinde est etiam prior na<lb ed="#K" break="no" n="38"/>tura
+          anima Christi quam productio unionis hypos. quia haec subiec<lb ed="#K" break="no" n="39"/>tatur 
           in illa. Ergo sicut materia debet intelligi producta per aliam
-          <lb ed="#K"/>actionem quam unio naturalis cum <unclear>anima</unclear>, ita etiam per aliam anima Christi
-          <lb ed="#K"/>quam unio hypostatica cum Verbo.
+          <lb ed="#K" n="40"/>actionem quam unio naturalis cum <unclear>anima</unclear>, ita etiam per aliam anima Christi
+          <lb ed="#K" n="41"/>quam unio hypostatica cum Verbo.
         </p>
-        <p>
-          <lb ed="#K"/>Obiicitur primo. Sancti Patres asserunt humanitatem non sic assum<lb ed="#K" break ="no"/>ptam
-          esse ut prius crearetur et postea assumeretur, sed ut ipsa assum<lb ed="#K" break ="no"/>ptione 
+        <p xml:id="--d1e230">
+          <lb ed="#K" n="42"/>Obiicitur primo. Sancti Patres asserunt humanitatem non sic assum<lb ed="#K" break="no" n="43"/>ptam
+          esse ut prius crearetur et postea assumeretur, sed ut ipsa assum<lb ed="#K" break="no" n="44"/>ptione 
           crearetur. Ergo dicunt humanitatem ipsa assumptione seu
-          <lb ed="#K"/>actione incarnativa fuisse productam. Responde Sancti Patres solum volunt
-          <lb ed="#K"/>contra Euthichianos humanitatem ne fuisse productam prius tempore
-          <lb ed="#K"/>quam sit unita non tamen excludunt prioritatem naturae.
+          <lb ed="#K" n="45"/>actione incarnativa fuisse productam. Responde Sancti Patres solum volunt
+          <lb ed="#K" n="46"/>contra Euthichianos humanitatem ne fuisse productam prius tempore
+          <lb ed="#K" n="47"/>quam sit unita non tamen excludunt prioritatem naturae.
         </p>
-        <p>
-          <lb ed="#K"/>Obiicitur secundo. Humanitas ex vi suae productionis accipit exis<lb ed="#K" break ="no"/>tentiam.
+        <p xml:id="--d1e246">
+          <lb ed="#K" n="48"/>Obiicitur secundo. Humanitas ex vi suae productionis accipit exis<lb ed="#K" break="no" n="49"/>tentiam.
           Atqui existentia humanitatis Christi non est alia quam existentia
-          <lb ed="#K"/>ipsius Verbi; seu humanitas illa existit per existentiam Verbi
-          <lb ed="#K"/>et ex vi actionis unitivae cum Verbo accipit humanitas existentiam.
-          <lb ed="#K"/>Ergo non per aliam diversam actionem. Respondeo nego minorem cuius falsitas patet
-          <lb ed="#K"/>ex metaphysica, ubi docetur contra Thomistas existentiam rei non distin<lb ed="#K" break ="no"/>gui
+          <lb ed="#K" n="50"/>ipsius Verbi; seu humanitas illa existit per existentiam Verbi
+          <lb ed="#K" n="51"/>et ex vi actionis unitivae cum Verbo accipit humanitas existentiam.
+          <lb ed="#K" n="52"/>Ergo non per aliam diversam actionem. Respondeo nego minorem cuius falsitas patet
+          <lb ed="#K" n="53"/>ex metaphysica, ubi docetur contra Thomistas existentiam rei non distin<lb ed="#K" break="no" n="54"/>gui
           realiter ab essentia eiusdem.
         </p>
       </div>
