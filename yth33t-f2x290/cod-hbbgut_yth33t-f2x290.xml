@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 5</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 5</title>
+          <date when="2025-07-04">July 4, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-07-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="92-v"/>
+        <lb ed="#K" n="21"/>
+      </div>
+    </front>
+    <body>
+      <div>
+      <head>Sectio 2</head> 
+      <head type="question-title">De Unione hypostatica secundum se</head>
+      <p>
+        <lb ed="#K" n="22"/>SECTIO II
+        <lb ed="#K"/>De Unione Hypostatica secundum se
+      </p>
+      <p>
+        <lb ed="#K"/>Plurimum discrepant Authores in constituenda unionis hypostaticae sub<lb ed="#K"/>stantia,
+        an sit aliquid distinctum ab extremis suis et quomodo destinatum? 
+      </p>
+      <p>
+        <lb ed="#K"/>Primo. Nominales dicunt esse ipsam naturam humanem ut actu a Verbo termi<lb ed="#K"/>natam,
+        et Verbum ipsum ut actu terminans naturam humanam.
+        <lb ed="#K"/>Secundo. Recentiores non nulli asserunt hanc unionem quatenus <unclear>te</unclear> tenet
+        <lb ed="#K"/>ex parte verbi esse quandam formalitatem obiectivam resultatem ex decre<lb ed="#K"/>to
+        de Incarnatione aeternam quidem quo ad suum esse, contingentem tamen
+        <lb ed="#K"/>unionem hanc esse qualitatem supernaturalem dispositivam humanitates
+        <lb ed="#K"/>ut terminetur a Verbo. Quarto <ref>Scotistae</ref> dicant esse relationem
+        <lb ed="#K"/>transcendentalem extrinsecus advenientem. Quinto Thomistae
+        <pb ed="#K" n="93-r"/>
+        <lb ed="#K"/>communiter volunt esse ipsam actionem productivam humanitatis assumptae.
+        <lb ed="#K"/>Sixto. Vadingus vult esse influxum quendam Verbi sustentativum huma<lb ed="#K"/>nitatis,
+        qui influxus demptis imperfectionibus sit similis illi quem exer<lb ed="#K"/>cet
+        subiectum informam. Septimo aliqui docent unionem
+        <lb ed="#K"/>hanc esse entitatem positivam absolutam substantialem distinctam reali<lb ed="#K"/>ter
+        ab extremis et ponibilem sine illis saltem Divinitus. Octavo alii
+        <lb ed="#K"/>dicunt unionem hypostaticam esse entitatem modalem realiter distinctam
+        <lb ed="#K"/>ab extremis, et nulla tenus ponibilem sine illis. Discrepantia tamen
+        <lb ed="#K"/>etiam hic est: licet enim modistae dicunt esse constitutivum intrinsecum
+        <lb ed="#K"/>de nominationis uniti; tamen non nulli recentiores <unclear>volunt</unclear> esse solum
+        <lb ed="#K"/>connotatum extrinsecum sive per modum dispositionis sive per modum con<lb ed="#K"/>ditionis
+        sine qua non. Huic sententiorum Syluae cedendae
+        <lb ed="#K"/>ne una requireretur et <unclear>psto</unclear> esset securis, hic tamen nullam adhibere
+        <lb ed="#K"/>placuit, cum exiis quae in philosophia communiter traduntur de
+        <lb ed="#K"/><unclear>enniet</unclear> succidi possint. Hic brevi conformiter ad ea quae dixi<lb ed="#K"/>mus
+        in physica de hac materia.
+      </p>
+      <p>
+        <lb ed="#K"/>Dicendum primo. Unio hypostatica est entitas realiter distincta 
+        <lb ed="#K"/>ab extremis suis, substantialis, modalis, supernaturalis. Ita com<lb ed="#K"/>munius
+        Theologi.
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur conclusio quo ad singulas partes.
+      </p>
+      </div>
+    </body>
+  </text>
+</TEI>
