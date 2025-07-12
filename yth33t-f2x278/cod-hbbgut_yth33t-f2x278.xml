@@ -60,15 +60,15 @@
         <head>Praeambulum</head>
         <p>
           <lb ed="#K" n="24"/>DISPUTATIO VII
-          <lb ed="#K"/>De Incarnatione quo ad Substantiam
-          <lb ed="#K"/>Suam et terminos eius
+          <lb ed="#K" n="25"/>De Incarnatione quo ad Substantiam
+          <lb ed="#K" n="26"/>Suam et terminos eius
         </p>
         <p>
-          <lb ed="#K"/>Nomen Incarnationis tripliciter sumi potest et solet. Primo pro actione, vi
-          <lb ed="#K"/>cuius Unio quaedam oritur inter humanitatem et Verbum. Secundo pro immedia<lb ed="#K" break="no"/>to
+          <lb ed="#K" n="27"/>Nomen Incarnationis tripliciter sumi potest et solet. Primo pro actione, vi
+          <lb ed="#K" n="28"/>cuius Unio quaedam oritur inter humanitatem et Verbum. Secundo pro immedia<lb ed="#K" break="no" n="29"/>to
           termino formali illius actionis qui est ipsa unio hypostatica.
-          <lb ed="#K"/>Tertio pro termino totale seu integro qui resultat ex hac actione
-          <lb ed="#K"/>et dicitur Christus. Haec omnia sit hic <unclear>declaranda</unclear>.
+          <lb ed="#K" n="30"/>Tertio pro termino totale seu integro qui resultat ex hac actione
+          <lb ed="#K" n="31"/>et dicitur Christus. Haec omnia sit hic <unclear>declaranda</unclear>.
         </p>
       </div>
     </body>
