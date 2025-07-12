@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 1</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 1</title>
+          <date when="2025-07-02">July 2, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-07-02" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="92-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="yth33t-f2x281">
+      <head xml:id="yth33t-f2x281-Hd1e108">Sectio 1</head> 
+      <head xml:id="yth33t-f2x281-Hd1e110" type="question-title">De actione productiva unionis hypostaticae?</head> 
+      <p xml:id="yth33t-f2x281-d1e113">
+        <lb ed="#K" n="1"/>SECTIO I
+        <lb ed="#K" n="2"/>De Actione productiva Vnionis Hyposticae? 
+        </p>
+        <p xml:id="yth33t-f2x281-d1e120">
+          <lb ed="#K" n="3"/>Certum est primo. Incarnationem dicere propriam et veram actionem realem; 
+          <lb ed="#K" n="4"/>nil enim potest esse de novo in rerum natura, quod ne producatur vere ac reali<lb ed="#K" break="no" n="5"/>ter.
+          Cum ergo mirabile hoc suppositum Christi ne fuerit ab aeter<lb ed="#K" break="no" n="6"/>no
+          et a se, sed de novo ante mille <unclear>sexcentos nonaginta tres</unclear>
+          <lb ed="#K" n="7"/>annos coeperit esse, necesse est intervenisse novam quandam veramque
+          <lb ed="#K" n="8"/>actionem realem.
+        </p>
+        <p xml:id="yth33t-f2x281-d1e138">
+          <lb ed="#K" n="9"/>Certum est secundo. Quod actio Incarnatura vera est prout procedit
+          <lb ed="#K" n="10"/>a Verbo, ita et vera passio prout recipitur in humanitate. Nulla 
+          <lb ed="#K" n="11"/>tenus tamen est propria et stricta mutatio: non respectu Verbi ut <ref xml:id="yth33t-f2x281-Rd1e146">initio hu<lb ed="#K" break="no" n="12"/>ius
+          tractatus disputatione 1 sectione secunda</ref> duximus. Non etiam res<lb ed="#K" break="no" n="13"/>pectu
+          humanitatis quia ad rationem propria et strictae mutationis,
+          <lb ed="#K" n="14"/>secundum physicam, requiritur ut subiectum prius tempore extiterit in
+          <lb ed="#K" n="15"/>potentia ad formam vel terminum cum reali illius privatione.
+          <lb ed="#K" n="16"/>Atqui humanitas Christi <unclear>nullo</unclear> instanti reali extitit non unita Verbo.
+          <lb ed="#K" n="17"/>Ergo, etc. Potest tamen laxe et minus proprie dici mutatio (intellige causa<lb ed="#K" break="no" n="18"/>lis)
+          quatenus ex vi illius actionis aliter se habet subiectum
+          <lb ed="#K" n="19"/>quam propriori naturae se habebat, vel quia aliter se habet vi illius
+          <lb ed="#K" n="20"/>quam ex natura sua exposceret.
+        </p>
+        <p xml:id="yth33t-f2x281-d1e173">
+          <lb ed="#K" n="21"/>Dubitatur autem an per unam eandemque numero actionem sit produc<lb ed="#K" break="no" n="22"/>ta
+          humanitas Christi et simul unio hypostatica? Vel per distinctas?
+          <lb ed="#K" n="23"/>Thomiste communiter asserunt unicam fuisse actionem illam. Negant
+          <lb ed="#K" n="24"/>plerique alii cum quibus.
+        </p>
+        <p xml:id="yth33t-f2x281-d1e184">
+          <lb ed="#K" n="25"/>Dicendum est Actio productiva unionis hypostaticae de fac<lb ed="#K" break="no" n="26"/>to
+          non fuit eadem cum actione productiva humanitatis Christi.
+        </p>
+        <p xml:id="yth33t-f2x281-d1e191">
+          <lb ed="#K" n="27"/>Probatur primo quia humanitas est entitas realiter distincta ab unione hyposta<lb ed="#K" break="no" n="28"/>tica,
+          et secundum se independens ab illa. Ergo et productio eius fuit distincta. Consequen<lb ed="#K" break="no" n="29"/>tia
+          probatur quia semper entitates diversae diversis actionibus producuntur quando una
+          <lb ed="#K" n="30"/>est independens ab alia. Unde in physica communiter docetur quod actiones non solum
+          <lb ed="#K" n="31"/>a principiis sed etiam a terminis suis specificantur.
+        </p>
+        <p xml:id="yth33t-f2x281-d1e204">
+          <lb ed="#K" n="32"/>Probatur secundo. Quia inter humanitatem Christi et unionem hypostaticam debemus
+          <lb ed="#K" n="33"/>agnoscere prioritatem et posterioritatem saltem naturae. Ergo etiam inter
+          <lb ed="#K" n="34"/>actiones quibus praedicuntur. Ergo hae actiones debent esse distinctae realiter.
+
+          <lb ed="#K" n="35"/>Consequentia patet Antecedens probatur, nam in primis materia humanitatis est
+          <lb ed="#K" n="36"/>prior natura quam productio unionis cum forma, cum actio ista productiva edu<lb ed="#K" break="no" n="37"/>catur
+          ex materia tanquam causa materiali. Deinde est etiam prior na<lb ed="#K" break="no" n="38"/>tura
+          anima Christi quam productio unionis hypos. quia haec subiec<lb ed="#K" break="no" n="39"/>tatur 
+          in illa. Ergo sicut materia debet intelligi producta per aliam
+          <lb ed="#K" n="40"/>actionem quam unio naturalis cum <unclear>anima</unclear>, ita etiam per aliam anima Christi
+          <lb ed="#K" n="41"/>quam unio hypostatica cum Verbo.
+        </p>
+        <p xml:id="yth33t-f2x281-d1e230">
+          <lb ed="#K" n="42"/>Obiicitur primo. Sancti Patres asserunt humanitatem non sic assum<lb ed="#K" break="no" n="43"/>ptam
+          esse ut prius crearetur et postea assumeretur, sed ut ipsa assum<lb ed="#K" break="no" n="44"/>ptione 
+          crearetur. Ergo dicunt humanitatem ipsa assumptione seu
+          <lb ed="#K" n="45"/>actione incarnativa fuisse productam. Responde Sancti Patres solum volunt
+          <lb ed="#K" n="46"/>contra Euthichianos humanitatem ne fuisse productam prius tempore
+          <lb ed="#K" n="47"/>quam sit unita non tamen excludunt prioritatem naturae.
+        </p>
+        <p xml:id="yth33t-f2x281-d1e246">
+          <lb ed="#K" n="48"/>Obiicitur secundo. Humanitas ex vi suae productionis accipit exis<lb ed="#K" break="no" n="49"/>tentiam.
+          Atqui existentia humanitatis Christi non est alia quam existentia
+          <lb ed="#K" n="50"/>ipsius Verbi; seu humanitas illa existit per existentiam Verbi
+          <lb ed="#K" n="51"/>et ex vi actionis unitivae cum Verbo accipit humanitas existentiam.
+          <lb ed="#K" n="52"/>Ergo non per aliam diversam actionem. Respondeo nego minorem cuius falsitas patet
+          <lb ed="#K" n="53"/>ex metaphysica, ubi docetur contra Thomistas existentiam rei non distin<lb ed="#K" break="no" n="54"/>gui
+          realiter ab essentia eiusdem.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
