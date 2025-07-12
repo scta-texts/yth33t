@@ -53,29 +53,28 @@
     <front>
       <div xml:id="starts-on">
         <pb ed="#K" n="92-v"/>
-        <lb ed="#K" n="21"/>
       </div>
     </front>
     <body>
-      <div xml:id="--Dd1e108">
-      <head xml:id="--Hd1e110">Sectio 2</head> 
-      <head xml:id="--Hd1e112" type="question-title">De Unione hypostatica secundum se</head>
-      <p xml:id="--d1e115">
+      <div xml:id="yth33t-f2x290">
+      <head xml:id="yth33t-f2x290-Hd1e110">Sectio 2</head> 
+      <head xml:id="yth33t-f2x290-Hd1e112" type="question-title">De Unione hypostatica secundum se</head>
+      <p xml:id="yth33t-f2x290-d1e115">
         <lb ed="#K" n="23"/>SECTIO II
         <lb ed="#K" n="24"/>De Unione Hypostatica secundum se
       </p>
-      <p xml:id="--d1e122">
+      <p xml:id="yth33t-f2x290-d1e122">
         <lb ed="#K" n="25"/>Plurimum discrepant Authores in constituenda unionis hypostaticae sub<lb ed="#K" break="no" n="26"/>stantia,
         an sit aliquid distinctum ab extremis suis et quomodo destinatum? 
       </p>
-      <p xml:id="--d1e129">
+      <p xml:id="yth33t-f2x290-d1e129">
         <lb ed="#K" n="27"/>Primo. Nominales dicunt esse ipsam naturam humanem ut actu a Verbo termi<lb ed="#K" break="no" n="28"/>natam,
         et Verbum ipsum ut actu terminans naturam humanam.
         <lb ed="#K" n="29"/>Secundo. Recentiores non nulli asserunt hanc unionem quatenus <unclear>te</unclear> tenet
         <lb ed="#K" n="30"/>ex parte verbi esse quandam formalitatem obiectivam resultatem ex decre<lb ed="#K" break="no" n="31"/>to
         de Incarnatione aeternam quidem quo ad suum esse, contingentem tamen
         <lb ed="#K" n="32"/>unionem hanc esse qualitatem supernaturalem dispositivam humanitates
-        <lb ed="#K" n="33"/>ut terminetur a Verbo. Quarto <ref xml:id="--Rd1e148">Scotistae</ref> dicant esse relationem
+        <lb ed="#K" n="33"/>ut terminetur a Verbo. Quarto <ref xml:id="yth33t-f2x290-Rd1e148">Scotistae</ref> dicant esse relationem
         <lb ed="#K" n="34"/>transcendentalem extrinsecus advenientem. Quinto Thomistae
         <pb ed="#K" n="93-r"/>
         <lb ed="#K" n="1"/>communiter volunt esse ipsam actionem productivam humanitatis assumptae.
@@ -95,12 +94,12 @@
         <lb ed="#K" n="15"/><unclear>enniet</unclear> succidi possint. Hic brevi conformiter ad ea quae dixi<lb ed="#K" break="no" n="16"/>mus
         in physica de hac materia.
       </p>
-      <p xml:id="--d1e197">
+      <p xml:id="yth33t-f2x290-d1e197">
         <lb ed="#K" n="17"/>Dicendum primo. Unio hypostatica est entitas realiter distincta 
         <lb ed="#K" n="18"/>ab extremis suis, substantialis, modalis, supernaturalis. Ita com<lb ed="#K" break="no" n="19"/>munius
         Theologi.
       </p>
-      <p xml:id="--d1e206">
+      <p xml:id="yth33t-f2x290-d1e206">
         <lb ed="#K" n="20"/>Probatur conclusio quo ad singulas partes. Primo unio hypostatica
         <lb ed="#K" n="21"/>est realiter quid distinctum ab extremis tum quia haec saltem per abso<lb ed="#K" break="no" n="22"/>lutam
         potentiam existere possunt sine illa. Tum quia est vere ter<lb ed="#K" break="no" n="23"/>minus
@@ -116,10 +115,10 @@
         quia toti et omni creatae naturae indebita viresque omnium excedens.
         <pb ed="#K" n="93-v"/>
       </p>
-      <p xml:id="--d1e242">
+      <p xml:id="yth33t-f2x290-d1e242">
         <lb ed="#K" n="1"/>Si cui placuerit in hac materia incedere via nominalium, non obsum:
         <lb ed="#K" n="2"/>sed tueatur se more solito verbalibus modis contra reales.
-        <lb ed="#K" n="3"/>Certe <name xml:id="--Nd1e250">Occamus</name> unus est praecipuis nominalium satrapis et modo<lb ed="#K" break="no" n="4"/>rum
+        <lb ed="#K" n="3"/>Certe <name xml:id="yth33t-f2x290-Nd1e250">Occamus</name> unus est praecipuis nominalium satrapis et modo<lb ed="#K" break="no" n="4"/>rum
         alias hostis infensissimus, non dubitavit relicto schisma<lb ed="#K" break="no" n="5"/>te
         ad unionem nostram accedere eamque realiter a Verbo et na<lb ed="#K" break="no" n="6"/>tura
         humana in Christo profiteri. Et merita quidquid enim sit inter materiam et
@@ -136,20 +135,20 @@
         <lb ed="#K" n="17"/><unclear>non obiectiones</unclear> quae formari possunt, vel <unclear>procedunt</unclear> ex principiis philosophi<lb ed="#K" break="no" n="18"/>cis
         eodem tenore ac contra unionem modalem inter materiam et formam, ac proin<lb ed="#K" break="no" n="19"/>de
         solvuntur ex traditis in physica. Vel inferre volunt mutabilita<lb ed="#K" break="no" n="20"/>tem
-        intrinsecam Verbo, et his iam est <ref xml:id="--Rd1e299"><unclear>praevisum</unclear> initio huius tractatus disp. 1
+        intrinsecam Verbo, et his iam est <ref xml:id="yth33t-f2x290-Rd1e299"><unclear>praevisum</unclear> initio huius tractatus disp. 1
         <lb ed="#K" n="21"/>sectione secunda</ref>, ubi dictum quod verbum se ne habeat respectu unionis <unclear>hu<lb ed="#K" break="no" n="22"/>ius</unclear>
         ut subiectum sive informationis sive inhaesionis, quae imperfectionem
         <lb ed="#K" n="23"/>et mutabilitatem arguunt, sed ut purum terminum intrinsecum.
       </p>
-      <p xml:id="--d1e313">
-        <lb ed="#K" n="24"/>Obiiciunt Primo. Sancti Patres apud <name xml:id="--Nd1e317">Vasquium</name> <ref xml:id="--Rd1e319">disputatione 17 capite 3</ref>
+      <p xml:id="yth33t-f2x290-d1e313">
+        <lb ed="#K" n="24"/>Obiiciunt Primo. Sancti Patres apud <ref xml:id="yth33t-f2x290-Rd1e319"><name xml:id="yth33t-f2x290-Nd1e317">Vasquium</name> disputatione 17 capite 3</ref>
         <lb ed="#K" n="25"/>Unionem hypostaticam vocarunt unionem naturalem. Ergo unio hypostatica non est
         <lb ed="#K" n="26"/>supernaturalis. Respondeo Sanctos Patres dixisse naturalem unionem non prout ly
-        <lb ed="#K" n="27"/>naturale opponitur supernaturali, sed ut contra <name xml:id="--Nd1e328">Nestorium</name> exprimerent
+        <lb ed="#K" n="27"/>naturale opponitur supernaturali, sed ut contra <name xml:id="yth33t-f2x290-Nd1e328">Nestorium</name> exprimerent
         <lb ed="#K" n="28"/>unionem illam non esse moralem solum. Ly ergo naturale sumitur in eo sensu
         <lb ed="#K" n="29"/>quo dicere solemus unionem hypostaticam esse unionem physicam.
       </p>
-      <p xml:id="--d1e335">
+      <p xml:id="yth33t-f2x290-d1e335">
         <lb ed="#K" n="30"/>Obiicitur secunda: Nulla substantia potest esse supernaturalis. Ergo
         <lb ed="#K" n="31"/>haec unio vel non est substantialis vel supernaturalis quo ad substan<lb ed="#K" break="no" n="32"/>tiam.
         Respondeo distinguo Antecedens, nulla substantia quae se habeat ut quod potest esse
