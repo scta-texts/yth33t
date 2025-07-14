@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 1</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 1</title>
+          <date when="2025-07-14">July 14, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-07-14" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="94-v"/>
+      </div>
+    </front>
+    <body>
+      <div>
+      <head>Sectio 3</head> 
+      <head type="question-title">De verbo ut est terminus unionis hypostaticae</head> 
+      <p>
+        <lb ed="#K" n="13"/>SECTIO III
+        <lb ed="#K"/>De Verbo ut est Terminus Unionis Hypostaticae.
+        </p>
+        <p>
+          <lb ed="#K"/>Verbum Divinum in Christo communiter vocari solet terminus et
+          <lb ed="#K"/>persona assumens. Quaeritur autem hic an solum Verbum assumpserit
+          <lb ed="#K"/>naturam humanam, terminetque immediate unionem hypostaticam, vel cer<lb ed="#K"/>te
+          etiam aliqua alia ex Personis Divinis terminet, aut simul cum
+          <lb ed="#K"/>Verbo terminus potuerit unionem hypostaticam cum eadem numero na<lb ed="#K"/>tura
+          creata. Deinde an verbum secundum solam suam personalitatem
+          <lb ed="#K"/>proprium terminet immediate unionem illam, vel etiam secundum naturam Divinam,
+          <lb ed="#K"/>aut etiam secundum subsistentiam aliquam communem omnibus tribus personis.
+        </p>
+        <p>
+          <lb ed="#K"/>PARAGRAPHUS I
+          <lb ed="#K"/>An cum Verbo etiam aliae Personae Divinae termi<lb ed="#K"/>nent
+          immediate Unionem Hypostaticam
+          <lb ed="#K"/>aut terminare potuerint?
+        </p>
+        <p>
+          <lb ed="#K"/>Dicendum primo. Solum Verbum de facto terminat Unionem hypostaticam immediate.
+          <lb ed="#K"/>Est de fide. Tum quia scriptura nullibi facit mentionem alterius personae Incar<lb ed="#K"/>natae
+          propter quam filii et Verbi. <quote>Ut Verbum Caro factum.</quote> Sic Deus mundum dilexit
+          <lb ed="#K"/>ut filium suum daret unigenitum, etc. Fecisset autem sine dubio in re tam
+          <lb ed="#K"/>gravi et <unclear>primario</unclear> fidei mysterio, si alia etiam Persona unita fuisset. Tum quia
+          <lb ed="#K"/>in Conciliis sic definitum.
+        </p>
+        <p>
+          <lb ed="#K"/>Obiicitur primo. <ref>Ioannis 10</ref> dicit Christus se ipso:<quote> Pater in me est et ego
+          <pb ed="#K" n="95-r"/>
+          <lb ed="#K"/>in Patre.</quote> Ergo non sola persona Verbo sed etiam Patris est Incarnata. Respondeo dis<lb ed="#K"/>tinguo
+          Antecedens, Pater in me est per identitatem naturae et per specialem conco<lb ed="#K"/>mitantiam
+          Concedo, per unionem ad humanitatem nego. Omnes ergo perso<lb ed="#K"/>nae 
+          Divinae sunt in Christo per concomitantiam seu circuminsessionem quandam
+          <lb ed="#K"/>ut vocant vi cuius una persona inexistit alteri intime ut pote illi <unclear>secundum</unclear>
+          naturam identificata.
+        </p>
+        <p>
+          <lb ed="#K"/>Obiicitur secundo. Secundum commune Theologorum axioma opera sanc<lb ed="#K"/>tissimae
+          Trinitatis ad extra sunt communia toti Trinitati. Ergo et Incar<lb ed="#K"/>natio.
+          Respondeo axioma communia quo ad influxum effectivum Concedo,
+          <lb ed="#K"/>quo ad terminationem intrinsecam nego.
+        </p>
+        <p>
+          <lb ed="#K"/>Petes. Cur potius incarnatum sit Verbum quam alia quae priam persona Divina?
+          <lb ed="#K"/>Respondet Sancti Patres adducendo has congruentias: primo Cum omnia
+          <lb ed="#K"/>per Verbum facta sint, aequum erat ut etiam per ipsum restaurerentur.
+          <lb ed="#K"/>Secundo Cum Regnum caeleste ne detur nisi filiis conveniens erat ho<lb ed="#K"/>mines
+          adoptionem in filios consequerentur per filium Dei naturalem. 
+          <lb ed="#K"/>Tertio. Quia homo defecit appetendo scientiam Dei, congruum erat, ut
+          <lb ed="#K"/>per Dei sapientiam quae est Verbum reformaretur. Quarto addi <unclear>potest</unclear> conveni<lb ed="#K"/>ntius 
+          videtur, ut is qui ab aeterno erat filius, fieret quoque, in tempore filius, 
+          <lb ed="#K"/>quam ut Pater vel Spiritus Sanctus fieret filius. Quinto. Decebat ut sicut
+          <lb ed="#K"/>Verbum est media persona inter duas, etiam fieret mediator inter partes duas
+          <lb ed="#K"/>dissidentes nempe Deum et hominem.
+        </p>
+        <p>
+          <lb ed="#K"/>Dicendum secundum Plures Personae Divinae poterant de potentia Dei
+          <lb ed="#K"/>absoluta assumere immediate eandem humanitatem. Ita <name>Suarez</name>, <name>Vasques</name>,
+          <lb ed="#K"/>Thomistae contra <name>Scotum</name>.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
