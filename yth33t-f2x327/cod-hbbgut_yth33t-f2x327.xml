@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 1</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 6</title>
+          <date when="2025-07-22">July 22, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-07-22" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="102-v"/>
+      </div>
+    </front>
+    <body>
+      <div>
+      <head>Sectio 6</head> 
+      <head>De communicatio idiomatum</head>
+      <p>
+        <lb ed="#K" n="5"/>SECTIO VI
+        <lb ed="#K"/>De Communicatio Idiomatum
+        </p>
+      <p>
+        <lb ed="#K"/>Idiomatum Communicatio de qua hic sermo, nil aliud est quam praedicabilitas eorum,
+        <lb ed="#K"/>quae alicui propria sunt, de aliquo alio. Sicut enim lingua alicui nationi propria di<lb ed="#K"/>citur
+        esse idioma illius genis, ita apud Theologos et Sanctos Patres, praedica<lb ed="#K"/>ta
+        quae <unclear>sunt</unclear> propria alicuius rei, dicuntur idioma eiusdem rei, eo quod per illa
+        <lb ed="#K"/>tota natura rei nobis innotescat. Communicatio ergo idiomatum tunc est
+        <lb ed="#K"/>quando propter specialem et intrinsecam coniunctionem seu unionem duarum
+        <lb ed="#K"/>naturaum, id quod uni proprie convenit, vere praedicari potest saltem in concreto 
+        <lb ed="#K"/>de altera, vel de toto supposito in quo coniunguntur ut patebit ex mox
+        <lb ed="#K"/>dicendis.
+      </p>
+      <p>
+        <lb ed="#K"/>Dicendum est. Datur in Christo Domino ver Idiomatum communicatio.
+        <lb ed="#K"/>Est de fide et <ref>Concilio Ephesino</ref> ubi definitum est quod Beatissima Virgo
+        <lb ed="#K"/>vere sit Deipara, quia nimirum ille homo cuius est mater, est vere Deus.
+        <lb ed="#K"/>Idem patet ex pluribus sacrae scripturae locis, in quibus proprie Christus dicitur,
+        <lb ed="#K"/>iam Deus et Dei filius iam homo et filius hominis. Unde elegander <name>Divus
+        <lb ed="#K"/>Damascenus</name> loquitur hac de re: <quote>quia enim Verbum caro, unus est Christus nihil
+        <lb ed="#K"/>est alterius naturae, quod ne sit utriusque</quote>; nam exaltans et exaltatus ita
+        <lb ed="#K"/>sibi mutuo inhaeserunt, ut sive in omnipotentia, sive in contumelia, nec
+        <lb ed="#K"/>Divina in Christo careant humanis, nec humana Divinis.
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur Ratione: Quia per unionem physicam duarum naturum in una
+        <lb ed="#K"/>hypostasi Christi factum est idem suppositum commune utrique naturae, ita ut per
+        <lb ed="#K"/>utriusque naturae concreta substantialia idem suppositum importetur in 
+        <lb ed="#K"/>recto. Unde sicut in physicis, si sint accidentia diversa eidem subiecto 
+        <lb ed="#K"/>unita,tunc adiectiva concreta substantiva, non solum de subiecto dici possunt
+        <lb ed="#K"/>verba gratia lac est album, lac est dulce: sed etiam de se invicem verba gratia album est dulce,
+        <lb ed="#K"/>dulce est album: ita etiam in Christo propter unionem duarum naturum in una 
+        <lb ed="#K"/>hypostasi; primo concreta utriusque naturae Christi, bene ad invicem de se dicun<lb ed="#K"/>tur,
+        ut patet in praecipua illa et fundamentali praedictione mutua, qua de
+        <lb ed="#K"/>Christo dicitur: Homo est Deus, Deus est homo. Nam sensus est: suppositum
+        <pb ed="#K" n="103-r"/>
+        <lb ed="#K"/>terminans naturam humanam, est suppositum terminans naturam Divinam.
+      </p>
+      </div>
+    </body>
+  </text>
+</TEI>
