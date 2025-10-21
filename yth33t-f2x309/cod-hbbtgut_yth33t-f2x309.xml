@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 4</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 4</title>
+          <date when="2025-07-14">October 21, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-10-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="98-r"/>
+      </div>
+    </front>
+    <body>
+      <div>
+      <head>Sectio 4</head> 
+      <head type="question-title">De natura assumpta et assumptibili</head> 
+      <p>
+        <lb ed="#K" n="18"/>SECTIO IV
+        <lb ed="#K"/>De Natura Assumpta et Assumptibili
+        </p>
+        <p>
+          <lb ed="#K"/>PARAGRAPHVS 1
+          <lb ed="#K"/>Quidnam de facto Verbum assumpserit
+          <lb ed="#K"/>immediate?
+        </p>
+        <p>
+          <lb ed="#K"/>Certum est ex fide solam naturam humanam esse de facto assumptam a Verbo.
+          <lb ed="#K"/>Congruentias huius assumptionis, et neglectae naturae Angelicae varias sancti
+          <lb ed="#K"/>Patres dant: Prima quia tota natura humana ceciderat non Angelica.
+          <lb ed="#K"/>Secunda. Homines peccarunt decepti non Angeli. Tertia. quia homines plerique 
+          <lb ed="#K"/>peccarunt aliena voluntate, Angeli propria. Quarta. ne daemon nimium 
+          <lb ed="#K"/>gloriaretur victoria sua, sed supplantaretur a natura quam vicerat. Quinta
+          <lb ed="#K"/>ut Deus maiorem ostenderet dignationem et benignitatem suam in assumen<lb ed="#K" break="no"/>da
+          natura inferiore. Sexta. homo peccavit ex fragibilitate adeoque Divi<lb ed="#K" break="no"/>nam 
+          misericordiam magis sibi conciliabat. Hoc praenotato.
+        </p>
+        <p>
+          <lb ed="#K"/>Dicendum primo. Verbum de facto assumpsit immediate totam naturam
+          <lb ed="#K"/>humanam, hoc est corpus et animam rationalem inter se physice unita. est
+          <lb ed="#K"/>de fide. Et quidem assumptam esse animam rationalem eiusdem speciei cum
+          <lb ed="#K"/>nostra definiunt Concilia contra Appollinaristas asserentes in Christo
+          <pb ed="#K" n="98-v"/>
+          <lb ed="#K"/>Divinitatem fuisse loco animae. - - - - - - - - - - - - - -
+        </p>
+        <p>
+          <lb ed="#K"/>Assumptum etiam esse verum et humanum corpus, non autem phantasticum
+          <lb ed="#K"/>ac apparens solum, ut voluit <name>Marcion</name>, Manichei, et Priscilianistae, defini<lb ed="#K" break="no"/>tum
+          in Concilio Ephesino secundo. Item assumptum esse corpus terrenum et non
+          <lb ed="#K"/>caelesta vere natum ex Maria Virgine, non vero per illam solum transfusum, defi<lb ed="#K" break="no"/>nitum
+          est non Concilio Chalcedonensi 5 et Cartaginesi 4, contra Valentrahos
+          <lb ed="#K"/>quibus accesserunt Anabaptistae. Assumptum esse corpus et ani<lb ed="#K" break="no"/>mam
+          inter se unita, ita certum est apud Catholicos, ut Sancti Patres passim
+          <lb ed="#K"/>damnant haereseos opinionem contrariam, scriptura enim semper loquitur
+          <lb ed="#K"/>de Christo tanquam de homine testaturque eam vere mortuum et Christus se
+          <lb ed="#K"/>saepissime appellat filium hominis. Iam vero seclusa unione physica
+          <lb ed="#K"/>ne fuisset verus homo.
+        </p>
+        <p>
+          <lb ed="#K"/>Quod etiam unio naturalis materiae cum anima Christi, supposito quod
+          <lb ed="#K"/>sit entitas realiter distincta fuerit immediate assumpta a Verbo, indica<lb ed="#K" break="no"/>vi
+          iam <ref>sectione secunda</ref>. Quamvis enim unio ne sit proprie natura, quia tamen est substan<lb ed="#K" break="no"/>tia
+          intrinsece constituens humanitatem, quam totam assumptam esse <unclear>docent</unclear>
+          <lb ed="#K"/>Patres et concilia, sequitur et unionem esse immediate assumptam.
+          <lb ed="#K"/>Nec est inconveniens dari unionem unionis in diverso genere, seu respectu 
+          <lb ed="#K"/>diversorum terminorum, unio enim illa naturalis non unitur alia unione
+          <lb ed="#K"/>suis extremis sed verbo, ad quod per se indifferens erat, adeoque <unclear>processus</unclear>.
+          <lb ed="#K"/>in infinitum non sequitur.
+        </p>
+        <p>
+          <lb ed="#K"/>Quaeritur iam: quas nam in particulari partes corporis humani Ver<lb ed="#K" break="no"/>bum
+          immediate assumpserit? Convenit inter omnes partes quae
+          <lb ed="#K"/>mere ad scititiae seu <unclear>exrementitae</unclear> dicuntur, ut <unclear>sunt</unclear> chilus, saliva, spu<lb ed="#K" break="no"/>tum
+          lacrymae, sudor etc non esse assumptas. De aliis.
+        </p>
+        <p>
+          <lb ed="#K"/>Dicendum secundo. Partes animatae corporis humani ut <unclear>sint</unclear> ossa caro,
+          <lb ed="#K"/>nervi, musculi, dentes, capilli, ungues, etc, <unclear>sint</unclear> immediate assumptae a Verbo.
+          <lb ed="#K"/>Est communis. Quia Verbum assumpsit integrum corpus humanum, hoc
+          <lb ed="#K"/>autem nihil est aliud, quam ipsae partes praesertim principales simul sumptae. 
+        </p>
+        <p>
+          <lb ed="#K"/>Dicendum tertio. Etiam sanguis aliique tres humores primarii, ut <unclear>pituita</unclear>
+          <lb ed="#K"/>flavabilis, atrabilis immediate sunt assumpti a Verbo ita communiter Theologi.
+        </p>
+        <p>
+          <lb ed="#K"/>Probatur primo universaliter quia humores isti omnes <unclear>sunt</unclear> partes integri cor<lb ed="#K" break="no"/>poris
+          humani, <unclear>immo</unclear> secundum <ref>Galenum libro secundo de Elementis</ref> <unclear>praedicti</unclear> 4 humores <unclear>sunt</unclear>
+          <lb ed="#K"/>elementa corporis naturalis, seu partes fundamentales.
+        </p>
+        <p>
+          <lb ed="#K"/>Probatur secundo specialiter de sanguine de quo potissima est controversia.
+          <lb ed="#K"/>Primo <ref>ad Hebreos 4</ref> dicit Apostolus: <quote>quia ergo pueri communicant carni et san<lb ed="#K" break="no"/>guini,
+          et ipse similiter participavit iisdem.</quote> <ref>Prima Ioannis primo</ref> <quote>sanguis
+          <lb ed="#K"/>Iesu Christi filii eius emundat nos ab omni peccato</quote> nimirum non solum
+          <pb ed="#K" n="99-r"/>
+          <lb ed="#K"/>quia oblatus et effusus est a persona Divina sed etiam quia unitus imme<lb ed="#K" break="no"/>diate
+          Verbo ut declarant Sancti Patres. Idem patet ex authoritate Divi
+          <lb ed="#K"/>Cyrilli explicantis illud: <quote>Et Verbum Caro factum est.</quote> Hoc est carnem et sanguinem sumpsit.
+        </p>
+        <p>
+          <lb ed="#K"/>Obiicitur primo. Si Deus assumpsisset sanguinem, verum esset dicere, Deus est 
+          <lb ed="#K"/>sanguis, hoc videtur absurdum, Ergo etc. Respondeo primo non male quidam dicunt hibil appa<lb ed="#K" break="no"/>realiter
+          absurdi. Respondeo secundo nego sequelam, quia praedicata partium non tribuuntur per com<lb ed="#K" break="no"/>municationem
+          verbo, nisi ea quae tribui possent secundum communem acceptionem ipsi toti
+          <lb ed="#K"/>homini. Unde sicut homo a sanguine sibi in existente non dicitur sanguis, 
+          <lb ed="#K"/>ita nec Verbum dici debet sanguis, et sicut homo a corpore sepulto dicitur
+          <lb ed="#K"/>sepultus, ita et Deus dici potest sepultus ratione corporis Christi.
+        </p>
+        <p>
+          <lb ed="#K"/>Obiicitur secundo. Verbum supplevit in Christo solum subsistentiam humanam.
+          <lb ed="#K"/>Atqui sanguis aliique humores in nobis non subsistunt subsistentia humana
+          <lb ed="#K"/>sed sua propria. Ergo verbum non supplevit subsistentiam sanguinis, consequen<lb ed="#K" break="no"/>ter
+          eum immediate non assumpsit. Respondeo distinguo maiorem, supplevit tantum
+          <lb ed="#K"/>subsistentiam humanam quae sit unica et simplex quaedam entitas nego quae est
+          <lb ed="#K"/>complexum quoddam ex partialibus diversis subsistentiis Concedo maiorem
+          <lb ed="#K"/>et minorem sub simili distinctione. Sicut natura humana non est simplex
+          <lb ed="#K"/>omnimoda simplicitate physica, sed complectitur partes: ita subsisten<lb ed="#K" break="no"/>tia
+          humana integre sumpta, complectitur varias subsistentias partiales.
+        </p>
+        <p>
+          <lb ed="#K"/>Obiicitur tertio.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
