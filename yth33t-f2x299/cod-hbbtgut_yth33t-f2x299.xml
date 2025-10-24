@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Sectio 1</title>
+        <title>Sectio 3</title>
         <author ref="#per-sykisy">Stefan Yavorskyi</author>
         <respStmt>
           <name ref="#justincoyle">Justin Coyle</name>
@@ -17,7 +17,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Sectio 1</title>
+          <title>Sectio 3</title>
           <date when="2025-07-14">July 14, 2025</date>
         </edition>
       </editionStmt>
