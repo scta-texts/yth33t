@@ -57,13 +57,13 @@
     </front>
     <body>
       <div xml:id="yth33t-f2x327">
-      <head>Sectio 6</head> 
-      <head>De communicatio idiomatum</head>
-      <p>
+      <head xml:id="yth33t-f2x327-Hd1e108">Sectio 6</head> 
+      <head xml:id="yth33t-f2x327-Hd1e110">De communicatio idiomatum</head>
+      <p xml:id="yth33t-f2x327-d1e112">
         <lb ed="#K" n="5"/>SECTIO VI
         <lb ed="#K" n="6"/>De Communicatio Idiomatum
         </p>
-      <p>
+      <p xml:id="yth33t-f2x327-d1e119">
         <lb ed="#K" n="7"/>Idiomatum Communicatio de qua hic sermo, nil aliud est quam praedicabilitas eorum,
         <lb ed="#K" n="8"/>quae alicui propria sunt, de aliquo alio. Sicut enim lingua alicui nationi propria di<lb ed="#K" n="9"/>citur
         esse idioma illius genis, ita apud Theologos et Sanctos Patres, praedica<lb ed="#K" n="10"/>ta
@@ -74,18 +74,18 @@
         <lb ed="#K" n="14"/>de altera, vel de toto supposito in quo coniunguntur ut patebit ex mox
         <lb ed="#K" n="15"/>dicendis.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x327-d1e143">
         <lb ed="#K" n="16"/>Dicendum est. Datur in Christo Domino ver Idiomatum communicatio.
-        <lb ed="#K" n="17"/>Est de fide et <ref>Concilio Ephesino</ref> ubi definitum est quod Beatissima Virgo
+        <lb ed="#K" n="17"/>Est de fide et <ref xml:id="yth33t-f2x327-Rd1e149">Concilio Ephesino</ref> ubi definitum est quod Beatissima Virgo
         <lb ed="#K" n="18"/>vere sit Deipara, quia nimirum ille homo cuius est mater, est vere Deus.
         <lb ed="#K" n="19"/>Idem patet ex pluribus sacrae scripturae locis, in quibus proprie Christus dicitur,
-        <lb ed="#K" n="20"/>iam Deus et Dei filius iam homo et filius hominis. Unde elegander <name>Divus
-        <lb ed="#K" n="21"/>Damascenus</name> loquitur hac de re: <quote>quia enim Verbum caro, unus est Christus nihil
+        <lb ed="#K" n="20"/>iam Deus et Dei filius iam homo et filius hominis. Unde elegander <name xml:id="yth33t-f2x327-Nd1e158">Divus
+        <lb ed="#K" n="21"/>Damascenus</name> loquitur hac de re: <quote xml:id="yth33t-f2x327-Qd1e163">quia enim Verbum caro, unus est Christus nihil
         <lb ed="#K" n="22"/>est alterius naturae, quod ne sit utriusque</quote>; nam exaltans et exaltatus ita
         <lb ed="#K" n="23"/>sibi mutuo inhaeserunt, ut sive in omnipotentia, sive in contumelia, nec
         <lb ed="#K" n="24"/>Divina in Christo careant humanis, nec humana Divinis.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x327-d1e174">
         <lb ed="#K" n="25"/>Probatur Ratione: Quia per unionem physicam duarum naturum in una
         <lb ed="#K" n="26"/>hypostasi Christi factum est idem suppositum commune utrique naturae, ita ut per
         <lb ed="#K" n="27"/>utriusque naturae concreta substantialia idem suppositum importetur in 
@@ -106,19 +106,19 @@
         subiecto secundum rectum. Quod in praedictis propositionibus et similibus
         <lb ed="#K" n="8"/>contingit.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x327-d1e218">
         <lb ed="#K" n="9"/>Porro ut legitime propositiones huiusmodi communicationis in Christo
         <lb ed="#K" n="10"/>melius discerni possint, adtendendum erit ad sequentes regulas nimis
         <lb ed="#K" n="11"/>enim prolixum esset singulas articulatim excutere. 
       </p>
-      <p>
+      <p xml:id="yth33t-f2x327-d1e227">
         <lb ed="#K" n="12"/>Prima Regula. Praedicata quae dicunt naturam in abstracto tan<lb ed="#K" n="13"/>tum,
         non possunt qua talia praedicari de altero sive in abstracto sive in con<lb ed="#K" n="14"/>creto
         sumpto. Hinc dici non posset: Deus est humanitas, vel mortalitas, etc,
         <lb ed="#K" n="15"/>multo minus dici potest Divinitas est humanitas in Christo vel mortalitas etc,
         <lb ed="#K" n="16"/>quia rectum praedicati non identificatur <unclear>subiecto</unclear>.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x327-d1e243">
         <lb ed="#K" n="17"/>Secunda Regula. Nulla praedicatio seu communicatio praedicatorum quorumcunque
         <lb ed="#K" n="18"/>fieri potest, cum reduplicatione restringente suppositum ad alteram naturam
         <lb ed="#K" n="19"/>determinate. Unde non potest dici: Homo ut homo est Deus, et Deus ut Deus est
@@ -126,7 +126,7 @@
         <lb ed="#K" n="21"/>praedicatum convenire subiecto vi formae seu naturae reduplicatae. Falsum 
         <lb ed="#K" n="22"/>autem est, quod homo sit Deus qua homo est, seu in quantum est homo.
       </p>
-      <p>
+      <p xml:id="yth33t-f2x327-d1e259">
         <lb ed="#K" n="23"/>
       </p>
       </div>
