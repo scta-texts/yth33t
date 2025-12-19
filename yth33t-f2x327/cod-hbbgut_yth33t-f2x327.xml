@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 1</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 6</title>
+          <date when="2025-07-22">July 22, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-07-22" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="102-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="yth33t-f2x327">
+      <head xml:id="yth33t-f2x327-Hd1e108">Sectio 6</head> 
+      <head xml:id="yth33t-f2x327-Hd1e110">De communicatio idiomatum</head>
+      <p xml:id="yth33t-f2x327-d1e112">
+        <lb ed="#K" n="5"/>SECTIO VI
+        <lb ed="#K" n="6"/>De Communicatio Idiomatum
+        </p>
+      <p xml:id="yth33t-f2x327-d1e119">
+        <lb ed="#K" n="7"/>Idiomatum Communicatio de qua hic sermo, nil aliud est quam praedicabilitas eorum,
+        <lb ed="#K" n="8"/>quae alicui propria sunt, de aliquo alio. Sicut enim lingua alicui nationi propria di<lb ed="#K" n="9"/>citur
+        esse idioma illius genis, ita apud Theologos et Sanctos Patres, praedica<lb ed="#K" n="10"/>ta
+        quae <unclear>sunt</unclear> propria alicuius rei, dicuntur idioma eiusdem rei, eo quod per illa
+        <lb ed="#K" n="11"/>tota natura rei nobis innotescat. Communicatio ergo idiomatum tunc est
+        <lb ed="#K" n="12"/>quando propter specialem et intrinsecam coniunctionem seu unionem duarum
+        <lb ed="#K" n="13"/>naturaum, id quod uni proprie convenit, vere praedicari potest saltem in concreto 
+        <lb ed="#K" n="14"/>de altera, vel de toto supposito in quo coniunguntur ut patebit ex mox
+        <lb ed="#K" n="15"/>dicendis.
+      </p>
+      <p xml:id="yth33t-f2x327-d1e143">
+        <lb ed="#K" n="16"/>Dicendum est. Datur in Christo Domino ver Idiomatum communicatio.
+        <lb ed="#K" n="17"/>Est de fide et <ref xml:id="yth33t-f2x327-Rd1e149">Concilio Ephesino</ref> ubi definitum est quod Beatissima Virgo
+        <lb ed="#K" n="18"/>vere sit Deipara, quia nimirum ille homo cuius est mater, est vere Deus.
+        <lb ed="#K" n="19"/>Idem patet ex pluribus sacrae scripturae locis, in quibus proprie Christus dicitur,
+        <lb ed="#K" n="20"/>iam Deus et Dei filius iam homo et filius hominis. Unde elegander <name xml:id="yth33t-f2x327-Nd1e158">Divus
+        <lb ed="#K" n="21"/>Damascenus</name> loquitur hac de re: <quote xml:id="yth33t-f2x327-Qd1e163">quia enim Verbum caro, unus est Christus nihil
+        <lb ed="#K" n="22"/>est alterius naturae, quod ne sit utriusque</quote>; nam exaltans et exaltatus ita
+        <lb ed="#K" n="23"/>sibi mutuo inhaeserunt, ut sive in omnipotentia, sive in contumelia, nec
+        <lb ed="#K" n="24"/>Divina in Christo careant humanis, nec humana Divinis.
+      </p>
+      <p xml:id="yth33t-f2x327-d1e174">
+        <lb ed="#K" n="25"/>Probatur Ratione: Quia per unionem physicam duarum naturum in una
+        <lb ed="#K" n="26"/>hypostasi Christi factum est idem suppositum commune utrique naturae, ita ut per
+        <lb ed="#K" n="27"/>utriusque naturae concreta substantialia idem suppositum importetur in 
+        <lb ed="#K" n="28"/>recto. Unde sicut in physicis, si sint accidentia diversa eidem subiecto 
+        <lb ed="#K" n="29"/>unita,tunc adiectiva concreta substantiva, non solum de subiecto dici possunt
+        <lb ed="#K" n="30"/>verba gratia lac est album, lac est dulce: sed etiam de se invicem verba gratia album est dulce,
+        <lb ed="#K" n="31"/>dulce est album: ita etiam in Christo propter unionem duarum naturum in una 
+        <lb ed="#K" n="32"/>hypostasi; primo concreta utriusque naturae Christi, bene ad invicem de se dicun<lb ed="#K" n="33"/>tur,
+        ut patet in praecipua illa et fundamentali praedictione mutua, qua de
+        <lb ed="#K" n="34"/>Christo dicitur: Homo est Deus, Deus est homo. Nam sensus est: suppositum
+        <pb ed="#K" n="103-r"/>
+        <lb ed="#K" n="1"/>terminans naturam humanam, est suppositum terminans naturam Divinam.
+        <lb ed="#K" n="2"/>Et vicissim. Secundo Etiam attributa utriusque naturae bene praedicantur de
+        <lb ed="#K" n="3"/>eadem persona, verba gratia hic homo seu Christus est Immortalis, aeternus, omnipotens, etc,
+        <lb ed="#K" n="4"/>scilicet secundum Divinitatem. Et Deus vel Christus est mortalis in tempore natus, etc,
+        <lb ed="#K" n="5"/>scilicet secundum humanitatem. Ratio horum fundamentalis est: quia secundum
+        <lb ed="#K" n="6"/>Dialecticos ad veram praedicationem requiritur et sufficit, si praedicatum identifi<lb ed="#K" n="7"/>cetur
+        subiecto secundum rectum. Quod in praedictis propositionibus et similibus
+        <lb ed="#K" n="8"/>contingit.
+      </p>
+      <p xml:id="yth33t-f2x327-d1e218">
+        <lb ed="#K" n="9"/>Porro ut legitime propositiones huiusmodi communicationis in Christo
+        <lb ed="#K" n="10"/>melius discerni possint, adtendendum erit ad sequentes regulas nimis
+        <lb ed="#K" n="11"/>enim prolixum esset singulas articulatim excutere. 
+      </p>
+      <p xml:id="yth33t-f2x327-d1e227">
+        <lb ed="#K" n="12"/>Prima Regula. Praedicata quae dicunt naturam in abstracto tan<lb ed="#K" n="13"/>tum,
+        non possunt qua talia praedicari de altero sive in abstracto sive in con<lb ed="#K" n="14"/>creto
+        sumpto. Hinc dici non posset: Deus est humanitas, vel mortalitas, etc,
+        <lb ed="#K" n="15"/>multo minus dici potest Divinitas est humanitas in Christo vel mortalitas etc,
+        <lb ed="#K" n="16"/>quia rectum praedicati non identificatur <unclear>subiecto</unclear>.
+      </p>
+      <p xml:id="yth33t-f2x327-d1e243">
+        <lb ed="#K" n="17"/>Secunda Regula. Nulla praedicatio seu communicatio praedicatorum quorumcunque
+        <lb ed="#K" n="18"/>fieri potest, cum reduplicatione restringente suppositum ad alteram naturam
+        <lb ed="#K" n="19"/>determinate. Unde non potest dici: Homo ut homo est Deus, et Deus ut Deus est
+        <lb ed="#K" n="20"/>mortalis. Ratio quia ex communi usu et acceptione reduplicando significamus
+        <lb ed="#K" n="21"/>praedicatum convenire subiecto vi formae seu naturae reduplicatae. Falsum 
+        <lb ed="#K" n="22"/>autem est, quod homo sit Deus qua homo est, seu in quantum est homo.
+      </p>
+      <p xml:id="yth33t-f2x327-d1e259">
+        <lb ed="#K" n="23"/>Tertia Regula. Propositiones reduplicativae negativae si sint verae
+        <lb ed="#K"/>fiunt falsae ablata reduplicatione. Verba gratia est haec: Christus ut homo
+        <lb ed="#K"/>non est immortalis. Falsa autem haec: Christus non est immortalis.
+        <lb ed="#K"/>Similiter propositiones negativae quae sine reduplicatione sunt falsae fiunt
+        <lb ed="#K"/>verae addita reduplicatione, verba gratia falsa est haec: Deus non est natus, passus, etc.
+        <lb ed="#K"/>Vera autem: Deus ut Deus non est natus, passus, etc. Ratio quia particula
+        <lb ed="#K"/>negativa est malignantis naturae, destruitque, totum quidquid post se inve<lb ed="#K" break="no"/>nit,
+        nisi addatur limitatio seu restrictio.
+      </p>
+      <p>
+        <lb ed="#K"/>Quarta Regula: Praedicata importantia naturam in concreto, adeoque
+        <lb ed="#K"/>includentia ipsum suppositum, recte communicantur, cum reperiatur iden<lb ed="#K" break="no"/>titas
+        inter rectum praedicati et rectum subiecti. Unde non solum verae sunt illae
+        <lb ed="#K"/>praedicationes quibus de concretis substantivis unius naturae dicuntur
+        <lb ed="#K"/>praedicta alterius naturae unitae ut homo est immortalis, impassibilis, etc.
+        <pb ed="#K" n="103-v"/>
+        <lb ed="#K"/>Deus est mortalis passibilis, etc. Sed etiam ille verae sunt quibus con<lb ed="#K" break="no"/>creata
+        adiectiva naturarum de se mutuo dicuntur, ut immortalis est mortalis,
+        <lb ed="#K"/>et impassibilis est passibilis, etc.
+      </p>
+      <p>
+        <lb ed="#K"/>Quinta Regula. Illorum Idiomatum communicatio non est usurpanda, 
+        <lb ed="#K"/>sine ulteriore explicatione, quae vel ex aliqua haeresi, vel alia ratione
+        <lb ed="#K"/>(si sit contra communem terminorum acceptionem) suspecta est de sensu
+        <lb ed="#K"/>falso. Hinc dicendum non est: Christus est ubique. Christus est creatura.
+        <lb ed="#K"/>Licet enim istae propositiones recte et eodem modo explicari possint ut illa:
+        <lb ed="#K"/>Christus est infinite sapiens. Quia tamen haeretici ubiquistae, per hanc propo<lb ed="#K" break="no"/>sitionem:
+        Christus est ubique volunt significare Christum secundum humanam natu<lb ed="#K" break="no"/>ram
+        esse ubique: Arriani vero per alteram propositionem: Christus est creatu<lb ed="#K" break="no"/>ra
+        volunt significare Verbum secundum se esse creaturam: ut catholici sensus 
+        <lb ed="#K"/>puritati et integritati consulatur, adhiberi non debet absque addita
+        <lb ed="#K"/>explicatione. Similiter licet admittamus hanc propositionem: Deus est mor<lb ed="#K" break="no"/>tuus.
+        Non tamen hanc: Deus est mutatus. Licet enim mori sit mutari secundum
+        <lb ed="#K"/>eam naturam quae est morti obnoxia, quia tamen quidam haeretici Christum
+        <lb ed="#K"/>secundum Divinitatem esse mutatum dixerunt: propositio illa adhiberi 
+        <lb ed="#K"/>non debet.
+      </p>
+      <p>
+        <lb ed="#K"/>Sexta Regula. quando ex propositionibus admissis <unclear>expositorii</unclear> for<lb ed="#K" break="no"/>mantur
+        syllogismi, ubi saepe duriusculae aliquae inferuntur conclusiones, tunc distinc<lb ed="#K" break="no"/>tione
+        utendum est. Verba gratia: Christus est creatura, Christus est Verbum. Ergo Verbum est crea<lb ed="#K" break="no"/>tura. 
+        Distinguo: secundum humanitatem vel prout est compositum Concedo, secus nego.
+        <lb ed="#K"/>Similiter responde ad hoc: hic homo esse incoepit, sed Verbum est hic homo,
+        <lb ed="#K"/>Ergo Verbum esse incoepit. Secundo. Si formetur hic syllogismus: hic homo
+        <lb ed="#K"/>est Deus, Verbum factum est hic homo, Ergo Verbum factum est Deus. Distingue: hic 
+        <lb ed="#K"/>homo est Deus simpliciter nego. Deus et homo simul Concedo. Tertio Si
+        <lb ed="#K"/>hic syllogismus ponatur: Deus creavit omnem creaturam, Christus est
+        <lb ed="#K"/>Deus, Ergo Christus creavit omnem creaturam. Atqui Christus est ipse
+        <lb ed="#K"/>creatura. Ergo creavit se ipsum. Responde quatuor esse aequivalentes
+        <lb ed="#K"/>terminos, quia ly Deus in maiore sumitur secundum suppositionem forma<lb ed="#K" break="no"/>lem,
+        in minore secundum materialem, adeoque fallacia accidentis committitur.
+      </p>
+      <p>
+        <lb ed="#K"/>Petes: quid tenendum de hac propositione: Deus vel Verbum assumpsit
+        <lb ed="#K"/>hominem? Respondeo licet propositione frequenter usi sint Patres antiqui
+        <lb ed="#K"/>et Concilia, Scholastici tamen Theologi illam non audent admittere in
+
+        <lb ed="#K"/>sensu rigoroso, quia homo in rigore non solum est humanitas, sed suppo<lb ed="#K" break="no"/>situm
+        habens naturam humanam et propterea subsistentiam. Atqui Verbum
+        <lb ed="#K"/>de facto non assumpsit subsistentiam humanam sed solam naturam seu hu<lb ed="#K" break="no"/>manitatem.
+        Ergo non assumpsit in rigore loquendo hominem, sed solam 
+        <lb ed="#K"/>humanitatem. Quod vero antiqui Patres liberius usi sunt illo 
+        <lb ed="#K"/>modo loquendi, inde est, quod nomen homo tunc magis indifferens
+        <lb ed="#K"/>erat ad significandam naturam humanam sive in concreto sive in abstrac<lb ed="#K" break="no"/>to,
+        vix enim reperies apud authores antiquiores vocem humanitatis
+        <lb ed="#K"/>usurpatam in significatione tam stricta ac nunc habet. Postquam
+        <lb ed="#K"/>ergo iam usus introduxit et applicuit vocem humanitas ad loquen<lb ed="#K" break="no"/>dum 
+        de natura in abstracto, ac reservavit vocem homo ad
+        <lb ed="#K"/>loquendum de natura in concreto, suspectus redderetur qui diceret 
+        <lb ed="#K"/>Verbum assumpsisse hominem, nisi terminum homo mox explicaret.
+      </p>
+      <p>
+        <lb ed="#K"/>Petes secundo. Quid in propositionibus quae dicuntur in concreto de Christo,
+        <lb ed="#K"/>importatur in recto et quid in obliquo? Respondeo in concretis substan<lb ed="#K" break="no"/>tialibus
+        communiter significatur in recto subsistentia in obliquo
+        <lb ed="#K"/>natura. Ita <ref>Suarez</ref>, <ref>Lugo</ref>, et caeteri. Ratio difficile et diversa
+        <lb ed="#K"/>assignatur iuxta diversa principia philosophica. Vide quae de hoc
+        <lb ed="#K"/>tradita sunt in Logica. Propositiones igitur quibus dicitur
+        <lb ed="#K"/>de Christ: Deus est mortalis, Deus est homo, etc. Resoluendae sunt sic: 
+        <lb ed="#K"/>subsistentia terminans naturam Divinam, est subsistentiam terminans
+        <lb ed="#K"/>simul naturam mortalem, humanam, etc.
+      </p>
+      </div>
+    </body>
+  </text>
+</TEI>
