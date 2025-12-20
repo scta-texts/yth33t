@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 1</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 1</title>
+          <date when="2025-04-03">April 3, 2025</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2025-04-03" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="70-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="yth33t-f2x237">
+      <head xml:id="yth33t-f2x237-Hd1e108">Sectio I</head> 
+      <head xml:id="yth33t-f2x237-Hd1e110" type="question-title">Quae nam potuerit esse vel fuit causa physica incarnationis?</head>
+      <p xml:id="yth33t-f2x237-d1e113">
+        <lb ed="#K" n="31"/>SECTIO I
+        <pb ed="#K" n="70-v"/>
+        <lb ed="#K" n="1"/>Quae nam potuerit esse vel fuit causa phy<lb ed="#K" break="no" n="2"/>sica incarnationis?
+      </p>
+      <p xml:id="yth33t-f2x237-d1e124">
+        <lb ed="#K" n="3"/>Dicendum primo. Tota Sanctissima Trinitas est causa principalis physica
+        <lb ed="#K" n="4"/>et efficiens Incarnationis seu Unionis Hypostaticae. Est communis.
+      </p>
+      <p xml:id="yth33t-f2x237-d1e131">
+        <lb ed="#K" n="5"/>Probatur. Quia iuxta axioma Theologicum, omnes operationes ad extra communes
+        <lb ed="#K" n="6"/>sit toti sanctissima Trinitati, cuius ut una est voluntas ita operatio. Atqui produc<lb ed="#K" break="no" n="7"/>tio
+        unionis hypostaticae est operatio ad extra, cum ne terminetur ad aliquid id entifi<lb ed="#K" break="no" n="8"/>factum
+        Deo. Ergo, etc.
+      </p>
+      <p xml:id="yth33t-f2x237-d1e143">
+        <lb ed="#K" n="9"/>Dicendum secundo. Solus Deus fuit et esse potuit causa principalis physica
+        <lb ed="#K" n="10"/>Unionis hypostaticae.
+      </p>
+      <p xml:id="yth33t-f2x237-d1e150">
+        <lb ed="#K" n="11"/>Probatur. Quia haec unio terminatur ad personam Divinam, nulla autem creatura
+        <lb ed="#K" n="12"/>potest habere virtutem intrinsecam et connaturalem ut faciat Deum subsistere in
+        <lb ed="#K" n="13"/>aliena natura vel naturam alienam in Deo, hoc enim esset subiectum habere 
+        <lb ed="#K" n="14"/>Deum virtuti suae naturali, independenter a libera eius determinatione.
+        <lb ed="#K" n="15"/>Firmatur 1: ex illo <ref xml:id="yth33t-f2x237-Rd1e163">Lucae 1</ref> <quote xml:id="yth33t-f2x237-Qd1e165" source="http://scta.info/resource/lc1_35">Spiritus Sanctus superveniet in te, et virtus altissi<lb ed="#K" break="no" n="16"/>mi
+        obumbrabit tibi.</quote>. Tum ex <ref xml:id="yth33t-f2x237-Rd1e170">Mattei 1</ref> <quote xml:id="yth33t-f2x237-Qd1e172" source="http://scta.info/resource/mt1_20">Quod enim in ea natum ex ex spiri<lb ed="#K" n="17"/>
+        tu Sancto est</quote>. Ubi solus Deus assignatur causa scilicet principalis tam admi<lb ed="#K" break="no" n="18"/>rabilis
+        operis.
+      </p>
+      <p xml:id="yth33t-f2x237-d1e180">
+        <lb ed="#K" n="19"/>Dicendum tertio. Probabilius est quod pura creatura per absolutam 
+        <lb ed="#K" n="20"/>Dei potentiam potuerit esse causa instrumentalis physicae efficiens unionem
+        <lb ed="#K" n="21"/>hypostaticam. Ita <ref xml:id="yth33t-f2x237-Rd1e188"><name xml:id="yth33t-f2x237-Nd1e189">Suarez</name></ref>.
+      </p>
+      <p xml:id="yth33t-f2x237-d1e192">
+        <lb ed="#K" n="22"/>Probatur. Tum quia nulla potest assignari implicantia. Tum quia constat subs<lb ed="#K" break="no" n="23"/>tantiam
+        creatam non solum habere potentiam obedientialem passivam, sed etiam activam,
+        <lb ed="#K" n="24"/>cuius efficacia ut loquitur <ref xml:id="yth33t-f2x237-Rd1e200"><name xml:id="yth33t-f2x237-Nd1e201">Suarez</name></ref>, non mensuratur ex naturali perfectione crea<lb ed="#K" break="no" n="25"/>turae,
+        sed ex infinita virtute omnipotentiae Divinae, supposita non repugnantia
+        <lb ed="#K" n="26"/>ex parte actionis vel effectus.
+      </p>
+      <p xml:id="yth33t-f2x237-d1e209">
+        <lb ed="#K" n="27"/>Obiicitur primo. Ut creaturae possit attribui virtus causandi instrumen<lb ed="#K" break="no" n="28"/>taliter
+        per potentiam obedientialem Unionem hypostaticam, debet habere virtutem
+        <lb ed="#K" n="29"/>inchoatam ad illam. Atqui nullum est huius inchoatae virtutis fundamentum. Ergo, etc.
+        <lb ed="#K" n="30"/>Respondeo concedo maiorem, nego minorem. fundamentum sufficiens ex parte creaturae
+        <lb ed="#K" n="31"/>est ad de facto viuentia possint in ordine naturali producere unionem substan<lb ed="#K" break="no" n="32"/>tialem,
+        non solum integralem sed etiam essentialem inter materiam et formam,
+        <lb ed="#K" n="33"/>ut patet ex nutritione. Quidni ergo absoluta Divina virtute elevari
+        <lb ed="#K" n="34"/>possit creatura etiam ad producendam unionem supernaturalem per modum instrumenti
+        <pb ed="#K" n="71-r"/>
+        <lb ed="#K" n="1"/>sicut de facto in pronabili multorum sententia ad transsubstantionem
+        <lb ed="#K" n="2"/>Eucharisticam elevantur Verba Consecrationis.
+      </p>
+      <p xml:id="yth33t-f2x237-d1e235">
+        <lb ed="#K" n="3"/>Obiicitur secundo. Nulla pura creatura potest habere virtutem supra personam
+        <lb ed="#K" n="4"/>Divinam ut dictum in probatione conclusionis praecedentis. Ergo nec potest instrumen<lb ed="#K" break="no" n="5"/>taliter
+        physice concurrere ad unionem hypostaticam. Respondeo nego Consequentiam,
+        <lb ed="#K" n="6"/>quia influxus solum instrumentalis non dicit virtutem naturalem super per<lb ed="#K" break="no" n="7"/>sonam
+        Divinam. Unde.
+      </p>
+      <p xml:id="yth33t-f2x237-d1e249">
+        <lb ed="#K" n="8"/>Adverte differentiam inter causam principalem et instrumentalem. Causa prin<lb ed="#K" break="no" n="9"/>cipalis
+        agit per virtutem sibi connaturalem, quae ex se determinata est ad
+        <lb ed="#K" n="10"/>certos effectus. Unde si creatura posset ex naturalis virtutis, producere
+        <lb ed="#K" n="11"/>unionem hypostaticam, posset ex naturali efficacia et determinatione virtutis
+        <lb ed="#K" n="12"/>suae ponere in Deo intrinsece naturam alienam, adeoque ut ita dicam subiicere
+        <lb ed="#K" n="13"/>Deum sustinendae per propriam subsistentiam naturae alienae: quod utique arguit
+        <lb ed="#K" n="14"/>superioritatem in creatura, et repugnat Divinae Excellentiae. Iam vero
+        <lb ed="#K" n="15"/>instrumentum Divinum agit solum per potentiam obedientialem, et influxus seu
+        <lb ed="#K" n="16"/>actio eius definitur iuxta voluntatem Dei libere elevantis et utentis
+        <lb ed="#K" n="17"/>tali instrumento. Unde in tali casu <unclear>natam</unclear> creatura adhibita poneret
+        <lb ed="#K" n="18"/>naturam humanam in persona Divina, quam ipsa persona Divina per instru<lb ed="#K" break="no" n="19"/>mentum
+        creatum traheret naturam humanam ad se, ut subsistat in se, sicut
+        <lb ed="#K" n="20"/>ferrum ignitum ex camino educit non forceps fabri, sed faber utens forcipe. Unde.
+      </p>
+      <p xml:id="yth33t-f2x237-d1e282">
+        <lb ed="#K" n="21"/>Collige non improbabiliter asseri a quibusdam quod Christi humanitas in sua
+        <lb ed="#K" n="22"/>nutritione defacto effective instrumentaliter attigerit unionem hypostaticam
+        <lb ed="#K" n="23"/>partium novae accedentis materiae ad subsistentiam Divinam.
+      </p>
+      <p xml:id="yth33t-f2x237-d1e291">
+        <lb ed="#K" n="24"/>Dicendum quarto. Probabile est quod Deipara Virgo, ut causa instrumen<lb ed="#K" break="no" n="25"/>talis
+        physica defacto concurrerit ad ipsam unionem hypostaticam producendam.
+        <lb ed="#K" n="26"/>Ita <ref xml:id="yth33t-f2x237-Rd1e299"><name xml:id="yth33t-f2x237-Nd1e300">Suarez</name></ref>, <ref xml:id="yth33t-f2x237-Rd1e302"><name xml:id="yth33t-f2x237-Nd1e303">Granadus</name></ref>, <ref xml:id="yth33t-f2x237-Rd1e306"><name xml:id="yth33t-f2x237-Nd1e307">Hurtadus</name></ref>, <ref xml:id="yth33t-f2x237-Rd1e309"><name xml:id="yth33t-f2x237-Nd1e310">Vega</name></ref>, <ref xml:id="yth33t-f2x237-Rd1e312"><name xml:id="yth33t-f2x237-Nd1e313">Derodes</name></ref>, et caeteri contra <ref xml:id="yth33t-f2x237-Rd1e315"><name xml:id="yth33t-f2x237-Nd1e316">Vasques</name></ref>
+        <lb ed="#K" n="27"/><ref xml:id="yth33t-f2x237-Rd1e319"><name xml:id="yth33t-f2x237-Nd1e320">Molinam</name></ref>, <ref xml:id="yth33t-f2x237-Rd1e323"><name xml:id="yth33t-f2x237-Nd1e324">Perez</name></ref>, <ref xml:id="yth33t-f2x237-Rd1e326"><name xml:id="yth33t-f2x237-Nd1e327">Gonet</name></ref>, et alios complures.
+      </p>
+      <p xml:id="yth33t-f2x237-d1e330">
+        <lb ed="#K" n="28"/>Probatur primo. Tum quia id non repugnat ut probatum. Tum quia magis ho<lb ed="#K" break="no" n="29"/>norificum
+        est Beatissimae Virgini.
+      </p>
+      <p xml:id="yth33t-f2x237-d1e337">
+        <lb ed="#K" n="30"/>Probatur secundo. Quia Deus creaturis suis ut solet ut instrumentis quando
+        <lb ed="#K" n="31"/>id oportunum est, pertinetque hoc ad suavem Deui providentiam maioremque omnipoten<lb ed="#K" break="no" n="32"/>tiae
+        Divinae ac dignificationis manifestationem, praesertim <unclear>dum</unclear> specialis connexio
+        <lb ed="#K" n="33"/>reperitur cum tali instrumento. Atqui ut Beatissima Virgo assumeretur
+        <lb ed="#K" n="34"/>ut instrumentum ad unionis hypostaticae productionem, opportunissimum fuit tum 
+        <lb ed="#K" n="35"/>propter connexionem specialissimam cum humanitate assumenda, tum propter emirentem 
+        <pb ed="#K" n="71-v"/>
+        <lb ed="#K" n="1"/>sanctitatem qua conformabatur causa principali et quandam convenientiam funda<lb ed="#K" break="no" n="2"/>bat
+        ut assumeretur in instrumentum. Ergo, et cetera.
+      </p>
+      <p xml:id="yth33t-f2x237-d1e361">
+        <lb ed="#K" n="3"/>Probatur tertio authoritate Sanctorum Patrum. <ref xml:id="yth33t-f2x237-Rd1e365"><name xml:id="yth33t-f2x237-Nd1e366">Sanctus Ambrosius</name> <title>Epistola 82</title></ref>
+        <lb ed="#K" n="4"/>per hominem inquit et mulierem caro eiecta est de paradisa per virginem iuncta est
+        <lb ed="#K" n="5"/>Deo. <ref xml:id="yth33t-f2x237-Rd1e374"><name xml:id="yth33t-f2x237-Nd1e375">Sanctus Epiphanius</name> <title>oratione de Deipara</title></ref>: ipsa vero inquit aeli terraeque media<lb ed="#K" break="no" n="6"/>trix
+        sanctam unionem effecit: <ref xml:id="yth33t-f2x237-Rd1e382"><name xml:id="yth33t-f2x237-Nd1e383">Sanctus Chrisostomus</name></ref> dicit Mariam iunxisse hominem
+        <lb ed="#K" n="7"/>Deo et tria sata Evangelica fermentaesse <unclear>inunum</unclear> scilicet Verbum, corpus, et
+        <lb ed="#K" n="8"/>Animam in hominem Deum. Ex his patet adversariorum argumen<lb ed="#K" break="no" n="9"/>tum
+        esse nullum: existimant enim unicum aut principale fundamentum propter
+        <lb ed="#K" n="10"/>quod Deiparae virginis tribuitur ratio causae instrumentalis physicae respectu
+        <lb ed="#K" n="11"/>unionis hypostaticae esse hoc, ut ita ostendatur quomodo sit vere ac
+        <lb ed="#K" n="12"/>proprie Mater Dei, unde obiiciunt: ille solum concursus tribui debet Dei
+        <lb ed="#K" n="13"/>para virgini, qui requiritur et sufficit ut vere sit aedicatur Mater Dei.
+        <lb ed="#K" n="14"/>Atqui vere ac proprie dici potest Mater Dei etiam sine influxu illo instrumen<lb ed="#K" break="no" n="15"/>tali,
+        siquidem aliae matres vere proprie sit matres, etiamsi non <unclear>producant</unclear> subsis<lb ed="#K" break="no" n="16"/>tentiam
+        <unclear>prolis</unclear> suae, vel unionem subsistentiae cum natura. Ergo, et cetera.
+      </p>
+      <p xml:id="yth33t-f2x237-d1e415">
+        <lb ed="#K" n="17"/>Respondeo nos
+        <lb ed="#K" n="18"/>non niti hoc fundamento, sed aliis adductis. Et libenter concedimus
+        <lb ed="#K" n="19"/>Deiparam absque tali influxu in unionem hypostaticam proprie dici posse ac
+        <lb ed="#K" n="20"/>debere matrem Dei, eo ipso quod ea persona quam vere genuit fuit vere Deus.
+        <lb ed="#K" n="21"/>Proinde concedo minorem nego maiorem: non tantum enim saluare sed etiam ornare
+        <lb ed="#K" n="22"/>maternitatem Deispare debent qualicet studiosi eius cultores.
+      </p>
+      <p xml:id="yth33t-f2x237-d1e431">
+        <lb ed="#K" n="23"/>Quaeri hic insuper solet, utrum ex parte naturae humanae in ordine ad unionem hypos<lb ed="#K" break="no" n="24"/>taticam
+        <unclear>processerit</unclear> aliqua physica dispositio, seu an unionis hypostaticae fuerit
+        <lb ed="#K" n="25"/>aliqua causa dispositiva? Ad quod.
+      </p>
+      <p xml:id="yth33t-f2x237-d1e442">
+        <lb ed="#K" n="26"/>Dicendum quinto. Nulla dispositio physica sive naturalis sive supernatu<lb ed="#K" break="no" n="27"/>ralis 
+        ex parte naturae humanae <unclear>processit</unclear> quae connaturaliter exigeret unionem
+        <lb ed="#K" n="28"/>hypostaticam cum natura eadem, vel necessario supponeretur tanquam quid elevans
+        <lb ed="#K" n="29"/>naturam ut assumi posset.
+      </p>
+      <p xml:id="yth33t-f2x237-d1e455">
+        <lb ed="#K" n="30"/>Probatur primum quia communicatio Verbi per unionem est opus ita superna<lb ed="#K" break="no" n="31"/>turale
+        et sublime, ut nisi fides nos doceret, nec possibilitatem eius assere<lb ed="#K" break="no" n="32"/>re
+        possemus. Ergo cum ex fide vel patrum consensu ne appareat fundamentum<lb ed="#K" break="no" n="33"/>talis
+        dispositionis, quae connaturaliter exigeret productionem illius unionis,
+        <lb ed="#K" n="34"/>merito ut impossibilis reicitur.
+      </p>
+      <p xml:id="yth33t-f2x237-d1e468">
+        <lb ed="#K" n="35"/>Probatur secundum. Nulla est necessitas vel utilitas alicuius dispositionis
+        <lb ed="#K" n="36"/>physicae elevantis naturam humanam, non enim requiri potest ut ipsa medicante uniatur
+        <lb ed="#K" n="37"/>natura, haec enim immediate unita est Verbo. Neque ut natura humana
+        <pb ed="#K" n="72-r"/>
+        <lb ed="#K" n="1"/>possit recipere unionem hypostaticam, si enim adhoc elevari deberet per quali<lb ed="#K" break="no" n="2"/>tatem
+        distinctam supernaturalem, deberet etiam elevari ad recipiendam hanc
+        <lb ed="#K" n="3"/>ipsam qualitatem per aliam aliam qualitatem, et sic in infinitum. Tenendam ergo po<lb ed="#K" break="no" n="4"/>tius
+        naturam humanam, ex se aptam fuisse ut obedientialiter reciperet unionem
+        <lb ed="#K" n="5"/>hypostaticam ac immediate terminaret. Dices plerumque dicitur unionem
+        <lb ed="#K" n="6"/>hypostaticam per gratiam factam. Ergo haec debuit se habere ut physica
+        <lb ed="#K" n="7"/>aliqua dispositio naturae humanae. Respondeo antecedens intelligendum de gratuita Dei
+        <lb ed="#K" n="8"/>voluntate, non vero de procedente gratuito aliquo dono dispositivo in ordine
+        <lb ed="#K" n="9"/>ad unionem hypostaticam. 
+      </p>
+      <p xml:id="yth33t-f2x237-d1e499">
+        <lb ed="#K" n="10"/>Dicendum sexto. Probabilius est quod in natura humana Christi, neque
+        <lb ed="#K" n="11"/>talis ulla <unclear>processerit</unclear> physica dispositio, quam ex congruitate seu decentia
+        <lb ed="#K" n="12"/>per liberam Dei ordinationem debuerit sequi unio hypostatica. Ita <ref xml:id="yth33t-f2x237-Rd1e509"><name xml:id="yth33t-f2x237-Nd1e510">Suarez</name></ref> cum <ref xml:id="yth33t-f2x237-Rd1e513"><name xml:id="yth33t-f2x237-Nd1e514">Thom</name></ref>.
+      </p>
+      <p xml:id="yth33t-f2x237-d1e518">
+        <lb ed="#K" n="13"/>Probatur quia tam dispositiones tenentes se ex parte corporis ut
+        <lb ed="#K" n="14"/>perfecta organisatio, optima complexio, pulchritudo, et cetera, quam tenentes
+        <lb ed="#K" n="15"/>se ex parte animae, ut naturales et supernaturales gratiae ac habitus,
+        <lb ed="#K" n="16"/>tum tanquam finem ordinabantur, et non est contra. Non enim ideo a priori
+        <lb ed="#K" n="17"/>assumpta est humanitas Christi quia fuit tam grata ratione donorum
+        <lb ed="#K" n="18"/>supernaturalium, sed ideo tam grata et ornata fuit, quia est assumpta. Ergo, et cetera.
+      </p>
+      <p xml:id="yth33t-f2x237-d1e534">
+        <lb ed="#K" n="19"/>Haec de dispositionibus physicis. An vero et qualis <unclear>processerit</unclear> disposi<lb ed="#K" break="no" n="20"/>tio
+        moralis, seu potius canta meritoria Incarnationis iam decidendum. 
+      </p>
+      </div>
+    </body>
+  </text>
+</TEI>
