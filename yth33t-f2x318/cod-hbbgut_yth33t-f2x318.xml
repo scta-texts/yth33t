@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Distinctio 7</title>
+        <title>Sectio 5</title>
         <author ref="#per-sykisy">Stefan Yavorskyi</author>
         <respStmt>
           <name ref="#justincoyle">Justin Coyle</name>
@@ -56,8 +56,8 @@
       </div>
     </front>
     <body>
-      <div>
-      <head>Sectio 1</head> 
+      <div xml:id="yth33t-f2x318"><!-- dist 7, section 5 -->
+      <head>Sectio 5</head> 
       <head type="question-title">De termino totali incarnationis qui est Christus</head> 
       <p>
         <lb ed="#K" n="35"/>SECTIO V
