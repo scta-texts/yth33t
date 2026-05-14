@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 5</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 5</title>
+          <date when="2026-04-30">Apr 30, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-04-30" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="100-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="yth33t-f2x318"><!-- dist 7, section 5 -->
+      <head xml:id="yth33t-f2x318-Hd1e109">Sectio 5</head> 
+      <head xml:id="yth33t-f2x318-Hd1e111" type="question-title">De termino totali incarnationis qui est Christus</head> 
+      <p xml:id="yth33t-f2x318-d1e114">
+        <lb ed="#K" n="35"/>SECTIO V
+        <lb ed="#K" n="36"/>De Termino totali Incarnationis qui est Christus
+      </p>
+      <p xml:id="yth33t-f2x318-d1e121">
+        <pb ed="#K" n="101-r"/>
+        <lb ed="#K" n="1"/>Declarandum hic primo an in Christo sit duae integrae naturae. Secundo an duae vel
+        <lb ed="#K" n="2"/>una Persona? Tertio an haec persona sit quid compositum an quid creatum?
+      </p>
+      <p xml:id="yth33t-f2x318-d1e130">
+        <lb ed="#K" n="3"/>Dicendum primo in Christo post Incarnationem manserunt revera et ma<lb ed="#K" break="no" n="4"/>nent 
+        dua realissime distinctae, integrae et inconfusae naturae, Divina et humana.
+        <lb ed="#K" n="5"/>Est definitum in Concilio generali Chalcedonensi contra Euchtichetum, Dioscorum, 
+        <lb ed="#K" n="6"/>et Acephalos qui docebant in Christo esse unam naturam conflatam seu resul<lb ed="#K" break="no" n="7"/>tatem 
+        ex Divina et humana.
+      </p>
+      <p xml:id="yth33t-f2x318-d1e144">
+        <lb ed="#K" n="8"/>Probatur primo. Quia secundum principia fidei Christus fuit et est verus Deus
+        <lb ed="#K" n="9"/>et verus homo. Ergo debet habere naturam humanam veram, et non minus 
+        <lb ed="#K" n="10"/>distinctam ab aliis naturis, quam est distincta nostra. Secundo probatur. 
+        <lb ed="#K" n="11"/>Scriptura tribuit Christo proprietates utriusque naturae, verba gratia Divinae dum dicitur 
+        <lb ed="#K" n="12"/>imago et figura substantiae Paternae <ref xml:id="yth33t-f2x318-Rd1e157">ad Hebreos 1</ref>. <quote xml:id="yth33t-f2x318-Qd1e159">Item unum cum Patre</quote>
+        <lb ed="#K" n="13"/><ref xml:id="yth33t-f2x318-Rd1e162">Ioannis 10</ref>. Et rursus tribuuntur illi partes naturae humanae ut
+        <lb ed="#K" n="14"/>caro anima sanguis, etc. Tertio Christus se dicit nunc aequalem 
+        <lb ed="#K" n="15"/>Patri nunc minorem, scilicet secundum diversas naturas.
+      </p>
+      <p xml:id="yth33t-f2x318-d1e169">
+        <lb ed="#K" n="16"/>Obiicitur. <ref xml:id="yth33t-f2x318-Rd1e173">Ioannis 1<!-- 1:14 --></ref> dicitur Verbum caro factum est. Ergo est
+        <lb ed="#K" n="17"/>mutatum in carnem. Sicut ex illo <ref xml:id="yth33t-f2x318-Rd1e179">Ioannis 2do</ref> aqua vinum facta est, recte
+        <lb ed="#K" n="18"/>colligitur aquam <unclear>converterni</unclear> in vinum. Respondeo nego consequentiam in instantia 
+        <lb ed="#K" n="19"/>allata de aqua quamvis similis sit locutio non tamen similis est significatio 
+        <lb ed="#K" n="20"/>cuius sensum colligere oportet, tum ex ipsis rebus, tum ex <unclear>adiunctis</unclear>
+        <lb ed="#K" n="21"/>et antecedentibus ac consequentibus. Constat autem aquam vere
+        <lb ed="#K" n="22"/>mutari intrinsece ac substantialiter converti posse in aliam comple<lb ed="#K" break="no" n="23"/>tum
+        substantiam. Iam vero Deum intrinsece omnino immutabilem et 
+        <lb ed="#K" n="24"/>inconvertibilem esse, tum ratio manifesta, tum principia fidei docent.
+        <lb ed="#K" n="25"/>Verbum igitur dicitur caro factum, non quia mutatum est in carnem, sed quia in 
+        <lb ed="#K" n="26"/>unitatem personae assumpsit carnem, sicut homo dicitur fieri sanus, fieri 
+        <lb ed="#K" n="27"/>Rex, non quia mutatur vel convertitur in sanctitatem, sed quia illam acqui<lb ed="#K" break="no" n="28"/>rit 
+        de novo.
+      </p>
+      <p xml:id="yth33t-f2x318-d1e210">
+        <lb ed="#K" n="29"/>Dicendum secundo. In Christo, seu Christus est unica solum Persona.
+        <lb ed="#K" n="30"/>Est definitum in Concilio Ephesino contra Nestorium asserentem in Christo 
+        <lb ed="#K" n="31"/>esse duas personas realiter distinctas humanam et Divinam accidentaliter 
+        <lb ed="#K" n="32"/>coniunctas, quam coniunctionem, volebat in eo consistere quod Divina verbi 
+        <lb ed="#K" n="33"/>persona per singularem quendam affectum, et per eximia dona gratiae habitet 
+        <lb ed="#K" n="34"/>in persona humana Christi, ideoque Christus vocatur templum Dei, filius Dei, et 
+        <lb ed="#K" n="35"/>etiam Deus. Scilicet non per essentiam vel substantiam, sed per singularem 
+        <lb ed="#K" n="36"/>quandam participationem. Fundamentum tam huius Nestoriani, quam 
+        <pb ed="#K" n="101-v"/>
+        <lb ed="#K" n="1"/>praecedentis Eutichani errori est, quod a distinxerint inter naturam et per<lb ed="#K" break="no" n="2"/>sonam.
+        Eutiches enim existimans naturam Divinam et personam esse idem, cum
+        <lb ed="#K" n="3"/>Christus unica solum sit persona, intulit unicam solus in eo esse divinitatem 
+        <lb ed="#K" n="4"/>quandam naturam. E contra Nestorius sic argumentabatur: natura et per<lb ed="#K" break="no" n="5"/>sona 
+        sit idem in Christo sunt duae naturae. Ergo et duae personae. Non adver<lb ed="#K" break="no" n="6"/>terunt 
+        in inepti syllogistae similem argumentationem formari posse <unclear>iura</unclear> ipsum 
+        <lb ed="#K" n="7"/>Deum, verba gratia natura et Persona sunt idem, sed in Deo univa est natura. Ergo et uni<lb ed="#K" break="no" n="8"/>ca
+        persona. Vel e contra: in Deo sunt tres personae. Ergo et tres naturae.
+        <lb ed="#K" n="9"/>Quo quid falsius. 
+      </p>
+      <p xml:id="yth33t-f2x318-d1e254">
+        <lb ed="#K" n="10"/>Probatur conclusio ratione. Quia duae substantiae integrae accidentali<lb ed="#K" break="no" n="11"/>ter 
+        solum unitae, non denominant se substantialiter, sed solum denominative:
+        <lb ed="#K" n="12"/>sic homo dicitur vestitus non vestris. At denominatio Dei respectu Christi 
+        <lb ed="#K" n="13"/>est substantialis, non enim Deus dicitur solum humanatus sed homo; et vicissim 
+        <lb ed="#K" n="14"/>homo dicitur Deus et non solum Deifer, ut volebat Nestorius. Ergo, etc.
+      </p>
+      <p xml:id="yth33t-f2x318-d1e267">
+        <lb ed="#K" n="15"/>Probatur tertio. Sequeretur etiam Patrem et Spiritum Sanctum esse incarnatum,
+        <lb ed="#K" n="16"/>quia accidentalis illa unio secundum <name xml:id="yth33t-f2x318-Nd1e273">Nestorium</name> in eo consistit, quod persona filii ha<lb ed="#K" break="no" n="17"/>bitet
+        in Christo per eximia quaedam dona gratiae. Atqui haec dona commu<lb ed="#K" break="no" n="18"/>nicat 
+        non solum filius sed tota Trinitas. Ergo tota erit immediate unita huma<lb ed="#K" break="no" n="19"/>nitati 
+        Christi unione sufficiente ad Incarnationem, quod Nestorius admittit.
+        <lb ed="#K" n="20"/>In Christo ergo unica est persona ratione unius personalitatis quae subsistit 
+        <lb ed="#K" n="21"/>utraque eius natura. Ex his.
+      </p>
+      <p xml:id="yth33t-f2x318-d1e287">
+        <lb ed="#K" n="22"/>Collige primo quod Christus et absolute dicendus a unus masculine, et non <unclear>plures</unclear>. 
+        <lb ed="#K" n="23"/>Qui terminus numeralis masculine <unclear>platus</unclear> de Christo numerat personas.
+        <lb ed="#K" n="24"/>Ergo cum in Christo una tantum sit persona, simpliciter est dicendus unus 
+        <lb ed="#K" n="25"/>secundum communem modum loquendi Theologorum et Conciliorum.
+      </p>
+      <p xml:id="yth33t-f2x318-d1e304">
+        <lb ed="#K" n="26"/>Collige secundo non posse dici in Christo este alium et alium, licet in Divi<lb ed="#K" break="no" n="27"/>nis 
+        posse dici filium esse alium a Patre, quia scilicet ibi datur pluralitas
+        <lb ed="#K" n="28"/>personarum.
+      </p>
+      <p xml:id="yth33t-f2x318-d1e313">
+        <lb ed="#K" n="29"/>Petes an Christus non tantum masculine unus, sed etiam neutraliter unum
+        <lb ed="#K" n="30"/>et non plura dici simpliciter debeat? Respondeo affirmative. Ita communiter 
+        <lb ed="#K" n="31"/>Theologi. Ratio est quia per nomen murale etiam neutraliter dictum signifi<lb ed="#K" break="no" n="32"/>cantur 
+        multa in Christo sine unione. Persona autem Christi est per veram unionem 
+        <lb ed="#K" n="33"/>quid unum. Ergo simpliciter dici debet unum et non duo vel plura. Sicut homo 
+        <lb ed="#K" n="34"/>licet conset pluribus diversisque partibus, absolute tamen dicitur unum et non plura 
+        <lb ed="#K" n="35"/>propter unionem <unclear>earundem met</unclear> partium. Unde nec admittenda est sine addito 
+        <lb ed="#K" n="36"/>illa propositio de Christo: Christus est aliud et aliud. Licet eam admiserit <ref xml:id="yth33t-f2x318-Rd1e334">Vasquez</ref>.
+        <lb ed="#K" n="37"/>Quodsi aliquando illa usi sunt Sancti Patres, fecerunt hoc cum implicita 
+        <pb ed="#K" n="102-r"/>
+        <lb ed="#K" n="1"/>vel explicita restrictione asserentes Christum esse aliud secundum naturam Divinam 
+        <lb ed="#K" n="2"/>aliud secundum naturam humanam. Adverte tamen cum addito, recte dici 
+        <lb ed="#K" n="3"/>posse de Christo: Christus est plura unita, Christus est duae naturae unitae in 
+        <lb ed="#K" n="4"/>una subsistentia. Christus est aliud secundum divinitatem aliud secundum humanitatem.
+      </p>
+      <p xml:id="yth33t-f2x318-d1e350">
+        <lb ed="#K" n="5"/>Dices. In sanctissima Trinitate Pater, Filius, et Spiritus Sanctus,
+        <lb ed="#K" n="6"/>non obstante pluralitate personarum, sunt propter unitatem naturae. Ergo et 
+        <lb ed="#K" n="7"/>in Christo erunt neutraliter duo propter dualitatem naturarum. Respondeo nego 
+        <lb ed="#K" n="8"/>consequentiam, quia ut aliqua neutraliter dicantur duo, debent esse 
+        <lb ed="#K" n="9"/>simpliciter divisa. Iam vero duae in Christo naturae non dividuntur simpli<lb ed="#K" break="no" n="10"/>citer 
+        sed arctissime coniunguntur in una persona; altera quidem per 
+        <lb ed="#K" n="11"/>identitatem cum divina personalitate, <unclear>altera</unclear> per unionem realem cum eadem.
+      </p>
+      <p xml:id="yth33t-f2x318-d1e370">
+        <lb ed="#K" n="12"/>Dices. Christus non est tantum homo, quia sic esset purus homo. Ergo est 
+        <lb ed="#K" n="13"/>aliquid aliud quam homo. Ergo in Christo est aliud et aliud simpliciter. 
+        <lb ed="#K" n="14"/>Ergo Christus est duo neutraliter. Respondeo cum <ref xml:id="yth33t-f2x318-Rd1e378">Suarez</ref> distinguo consequens 
+        <lb ed="#K" n="15"/><unclear>unum</unclear> est aliquod aliud divisum nego, unitum seu factum unum concedo.
+        <lb ed="#K" n="16"/>Sensus propositionis illius: Christus non est tantum homo. Est iste: suppositum 
+        <lb ed="#K" n="17"/>constans natura humana et divina, est suppositum constans natura humana 
+        <lb ed="#K" n="18"/>et aliquo alio scilicet natura divina.
+      </p>
+      <p xml:id="yth33t-f2x318-d1e391">
+        <lb ed="#K" n="19"/>Dicendum tertio. Christus vere et proprie dici potest persona composita, idque sim<lb ed="#K" break="no" n="20"/>pliciter 
+        et sine addito. Prior pars conclusionis est communis. Quoad secundam 
+        <lb ed="#K" n="21"/>dissentiunt non nulli recentiores. Defendit tamen eam <ref xml:id="yth33t-f2x318-Rd1e399">Suarez</ref>, <ref xml:id="yth33t-f2x318-Rd1e401">Vazquez</ref>, <ref xml:id="yth33t-f2x318-Rd1e404">Lugo</ref>, etc.
+        <lb ed="#K" n="22"/>Probatur primo utraque pars conclusionis modo loquendi Sanctorum Patrum
+        <lb ed="#K" n="23"/>et conciliorum. Sanctus Damascenus, <ref xml:id="yth33t-f2x318-Rd1e410">in Domino Iesu Christo</ref> (inquit) <quote xml:id="yth33t-f2x318-Qd1e412">duas natu<lb ed="#K" break="no" n="24"/>ras
+        cognoscimus unam autem hypostasim ex utraque compositam</quote>. Similiter 
+        <lb ed="#K" n="25"/>loquitur <ref xml:id="yth33t-f2x318-Rd1e420">Synodus Quinta Constantinopolitana actione 8 et 6</ref>.
+      </p>
+      <p xml:id="yth33t-f2x318-d1e423">
+        <lb ed="#K" n="26"/>Probatur secundo. Dici sequitur ad esse. Ergo ubi est vera compositio seu 
+        <lb ed="#K" n="27"/>ubi in aliquo toto vera est extremorum unio vere et simpliciter dici potest, 
+        <lb ed="#K" n="28"/>ibi esse verum compositum. Atqui in Christo est vera hypostaseos divinae cum na<lb ed="#K" break="no" n="29"/>tura 
+        humana unio. Ergo vere et simpliciter dici potest persona composita. 
+      </p>
+      <p xml:id="yth33t-f2x318-d1e435">
+        <lb ed="#K" n="30"/>Dicendum quarto. Hoc totum quod est Christus non est creatum in eo sensu, qua 
+        <lb ed="#K" n="31"/>si ex nihilo sit factum, cum sit ex persona increata Verbi. Est tamen creatum 
+        <lb ed="#K" n="32"/>in hoc sensu, quod in tempore per veram et realem actionem sit productum cum 
+        <lb ed="#K" n="33"/>antea non esset. Quod autem communi modo loquendi, potius dicitur creatum 
+        <lb ed="#K" n="34"/>quam increatum. Ratio quia totum non denominatur a componentibus extremis <unclear>Et</unclear> 
+        secundum se sumptis, sed ex unitate et unione eorum (sicut homo dicitur genitus vel 
+        <lb ed="#K" n="35"/>creatus ab unione genita vel creata) quae est quid creatum.
+      </p>
+      <p xml:id="yth33t-f2x318-d1e453">
+        <lb ed="#K" n="36"/>Adverte tam quod si hoc totum exprimatur nomine Verbi aut filii Dei, Tunc 
+        <lb ed="#K" n="37"/>dicendum est esse increatum, quia haec nomina vi sua non significant personam 
+        <pb ed="#K" n="102-v"/>
+        <lb ed="#K" n="1"/>ut est terminus resultans per unionem, sed potius ut est terminus <unclear>per</unclear> existens 
+        <lb ed="#K" n="2"/>unioni adeoque personam increatam significat. Si vero hoc totum signifi<lb ed="#K" break="no" n="3"/>cetur 
+        nomine Christi aut aliquo simili, tunc dici potest esse aliquid creatum 
+        <lb ed="#K" n="4"/>seu <unclear>productum</unclear> in tempore. Ita Sancti Patres.
+      </p>
+      </div>
+    </body>
+  </text>
+</TEI>
