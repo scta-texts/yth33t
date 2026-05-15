@@ -18,7 +18,7 @@
       <editionStmt>
         <edition n="0.0.0-dev">
           <title>Praeambulum</title>
-          <date when="2025-05-13">May 13, 2025</date>
+          <date when="2025-05-13">May 15, 2026</date>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -43,7 +43,7 @@
     </encodingDesc>
     <revisionDesc status="draft">
       <listChange>
-        <change when="2025-05-13" status="draft" n="0.0.0">
+        <change when="2026-05-15" status="draft" n="0.0.0">
           <p>Created file for the first time.</p>
         </change>
       </listChange>
@@ -66,14 +66,14 @@
         <p>
           <lb ed="#K"/>Scrutandum hic suscipimus pari reverentia et circumspectione mag<lb ed="#K"/>num
           illud consilium decretum aeternum, praedestinans Existentiam Christi faciendam
-          <lb ed="#K"/>in tempore, quod nam sit quod efficaciter Deum movit ad eam de cernandam tan<lb ed="#K"/>quam
+          <lb ed="#K"/>in tempore, quod nam sit quod efficaciter Deum movit ad eam decernandam tan<lb ed="#K"/>quam
           finis immediatus et causa motiva? Dixi tanquam finis immediatus,
           <lb ed="#K"/>certum enim est respectu omnium Dei operum finem ultimatum esse gloriam et boni<lb ed="#K"/>tatem
           ipsiusmet Dei. Sed quid nam moverit Deum tanquam motivum te<lb ed="#K"/>mens
           se ex parte rei et obiecti? Commisit haec controversia non mo<lb ed="#K"/>dicam
           contentionem <ref>Thomistas</ref> inter et <ref>Scotistas</ref> <ref><name>Suarium</name></ref> et <ref><name>Vasquium</name></ref>
           <lb ed="#K"/>quorum cuilibet insigne militat agmen verbenarum et recentiorum
-
+          <pb ed="#K" n="49-v"/>
           <lb ed="#K"/>quod antequam lustremus, praemittenda est brevis declaratio ordinis qui esse
           <lb ed="#K"/>dicitur inter actus Divinae scientiae et voluntatis.
         </p>
