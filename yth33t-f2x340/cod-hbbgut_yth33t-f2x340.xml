@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Prooemium</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Prooemium</title>
+          <date when="2026-05-15">May 15, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-05-15" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="104-r"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="yth33t-f2x340">
+      <head xml:id="yth33t-f2x340-Hd1e108">De sanctitate Christi</head>
+      <p xml:id="yth33t-f2x340-d1e110">
+        <lb ed="#K" n="23"/>DISPUTATIO VIII
+        <lb ed="#K" n="24"/>De Sanctitate Christi
+        </p>
+      <p xml:id="yth33t-f2x340-d1e117">
+        <lb ed="#K" n="25"/>Sanctitas ut sic definitur: quod sit perfectio morum in actu
+        <lb ed="#K" n="26"/>et habitu excludens peccatum et facultates omnes disponentes
+        <lb ed="#K" n="27"/>ad id quod est rectum seu conforme regulae omnis honesti.
+        <lb ed="#K" n="28"/>vel brevius: Est conformitas tam habitualis quam actualis cum
+        <lb ed="#K" n="29"/>recta ratione. Aliter definitur a posteriore: quod sit perfectio 
+        <lb ed="#K" n="30"/>reddens subiectum suum amabile Deo et dignum aeterna haereditate.
+        <lb ed="#K" n="31"/><ref xml:id="yth33t-f2x340-Rd1e133">Sanctus Dyonisius</ref> dicit esse impeccabilitatem et puritatem omni<lb ed="#K" break="no" n="32"/>no 
+        immaculatam. Sanctas alia est sustantialis ut in Deo.
+        <lb ed="#K" n="33"/>Alia accidentalis ut in hominibus. Queritur ergo hic an
+        <pb ed="#K" n="104-v"/>
+        <lb ed="#K" n="1"/>humanitas Christi fuerit sancta formaliter per solam infu<lb ed="#K" break="no" n="2"/>sam 
+        gratiam habitualem quae est sanctitas accidentalis? vel etiam 
+        <lb ed="#K" n="3"/>per increatam et qualem?
+      </p>
+      </div>
+    </body>
+  </text>
+</TEI>
