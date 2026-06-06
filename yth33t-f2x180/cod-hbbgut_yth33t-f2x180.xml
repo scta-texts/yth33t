@@ -57,25 +57,25 @@
     </front>
     <body>
       <div xml:id="yth33t-f2x180">
-        <head>Praeambulum</head>
-        <p>
+        <head xml:id="yth33t-f2x180-Hd1e108">Praeambulum</head>
+        <p xml:id="yth33t-f2x180-d1e110">
           <lb ed="#K" n="21"/>DISPUTATIO V
-          <lb ed="#K"/>De Motivo propter Quod Decreta est
-          <lb ed="#K"/>Existentia Incarnationis
+          <lb ed="#K" n="22"/>De Motivo propter Quod Decreta est
+          <lb ed="#K" n="23"/>Existentia Incarnationis
         </p>
-        <p>
-          <lb ed="#K"/>Scrutandum hic suscipimus pari reverentia et circumspectione mag<lb ed="#K"/>num
+        <p xml:id="yth33t-f2x180-d1e119">
+          <lb ed="#K" n="24"/>Scrutandum hic suscipimus pari reverentia et circumspectione mag<lb ed="#K" n="25"/>num
           illud consilium decretum aeternum, praedestinans Existentiam Christi faciendam
-          <lb ed="#K"/>in tempore, quod nam sit quod efficaciter Deum movit ad eam decernandam tan<lb ed="#K"/>quam
+          <lb ed="#K" n="26"/>in tempore, quod nam sit quod efficaciter Deum movit ad eam decernandam tan<lb ed="#K" n="27"/>quam
           finis immediatus et causa motiva? Dixi tanquam finis immediatus,
-          <lb ed="#K"/>certum enim est respectu omnium Dei operum finem ultimatum esse gloriam et boni<lb ed="#K"/>tatem
-          ipsiusmet Dei. Sed quid nam moverit Deum tanquam motivum te<lb ed="#K"/>mens
-          se ex parte rei et obiecti? Commisit haec controversia non mo<lb ed="#K"/>dicam
-          contentionem <ref>Thomistas</ref> inter et <ref>Scotistas</ref> <ref><name>Suarium</name></ref> et <ref><name>Vasquium</name></ref>
-          <lb ed="#K"/>quorum cuilibet insigne militat agmen verbenarum et recentiorum
+          <lb ed="#K" n="28"/>certum enim est respectu omnium Dei operum finem ultimatum esse gloriam et boni<lb ed="#K" n="29"/>tatem
+          ipsiusmet Dei. Sed quid nam moverit Deum tanquam motivum te<lb ed="#K" n="30"/>mens
+          se ex parte rei et obiecti? Commisit haec controversia non mo<lb ed="#K" n="31"/>dicam
+          contentionem <ref xml:id="yth33t-f2x180-Rd1e138">Thomistas</ref> inter et <ref xml:id="yth33t-f2x180-Rd1e140">Scotistas</ref> <ref xml:id="yth33t-f2x180-Rd1e142"><name xml:id="yth33t-f2x180-Nd1e143">Suarium</name></ref> et <ref xml:id="yth33t-f2x180-Rd1e146"><name xml:id="yth33t-f2x180-Nd1e147">Vasquium</name></ref>
+          <lb ed="#K" n="32"/>quorum cuilibet insigne militat agmen verbenarum et recentiorum
           <pb ed="#K" n="49-v"/>
-          <lb ed="#K"/>quod antequam lustremus, praemittenda est brevis declaratio ordinis qui esse
-          <lb ed="#K"/>dicitur inter actus Divinae scientiae et voluntatis.
+          <lb ed="#K" n="1"/>quod antequam lustremus, praemittenda est brevis declaratio ordinis qui esse
+          <lb ed="#K" n="2"/>dicitur inter actus Divinae scientiae et voluntatis.
         </p>
       </div>
     </body>
