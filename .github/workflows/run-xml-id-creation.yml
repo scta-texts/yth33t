@@ -1,6 +1,12 @@
 name: Run XML ID creation
 
 on:
+  workflow_dispatch:
+    inputs:
+      pr_number:
+        description: 'Pull Request number to process (required for manual run)'
+        required: true
+        type: string
   pull_request_target:
     types: [ready_for_review]
   
@@ -9,13 +15,30 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Determine PR number and branch
+      id: pr-info
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+          pr_number="${{ github.event.inputs.pr_number }}"
+          branch=$(gh pr view $pr_number --repo ${{ github.repository }} --json headRefName -q ".headRefName")
+          head_repo=$(gh pr view $pr_number --repo ${{ github.repository }} --json headRepositoryOwner,headRepository -q '"\(.headRepositoryOwner.login)/\(.headRepository.name)"')
+        else
+          pr_number="${{ github.event.pull_request.number }}"
+          branch="${{ github.event.pull_request.head.ref }}"
+          head_repo="${{ github.event.pull_request.head.repo.full_name }}"
+        fi
+        echo "pr_number=$pr_number" >> $GITHUB_OUTPUT
+        echo "branch=$branch" >> $GITHUB_OUTPUT
+        echo "head_repo=$head_repo" >> $GITHUB_OUTPUT
+
     - name: Checkout repository
       uses: actions/checkout@v3
       with:
-        repository: ${{ github.event.pull_request.head.repo.full_name }}
-        ref: ${{ github.event.pull_request.head.ref }}
-        fetch-depth: 0 # Fetch all history for all branches and tags
-
+        repository: ${{ steps.pr-info.outputs.head_repo }}
+        ref: ${{ steps.pr-info.outputs.branch }}
+        fetch-depth: 0
 
     - name: Set up Java
       uses: actions/setup-java@v2
@@ -34,31 +57,30 @@ jobs:
     - name: Download XSL Line Number Creation file from Gist
       run: |
         wget https://gist.githubusercontent.com/jeffreycwitt/07e9ca3cf73cad708f78bcf05273212f/raw/d93fe6ad36ebb31682eaa32d2dce14d950ee7605/line-number-creation.xsl -O stylesheetLineNumber.xsl
-      
+
     - name: Get changed files
       id: changed-files
       uses: actions/github-script@v4
       with:
         script: |
+          const pr_number = '${{ steps.pr-info.outputs.pr_number }}';
           const { data: files } = await github.pulls.listFiles({
             owner: context.repo.owner,
             repo: context.repo.repo,
-            pull_number: context.payload.pull_request.number,
+            pull_number: pr_number,
           });
           const changedFiles = files.map(file => file.filename).join(' ');
           console.log("Changed files:", changedFiles);
           core.setOutput('changedFiles', changedFiles);
-      
-  
+
     - name: Set CHANGED_FILES environment variable
       run: |
         echo ${{ steps.changed-files.outputs.changedFiles }}
         echo "CHANGED_FILES=${{ steps.changed-files.outputs.changedFiles }}" >> $GITHUB_ENV
 
-    - name: Set Target Branch 
+    - name: Set Target Branch
       run: |
-        TARGET_BRANCH=${{ github.event.pull_request.head.ref }}
-        echo "TARGET_BRANCH=${TARGET_BRANCH}" >> $GITHUB_ENV
+        echo "TARGET_BRANCH=${{ steps.pr-info.outputs.branch }}" >> $GITHUB_ENV
 
     - name: Debug CHANGED_FILES
       run: |
