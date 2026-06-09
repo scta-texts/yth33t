@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sectio 1</title>
+        <author ref="#per-sykisy">Stefan Yavorskyi</author>
+        <respStmt>
+          <name ref="#justincoyle">Justin Coyle</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Sectio 1</title>
+          <date when="2026-07-22">May 25, 2026</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="K" n="cod-hbbgut">KDA 265</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2026-05-26" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#K" n="104-v"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="yth33t-f2x343">
+      <head>Sectio 1</head> 
+      <head>De sanctitate substantiali Christi</head>
+      <p>
+        <lb ed="#K" n="4"/>SECTIO I
+        <lb ed="#K"/>De Sanctitate Substantiali Christi
+        </p>
+      <p>
+        <lb ed="#K"/>PARAGRAPHUS I
+        <lb ed="#K"/>An humanitas Christi fuerat Sancta
+        <lb ed="#K"/>formaliter pro Sanctitatem Substantialem et Increatam et qualem?
+      </p>
+      <p>
+        <lb ed="#K"/>Dicendum primo. Humanitas Christi unita Verbo fuit formali<lb ed="#K"/>ter 
+        et substantialiter sanctificata per ipsam increatam persona<lb ed="#K"/>liter 
+        Verbi, etiam prout virtualiter contra distinctam a natura Divina.
+        <lb ed="#K"/>Ita <ref>Suarez</ref>, <ref>Perez</ref>, <ref>Lugo</ref>, <ref>Tannerus</ref>, <ref>Valentia</ref>, et caeteri contra 
+        <lb ed="#K"/><ref>Vasquez</ref>, <ref>Esparsa</ref>, <ref>Gonet</ref>, et caeteros.
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur: Personalitas Verbi etiam ut contra distincta a natura 
+        <lb ed="#K"/>Divina, est perfectio Divina summo amore digna, summe conformis 
+        <lb ed="#K"/>rationi Divinae, opposita omni peccato, et importans ius ad beatificam 
+        <lb ed="#K"/>Dei visionem. Ergo cum immediate physice uniatur humanitati Christi,
+        <lb ed="#K"/>sanctificat illam per se formaliter et immediate ac substantialiter,
+        <lb ed="#K"/>non minus, imo multo magis quam gratia habitualis.
+      </p>
+      <p>
+        <lb ed="#K"/>Obiicitur primo. Personalitas Verbi ut contra distincta a natura 
+        <lb ed="#K"/>Divina non est formaliter sanctitas, Ergo non sanctificat ut talis humani<lb ed="#K"/>tatem 
+        Christi. Antecedens probatur quia sanctitas in Deo est absolutum attriba<lb ed="#K"/>tum 
+        essentiae non personalitatis, quia alias in Deo concedendae essent 
+        <lb ed="#K"/>tres relativae sanctitates, sicut sunt tres personalitates, Ergo etc. Respondeo 
+        <lb ed="#K"/>nego Antecedens probationem eius distinguo: sanctitas moralis est in Deo attri<lb ed="#K"/>butum 
+        absolutum essentiae et non personalitatis Concedo. Sanctitas phy<lb ed="#K"/>sica 
+        seu entitativa nego. Similiter distinguo alteram probationem:
+        <lb ed="#K"/>essent in Deo sanctitates tres relativae et morales nego sancti<lb ed="#K"/>tates 
+        physicae seu entitativae, sicut etiam tres bonitates et perfect<lb ed="#K"/>tiones 
+        relativae Concedo. Duplex ergo sanctitats in Deo distin<lb ed="#K"/>guenda 
+        est: una moralis quae est rectitudo formalis seu confor<lb ed="#K"/>mitas
+        <pb ed="#K" n="105-r"/>
+        Divinae voluntatis in omni suo actu et affectu cum pri<lb ed="#K"/>ma
+        regula omnis honestae operationis liberae. Et hac sanctitas 
+        <lb ed="#K"/>est attributum speciale et absolutum Divinae naturae, <unclear>estque</unclear> unica in Deo,
+        <lb ed="#K"/>sicut unica est voluntas. Altera sanctitas est quasi physica con<lb ed="#K"/>sistens 
+        in ipsa entitate eorum quae in Deo sunt, omnia enim quae in Deo
+        <lb ed="#K"/>sunt, sive formaliter solum distinguantur a natura Divina, ut attribu<lb ed="#K"/>ta,
+        sive virtualiter aut realiter in adaequate ut tres personalitates,
+        <lb ed="#K"/>omnia inquam se ipsis opponuntur omni peccato, excludunt omnem
+        <lb ed="#K"/>imperfectionem, dignissima <unclear>sunt</unclear> Divina dilectione, sunt summa participa<lb ed="#K"/>tant 
+        ad haereditatem beatitudinis aeternae, consequenter sunt venissi<lb ed="#K"/>ma 
+        sanctitas. Firmatur responsio ex trisagio Ecclesiastico sanetque,
+        <lb ed="#K"/><quote>Sanctus Sanctus Dominus Deus Sabbaoth. Item Sancte Deus 
+        <lb ed="#K"/>Sancte fortis Sancte Immortalis, etc</quote>.
+      </p>
+      <p>
+        <lb ed="#K"/>Urgetur Si personalitas Verbi esset proprie sanctitas, vel hoc ei con<lb ed="#K"/>veniret 
+        et ut est relatio, vel ut est subsistentia, nihil horum dici potest,
+        <lb ed="#K"/>non est primum, quia ut praecise est relatio, sic solum respicit terminum Divinum.
+        <lb ed="#K"/>Ergo etc. Respondeo nego minorem et dico, personalitatem Verbi esse veram sancti<lb ed="#K"/>tatem 
+        <unclear>salicet</unclear> entitativam non praecise ut relatio vel subsistentia est, 
+        <lb ed="#K"/>(abstractissimus enim conceptus relationis vel subsistentiae non dicit 
+        <lb ed="#K"/>sanctitatem formaliter) sed ut est relatio et subsistentia Divina, seu
+        <lb ed="#K"/>ut est quid ex se exigens identitatem <unclear>cum</unclear> natura Divina, adeoque ex se 
+        <lb ed="#K"/>incapax omnis imperfectionis et irrectitudinis, et consequenter 
+        <lb ed="#K"/>constitutiva amici et filii Dei.
+      </p>
+      <p>
+        <lb ed="#K"/>Urgetur Hoc ipsum est commune omnibus attributis Divinis, 
+        <lb ed="#K"/>unde sequitur, quod Christi humanitas sanctificetur per omnipoten<lb ed="#K"/>tiam,
+        aeternitatem, intellectum, et alias perfectiones Verbi. Responde Concedo 
+        <lb ed="#K"/>sequelam quid inde.
+      </p>
+      <p>
+        <lb ed="#K"/>Urgetur Si intellectus Divinus ut a voluntate et natu<lb ed="#K"/>ra 
+        Divina distinctus esset formaliter sanctitas increata,
+        <lb ed="#K"/>tunc etiam participatio Divini intellectûs esset sanctitas 
+        <pb ed="#K" n="105-v"/>
+        <lb ed="#K"/>participata, sicut quia natura Divina ut ab attributis vir<lb ed="#K"/>tualiter
+        distincta est sanctitas per essentiam: formalis participa<lb ed="#K"/>tio 
+        naturae Divinae nempe gratia habitualis est sanctitas parti<lb ed="#K"/>cipata.
+        Sed fides, prophetia, lumen gloriae, etc quae sunt formales 
+        <lb ed="#K"/>participationes intellectûs Divini, non sunt sanctitas per partici<lb ed="#K"/>pationem,
+        alioqui homo sanctificaretur formaliter per donum 
+        <lb ed="#K"/>prophetiae, et iustificaretur per fidem. Respondeo distinguo maiorem.
+        <lb ed="#K"/>Etiam participatio Divini intellectus esset formaliter sanctitas, 
+        <lb ed="#K"/>si ea participatio omnino aequivaleat participationi quae est per 
+        <lb ed="#K"/>gratiam habitualem Concedo secus nego. Similiter distinguo minorem 
+        <lb ed="#K"/>et nego Consequentiam. Fides et prophetia non constituunt 
+        <lb ed="#K"/>formaliter amicum et filium Dei, sicut gratia, cum reperiantur 
+        <lb ed="#K"/>etiam in peccatoribus: lumen <unclear>etiam</unclear> gloriae non constituit ex se ami<lb ed="#K"/>cum 
+        Dei, sed supponit, fundatur enim connaturaliter in gratia ha<lb ed="#K"/>bituali,
+        et est quid debitum amico Dei. Deinde lumen gloriae non facit
+        <lb ed="#K"/>ut homo possit supernaturaliter et simul libere recte agere, sed tantum 
+        <lb ed="#K"/>complet intellectum ad actus necessarios, trahitque voluntatem ad operan<lb ed="#K"/>dum 
+        necessario. Iam vero de ratione absolutae sanctitatis est ordina<lb ed="#K"/>re 
+        potentias ad operandum supernaturaliter, et recte <unclear>pro quocunque</unclear>
+        <lb ed="#K"/>statu, praesertim <unclear>p statu</unclear> libertatis, et esse radicem habituum supernatura<lb ed="#K"/>lium 
+        pro tali statu requisitorum. Hoc convenit gratiae habituali et per<lb ed="#K"/>sonalitati 
+        Divinae etiam ut virtualiter distinctae a natura Divina est 
+        <lb ed="#K"/>enim radix rectitudinis universalis quarumvis operationum Christi.
+      </p>
+      <p>
+        <lb ed="#K"/>Obiicitur secundum Personalitas Verbi non sanctificat formaliter natu<lb ed="#K"/>ram 
+        Divinam et ipsum Verbum. Ergo nec humanitatem Christi. Respondeo distinguo 
+        <lb ed="#K"/>Antecedens non sanctificat sanctitate morali quali sanctificat ipsa voluntas 
+        <lb ed="#K"/>Divina rectissima Concedo, non sanctificat sanctitate physica seu 
+        <lb ed="#K"/>entitativa nego Antecedens et Consequentiam. Respondeo secundo, misso antecedente 
+        <lb ed="#K"/>nego Consequentiam. Disparitas est quia personalitas Divina non est 
+        <lb ed="#K"/>naturae Divinae prima radix recte operationis et beatitudinis: est 
+        <lb ed="#K"/>autem humanitati, natura enim Divina et per se et propriori est rectissi<lb ed="#K"/>ma 
+        <pb ed="#K" n="106-r"/>
+        et fons omnis beatitudinis.............. 
+      </p>
+      <p>
+        <lb ed="#K"/>Obiicitur tertio. Humanitas Christi per id sanctificatur formaliter per quod 
+        <lb ed="#K"/>formaliter constituitur in ratione filii Dei, ut patet ex gratia sanctificante.
+        <lb ed="#K"/>Sed per filiationem prout est virtualiter distincta a natura Divinae non con<lb ed="#K"/>stituitur 
+        humanitas formaliter in ratione filii, quia per illam non fit formaliter 
+        <lb ed="#K"/>particeps naturae Divinae. Respondeo nego minorem. per quid enim aliquid ma<lb ed="#K"/>gis 
+        constitui potest in ratione filii Dei, quam per hoc quod est ipsa filiatio 
+        <lb ed="#K"/>et identitatem habet cum natura Divina.
+      </p>
+      <p>
+        <lb ed="#K"/>Dicendum secundo. Etiam natura Divina prout a personalitate Verbi 
+        <lb ed="#K"/>distincta sanctificat humanitatem Christi formaliter. Est <unclear>cois</unclear> contra <ref>Hurtado</ref>.
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur primo authoritate Sanctorum Patrum, qui agnoscentes in Christo sanc<lb ed="#K"/>titatem
+        substantialem et increatam, passim eam referunt in Divinitatem 
+        <lb ed="#K"/>quam appellant <unclear>unguentum</unclear> et unctionem humanitatis. Sic <ref>Divus
+        <lb ed="#K"/>Damascenus Libro 3 capite 3</ref> dicit: <quote>ipse enim se ipsum <unclear>unxit</unclear>, ungens quidem 
+        <lb ed="#K"/>ut Deus sua Deitate, unctus autem ut homo</quote>. Idem dicit <ref>Divus Naziandzenus
+        <lb ed="#K"/>oratione 4</ref>. Plures dat rationes <ref>Suarez</ref> et <ref>Vasquez</ref>. Porro fundatur 
+        <lb ed="#K"/>hic modus loquendi Sanctorum Patrum in scriptura <ref>Isaiae sexto</ref> ubi dicitur 
+        <lb ed="#K"/>de Christo: <quote>Spiritus Domini super me eo quod unxit me</quote>. Et <ref>Danielis 9</ref>.
+        <lb ed="#K"/><quote>Donec ungatur Sanctus Sanctorum</quote>.
+      </p>
+      <p>
+        <lb ed="#K"/>Probatur secundo ratione: Natura Divina secundum se est essentialiter substan<lb ed="#K"/>tialis
+        sanctitas et omnis sanctitatis prima radix ex alia parte 
+        <lb ed="#K"/>humanitas est apta sanctificari. ergo data communicatione intima inter 
+        <lb ed="#K"/>Divinam naturam et humanitatem haec formaliter sanctificatur per illam.
+      </p>
+      <p>
+        <lb ed="#K"/>Obiicitur primo. Natura Divina unitur solum mediate humanitati 
+        <lb ed="#K"/>ut supra conclusum, Ergo non potest eam sanctificare se ipsa formaliter prout virtualiter 
+        <lb ed="#K"/>a personalitate Verbi distinguitur. Probatur Consequentia. Quia verus effectus form<lb ed="#K"/>malis 
+        debet praestari per unionem immediatam, forma enim mediata non denominat 
+        <lb ed="#K"/>id cui mediata est intrinsece et proprie, sed solum denominative et improprie sicut 
+        <lb ed="#K"/>causa efficiens remota, non potest vere et proprie esse causa, ut constat ex Physica.
+        <lb ed="#K"/>Respondeo. Concedo Antecedens distinguo Consequens: Ergo non potest sanctificare divinitas 
+        <lb ed="#K"/>humanitatem formaliter physice transeat formaliter moraliter nego. Simili<lb ed="#K"/>ter 
+        distinguo probationem: verus effectus physicus formalis debet praestari 
+        <lb ed="#K"/>per unionem immediatam transeat, moralis nego. Quod ad praestandum 
+        <pb ed="#K" n="106-v"/>
+        <lb ed="#K"/>effectum formalem in genere physica requiratur unio physica immediata, 
+        <lb ed="#K"/>patet tum obiectione tum ex <unclear>eo</unclear> quod anima rationalis uniatur
+        <lb ed="#K"/>accidentibus materialibus mediate, in quantum unitur immediate cor<lb ed="#K"/>pori 
+        accidentia recipienti, et tamen non dicitur ab illis calida aut alba etc
+        <lb ed="#K"/>humanitas ergo Christi sanctificatur a Divinitate formaliter intrinsece et 
+        <lb ed="#K"/>immediate moraliter, in sensu tamen morali qui maxime <unclear>pro prius</unclear> esse potest.
+        <lb ed="#K"/>Ratio: quia licet inter Divinitatem abstracte sumptam et humanitatem 
+        <lb ed="#K"/>non sit unio physica immediata, sicut est inter humanitatem et persona<lb ed="#K"/>litatem
+        Verbi (unde haec sanctificat illam formaliter intrinsece 
+        <lb ed="#K"/>et immediate physice) nihil tamen inter humanitatem et Divinitatem 
+        <lb ed="#K"/>mediat ut quod, quod sit realiter simpliciter distinctum a Divi<lb ed="#K"/>nitate 
+        <unclear>eique</unclear> non identificetur. Unde in morali estimatione tantum<lb ed="#K"/>dem 
+        est ac si <unclear>prsus</unclear> nihil mediaret: Quod vero in rigore physi<lb ed="#K"/>co
+        non sanctificetur humanitas intrinsece et immediate a Deitate 
+        <lb ed="#K"/>facit distinctio virtualis eiusdem a personalitate, nam sicut vi <unclear>hus<lb ed="#K"/>ius</unclear>
+        distinctionis Deitas non dicitur physice immediate unita huma<lb ed="#K"/>nitati, 
+        ita vi eiusdem non sanctificabit immediate physice.
+      </p>
+      <p>
+        <lb ed="#K"/>Obiicitur secundo Si natura Divina mediate unita humani<lb ed="#K"/>tati 
+        eam sanctificat formaliter sanctificabit eandem etiam perso<lb ed="#K"/>nalitas 
+        patris et spiritûs sancti, quia mediante natura uniuntur 
+        <lb ed="#K"/>eidem humanitati. Sequela non admittitur, Ergo etc. Respondeo nego se<lb ed="#K"/>quelam 
+        probationem distinguo, mediante natura uniuntur remote et 
+        <lb ed="#K"/>insufficienter ad praestandum effectum formalem Concedo, Proxime 
+        <lb ed="#K"/>et sufficienter ad eum effectum nego. mediata illa unio <unclear>parteni<lb ed="#K"/>tatis</unclear>
+        non sufficit ad hoc ut paternitas possit simpliciter dici 
+        <lb ed="#K"/>unita humanitati. Ergo nec sufficiet ad eandem sanctificandam formaliter.
+      </p>
+      <p>
+        <lb ed="#K"/>Obiicitur tertio Si natura Divina vel personalitas Verbi 
+        <lb ed="#K"/>sanctificaret formaliter humanitatem Christi, redderet illam
+        <lb ed="#K"/>amabilem Deo non libere sed necessario, imo tam amabilem 
+        <lb ed="#K"/>et gratam, ac est ipsum Verbum sequela non admittitur Ergo etc Respondeo nego 
+        <lb ed="#K"/>sequelam utram quam et dico imprimis quod Deus humanitatem Christi 
+        <lb ed="#K"/>a Verbo formaliter sanctificatam libere amat, in quantum absolute 
+        <pb ed="#K" n="107-r"/>
+        <lb ed="#K"/>loquendo posset tolli unio inter illam et verbum, atque sic nono esse 
+        in Deo is amor erga humanitatem illam qui de facto est. Nihil 
+        <lb ed="#K"/>omnius quamdiu humanitas in sensi composito sancto est sancti<lb ed="#K"/>tate 
+        verbi, non potest amari: sed haec necessitas solum est consequens 
+        <lb ed="#K"/>et non officit libertati, ut patet ex traditis in Logica. Ratio 
+        <lb ed="#K"/>secundae sequelae negatae est quod humanitas Christi solum sit sancta 
+        <lb ed="#K"/>per participationem sanctitatis in creatae quae media unione 
+        <lb ed="#K"/>illi communicatur. Iam vero Verbum est infinite sanctum per essentiam 
+        <lb ed="#K"/>suam. Iam autem magis trahit affectum et provocat amorem illud 
+        <lb ed="#K"/>quod magis intrinsecam habet amabilitatem et sanctitatem 
+        <lb ed="#K"/>ut experientia docet. Magis enim amamus animas sancto<lb ed="#K"/>rum 
+        quam corpora, et magis haec quam restes ipsorum ut pote 
+        <lb ed="#K"/>minus coniunctas sum sanctitate in animabus recepta. Proinde 
+        <lb ed="#K"/>et personalitas vel Deitas verbi longe amabilior est et sanctior 
+        <lb ed="#K"/>quam humanitas Christ. Illud verum est quod hoc concretum Christus 
+        <lb ed="#K"/>specifice sumptum atque sit amabile ac ipsum Verbum, quam ipsum 
+        <lb ed="#K"/>essentialiter includit. Humanitas autem sumpta etiam redu<lb ed="#K"/>plicative 
+        ut est sancta sanctitate Verbi, adhuc minus est ama<lb ed="#K"/>bilis 
+        quam Verbum, quia reduplicatio illa solum importat unionem 
+        <lb ed="#K"/>physicam, non autem identitatem cum sanctitate essentiali et absolutissima. 
+      </p>
+      <p>
+        <lb ed="#K"/>Petes primo: An humanitas Christi a Verbo sanctificetur in 
+        <lb ed="#K"/>finite simpliciter. Negat <ref>Lugo disp. 16 sec 3</ref>, <ref>Esparsa quaes: 24</ref>, etc,
+        <lb ed="#K"/>quia sanctificatio infinita simpliciter est <unclear>qua</unclear> maior cogitari 
+        <lb ed="#K"/>nequi, maior autem santificatio per essentiam ut est in Deo, quam 
+        <lb ed="#K"/>per participationem ut est in humanitate Christi, illa enim tri<lb ed="#K"/>buit 
+        impeccabilitatem simpliciter et absolutissimam pro ombi: 
+        <lb ed="#K"/>unitam Verbo, nec tollit radicalem potentiam ad peccandum.
+      </p>
+      <p>
+        <lb ed="#K"/>Oppositum dependit strenuo <ref>Hurtadus disp: 7 sec: 6</ref>. Item 
+        <lb ed="#K"/><ref>Suarez</ref>, <ref>Vasquez</ref>, <ref>Arriage</ref>, <ref>Martinon</ref>, <ref>Valentia</ref>, et caeteri,
+        <lb ed="#K"/>probant autem quia ex communi sensu Patrum et Theologorum 
+        <lb ed="#K"/>humanitas ita sanctificatur a Verbo ut quacunque additione 
+        <lb ed="#K"/>gratiae habitualis non fiat sanctior intensive.
+        <pb ed="#K" n="107-v"/>
+      </p>
+      <p>
+        <lb ed="#K"/>Atqui hoc non conveniret humanitati nisi a Verbo esset in 
+        <lb ed="#K"/>finite simpliciter sancta, si quia si solum est finite sanctifica<lb ed="#K"/>ta 
+        non continet eminenter omnem sanctitatem, quod autem non con<lb ed="#K"/>tinet 
+        eminenter omne genus sanctitatis, potest reddi sanctius 
+        <lb ed="#K"/>intensive per additionem aliarum sanctitatum. Deinde sancti<lb ed="#K"/>tas 
+        Verbi est infinita simpliciter et in omni genere. Ergo 
+        <lb ed="#K"/>humanitatem reddit sanctam infinite et in omni genere.
+        <lb ed="#K"/>Consequentia probatur: quia non santificat efficienter sed 
+        <lb ed="#K"/>formaliter, <unclear>meadia</unclear> unione communicando se ipsam humanitati
+        <lb ed="#K"/>sicut ergo gratia vel albedo intensa ut <unclear>8</unclear> reddit subiec<lb ed="#K"/>tum 
+        gratum vel album ut <unclear>8</unclear>. Intensa ut 3 reddit subiectum 
+        <lb ed="#K"/>intensum ut 3. Sic santitas infinita simpliciter, sanc<lb ed="#K"/>tificabit 
+        infinite simpliciter nec est alia ratio digno secu<lb ed="#K"/>di 
+        quam bonum sit subiectum informatum aliqua forma, quam ex bonitate formae.
+      </p>
+      <p>
+        <lb ed="#K"/>Petes secundo. An Unio hypostatica supposito quod sit entitas 
+        <lb ed="#K"/>modalis, etiam santificet humanitatem Christ? Respondeo sanctifi<lb ed="#K"/>cat 
+        non ut quod sed ut quo. Sicut unio inter corpus et animam 
+        <lb ed="#K"/>non est animatio ut quod sed ut quo. Ita <ref>Suarez</ref> et caeteri. Ratio: 
+        <lb ed="#K"/>quia munus proprium et essentiale unionis est solum ultimo deter<lb ed="#K"/>minare 
+        Verbum ut actu terminet et sanctificet humanitatem. 
+      </p>
+      <p>
+        <lb ed="#K"/>PARAGRAPHUS II
+        <lb ed="#K"/>Solvitur Difficultas cur Humanitas Christi 
+        <lb ed="#K"/>Sanctificetur formaliter a Verbo et non par<lb ed="#K"/>ticipe 
+        et similiter alias eius perfectiones nec
+        <lb ed="#K"/>reddatur formaliter, immensa, aeterna, omniscia, etc.
+      </p>
+      <p>
+        <lb ed="#K"/>Praecipua haec est contra sanctificationem humanitatis Christi obiec<lb ed="#K"/>tio, 
+        pro qua varias solutiones excogitarunt authores.
+      </p>
+      <p>
+        <lb ed="#K"/>Primo evadere conantur aliqui asserentes personalitati Verbi 
+        <lb ed="#K"/>secundum se convenire quidem sanctitatem relativam non autem omnipoten<lb ed="#K"/>tiam 
+        immensitatem, aeternitatem, et similia attributa quae sunt propria 
+        <pb ed="#K" n="108-r"/>
+        <lb ed="#K"/>ipsius naturae Divinae. Non potest ergo personalitas Verbi immensificare, aeterni<lb ed="#K"/>sare, 
+        humanitatem, cum non habeat propriam relativam immensitatem, aeternita<lb ed="#K"/>tem, 
+        etc. Huius solutionis fundamentum et efficacia pendet a Tractatu 
+        <lb ed="#K"/>de Trinitate, in quo non pauci contrarium docent, quo ad aeternitatem et im<lb ed="#K"/>mensitatem 
+        relativam. Deinde dato quod personalitas non habet propriam 
+        <lb ed="#K"/>relativam immensitatem vel aeternitatem, cur non immensificatur vel aeterni<lb ed="#K"/>satur 
+        <lb ed="#K"/>humanitas per immensitatem naturae Divinae ad eum modum, quo pa<lb ed="#K"/>ra 
+        grapho <unclear>procedente</unclear> dictum est eam sanctificari per santitatem eiudem <! -- eidem or eiusdem? -->.
+      </p>
+      <p>
+        <lb ed="#K"/>Secundo. Respondet <ref>Arriaga Disputatione 29 sectione 5</ref>, <ref>Amicus Disputatione 16</ref>,
+        <lb ed="#K"/>effectum formalem sancti esse moralem, ac proinde non requirere immediatam
+        <lb ed="#K"/>unionem, naturae Divinae cum humanitate in ordine ad ipsam sanctifican<lb ed="#K"/>dam: 
+        sicut actus hominis iusti dignificantur a gratia, quae tamen illis non 
+        <lb ed="#K"/>est immediate unita. Iam vero esse formaliter potentem, aeternum, 
+        <lb ed="#K"/>intelligentum, etc, sunt effectus formales physici, ad quod communi<lb ed="#K"/>candos
+        requiritur unio immediata physica. Rationem disparitatis 
+        <lb ed="#K"/>ac physicus, unde non requirit tantam unionem. Sed contra est, quia 
+        <lb ed="#K"/>non apparet quomodo ratio sancti solum sit affectus formalis moralis et 
+        <lb ed="#K"/>physicus, ---------- cum media unione physica <unclear>praestetur</unclear> a sanc<lb ed="#K"/>titate 
+        tam increata quam creata, scilicet gratia habituali. Deinde 
+        <lb ed="#K"/><ref>Arriaga</ref> admittit in personalitatibus Divinis aeternitatem et 
+        <lb ed="#K"/>immensitatem relativam. Cum ergo hae uniantur physice imme<lb ed="#K"/>diate 
+        humanitati, sicut et ipsa personalitas, cur non aeternisant 
+        <lb ed="#K"/>vel non immensificant physice humanitatem.
+      </p>
+      <p>
+        <lb ed="#K"/>Tertio. <ref>Lugo</ref> disparitatem dat, quod humanitas Christi sit substan<lb ed="#K"/>tialiter 
+        incompleta in ordine ad participandam sanctitatem Verbi, 
+        <lb ed="#K"/>non autem ad eius immensitatem. Quod sic declarat quia personalitas 
+        <lb ed="#K"/>Verbi est formalissime quid Divinum adeoque per se sancta. Ergo 
+        <lb ed="#K"/>cum humanitas sit incompleta substantialiter in ordine ad per<lb ed="#K"/>sonalitatem 
+        et ex alia parte sit capax sanctitatis, hoc ipso substan<lb ed="#K"/>tialiter 
+        est incompleta etiam in ordine ad sanctitatem <unclear>pro</unclear> venientum
+        <lb ed="#K"/>a Verbo. E contra subsistentia Verbi non est formaliter immensitas 
+        <lb ed="#K"/>vel aeternitas, ergo humanitas nullo modo est incompleta ad par<lb ed="#K"/>ticipandum 
+        ab illa effectum formalem immensi, aeterni etc.
+        <pb ed="#K" n="108-v"/>
+      </p>
+      <p>
+        <lb ed="#K"/>Contra est quia in primis ratio danda cur personalitas Verbi magis 
+        <lb ed="#K"/>sit formaliter sanctitas, quam aeternitas vel immensitas?
+        <lb ed="#K"/>Deinde cur magis incompleta humanitas ad subsistentiam, quam 
+        <lb ed="#K"/>ad aeternitatem, vel immensitatem Divinam, aut cur magis illius 
+        <lb ed="#K"/>quam istius capax? Denique hinc sequitur humanitatem nullo modo 
+        <lb ed="#K"/>sanctificari ab ipsa Deitate, sed tantum a personalitate, quia res<lb ed="#K"/>pectu
+        naturae Divinae humanitas non est incompleta. <unclear>Missis</unclear> alio<lb ed="#K"/>rum
+        sententiis, ut distincte satisfiat difficultati. 
+      </p>
+      <p>
+        <lb ed="#K"/>Dicendum primo. Ideo humanitas Christi per Increatam intellectionem 
+        <lb ed="#K"/>et volitionem Verbi non redditur formaliter intelligens vitales qui ex conceptu suo 
+        <lb ed="#K"/>essentiali non denominant formaliter et proprie nisi principium a quo immediate et 
+        <lb ed="#K"/>immanenter <unclear>procedunt</unclear>. Cum ergo intellectio et volitio Divina non <unclear>procedat</unclear>
+        <lb ed="#K"/>ab humanitate Christi, non possunt eam reddere intelligentem vel volentem 
+        <lb ed="#K"/>aut omniscientiam, sed ad summum dici potest quod humanitas illa ratione unionis
+        <lb ed="#K"/>cum Verbo habeat omniscientiam Divinam, etc. Ita communius Authores 
+        <lb ed="#K"/>iuxta communia philosophica principia de ratione actuum vitalum con<lb ed="#K"/>tra 
+        quae frustra <ref>Arriaga <unclear>nitutur</unclear> Disp: 29 sec: 5 subsectione prima</ref>.
+      </p>
+      <p>
+        <lb ed="#K"/>Dicendum secundo In sententia admittente immensitates et aeterni<lb ed="#K"/>tates 
+        relativas in personalitatibus Divinis dici potest, ideo humanitatem 
+        <lb ed="#K"/>Christi ab immensitate et aeternitate Divina a sibi unitis, non reddi formaliter
+        <lb ed="#K"/>immensam vel aeternam, quia immensitas et aeternitas Divina secundum se non
+        <lb ed="#K"/>est ultima et actualis determinatio creaturae ad locum vel tempus sive 
+        <lb ed="#K"/>magnum sive parvum, sed per se relinquit illam in hoc genere omnino in 
+        <lb ed="#K"/>differentem. Ergo per se formaliter non immensificat humanitatem immensitas 
+        <lb ed="#K"/>nec aeternisat aeternitas Divina. Consequentia patet Antecedens probatur,
+        <lb ed="#K"/>quia si verba gratia immensitas Dei esset ultima et actualis determinatio crea<lb ed="#K"/>turae 
+        in ordine ad locum, tunc debet et omnem et semper creaturam immensifi<lb ed="#K"/>care, 
+        sicut <unclear>ubicatio</unclear> Kiioviensis quandocunque existit, necessario facit Kiio<lb ed="#K"/>viae 
+        existere omnia quorum est ultima determinatio.
+      </p>
+      <p>
+        <lb ed="#K"/>Dices Immensitatem Divinam, (idem de aeternitate) divisam a creatura 
+        <lb ed="#K"/>non determinare illam ad locum omnem, seu ad existendum ubique: determinare 
+        <lb ed="#K"/>autem si sit unita, seu media unione.
+        <pb ed="#K" n="109-r"/>
+      </p>
+      <p>
+        <lb ed="#K"/>Contra est primo. Quia humanitas Christi quantumvis unitas immensitati Verbi,
+        <lb ed="#K"/>non existit ubique ut ex fide constat. Contra secundo. non eo ipso quod aliquid uni<lb ed="#K"/>atur
+        physice enti indivisibili in amplissimo spatio existenti, debet ipsum 
+        <lb ed="#K"/>existere in toto illo spatio, ut patet in homine in quo materia pedum 
+        <lb ed="#K"/>unitur animae diffusae per totum corpus, et tamen pedes non sunt in toto corpore 
+        <lb ed="#K"/>vel in capite ubi est anima. Ergo etiam unio hypostatica non faciet ut 
+        <lb ed="#K"/>humanitas Christi existat ubicunque immensitas est Verbi. Contra tertio
+        <lb ed="#K"/>si unio posset determinare ultimo creaturam ad ea existendum immensitati 
+        <lb ed="#K"/>Divinae toti et totaliter sumptae, tunc ipsa unio hypostatica <unclear>esse</unclear> et per essen<lb ed="#K"/>tiam 
+        suam ubique et immensa, non enim potest subiectum suum facere praesens alicui spatio 
+        <lb ed="#K"/>in quo ipsa non est, et quidem per se ipsam formaliter, consequenter si determi<lb ed="#K"/>nat 
+        subiectum suum ultimo ad essendum ubique, ipsa debet per essentiam suam 
+        <lb ed="#K"/>esse ubique et immensa. Atqui hoc communiter non admittitur dabilem esse creat<lb ed="#K"/>turam 
+        quae per essentiam suam exigat esse ubique et ab aeterno. Ergo etc.
+      </p>
+      <p>
+        <lb ed="#K"/>In sententia negant immensitatem et aeternitatem relativam, res est faci<lb ed="#K"/>lior,
+        potestque subsistere disparitas initio, huius paragraphi loco primo posito
+        <lb ed="#K"/>quod scilicet personalitas Verbi sanctificet formaliter humanitatem, tum quia 
+        <lb ed="#K"/>illi immediate est unita, tum quia ipsa in se est formalissime sanctitas 
+        <lb ed="#K"/>cum sit secundum se ens Divinum, adeoque bonum Divinum, consequenter secundum se ama<lb ed="#K"/>bile 
+        infinite oppositum omni peccato etc. Iam vero immensitas et aeterni<lb ed="#K"/>tas 
+        similiter et omnipotentia alioque attributa a absoluta solum uniuntur 
+        <lb ed="#K"/>humanitati mediate. Ergo non possunt <unclear>praestare</unclear> effectum formalem physicum,
+        <lb ed="#K"/>seu immensificare et aeternisare illam physice, sicut nec natura Divina 
+        <lb ed="#K"/>per suam propriam sanctitatem sanctificat physice, sed solum moraliter, eo 
+        <lb ed="#K"/>quod non sit unita immediate sed solum mediate.
+      </p>
+      <p>
+        <lb ed="#K"/>In sententia Nominalium ubicationem et durationem identificantium ipsi rei 
+        <lb ed="#K"/>locatae vel duranti datur disparitas quod scilicet ipsa humanitas secundum 
+        <lb ed="#K"/>entitatem suam sit finita et limitata ergo licet ei addatur immensitas et aeter<lb ed="#K"/>nitas 
+        Divina, ipsa non immensificabitur, quia id quo ipsa est in spatio non est 
+        <lb ed="#K"/>aliquid superadditum, sed ipsa eius entitas finita. Cum autem sancta sit non 
+        <lb ed="#K"/>per se ipsam, sed per aliquid distinctum, bene sanctificari poterit a sanctitate 
+        <lb ed="#K"/>sive creata sive increata. Sic Nominales putant se solos hac in re trium<lb ed="#K"/>phare,
+        omnique difficultate esse expeditos: sed vereor ne nimium sibi blandiantur 
+        <pb ed="#K" n="109-v"/>
+        <lb ed="#K"/>nam ex finitudine et limitatione cuius cunque creaturae solum sequi
+        <lb ed="#K"/>videtur quod ex natura sua non exigat esse in omni oco et tempore. 
+      </p>
+      </div>
+    </body>
+  </text>
+</TEI>
